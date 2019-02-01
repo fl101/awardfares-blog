@@ -1,0 +1,31 @@
+encoding: UTF-8
+
+url: "https://blog.awardfares.com/"
+title: AwardFares Blog
+description: Tips, news, trip reports, and flight reviews.
+
+google_analytics:
+disqus_shortname:
+search: false
+
+paginate: 5
+paginate_path: "blog/page:num"
+
+markdown: kramdown
+highlighter: rouge
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+permalink: /:slug/
+
+plugins: 
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  
+exclude:
+  - .git/
+  - Gemfile
+  - Gemfile.lock
