@@ -1,0 +1,53 @@
+
+header {
+  padding: 20px 30px;
+  margin: 0 auto;
+  border-bottom: solid 1px #eee;
+
+  .item.brand {
+    float: left;
+    position: relative;
+    top: -3px;
+    
+    i {
+      margin-right: 1px;
+      color: $theme;
+    }
+
+    a {
+      padding: 0px;
+      text-transform: none;
+      font-size: 1.6em;
+      font-weight: 400;
+    }
+
+    b {
+      font-weight: 600;
+    }
+  }
+
+  a {
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+  }
+
+  .menu {
+    float: right;
+    padding: 8px 0;
+  }
+
+}
+
+footer {
+  text-align: center;
+  padding: 20px 30px;
+  color: #888;
+
+  a {
+    text-decoration: none;
+    padding: 0 10px;
+    display: inline-block;
+  }
+}
