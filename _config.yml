@@ -29,3 +29,5 @@ exclude:
   - .git/
   - Gemfile
   - Gemfile.lock
+  - resize/
+  
