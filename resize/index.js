@@ -9,8 +9,10 @@ const MAX_WIDTH = 1600;
 
 (async function () {
 
+  const root = path.join(__dirname, '../assets/img');
+
   // Find all image files (recursively) in the assets img folder
-  const files = (await walk('../assets/img'))
+  const files = (await walk(root))
     .filter(e => {
       const ext = e.substr(e.lastIndexOf('.'));
       return IMAGE_FILES.includes(ext);
@@ -21,7 +23,7 @@ const MAX_WIDTH = 1600;
     const image = sharp(file);
     const md = await image.metadata();
     if (md.width > 1600) {
-      console.log('[Resizing]', file);
+      console.log('[Resizing]', file, `(${md.width})`);
       await fs.copyFile(file, file + '.orig');
       const buf = await image.resize(MAX_WIDTH).toBuffer(file);
       await fs.writeFile(file, buf);
