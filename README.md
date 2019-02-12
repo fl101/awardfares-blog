@@ -4,3 +4,4 @@
 2. Install the dependencies: `bundle install`
 3. Run the Jekyll server: `bash serve.sh`
 4. Open http://localhost:4000/
+5. Resize images `node resize`
