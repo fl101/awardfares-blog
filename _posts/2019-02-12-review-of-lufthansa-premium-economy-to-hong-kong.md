@@ -16,7 +16,7 @@ My outbound flight started with horrible delays in Stockholm which left me runni
 Lufthansa's Premium Economy cabin in the A380 is situated at the lower front of the airplane which has some great benefits (More on that later). It's set up in a 2-4-2 configuration meaning that the seats along the window are of course the best. My seat for the outbound leg was 56K, which is a window seat on the second last row. Overall I was not happy with this seat as the proximity to galley and lavatory made it quite hard to sleep. For the return trip I had 50K which is the equivalent bulkhead seat which was much better. One interesting thing to note however was the large temperature difference in the cabin, the front was warm, to the point where I barely needed to use the blanket, whereas the back was very cold. Your mileage may vary but I experienced this on both flights so something to keep in mind if you're sensitive to temperature.
 
 ## Amenity Kit
-
+review of lufthansa premium economy to hong kong
 <center>
 <img src="../assets/img/lh-premeco-review/amenity-kit.jpeg" class="full" />
 </center>
