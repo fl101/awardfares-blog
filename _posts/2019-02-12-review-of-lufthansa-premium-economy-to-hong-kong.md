@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of Lufthansa Premium Economy to Hong Kong
+title: Review of Lufthansa Premium Eco to Hong Kong
 tags: [review, lufthansa]
 author: Richard
 comments: true
