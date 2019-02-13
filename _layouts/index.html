@@ -6,27 +6,29 @@ layout: default
   
   <div class="posts">
     {% for post in paginator.posts %}
-    <div class="post-teaser">
-      <h1>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-      </h1>
-      <p class="meta">
-        {{ post.date | date: "%B %-d, %Y" }}{% if post.author %} By {{ post.author }} {% endif %}
-      </p>
-      {% if post.image %}
-      <div class="image">
-        <img src="{{ post.image | relative_url }}" />
-      </div>
-      {% endif %}
-      <div class="excerpt">
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | relative_url }}">
-          Continue Reading &raquo;
-        </a>
-      </div>
-    </div>
+      {% unless post.hidden %}
+        <div class="post-teaser">
+          <h1>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </h1>
+          <p class="meta">
+            {{ post.date | date: "%B %-d, %Y" }}{% if post.author %} By {{ post.author }} {% endif %}
+          </p>
+          {% if post.image %}
+          <div class="image">
+            <img src="{{ post.image | relative_url }}" />
+          </div>
+          {% endif %}
+          <div class="excerpt">
+            {{ post.excerpt }}
+            <a class="button" href="{{ post.url | relative_url }}">
+              Continue Reading &raquo;
+            </a>
+          </div>
+        </div>
+      {% endunless %}
     {% endfor %}
   </div>
 
