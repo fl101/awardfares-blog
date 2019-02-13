@@ -5,6 +5,7 @@ tags: [review, lufthansa]
 author: Richard
 comments: true
 hidden: true
+image: /assets/img/lh-premeco-review/map.jpg
 ---
 
 I recently had the opportunity to try Lufthansa's Premium Economy in their A380 between Munich and Hong Kong. This is a brief review of the flight (Both there an back in combination).
@@ -18,7 +19,7 @@ Lufthansa's Premium Economy cabin in the A380 is situated at the lower front of 
 ## Amenity Kit
 review-of-lufthansa-premium-economy-to-hong-kong
 <center>
-<img src="../assets/img/lh-premeco-review/amenity-kit.jpeg" class="full" />
+<img src="/assets/img/lh-premeco-review/amenity-kit.jpeg" class="full" />
 </center>
 
 Each seat comes with a standard blanket and pillow (Probably the same as standard economy) as well as a small amenity kit which contains (Most) of the essentials you'll need. It came with socks (Same kind of useless polyester socks as all other airlines), dental kit, earplugs, face mask and a wet tissue. Blatantly lacking is a comb, which is something I always tend to need after a night's sleep, in my opinion skipping the socks in favor of this or the combined comb/hair brush Lufthansa has in their First class would be great.
@@ -26,7 +27,7 @@ Each seat comes with a standard blanket and pillow (Probably the same as standar
 ## Food & Drink Service
 
 <center>
-<img src="../assets/img/lh-premeco-review/pre-departure-drink.jpg" class="slim" />
+<img src="/assets/img/lh-premeco-review/pre-departure-drink.jpg" class="slim" />
 </center>
 
 Soon after boarding completed the crew came out with some pre-departure drinks. There were no options but everyone was offered the same mango flavored drink which was actually a good one.
@@ -34,7 +35,7 @@ Soon after boarding completed the crew came out with some pre-departure drinks. 
 The time during taxi gave me the opportunity to explore the seat a bit more. One thing that immediately stood out to me was the amount of clever storage! I always find that even business and first class seats greatly lack places to store smaller items such as phone, glasses, Kindle etc which I want to keep close but not necessarily on a table. In this case there was both a small hole under the IFE which fit my glasses perfectly.
 
 <center>
-<img src="../assets/img/lh-premeco-review/storage.jpeg" class="full" />
+<img src="/assets/img/lh-premeco-review/storage.jpeg" class="full" />
 </center>
 
 Of course it fits your phone too (Which I for obvious reasons couldn't take a picture of) as well as any other smaller item. Additionally there's a small storage area next to the seat, in the middle armrest, with a small strap around it which fits for example a Kindle perfectly. This is where the amenity kit was stored originally.
@@ -43,8 +44,8 @@ And finally there is of course the standard pocket in the seat in front of you w
 
 Shortly after take-off the first drink was served. As I always do I opted for the sparkling wine, in this case of the German variety. Interestingly the menu does not say the brand but simply says "Sparkling Wine". Sadly it was served in a normal plastic drinking glass, not even the fancy kind that the pre departure drink was served in, this did naturally take away some of the "Premium" feel. The drink came with a small bag of salty snacks which were quite good.
 <center>
-<img src="../assets/img/lh-premeco-review/drinks-menu.jpeg" class="half" />
-<img src="../assets/img/lh-premeco-review/champagne.jpeg" class="half" />
+<img src="/assets/img/lh-premeco-review/drinks-menu.jpeg" class="half" />
+<img src="/assets/img/lh-premeco-review/champagne.jpeg" class="half" />
 </center>
 Shortly after the food service started, first with a hot tissue and then with the food and drinks itself.. On both flights we had the choice between Western and Chinese main courses, however the appetizer and desserts were the same. I opted for the Western course in both cases and the Goulash on the outbound leg was among the best main courses I've had on a flight, including more premium cabins. I don't understand why airlines stubbornly serve things like pasta and chicken (As on the return leg) which don't taste that well after reheating, and why we don't see more stews like the Goulash which tastes excellent after reheating. Appetizers and desserts were both decent but nothing out of the ordinary, the pretzel-like bread was a nice touch.
 
@@ -57,7 +58,7 @@ While eating I tried out the IFE which I had kept to only showing the map so far
 To add to the horrible IFE experience, I cannot understand why so many airlines have a "shared" moving map between all IFEs instead of letting me pick the zoom, angle etc myself. Instead it circles different zooms, some of which barely even show the flight route, and on top of it the moving map software crashed and restarted several times during the flight home.
 
 <center>
-<img src="../assets/img/lh-premeco-review/crashed-ife.jpg" class="full" />
+<img src="/assets/img/lh-premeco-review/crashed-ife.jpg" class="full" />
 </center>
 
 ## Sleep
@@ -72,7 +73,7 @@ Finally during landing I realized the other great perk of the cabin location (Mo
 
 ## Stats
 <center>
-<img src="http://www.gcmap.com/map?P=ARN-MUC-HKG&MS=bm&MR=540&MX=720x360&PM=*" class="full"/>
+<img src="/assets/img/lh-premeco-review/map.jpg" class="full"/>
 </center>
 
 <table>
