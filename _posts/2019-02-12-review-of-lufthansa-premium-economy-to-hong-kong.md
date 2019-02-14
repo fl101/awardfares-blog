@@ -4,7 +4,6 @@ title: Review of Lufthansa Premium Eco to Hong Kong
 tags: [review, lufthansa]
 author: Richard
 comments: true
-hidden: true
 image: /assets/img/lh-premeco-review/map.jpg
 ---
 

@@ -4,7 +4,6 @@ title: Thai, Singapore, and TAP Awards are Back!
 tags: [news]
 author: Philip
 comments: true
-hidden: true
 image: /assets/img/fixed-tg-tp-sq-availability.png
 ---
 
