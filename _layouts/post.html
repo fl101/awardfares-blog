@@ -7,12 +7,18 @@ layout: default
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
     <p class="meta">
-      {{ page.date | date: "%B %-d, %Y" }}
-      {% if page.author %} - {{ page.author }}{% endif %}
+      {% for tag in page.tags %}<a class="tag" href="/tags/#{{tag}}">{{tag}}</a> {% endfor %}{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} By {{ page.author }} {% endif %}
     </p>
+    {% if page.image %}
+    <div class="image">
+      <div class="image-wrap">
+        <img src="{{ page.image }}" />
+      </div>
+    </div>
+    {% endif %}
   </div>
+
   <section class="post-content">{{ content }}</section>
-  {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
 </div>
 
 <!-- Disqus -->

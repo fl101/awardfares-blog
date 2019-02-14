@@ -13,35 +13,5 @@
       }
     }
 
-    .image {
-      max-width: 100%;
-      border: solid 1px #ddd;
-      border-radius: 3px;
-      padding: 5px;
-    }
-    
-    .image img {
-      width: 100%;
-      display: block;
-    }
-    
-    .image-wrap {
-      max-height: 400px;
-      overflow: hidden;
-      background: $theme;
-    }
-
-    .tag {
-      background: $theme;
-      color: white;
-      font-size: 0.8em;
-      padding: 4px 8px;
-      border-radius: 4px;
-      margin-right: 5px;
-      position: relative;
-      top: -2px;
-      text-decoration: none;
-    }
-
   }
 }
