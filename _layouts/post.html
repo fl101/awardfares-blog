@@ -9,6 +9,7 @@ layout: default
     <p class="meta">
       {% for tag in page.tags %}<a class="tag" href="/tags/#{{tag}}">{{tag}}</a> {% endfor %}{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} By {{ page.author }} {% endif %}
     </p>
+    {% unless page.hide_image_in_post %}
     {% if page.image %}
     <div class="image">
       <div class="image-wrap">
@@ -16,6 +17,7 @@ layout: default
       </div>
     </div>
     {% endif %}
+    {% endunless %}
   </div>
 
   <section class="post-content">{{ content }}</section>
