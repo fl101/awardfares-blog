@@ -5,7 +5,6 @@ tags: [review, qatar airways]
 author: Philip
 comments: true
 image: /assets/img/qr-eco-review/gcmap.png
-hidden: true
 ---
 
 This was my first time flying Qatar Airways and it was probably the longest economy flight I had ever taken. The trip consisted a 6 hour flight to Doha followed by a 16 hour flight to Auckland.
