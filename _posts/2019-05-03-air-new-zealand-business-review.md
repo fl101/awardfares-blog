@@ -5,7 +5,6 @@ tags: [review, air new zealand]
 author: Philip
 comments: true
 image: /assets/img/nz-biz-review/exterior.jpg
-hidden: true
 ---
 
 After flying economy to New Zealand I decided it was worth to spend some miles on a business class flight back to Europe. With some luck I managed to find a routing via Taipei and Paris. The first leg of the journey from Auckland to Taipei was an Air New Zealand flight in a 787-9 Dreamliner in Business Premier.
