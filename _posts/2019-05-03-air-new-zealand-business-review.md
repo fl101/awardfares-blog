@@ -9,7 +9,9 @@ image: /assets/img/nz-biz-review/exterior.jpg
 
 After flying economy to New Zealand I decided it was worth to spend some miles on a business class flight back to Europe. With some luck I managed to find a routing via Taipei and Paris. The first leg of the journey from Auckland to Taipei was an Air New Zealand flight in a 787-9 Dreamliner in Business Premier.
 
+<figure>
 <img src="/assets/img/nz-biz-review/gcmap AKL-TPE.png" class="" />
+</figure>
 
 ## Check-in
 It was a morning flight so I arrived quite early at the airport. Check-in was smooth with a separate walled off area dedicated to Business (and even *A gold) passengers. The staff printed (all of) my boarding passes (and commented on my "long" journey). 
@@ -23,7 +25,9 @@ I did manage to find a seat eventually, but the lounge was very hectic. In parti
 
 In any case, after about 9 am the lounge quieted down drastically and finally felt like a lounge. Unfortunately I had to leave for my flight shortly after this.
 
+<figure>
 <img src="/assets/img/nz-biz-review/lounge.jpg" class="" />
+</figure>
 
 ## Boarding
 
@@ -37,78 +41,85 @@ Also, the layout is definitely not designed for people travelling together. For 
 
 Furthermore, the layout is quite awkward since you are looking straight towards other passengers, and passengers further back look straight onto you. There is essentially no privacy when sitting up. However, in lie-flat mode the side walls do provide a decent amount of privacy.
 
-<center>
+<figure>
 <img src="/assets/img/nz-biz-review/seat1.jpg" class="half" />
 <img src="/assets/img/nz-biz-review/seat2.jpg" class="half" />
-</center>
+</figure>
 
 There was also a fairly standard amenity kit waiting at my seat.
 
+<figure>
 <img src="/assets/img/nz-biz-review/amenitykit.jpg" class="" />
+</figure>
 
-# Departure
+## Departure
 
 Despite the awkward window positioning I was able to get some nice photos as we departed Auckland.
 
+<figure>
 <img src="/assets/img/nz-biz-review/departure.jpg" class="" />
+</figure>
 
 ## Menu
 
 The menu consisted of drinks, lunch, refreshments, and dinner. I was glad to see Champagne on the menu. While not the "fanciest" Champagne I still really enjoyed it. I was also quite surprised that there were two "proper" meal services. Usually on a 10-12 hour flight there is usually one larger meal service followed by a much simpler meal service prior to arrival.
 
-<center>
+<figure>
 <img src="/assets/img/nz-biz-review/menu1.jpg" class="half" />
 <img src="/assets/img/nz-biz-review/menu2.jpg" class="half" />
-</center>
-
-<center>
 <img src="/assets/img/nz-biz-review/menu3.jpg" class="half" />
 <img src="/assets/img/nz-biz-review/menu4.jpg" class="half" />
-</center>
-
-<center>
 <img src="/assets/img/nz-biz-review/menu5.jpg" class="half" />
 <img src="/assets/img/nz-biz-review/menu6.jpg" class="half" />
-</center>
+</figure>
 
 ## Lunch
 The first meal service started with nuts and a after-departure beverage. Since it was still quite early I just ordered a cup of tea.
 
+<figure>
 <img src="/assets/img/nz-biz-review/food1.jpg" class="" />
+</figure>
 
 I ordered the rare seared beef for my appetizer, the braised taiwanese pork belly as my main, and apple crumble ice-cream as my dessert. Everything was very good and the crew was very attentive, passing through the cabin to offer more bread or drink refills.
 
+<figure>
 <img src="/assets/img/nz-biz-review/food2-ap.jpg" class="" />
 <img src="/assets/img/nz-biz-review/food3-main.jpg" class="" />
 <img src="/assets/img/nz-biz-review/food4-dessert.jpg" class="" />
+</figure>
 
 ## IFE
 
 After lunch I decided to explore the IFE system. I had some interesting features, including a "seat tour" and "seat chat" letting you chat with other passengers. While I didn't test it myself (since I was travelling alone) it looked like some of my neighbors were using it.
 
-<center>
+<figure>
 <img src="/assets/img/nz-biz-review/ife-seat-tour.jpg" class="half" />
 <img src="/assets/img/nz-biz-review/ife-route.jpg" class="half" />
-</center>
-
 <img src="/assets/img/nz-biz-review/ife-seatchat.jpg" class="" />
+</figure>
 
 There was also an IFE drink/snack menu (which I wish more airlines would offer), however this was only available for a very short time during the flight (I'm not quite sure why).
 
+<figure>
 <img src="/assets/img/nz-biz-review/ife-menu.jpg" class="" />
+</figure>
 
 Following this I just lounged, worked, and watched some Netflix on my phone for the remainder of the flight until the second meal service started. 
 
 ## Dinner
 As we started to approach Taiwan, the second meal service started. I ordered the salmon appetizer, beef fillet main, and just some fresh fruit. Again everything was very good.
 
+<figure>
 <img src="/assets/img/nz-biz-review/food5-ap.jpg" class="" />
 <img src="/assets/img/nz-biz-review/food6-main.jpg" class="" />
+</figure>
 
 ## Lavatory
 Some other quirks I noticed was that the lavatory had butterfly wallpaper (with an "easter egg") and background music. A nice touch :)
 
+<figure>
 <img src="/assets/img/nz-biz-review/restroom.jpg" class="" />
+</figure>
 
 ## Summary
 
