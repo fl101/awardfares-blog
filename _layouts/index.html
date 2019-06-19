@@ -17,20 +17,16 @@ layout: default
             {% for tag in post.tags %}<a class="tag" href="/tags/#{{tag}}">{{tag}}</a> {% endfor %}{{ post.date | date: "%B %-d, %Y" }}{% if post.author %} By {{ post.author }} {% endif %}
           </p>
           {% if post.image %}
-          <a href="{{ post.url | relative_url }}">
-            <div class="image">
-              <div class="image-wrap">
-                <img src="{{ post.image }}" />
-              </div>
-            </div>
-          </a>
-          {% endif %}
           <div class="excerpt">
-            {{ post.excerpt }}
-            <a class="button" href="{{ post.url | relative_url }}">
-              Continue Reading &raquo;
+            <a href="{{ post.url | relative_url }}">
+              <img src="{{ post.image }}" />
+              <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 156 }}</p>
             </a>
           </div>
+          {% endif %}
+          <a class="button" href="{{ post.url | relative_url }}">
+            Continue Reading &raquo;
+          </a>
         </div>
       {% endunless %}
     {% endfor %}
@@ -40,14 +36,14 @@ layout: default
   <div class="pagination">
     {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i>
+      <i class="fa fa-angle-left"></i>
       Previous Page
     </a>
     {% endif %}
     {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="button" >
       Next Page
-      <i class="fa fa-chevron-right"></i>
+      <i class="fa fa-angle-right"></i>
     </a>
     {% endif %}
   </div>

@@ -1,7 +1,7 @@
 $theme: #2e5c8a;
 
 body, select, input, textarea {
-  font-family: 'Barlow', sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1.42857143;
 }
@@ -12,6 +12,10 @@ html, body {
 
 body {
   margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Barlow'
 }
 
 a {
@@ -39,12 +43,10 @@ img {
 }
 
 .meta {
-  text-transform: uppercase;
-  color: #888;
-  font-size: 0.9em;
-  margin: 0 0 30px 0;
+  color: rgba(0,0,0,0.8);
 }
 
+/*
 .image {
   max-width: 100%;
   border: solid 1px #ddd;
@@ -62,22 +64,11 @@ img {
   overflow: hidden;
   background: $theme;
 }
+*/
 
 .tag {
-  background: $theme;
-  color: white;
-  font-size: 0.8em;
-  padding: 4px 8px;
-  border-radius: 4px;
+  text-transform: capitalize;
   margin-right: 5px;
-  position: relative;
-  top: -2px;
-  text-decoration: none;
-}
-
-.tag:hover {
-  background: lighten($theme, 10%);
-  color: white;
 }
 
 

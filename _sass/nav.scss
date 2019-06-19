@@ -2,7 +2,13 @@
 header {
   padding: 20px 30px;
   margin: 0 auto;
-  border-bottom: solid 1px #eee;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
+  font-family: 'Barlow';
+
+  section {
+    max-width: 1080px;
+    margin: 0 auto;
+  }
 
   .item.brand {
     float: left;
