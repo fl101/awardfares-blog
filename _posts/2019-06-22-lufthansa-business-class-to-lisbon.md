@@ -5,7 +5,6 @@ tags: [review, lufthansa]
 author: Richard
 comments: true
 image: /assets/img/lh-shorthaul-biz/wall.jpeg
-hidden: true
 ---
 
 I was recently offered a surprise operational upgrade on a Lufthansa flight from Frankfurt to Lisbon. This gave me a great opportunity to try out Lufthansa's short haul business class. Since this was a surprise upgrade, and the business class part of the cabin is the same as the economy class, the review will be a bit shorter than usual.
