@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Lufthansa First Class Routes (June 2019)
+title: Lufthansa First Class Routes (July 2019)
 tags: [news]
 author: Philip
 comments: true
-hidden: false
-image: /assets/img/lufthansa-first-routes-june-2019.png
+image: /assets/img/lh-routes-july/lufthansa-first-routes-july-2019.png
 ---
 
 Lufthansa currently offers First Class with 3 different aircraft types on 34 routes (22 from Frankfurt and 12 from Munich). Most routes are quite consistent, but some changes do occur so it can be difficult to keep track them. Here's an updated list of all routes as of June, 2019.
@@ -86,5 +85,23 @@ Routes list:
 MUC-YVR,MUC-PEK,MUC-PVG,MUC-HKG,MUC-DEL,MUC-MEX,MUC-BOS,MUC-ORD,MUC-LAX,MUC-JFK,MUC-EWR,MUC-SFO
 ```
 
-## Find Awards Using AwardFares
-...
+## Business Class in First Class Cabin
+First Class cabin is also available on other routes occasionally. However, in these cases the first class cabin is used as business class and no first class service is offered.
+
+```
+VIE (A340-600) <-- Summer (Mon/Tue)
+LIS (A340-600) <-- Summer (Mon/Tue)
+NGO (A340-600) <-- Saturdays
+```
+
+These can be found using ITA Matrix and filtering by aircraft type (`aircraft t:346`).
+
+
+<figure>
+<img src="/assets/img/lh-routes-july/itamatrix.png" />
+<img src="/assets/img/lh-routes-july/itamatrix-ngo.png" class="half" />
+<img src="/assets/img/lh-routes-july/itamatrix-vie.png" class="half" />
+</figure>
+
+## Find awards using AwardFares
+[https://awardfares.com](https://awardfares.com)
