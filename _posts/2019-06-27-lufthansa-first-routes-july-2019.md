@@ -5,6 +5,7 @@ tags: [news]
 author: Philip
 comments: true
 image: /assets/img/lh-routes-july/summary.png
+hidden: true
 ---
 
 Lufthansa currently offers First Class with 3 different aircraft types on 34 routes (22 from Frankfurt and 12 from Munich). Most routes are quite consistent, but some changes do occur so it can be difficult to keep track them. Here's an updated list of all routes as of June, 2019.
