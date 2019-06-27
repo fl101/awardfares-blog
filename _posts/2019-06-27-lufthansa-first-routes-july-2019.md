@@ -4,7 +4,7 @@ title: Lufthansa First Class Routes (July 2019)
 tags: [news]
 author: Philip
 comments: true
-image: /assets/img/lh-routes-july/lufthansa-first-routes-july-2019.png
+image: /assets/img/lh-routes-july/summary.png
 ---
 
 Lufthansa currently offers First Class with 3 different aircraft types on 34 routes (22 from Frankfurt and 12 from Munich). Most routes are quite consistent, but some changes do occur so it can be difficult to keep track them. Here's an updated list of all routes as of June, 2019.
@@ -16,7 +16,7 @@ Lufthansa currently offers First Class with 3 different aircraft types on 34 rou
 ## Frankfurt
 Frankfurt (FRA) serves 22 destinations with First Class:
 
-<img src="http://www.gcmap.com/map?P=FRA-EZE,FRA-GRU,FRA-PEK,FRA-PVG,FRA-BOG,FRA-HKG,FRA-BLR,FRA-DEL,FRA-HND,FRA-MEX,FRA-SIN,FRA-JNB,FRA-BOS,FRA-ORD,FRA-DTW,FRA-IAH,FRA-LAX,FRA-MIA,FRA-JFK,FRA-EWR,FRA-SFO,FRA-IAD&MS=wls2&MR=1800&MX=720x360&PM=b:disc7%2b%22%25U%2212" class="full" />
+<img src="/assets/img/lh-routes-july/frankfurt.png" />
 
 Destinations (and aircraft type):
 ```
@@ -57,7 +57,7 @@ FRA-EZE,FRA-GRU,FRA-PEK,FRA-PVG,FRA-BOG,FRA-HKG,FRA-BLR,FRA-DEL,FRA-HND,FRA-MEX,
 ## Munich
 Munich (MUC) serves 12 destinations with First Class:
 
-<img src="http://www.gcmap.com/map?P=MUC-YVR,MUC-PEK,MUC-PVG,MUC-HKG,MUC-DEL,MUC-MEX,MUC-BOS,MUC-ORD,MUC-LAX,MUC-JFK,MUC-EWR,MUC-SFO&MS=wls2&MP=rect&MR=1800&MX=720x360&PM=b:disc7%2b%22%25U%2212" class="full" />
+<img src="/assets/img/lh-routes-july/munich.png" />
 
 Destinations (and aircraft type):
 ```
@@ -85,7 +85,7 @@ Routes list:
 MUC-YVR,MUC-PEK,MUC-PVG,MUC-HKG,MUC-DEL,MUC-MEX,MUC-BOS,MUC-ORD,MUC-LAX,MUC-JFK,MUC-EWR,MUC-SFO
 ```
 
-## Business Class in First Class Cabin
+## Business Class in First Class cabin
 First Class cabin is also available on other routes occasionally. However, in these cases the first class cabin is used as business class and no first class service is offered.
 
 ```
@@ -93,6 +93,8 @@ VIE (A340-600) <-- Summer (Mon/Tue)
 LIS (A340-600) <-- Summer (Mon/Tue)
 NGO (A340-600) <-- Saturdays
 ```
+
+<img src="/assets/img/lh-routes-july/other.png" />
 
 These can be found using ITA Matrix and filtering by aircraft type (`aircraft t:346`).
 
