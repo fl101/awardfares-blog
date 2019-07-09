@@ -42,6 +42,12 @@ img {
   min-height: 600px;
 }
 
+@media screen and (max-width: 500px) {
+  .wrap {
+    padding: 15px;
+  }
+}
+
 .meta {
   color: rgba(0,0,0,0.8);
 }

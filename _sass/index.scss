@@ -50,3 +50,13 @@
 
   }
 }
+
+@media screen and (max-width: 500px) {
+  .posts {
+    margin-top: 10px;
+
+    .post-teaser {
+      padding: 30px;
+    }
+  }
+}
