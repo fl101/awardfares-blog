@@ -12,23 +12,14 @@ header {
 
   .item.brand {
     float: left;
-    position: relative;
-    top: -3px;
     
-    i {
-      margin-right: 1px;
-      color: $theme;
-    }
-
     a {
       padding: 0px;
-      text-transform: none;
-      font-size: 1.6em;
-      font-weight: 400;
     }
 
-    b {
-      font-weight: 600;
+    img {
+      max-height: 40px;
+      display: block;
     }
   }
 
