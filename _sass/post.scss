@@ -66,6 +66,13 @@
     width: 100%;
   }
 
+  img.outline {
+    border: solid 3px #eee;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+
   figure {
     margin: 0;
     font-size: 0;
