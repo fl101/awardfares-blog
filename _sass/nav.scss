@@ -43,6 +43,23 @@ footer {
   color: #888;
   font-size: 0.8em;
 
+  .sm {
+    font-size: 2em;
+
+    .fa-facebook {
+      color: #3b5998;
+    }
+    .fa-twitter {
+      color: #1da1f2;
+    }
+    .fa-instagram {
+      color: #e1306c;
+    }
+    .fa-rss {
+      color: $theme;
+    }
+  }
+
   a {
     text-decoration: none;
     padding: 0 10px;
