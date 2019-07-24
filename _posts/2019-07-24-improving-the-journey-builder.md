@@ -5,7 +5,6 @@ tags: [news]
 author: Philip
 comments: true
 image: /assets/img/improving-journey-builder/overview.png
-hidden: true
 ---
 
 Based on all the feedback we have received after the launch of the new AwardFares UI, we are now releasing some improvements that should make it easier to build journeys. We hope you will appreciate these improvements, and please keep sending us feedback!
