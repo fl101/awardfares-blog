@@ -8,7 +8,7 @@ image: /assets/img/improving-journey-builder/overview.png
 hidden: true
 ---
 
-With the release of the new AwardFares UI we had to make some changes to how filtering flights works. We're now releasing some improvements that should make it easier to build journeys.
+Based on all the feedback we have received after the launch of the new AwardFares UI, we are now releasing some improvements that should make it easier to build journeys. We hope you will appreciate these improvements, and please keep sending us feedback!
 
 ## Improved filtering
 Clicking "Add Flight" now correctly filters flights based on the arrival or departure time of another flight. For example, it will no longer show flights that depart before arriving, and it will also show flights for more than one date.
