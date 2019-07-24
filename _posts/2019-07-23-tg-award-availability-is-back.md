@@ -11,11 +11,11 @@ Earlier this year nearly all Thai Airways long-haul award availability disappear
 
 Ex-Europe:
 
-<img src="/assets/img/tg-award-availability-is-back/ex-europe.png" class="outline" />
+<img src="/assets/img/tg-award-availability-is-back/ex-europe.png" class="" />
 
 Ex-Bangkok:
 
-<img src="/assets/img/tg-award-availability-is-back/ex-bangkok.png" class="outline" />
+<img src="/assets/img/tg-award-availability-is-back/ex-bangkok.png" class="" />
 
 Explore all availability in the AwardFares calendar:  
 [https://awardfares.com/search?BKK,zone:Europe.zone:Europe,BKK.;a:TG](https://awardfares.com/search?BKK,zone:Europe.zone:Europe,BKK.;a:TG)

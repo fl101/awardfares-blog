@@ -64,6 +64,11 @@
   img {
     object-fit: cover;
     width: 100%;
+    border: solid 1px #eee;
+  }
+
+  img.noborder {
+    border: none;
   }
 
   img.outline {

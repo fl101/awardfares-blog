@@ -12,39 +12,39 @@ During the last few months we've been working very hard on a completely new vers
 ## New Diamond tier
 Many have asked for more custom searches and alerts. Today we're also launching a new Diamond tier, which offers unlimited custom searches and unlimited alerts. During the first week (until July 25, 2019) we're offering a **25% discount** on all new Diamond plans (monthly and yearly).
 
-<img src="/assets/img/new-awardfares/diamond.png" class="outline" />
+<img src="/assets/img/new-awardfares/diamond.png" class="" />
 
 *Note: Upgrades from Gold to Diamond are prorated, so any remaining time on an active Gold subscription will be deducted off a new Diamond subscription.*
 
 ## Redesigned search page
 The main search page has been completely redesigned, with a new timeline, map, journey builder, and flights list. Our top priority was to make the UI easier to use, especially for custom searches (see below).
 
-<img src="/assets/img/new-awardfares/calendar.png" />
+<img src="/assets/img/new-awardfares/calendar.png" class="noborder" />
 
 ## Easier custom searches
 Simply enter an origin, destination, and a departure date. The page will automatically start loading results for you. You can still click the search icon in the timeline to search multiple dates at once. Custom searches require a Gold or Diamond subscription, while free accounts only have access to the award calendar.
 
-<img src="/assets/img/new-awardfares/search.png" />
+<img src="/assets/img/new-awardfares/search.png" class="noborder" />
 
 ## Per-program award availability
 Expanding a flight now automatically searches and displays availability per frequent flyer program. Currently this supports United MileagePlus, Air Canada Aeroplan, SAS EuroBonus, and Avianca LifeMiles. More providers coming soon! Per-program availability requires a Gold or Diamond subscription, while free accounts can only see the summarized availability data.
 
-<img src="/assets/img/new-awardfares/search-providers.png" class="outline" />
+<img src="/assets/img/new-awardfares/search-providers.png" class="" />
 
 ## Search up to 6 airports at once
 Furthermore, you can now enter up to 6 airports at once for custom searches. For example, 3 origin airports + 3 destination airports, or 1 origin + 5 destinations, etc...
 
-<img src="/assets/img/new-awardfares/search-multiple-airports.png" class="outline" />
+<img src="/assets/img/new-awardfares/search-multiple-airports.png" class="" />
 
 ## New continent location filters
 Besides the existing Award Zone filters you can now also search by continent. This is especially useful when searching all of Asia at once.
 
-<img src="/assets/img/new-awardfares/search-continents.png" class="outline" />
+<img src="/assets/img/new-awardfares/search-continents.png" class="" />
 
 ## Track searches
 When searching a specific route and date you can now easily create an alert using the "Track" search feature. Tracking and alerts require a Gold or Diamond subscription.
 
-<img src="/assets/img/new-awardfares/track.png" class="outline" />
+<img src="/assets/img/new-awardfares/track.png" class="" />
 
 ## New logo and branding
 As you may also have noticed, we now have a brand new logo and icon. We hope you like it as much as we do! All of the new can be found on our [Press](https://awardfares.com/press) page.
