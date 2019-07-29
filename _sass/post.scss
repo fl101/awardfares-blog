@@ -122,12 +122,16 @@
 
 
 .cta {
-  margin-top: 50px;
-  border: solid 1px #eee;
-  background: #eee;
+  margin-top: 100px;
+  background: $theme;
+  color: white;
   border-radius: 10px;
   padding: 30px 10px;
   text-align: center;
+
+  a:hover {
+    color: white;
+  }
 }
 
 
