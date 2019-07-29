@@ -5,7 +5,6 @@ tags: [news]
 author: Philip
 comments: true
 image: /assets/img/date-ranges/overview.png
-hidden: true
 ---
 
 It's now possible to search with date ranges. Start by selecting a start date as usual. Once you've done this a new "Until when?" box will appear. Now select a second date to create your date range.
