@@ -18,40 +18,62 @@ For example, if you're using United to search for first class seats, then you wi
 ## Award Search
 Here are the number of days in advance that some popular frequent flyer program award search sites will show:
 
-| Frequent Flyer Program | Days |
-|:------------------------|:------|
-| United MileagePlus | 337 |
-| SAS EuroBonus | 360 |
-| Avianca Lifemiles | 360 |
-| Air Canada Aeroplan | 355 |
+| Frequent Flyer Program | Days in advance | Date from today |
+|------------------------|-----------------|-----------------|
+| United MileagePlus     | 337             | <span></span>   |
+| SAS EuroBonus          | 360             | <span></span>   |
+| Avianca Lifemiles      | 360             | <span></span>   |
+| Air Canada Aeroplan    | 355             | <span></span>   |
 
 ## Airlines
 Here is a list of the number of days in advance you can find award space using AwardFares for all Star Alliance airlines:
 
-| Airline               | Days     |
-|:-----------------------|:----------|
-| Air Canada            | 355      |
-| Air China             | 361      |
-| Air India             | 337      |
-| Air New Zealand       | 355      |
-| ANA                   | 355      |
-| Asiana                | 338      |
-| Austrian              | 361      |
-| Avianca               | 355      |
-| Brussels              | 360      |
-| COPA                  | 330      |
-| Egyptair              | 360      |
-| Ethiopian             | 331      |
-| EVA Air               | 360      |
-| LOT                   | 361      |
-| Lufthansa             | 360, 14* |
-| SAS                   | 330      |
-| Singapore Airlines    | 355      |
-| South African Airways | 358      |
-| SWISS                 | 300      |
-| TAP                   | 361      |
-| Thai Airways          | 340      |
-| Turkish               | 354      |
-| United                | 337      |
+| Airline               | Days in advance     | Date from today |
+|-----------------------|---------------------|-----------------|
+| Air Canada            | 355                 | <span></span>   |
+| Air China             | 361                 | <span></span>   |
+| Air India             | 337                 | <span></span>   |
+| Air New Zealand       | 355                 | <span></span>   |
+| ANA                   | 355                 | <span></span>   |
+| Asiana                | 338                 | <span></span>   |
+| Austrian              | 361                 | <span></span>   |
+| Avianca               | 355                 | <span></span>   |
+| Brussels              | 360                 | <span></span>   |
+| COPA                  | 330                 | <span></span>   |
+| Egyptair              | 360                 | <span></span>   |
+| Ethiopian             | 331                 | <span></span>   |
+| EVA Air               | 360                 | <span></span>   |
+| LOT                   | 361                 | <span></span>   |
+| Lufthansa             | 360, 14*            | <span></span>   |
+| SAS                   | 330                 | <span></span>   |
+| Singapore Airlines    | 355                 | <span></span>   |
+| South African Airways | 358                 | <span></span>   |
+| SWISS                 | 300                 | <span></span>   |
+| TAP                   | 361                 | <span></span>   |
+| Thai Airways          | 340                 | <span></span>   |
+| Turkish               | 354                 | <span></span>   |
+| United                | 337                 | <span></span>   |
 
 \* Lufthansa First Class awards are available to other Star Alliance frequent flyer programs earliest 14 days in advance.
+
+<script>
+(function () {
+  function pad(value) {
+    return String(value).length == 1 ? '0' + value : value;
+  }
+  function calculateDateFromToday(i) {
+    var date = new Date(new Date().getTime() + (i * 24 * 3600 * 1000));
+    return [
+      date.getFullYear(), 
+      pad(date.getMonth()+1),
+      pad(date.getDate())
+    ].join('-');
+  }
+  // Automagically calculate "date from today" for each table row
+  document.querySelectorAll('td span').forEach(function (el, i) {
+    var days = el.parentNode.previousElementSibling.innerText.split(',')[0];
+    el.innerText = calculateDateFromToday(days);
+  });
+})();
+
+</script>
