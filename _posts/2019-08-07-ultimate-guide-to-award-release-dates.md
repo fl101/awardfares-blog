@@ -54,4 +54,4 @@ Here is a list of the number of days in advance you can find award space using A
 | Turkish               | 354      |
 | United                | 337      |
 
-\* Lufthansa First Class awards are available to other Star Alliance frequent flyer programs earliest 14 days before departure.
+\* Lufthansa First Class awards are available to other Star Alliance frequent flyer programs earliest 14 days in advance.
