@@ -4,11 +4,19 @@ title: Ultimate Guide to Award Release Dates
 tags: [guide]
 author: Philip
 comments: true
-image: /assets/img/
+image: /assets/img/award-dates/image.png
 hidden: true
 ---
 
+One of the best ways of booking your perfect award trip is to plan far in advance. Even though most airlines generally release new award space continously throughout the year, it is always best to book as far in advance as possible. There are however two important things to consider:
+
+1. Different airlines release award seats at different dates.
+2. Different frequent flyer programs show seats at different dates.
+
+For example, if you're using United to search for first class seats, then you will only be able to find awards up to 337 days in advance. However, as a EuroBonus member you can still book awards more than 337 days in advance. This is especially important to consider when going after highly sought after awards. Luckily AwardFares makes it super easy to find these since you're able to search across multiple frequent flyer programs at once!
+
 ## Award Search
+Here are the number of days in advance that some popular frequent flyer program award search sites will show:
 
 | Frequent Flyer Program | Days |
 |:------------------------|:------|
@@ -18,6 +26,7 @@ hidden: true
 | Air Canada Aeroplan | 355 |
 
 ## Airlines
+Here is a list of the number of days in advance you can find award space using AwardFares for all Star Alliance airlines:
 
 | Airline               | Days     |
 |:-----------------------|:----------|
@@ -34,7 +43,6 @@ hidden: true
 | Egyptair              | 360      |
 | Ethiopian             | ?        |
 | EVA Air               | 360      |
-| Juneyao Airlines      | ?        |
 | LOT                   | 361      |
 | Lufthansa             | 360, 14* |
 | SAS                   | 330      |
