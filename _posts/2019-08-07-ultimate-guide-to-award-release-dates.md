@@ -41,14 +41,14 @@ Here is a list of the number of days in advance you can find award space using A
 | Brussels              | 360      |
 | COPA                  | 330      |
 | Egyptair              | 360      |
-| Ethiopian             | ?        |
+| Ethiopian             | 331      |
 | EVA Air               | 360      |
 | LOT                   | 361      |
 | Lufthansa             | 360, 14* |
 | SAS                   | 330      |
 | Singapore Airlines    | 355      |
 | South African Airways | 358      |
-| SWISS                 | ?        |
+| SWISS                 | 300      |
 | TAP                   | 361      |
 | Thai Airways          | 340      |
 | Turkish               | 354      |
