@@ -44,8 +44,8 @@ Here is a list of the number of days in advance you can find award space using A
 | Ethiopian             | 331                 | <span></span>   |
 | EVA Air               | 360                 | <span></span>   |
 | LOT                   | 361                 | <span></span>   |
-| Lufthansa             | 360, 14*            | <span></span>   |
-| SAS                   | 330                 | <span></span>   |
+| Lufthansa             | 360, 180, 14        | <span></span>   |
+| SAS                   | 330, 300            | <span></span>   |
 | Singapore Airlines    | 355                 | <span></span>   |
 | South African Airways | 358                 | <span></span>   |
 | SWISS                 | 300                 | <span></span>   |
@@ -54,7 +54,10 @@ Here is a list of the number of days in advance you can find award space using A
 | Turkish               | 354                 | <span></span>   |
 | United                | 337                 | <span></span>   |
 
-\* Lufthansa First Class awards are available to other Star Alliance frequent flyer programs earliest 14 days in advance.
+Notes:
+- Lufthansa first class awards are available to other Star Alliance frequent flyer programs earliest 14 days in advance.
+- Lufthansa long-haul business class awards are available earliest 180 days in advance.
+- SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
 
 <script>
 (function () {
