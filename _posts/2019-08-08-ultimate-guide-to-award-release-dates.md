@@ -21,7 +21,7 @@ Here are the number of days in advance that some popular frequent flyer program 
 |------------------------|-----------------|-----------------|
 | United MileagePlus     | 337             | <span></span>   |
 | SAS EuroBonus          | 360             | <span></span>   |
-| Avianca Lifemiles      | 360             | <span></span>   |
+| Avianca LifeMiles      | 360             | <span></span>   |
 | Air Canada Aeroplan    | 355             | <span></span>   |
 
 
