@@ -42,6 +42,15 @@ img {
   min-height: 600px;
 }
 
+.nav-back {
+  margin-top: 30px;
+  
+  a {
+    text-decoration: none;
+    color: $theme;
+  }
+}
+
 @media screen and (max-width: 500px) {
   .wrap {
     padding: 15px;
