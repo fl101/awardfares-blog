@@ -50,7 +50,7 @@ Here is a list of the number of days in advance you can find award space using A
 | South African Airways | 358                 | <span></span>   |
 | SWISS                 | 300                 | <span></span>   |
 | TAP                   | 361                 | <span></span>   |
-| Thai Airways          | 340                 | <span></span>   |
+| Thai Airways          | 340, 90, 60         | <span></span>   |
 | Turkish               | 354                 | <span></span>   |
 | United                | 337                 | <span></span>   |
 
@@ -58,6 +58,8 @@ Notes:
 - Lufthansa first class awards are available to other Star Alliance frequent flyer programs earliest 14 days in advance.
 - Lufthansa long-haul business class awards are available earliest 180 days in advance.
 - SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
+- Thai releases Europe-Asia business 90 days in advance.
+- Thai releases Europe-Asia first 60 days in advance.
 
 <script>
 (function () {
