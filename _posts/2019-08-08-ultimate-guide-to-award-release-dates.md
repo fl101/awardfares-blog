@@ -26,40 +26,41 @@ Here are the number of days in advance that some popular frequent flyer program 
 
 
 ## Airlines
-Here is a list of the number of days in advance you can find award space using AwardFares for all Star Alliance airlines. Dates are updated automatically.
+Here is a list of the number of days in advance you can earliest find award space using AwardFares for all Star Alliance airlines. Dates are updated automatically.
 
-| Airline               | Days in advance     | Date from today |
-|-----------------------|---------------------|-----------------|
-| Air Canada            | 355                 | <span></span>   |
-| Air China             | 361                 | <span></span>   |
-| Air India             | 337                 | <span></span>   |
-| Air New Zealand       | 355                 | <span></span>   |
-| ANA                   | 355                 | <span></span>   |
-| Asiana                | 338                 | <span></span>   |
-| Austrian              | 361                 | <span></span>   |
-| Avianca               | 355                 | <span></span>   |
-| Brussels              | 360                 | <span></span>   |
-| COPA                  | 330                 | <span></span>   |
-| Egyptair              | 360                 | <span></span>   |
-| Ethiopian             | 331                 | <span></span>   |
-| EVA Air               | 360                 | <span></span>   |
-| LOT                   | 361                 | <span></span>   |
-| Lufthansa             | 360, 180, 14        | <span></span>   |
-| SAS                   | 330, 300            | <span></span>   |
-| Singapore Airlines    | 355                 | <span></span>   |
-| South African Airways | 358                 | <span></span>   |
-| SWISS                 | 300                 | <span></span>   |
-| TAP                   | 361                 | <span></span>   |
-| Thai Airways          | 340, 90, 60         | <span></span>   |
-| Turkish               | 354                 | <span></span>   |
-| United                | 337                 | <span></span>   |
+| Airline                        | Days in advance | Date from today |
+|--------------------------------|-----------------|-----------------|
+| Air Canada                     | 355             | <span></span>   |
+| Air China                      | 361             | <span></span>   |
+| Air India                      | 337             | <span></span>   |
+| Air New Zealand                | 355             | <span></span>   |
+| ANA                            | 355             | <span></span>   |
+| Asiana                         | 338             | <span></span>   |
+| Austrian                       | 361             | <span></span>   |
+| Avianca                        | 355             | <span></span>   |
+| Brussels                       | 360             | <span></span>   |
+| COPA                           | 330             | <span></span>   |
+| Egyptair                       | 360             | <span></span>   |
+| Ethiopian                      | 331             | <span></span>   |
+| EVA Air                        | 360             | <span></span>   |
+| LOT                            | 361             | <span></span>   |
+| Lufthansa                      | 360             | <span></span>   |
+| Lufthansa (long-haul Business) | 180             | <span></span>   |
+| Lufthansa (long-haul First)    | 14              | <span></span>   |
+| SAS                            | 330 *           | <span></span>   |
+| Singapore Airlines             | 355             | <span></span>   |
+| South African Airways          | 358             | <span></span>   |
+| SWISS                          | 300             | <span></span>   |
+| TAP                            | 361             | <span></span>   |
+| Thai                           | 340             | <span></span>   |
+| Thai (long-haul Business)      | 90              | <span></span>   |
+| Thai (long-haul First)         | 60              | <span></span>   |
+| Turkish                        | 354             | <span></span>   |
+| United                         | 337             | <span></span>   |
 
 Notes:
-- Lufthansa first class awards are available to other Star Alliance frequent flyer programs earliest 14 days in advance.
-- Lufthansa long-haul business class awards are available earliest 180 days in advance.
-- SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
-- Thai releases Europe-Asia business up to 90 days in advance.
-- Thai releases Europe-Asia first up to 60 days in advance.
+
+\* SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
 
 <script>
 (function () {
@@ -76,7 +77,7 @@ Notes:
   }
   // Automagically calculate "date from today" for each table row
   document.querySelectorAll('td span').forEach(function (el, i) {
-    var days = el.parentNode.previousElementSibling.innerText.split(',')[0];
+    var days = el.parentNode.previousElementSibling.innerText.split(' ')[0];
     el.innerText = calculateDateFromToday(days);
   });
 })();
