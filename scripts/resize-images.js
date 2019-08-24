@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs').promises;
 const path = require('path');
 const sharp = require('sharp');
@@ -36,7 +38,7 @@ const MAX_WIDTH = 1600;
 
 
 
-async function walk (dir, list = []) {
+async function walk(dir, list = []) {
   const files = await fs.readdir(dir);
 
   for (file of files) {
