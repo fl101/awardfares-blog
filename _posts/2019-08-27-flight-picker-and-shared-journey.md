@@ -5,7 +5,6 @@ tags: [news]
 author: Richard
 comments: true
 image: /assets/img/flight-picker-and-journey/filter-overview.png
-hidden: true
 ---
 
 We've added the possibility to filter for specific flight numbers (Or parts thereof) when searching. For example, let's say you want to take a trip on the famous Island Hopper flight across Hawaii. If you just search for the route, [HNL-GUM](https://awardfares.com/search?HNL.GUM.) you will find both direct flights as well as the Island Hopper.
