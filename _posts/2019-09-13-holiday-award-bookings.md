@@ -5,7 +5,6 @@ tags: [news]
 author: Philip
 comments: true
 image: /assets/img/holiday-award-bookings/overview.png
-hidden: true
 ---
 
 The AwardFares calendar is one of the easiest ways to find great award redemptions. Today we've enhanced the calendar to show additional "special" dates (beyond the normal 60 days). You can now browse 400+ routes during Christmas and New Year between [December 20th and January 8th](https://awardfares.com/search?..2019-12-20:2020-01-08).
