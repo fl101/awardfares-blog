@@ -5,7 +5,6 @@ tags: [news]
 author: Philip
 comments: true
 image: /assets/img/overview-of-daxing-routes/overview.png
-hidden: true
 ---
 
 With the opening of the new Beijing Daxing airport (PKX) we will start to see some airlines add and move operations to the new airport. Here is a summary of all confirmed operational updates so far, grouped by alliance. 
