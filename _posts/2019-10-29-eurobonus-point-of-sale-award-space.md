@@ -10,7 +10,7 @@ hide_image_in_post: true
 
 Recently we noticed that EuroBonus award availability can differ depending on which "point of sale" (country) you are searching from. Depending on which version of the SAS website you access you will search availability for a different point of sale.
 
-For example, searching ARN-BKK on Nov 6 on the Swedish site there are no awards available on the Thai Airways direct flight. However, searching from other country sites there is indeed availability. These can still be booked online but the taxes/fees will be charged in a different currency. Alternatively you can also call and book these tickets, but you may have to explicitly tell the agent that you found the availability using a different country (presumably they have to change PoS in their system).
+For example, searching ARN-BKK on Nov 6 on the Swedish site there are no awards available on the Thai Airways direct flight. However, when searching from other countries there are awards availability. These can still be booked online but the taxes/fees will be charged in a different currency. Alternatively you can also call and book these tickets, but you may have to explicitly tell the agent that you found the availability using a different country (presumably they have to change PoS in their system).
 
 [<img src="/assets/img/eurobonus-pos/comparison.png" class="" />](https://awardfares.com/search?ARN.BKK.2019-11-06)
 
