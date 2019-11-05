@@ -7,7 +7,7 @@ comments: true
 image: /assets/img/haneda-jal-tour/overview.png
 ---
 
-There are two tours available, one operated by ANA and the other by their main competitor JAL. Both are free but you need to make a reservation ahead of time. Note that the tours are in Japanese only.
+Haneda International Airport in Tokyo offers tours of the aircraft maintenance facilities. There are two tours available, one operated by ANA and the other by their main competitor JAL. Both are free but you need to make a reservation ahead of time. Note that the tours are in Japanese only but are still suitable for non-Japanese speakers.
 
 - [https://www.jal.co.jp/kengaku/application/](https://www.jal.co.jp/kengaku/application/)
 - [https://www.ana.co.jp/group/kengaku/](https://www.ana.co.jp/group/kengaku/)
