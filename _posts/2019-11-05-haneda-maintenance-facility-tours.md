@@ -46,4 +46,4 @@ Despite the windy and rainy weather one of the hanger doors was open so that we 
 <img src="/./assets/img/haneda-jal-tour/outside2.jpg" class="" />
 <img src="/./assets/img/haneda-jal-tour/outside3.jpg" class="" />
 
-Overall the tour is a really fun experience, especially considering that it is completely free! Just make sure your book your tickets well in-advance or find some last minute availability if you're flexible. Even though the tours are completely in Japanese you will still be able to enjoy it if you don't understand Japanese.
+Overall the tour is a really fun experience, especially considering that it is completely free! Just make sure you book your tickets well in advance or find some last minute availability if you're flexible. Even though the tours are only in Japanese you will still be able to enjoy it if you don't understand Japanese.
