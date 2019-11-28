@@ -8,10 +8,10 @@ image: /assets/img/cabin-types/overview.png
 hidden: true
 ---
 
-Cabin type information is now available for certain flights. Most Singapore Airlines and some ANA will now be shown together with the type of cabin that particular flight has. This is great if you're looking to book for example their new suites! Note that this feature is only available to **Gold and Diamond members**.
+Cabin type information is now available for certain flights. Most Singapore Airlines and some ANA will now be shown together with the type of cabin that particular flight has. Note that this feature is only available to **Gold and Diamond members**.
 
 ## Singapore Airlines
-Thanks to information from [mainlymiles.com](mainlymiles.com) we have now started to showing cabin type information for most Singapore Airline flights. The following cabin types are now displayed in AwardFares for Singapore Airline flights:
+We have now started to showing cabin type information for most Singapore Airline flights. The following cabin types are now displayed in AwardFares for Singapore Airline flights:
 
 - 2006 First (w/o Suites)
 - 2013 First (w/o Suites)
@@ -23,7 +23,7 @@ Thanks to information from [mainlymiles.com](mainlymiles.com) we have now starte
 - 2013 Business (w/o First)
 - 2006 Business (w/o First)
 
-See the links below for more information about Singapore Airlines routes and cabin types:
+See the links below from [mainlymiles.com](https://mainlymiles.com) for more information about Singapore Airlines routes and cabin types:
 
 - [https://mainlymiles.com/sq-business-seats-by-route/](https://mainlymiles.com/sq-business-seats-by-route/)
 - [https://mainlymiles.com/sq-first-seats-by-route/](https://mainlymiles.com/sq-first-seats-by-route/)
