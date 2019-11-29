@@ -5,7 +5,6 @@ tags: [news]
 author: Philip
 comments: true
 image: /assets/img/cabin-types/overview.png
-hidden: true
 ---
 
 Cabin type information is now available for certain flights. Most Singapore Airlines flights and some ANA flights will now display the type of cabin used for that particular flight, if the information is available. Note that this feature is only available to [Gold and Diamond members](https://awardfares.com/pricing).
