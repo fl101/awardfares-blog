@@ -8,15 +8,15 @@ image: /assets/img/cabin-types/overview.png
 hidden: true
 ---
 
-Cabin type information is now available for certain flights. Most Singapore Airlines and some ANA will now be shown together with the type of cabin that particular flight has. Note that this feature is only available to **Gold and Diamond members**.
+Cabin type information is now available for certain flights. Most Singapore Airlines flights and some ANA flights will now display the type of cabin used for that particular flight, if the information is available. Note that this feature is only available to [Gold and Diamond members](https://awardfares.com/pricing).
 
 ## Singapore Airlines
-We have now started to showing cabin type information for most Singapore Airline flights. The following cabin types are now displayed in AwardFares for Singapore Airline flights:
+The following cabin types are now displayed in AwardFares for Singapore Airline flights:
 
-- 2006 First (w/o Suites)
-- 2013 First (w/o Suites)
-- 2006 Suites (w/ Suites)
 - 2017 Suites (w/ Suites)
+- 2006 Suites (w/ Suites)
+- 2013 First (w/o Suites)
+- 2006 First (w/o Suites)
 - 2018 Regional (w/o First)
 - 2009 Regional (w/o First)
 - 2017 Business (w/o First)
