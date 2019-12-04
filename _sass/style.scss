@@ -86,6 +86,17 @@ img {
   margin-right: 5px;
 }
 
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
 
 @import "nav";
 @import "index";
