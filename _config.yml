@@ -7,7 +7,7 @@ description: News, Tips, Reviews, and Trip Reports
 disqus_shortname:
 search: false
 
-paginate: 5
+paginate: 10
 paginate_path: "blog/page:num"
 
 markdown: kramdown
