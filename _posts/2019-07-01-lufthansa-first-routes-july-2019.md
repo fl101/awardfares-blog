@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lufthansa First Class Routes (July 2019)
-tags: [news]
+tags: [news, lufthansa]
 author: Philip
 comments: true
 image: /assets/img/lh-routes-july/summary.png
