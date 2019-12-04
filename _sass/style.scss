@@ -98,6 +98,14 @@ img {
   clear: both;
 }
 
+a.banner {
+  border: solid 3px $theme;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  display: block;
+}
+
 @import "nav";
 @import "index";
 @import "post";
