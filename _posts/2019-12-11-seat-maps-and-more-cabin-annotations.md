@@ -5,7 +5,6 @@ tags: [news]
 author: Philip
 comments: true
 image: /assets/img/cabin-types-2/overview.png
-hidden: true
 ---
 
 We recently announced a new [Gold/Diamond](https://awardfares.com/pricing) feature that lets you see cabin information for certain flights. Read more here [Introducing Cabin Annotations](/cabin-annotations/). Today we've released cabin annotations for many more airlines and even added support for seat maps.
