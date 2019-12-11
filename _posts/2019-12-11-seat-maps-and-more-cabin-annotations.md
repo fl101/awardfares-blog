@@ -20,7 +20,7 @@ Note that this feature is currently only available for aircraft types where we a
 We will continue to improve support for seat map links, and hopefully in the future also provide real-time seat availability maps for flights showing which seats are available at the time of planning a journey.
 
 ## More Cabin Types
-Previously we added support cabin types for some ANA flights and most Singapore Airlines. Now we've increased cabin types to nearly all Star Alliance members. For some airlines we show the business cabin layout (e.g. 1-2-1 or 2-2-2 seating). For other airlines we also show which specific cabin is available on a flight. Here are some examples:
+Previously we added support for cabin types on some ANA flights and most Singapore Airlines. Now we've increased cabin types to nearly all Star Alliance members. For some airlines we show the business cabin layout (e.g. 1-2-1 or 2-2-2 seating). For other airlines we also show which specific cabin is available on a flight. Here are some examples:
 
 #### Air Canada (Signature Class):
 
@@ -56,6 +56,6 @@ Previously we added support cabin types for some ANA flights and most Singapore 
 - Austrian
 - EgyptAir
 - Ethiopian Airlines
-- LOT (business seating)
-- SAS (business seating)
+- LOT
+- SAS
 - Thai Airways
