@@ -15,8 +15,9 @@ function safeDate(str) {
   str = str.replace('Maj', 'May');
   str = str.replace('Juni', 'June');
   str = str.replace('Juli', 'July');
+  str = str.replace('Aug', 'August');
   str = str.replace('Oktober', 'October');
-  return moment(str);
+  return moment(str, 'MMMM D, YYYY');
 }
 
 function safeGet(key, def) {
@@ -64,7 +65,7 @@ function dropHandler(ev) {
 
 function parseData(data, balance) {
 
-  var flypremium = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+  var flypremium = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 
   var categories = {
     Flights: 0,
@@ -81,20 +82,28 @@ function parseData(data, balance) {
   var acc = balance;
   var points = [{ x: new Date, y: acc }];
 
+  var log = [];
+
   for (var i = 1; i < data.length; i++) {
     var row = data[i];
     var date = safeDate(row[0]);
+    if (!date.isValid()) {
+      alert('Found invalid date: ' + row[0]);
+      continue;
+    }
     var description = row[1].split('\n').join('; ');
     var extraPoints = safeNumber(row[2]);
     var basePoints = safeNumber(row[3]);
+
     
     // Only handle activity within the last 12 months
-    if (moment().subtract(12, 'months').startOf('month').isAfter(date)) {
+    var cutoff = moment().startOf('month').subtract(12, 'months');
+    if (cutoff.isSameOrAfter(date)) {
       continue;
     }
-
+    
     var isRefund = description.includes('Refund');
-    var isStatus = description.includes('Status Points from AMEX');
+    var isStatus = description.includes('Status');
 
     // Update points data
     if (!isStatus) {
@@ -129,14 +138,18 @@ function parseData(data, balance) {
     }
 
     // Update flypremium data
+    var isFlyPremium = false;
     if (extraPoints > 0 && !isRefund && !isStatus) {
       var monthsOffset = moment().diff(date, 'month');
-      if (monthsOffset < flypremium.length) {
-        for (var j = 0; j < 12 - monthsOffset; j++) {
+      if (monthsOffset <= flypremium.length) {
+        isFlyPremium = true;
+        for (var j = 0; j < 13 - monthsOffset; j++) {
           flypremium[j] += extraPoints;
         }
       }
     }
+
+    log.push(`${isFlyPremium ? '!' : 'X'} - ${date.format('YYYY-MM-DD')} - ${extraPoints} - ${basePoints} - ${description}`);
   }
 
   document.getElementById('delta').innerText = points[0].y - points[points.length - 1].y;
@@ -147,6 +160,8 @@ function parseData(data, balance) {
   drawFlyPremium(flypremium.map((e, i) => {
     return { x: moment().add(i, 'months').toDate(), y: e };
   }));
+
+  document.getElementById('log').innerText = log.join('\n');
 }
 
 //------------------------------------------------------------------------------------
