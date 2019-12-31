@@ -51,7 +51,7 @@ function dropHandler(ev) {
     var arr = XLSX.utils.sheet_to_json(sheet, { header: 1 });
 
     var balance = safeNumber(safeGet('eurobonus.balance', '0'));
-    balance = safeNumber(prompt('Current EuroBonus balance', balance));
+    balance = safeNumber(prompt('Current EuroBonus "Points for Use" balance:', balance));
     safeSet('eurobonus.balance', balance);
 
     parseData(arr, balance);

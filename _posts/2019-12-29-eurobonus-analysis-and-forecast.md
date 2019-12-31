@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EuroBonus Analysis and Forecast
+title: SAS EuroBonus Analysis and Forecast
 tags: [news]
 author: Philip
 comments: true
@@ -11,7 +11,7 @@ hidden: true
 2. Scroll down to "Activity"
 3. Click "Export to Excel"
 4. Drag the downloaded Excel file to the box below
-5. Enter your current EuroBonus point balance
+5. Enter your current EuroBonus "Points for Use" balance
 
 <div id="dropzone" ondrop="dropHandler(event);" ondragover="dragOverHandler(event);">
   Drag and drop your exported activity here!
@@ -30,6 +30,8 @@ Your point activity by category during the past 12 months.
 Your FlyPremium status forecast for the **next** 12 months.  
 Your current FlyPremium balance is: <b><span id="flypremiumBalance">0</span></b>
 <canvas id="flypremiumChart" width="400" height="100"></canvas>
+
+Note: Your FlyPremium balance may not match exactly.
 
 <pre id="log"></pre>
 
@@ -50,5 +52,6 @@ Your current FlyPremium balance is: <b><span id="flypremiumBalance">0</span></b>
   }
   #log {
     font-size: 9pt;
+    display: none;
   }
 </style>
