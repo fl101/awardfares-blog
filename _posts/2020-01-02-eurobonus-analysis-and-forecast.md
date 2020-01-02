@@ -1,11 +1,15 @@
 ---
 layout: post
 title: SAS EuroBonus Analysis and Forecast
-tags: [news]
+tags: [tools, eurobonus]
 author: Philip
 comments: true
 hidden: true
+image: /assets/img/eurobonus-analysis-and-forecast/overview.png
+hide_image_in_post: true
 ---
+
+We've built a simple tool that helps you analyze and forecast your SAS EuroBonus activity. Simply import your point activity from your EuroBonus profile. Your data is kept private and is not uploaded/processed by our servers.
 
 1. Log into SAS [My EuroBonus](https://www.sas.se/en/profile/#/profile?userAction=Eurobonus)
 2. Scroll down to "Activity"
@@ -31,7 +35,7 @@ Your FlyPremium status forecast for the **next** 12 months.
 Your current FlyPremium balance is: <b><span id="flypremiumBalance">0</span></b>
 <canvas id="flypremiumChart" width="400" height="100"></canvas>
 
-Note: Your FlyPremium balance may not match exactly.
+Note: Your exact FlyPremium balance may differ slightly.
 
 <pre id="log"></pre>
 
