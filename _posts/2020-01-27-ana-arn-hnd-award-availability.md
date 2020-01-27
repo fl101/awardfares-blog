@@ -13,6 +13,7 @@ SAS EuroBonus has just released award availability on the new ANA direct flight 
 * As rumoured, the route is currently operated by a [Boeing 787-8](https://www.seatguru.com/airlines/ANA/ANA_Boeing_787-8_V4.php) (most likely with a 1-2-1 Business class configuration).
 * Revenue tickets are still not available at the time of writing this post.
 * Award space not available through United MileagePlus or Avianca LifeMiles (yet).
+* Flight numbers: NH222 (ARN-HND) and NH221 (HND-ARN)
 
 Explore all availability in AwardFares:  
 [https://awardfares.com/search?ARN.HND.2020-08-01](https://awardfares.com/search?ARN.HND.2020-08-01)
