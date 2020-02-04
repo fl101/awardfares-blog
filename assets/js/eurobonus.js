@@ -81,27 +81,31 @@ function parseData(data, balance) {
   
   var acc = balance;
   var points = [{ x: new Date, y: acc }];
-
   var log = [];
+
+  // Only process activity within the last 12 months
+  var cutoff = moment().startOf('month').subtract(12, 'months');
 
   for (var i = 1; i < data.length; i++) {
     var row = data[i];
+    if (row.length < 4) {
+      continue;
+    }
+
     var date = safeDate(row[0]);
     if (!date.isValid()) {
       alert('Found invalid date: ' + row[0]);
       continue;
     }
+
+    if (cutoff.isAfter(date)) {
+      continue;
+    }
+
     var description = row[1].split('\n').join('; ');
     var extraPoints = safeNumber(row[2]);
     var basePoints = safeNumber(row[3]);
 
-    
-    // Only handle activity within the last 12 months
-    var cutoff = moment().startOf('month').subtract(12, 'months');
-    if (cutoff.isSameOrAfter(date)) {
-      continue;
-    }
-    
     var isRefund = description.includes('Refund');
     var isStatus = description.includes('Status');
 
@@ -140,7 +144,7 @@ function parseData(data, balance) {
     // Update flypremium data
     var isFlyPremium = false;
     if (extraPoints > 0 && !isRefund && !isStatus) {
-      var monthsOffset = moment().diff(date, 'month');
+      var monthsOffset = moment().startOf('month').diff(date.startOf('month'), 'month');
       if (monthsOffset <= flypremium.length) {
         isFlyPremium = true;
         for (var j = 0; j < 13 - monthsOffset; j++) {
@@ -149,19 +153,26 @@ function parseData(data, balance) {
       }
     }
 
-    log.push(`${isFlyPremium ? '!' : 'X'} - ${date.format('YYYY-MM-DD')} - ${extraPoints} - ${basePoints} - ${description}`);
+    log.push(`
+      <tr>
+        <td>${date.format('YYYY-MM-DD')}</td>
+        <td>${extraPoints}</td>
+        <td>${basePoints}</td>
+        <td>${description}</td>
+        <td>${isFlyPremium ? 'Yes' : ''}</td>
+      </tr>
+    `);
   }
 
+  document.querySelector('#log > tbody').innerHTML = log.join('\n');
   document.getElementById('delta').innerText = points[0].y - points[points.length - 1].y;
   document.getElementById('flypremiumBalance').innerText = flypremium[0];
 
   drawPoints(points);
   drawCategories(categories);
   drawFlyPremium(flypremium.map((e, i) => {
-    return { x: moment().add(i, 'months').toDate(), y: e };
+    return { x: moment().startOf('month').add(i, 'months').toDate(), y: e };
   }));
-
-  document.getElementById('log').innerText = log.join('\n');
 }
 
 //------------------------------------------------------------------------------------

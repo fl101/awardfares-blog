@@ -35,9 +35,20 @@ Your FlyPremium status forecast for the **next** 12 months.
 Your current FlyPremium balance is: <b><span id="flypremiumBalance">0</span></b>
 <canvas id="flypremiumChart" width="400" height="100"></canvas>
 
-Note: Your exact FlyPremium balance may differ slightly.
-
-<pre id="log"></pre>
+## Point Activity
+<table id="log">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Extra</th>
+      <th>Base</th>
+      <th>Description</th>
+      <th>FlyPremium</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/jszip.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.js"></script>
@@ -56,6 +67,7 @@ Note: Your exact FlyPremium balance may differ slightly.
   }
   #log {
     font-size: 9pt;
-    display: none;
+    margin-top: 10px;
+    text-align: left;
   }
 </style>
