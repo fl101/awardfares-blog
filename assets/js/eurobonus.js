@@ -200,6 +200,8 @@
     drawFlyPremium(flypremium.map(function (e, i) {
       return { x: moment().startOf('month').add(i, 'months').toDate(), y: e };
     }));
+
+    document.querySelector('[id=point-history]').scrollIntoView();
   }
 
   //------------------------------------------------------------------------------------
