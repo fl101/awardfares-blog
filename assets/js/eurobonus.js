@@ -8,15 +8,27 @@ function safeNumber(str) {
   return Number(str.replace(' ', ''));
 }
 
+const MONTHS = moment().locale('en').localeData().months();
+const LOCALES = ['da-dk', 'no-no', 'sv-se', 'en'];
+
+function safeMonth(str) {
+  for (const locale of LOCALES) {
+    const localeData = moment().locale(locale).localeData();
+    const months = localeData.months().map(e => e.toLowerCase());
+    const short = localeData.monthsShort().map(e => e.toLowerCase());
+    for (let i = 0; i < 12; i++) {
+      if (str == months[i]) return MONTHS[i];
+      if (str == short[i]) return MONTHS[i];
+    }
+  }
+  throw new Error('Unknown month: ' + str);
+}
+
 function safeDate(str) {
-  str = str.replace('Januari', 'January');
-  str = str.replace('Februari', 'February');
-  str = str.replace('Mars', 'March'); 
-  str = str.replace('Maj', 'May');
-  str = str.replace('Juni', 'June');
-  str = str.replace('Juli', 'July');
-  str = str.replace('Aug', 'August');
-  str = str.replace('Oktober', 'October');
+  str = str.toLowerCase();
+  str = str.split(' ');
+  str[0] = safeMonth(str[0]);
+  str = str.join(' ');
   return moment(str, 'MMMM D, YYYY');
 }
 
