@@ -1,300 +1,316 @@
-initCharts();
+(function () {
+  initCharts();
 
-//------------------------------------------------------------------------------------
-// Helpers
-//------------------------------------------------------------------------------------
+  document.addEventListener('drop', dropHandler);
+  document.addEventListener('dragover', dragOverHandler);
 
-function safeNumber(str) {
-  return Number(str.replace(' ', ''));
-}
+  //------------------------------------------------------------------------------------
+  // Helpers
+  //------------------------------------------------------------------------------------
 
-const MONTHS = moment().locale('en').localeData().months();
-const LOCALES = ['da-dk', 'no-no', 'sv-se', 'en'];
-
-function safeMonth(str) {
-  for (const locale of LOCALES) {
-    const localeData = moment().locale(locale).localeData();
-    const months = localeData.months().map(e => e.toLowerCase());
-    const short = localeData.monthsShort().map(e => e.toLowerCase());
-    for (let i = 0; i < 12; i++) {
-      if (str == months[i]) return MONTHS[i];
-      if (str == short[i]) return MONTHS[i];
-    }
+  function safeNumber(str) {
+    return Number(str.replace(' ', ''));
   }
-  throw new Error('Unknown month: ' + str);
-}
 
-function safeDate(str) {
-  str = str.toLowerCase();
-  str = str.split(' ');
-  str[0] = safeMonth(str[0]);
-  str = str.join(' ');
-  return moment(str, 'MMMM D, YYYY');
-}
+  const MONTHS = moment().locale('en').localeData().months();
+  const LOCALES = ['sv-se', 'nb-no', 'en', 'da-dk'];
 
-function safeGet(key, def) {
-  var value = localStorage.getItem(key);
-  return value == null ? def : value;
-}
-
-function safeSet(key, value) {
-  localStorage.setItem(key, value);
-}
-
-//------------------------------------------------------------------------------------
-// Drag Drop
-//------------------------------------------------------------------------------------
-
-function dragOverHandler(ev) {
-  ev.preventDefault();
-}
-
-function dropHandler(ev) {
-  ev.stopPropagation();
-  ev.preventDefault();
-
-  var files = ev.dataTransfer.files;
-  var file = files[0];
-  var reader = new FileReader();
-  reader.onload = function(e) {
-    var data = new Uint8Array(e.target.result);
-    var workbook = XLSX.read(data, {type: 'array'});
-    var sheet = workbook.Sheets['My EuroBonus Activity'];
-    var arr = XLSX.utils.sheet_to_json(sheet, { header: 1 });
-
-    var balance = safeNumber(safeGet('eurobonus.balance', '0'));
-    balance = safeNumber(prompt('Current EuroBonus "Points for Use" balance:', balance));
-    safeSet('eurobonus.balance', balance);
-
-    parseData(arr, balance);
-  };
-  reader.readAsArrayBuffer(file);
-}
-
-//------------------------------------------------------------------------------------
-// Parser
-//------------------------------------------------------------------------------------
-
-function parseData(data, balance) {
-
-  var flypremium = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
-
-  var categories = {
-    Flights: 0,
-    Amex: 0,
-    MasterCard: 0,
-    Avis: 0,
-    Shopping: 0,
-    Transfer: 0,
-    Redemption: 0,
-    Status: 0,
-    Other: 0,
-  };
-  
-  var acc = balance;
-  var points = [{ x: new Date, y: acc }];
-  var log = [];
-
-  // Only process activity within the last 12 months
-  var cutoff = moment().startOf('month').subtract(12, 'months');
-
-  for (var i = 1; i < data.length; i++) {
-    var row = data[i];
-    if (row.length < 4) {
-      continue;
+  function safeMonth(str) {
+    for (let localeIdx in LOCALES) {
+      const locale = LOCALES[localeIdx];
+      const localeData = moment().locale(locale).localeData();
+      const months = localeData.months().map(function (e) { return e.toLowerCase() });
+      const short = localeData.monthsShort().map(function (e) { return e.toLowerCase() });
+      for (let monthIdx = 0; monthIdx < 12; monthIdx++) {
+        if (str == months[monthIdx]) return MONTHS[monthIdx];
+        if (str == short[monthIdx]) return MONTHS[monthIdx];
+      }
     }
+    throw new Error('Unknown month: ' + str);
+  }
 
-    var date = safeDate(row[0]);
-    if (!date.isValid()) {
-      alert('Found invalid date: ' + row[0]);
-      continue;
-    }
+  function safeDate(str) {
+    str = str.toLowerCase();
+    str = str.split(' ');
+    str[0] = safeMonth(str[0]);
+    str = str.join(' ');
+    return moment(str, 'MMMM D, YYYY');
+  }
 
-    if (cutoff.isAfter(date)) {
-      continue;
-    }
+  function safeGet(key, def) {
+    const value = localStorage.getItem(key);
+    return value == null ? def : value;
+  }
 
-    var description = row[1].split('\n').join('; ');
-    var extraPoints = safeNumber(row[2]);
-    var basePoints = safeNumber(row[3]);
+  function safeSet(key, value) {
+    localStorage.setItem(key, value);
+  }
 
-    var isRefund = description.includes('Refund');
-    var isStatus = description.includes('Status');
+  //------------------------------------------------------------------------------------
+  // Drag Drop
+  //------------------------------------------------------------------------------------
 
-    // Update points data
-    if (!isStatus) {
-      acc -= extraPoints;
-      points.push({
-        x: date.toDate(),
-        y: acc,
-      });
-    }
+  function dragOverHandler(ev) {
+    ev.preventDefault();
+  }
+
+  function dropHandler(ev) {
+    ev.stopPropagation();
+    ev.preventDefault();
+
+    const files = ev.dataTransfer.files;
+    const file = files[0];
+    const reader = new FileReader();
+    reader.onload = function(e) {
+      const data = new Uint8Array(e.target.result);
+      const workbook = XLSX.read(data, {type: 'array'});
+      const sheet = workbook.Sheets['My EuroBonus Activity'];
+      const arr = XLSX.utils.sheet_to_json(sheet, { header: 1 });
+
+      let balance = safeNumber(safeGet('eurobonus.balance', '0'));
+      balance = safeNumber(prompt('Current EuroBonus "Points for Use" balance:', balance));
+      safeSet('eurobonus.balance', balance);
+
+      parseData(arr, balance);
+    };
+    reader.readAsArrayBuffer(file);
+  }
+
+  //------------------------------------------------------------------------------------
+  // Parser
+  //------------------------------------------------------------------------------------
+
+  function parseData(data, balance) {
+
+    const flypremium = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+
+    const categories = {
+      Flights: 0,
+      Amex: 0,
+      MasterCard: 0,
+      Avis: 0,
+      Shopping: 0,
+      Transfer: 0,
+      Redemption: 0,
+      Status: 0,
+      Other: 0,
+    };
     
-    // Update categories data
-    if (basePoints) {
-      categories.Flights += basePoints;
-    } else if (description.includes('Status')) {
-      categories.Status += extraPoints;
-    } else if (description.includes('Refund')) {
-      categories.Redemption += extraPoints;
-    } else if (description.includes('Amex')) {
-      categories.Amex += extraPoints;
-    } else if (description.includes('MasterCard')) {
-      categories.MasterCard += extraPoints;
-    } else if (description.includes('Avis')) {
-      categories.Avis += extraPoints;
-    } else if (description.includes('Shop')) {
-      categories.Shopping += extraPoints;
-    } else if (description.includes('Transfer')) {
-      categories.Transfer += extraPoints;
-    } else if (extraPoints < 0) {
-      categories.Redemption += extraPoints;
-    } else {
-      categories.Other += extraPoints;
-    }
+    let acc = balance;
+    const points = [{ x: new Date, y: acc }];
+    const log = [];
 
-    // Update flypremium data
-    var isFlyPremium = false;
-    if (extraPoints > 0 && !isRefund && !isStatus) {
-      var monthsOffset = moment().startOf('month').diff(date.startOf('month'), 'month');
-      if (monthsOffset <= flypremium.length) {
-        isFlyPremium = true;
-        for (var j = 0; j < 13 - monthsOffset; j++) {
-          flypremium[j] += extraPoints;
+    // Only process activity within the last 12 months
+    const cutoff = moment().startOf('month').subtract(12, 'months');
+
+    for (let i = 1; i < data.length; i++) {
+      const row = data[i];
+      if (row.length < 4) {
+        continue;
+      }
+
+      const date = safeDate(row[0]);
+      if (!date.isValid()) {
+        alert('Found invalid date: ' + row[0]);
+        continue;
+      }
+
+      if (cutoff.isAfter(date)) {
+        continue;
+      }
+
+      const description = row[1].split('\n').join('; ');
+      const extraPoints = safeNumber(row[2]);
+      const basePoints = safeNumber(row[3]);
+      const isRefund = description.includes('Refund');
+      const isStatus = description.includes('Status');
+
+      // Update points data
+      if (!isStatus) {
+        acc -= extraPoints;
+        points.push({
+          x: date.toDate(),
+          y: acc,
+        });
+      }
+
+      // Update categories data
+      if (basePoints) {
+        categories.Flights += basePoints;
+      } else if (description.includes('Status')) {
+        categories.Status += extraPoints;
+      } else if (description.includes('Refund')) {
+        categories.Redemption += extraPoints;
+      } else if (description.includes('Amex')) {
+        categories.Amex += extraPoints;
+      } else if (description.includes('MasterCard')) {
+        categories.MasterCard += extraPoints;
+      } else if (description.includes('Avis')) {
+        categories.Avis += extraPoints;
+      } else if (description.includes('Shop')) {
+        categories.Shopping += extraPoints;
+      } else if (description.includes('Transfer')) {
+        categories.Transfer += extraPoints;
+      } else if (extraPoints < 0) {
+        categories.Redemption += extraPoints;
+      } else {
+        categories.Other += extraPoints;
+      }
+  
+      // Update flypremium data
+      let isFlyPremium = false;
+      if (extraPoints > 0 && !isRefund && !isStatus) {
+        const monthsOffset = moment().startOf('month').diff(date.clone().startOf('month'), 'month');
+        if (monthsOffset <= flypremium.length) {
+          isFlyPremium = true;
+          for (let j = 0; j <= 12 - monthsOffset; j++) {
+            flypremium[j] += extraPoints;
+          }
         }
       }
+
+      log.push(`
+        <tr>
+          <td>${date.format('YYYY-MM-DD')}</td>
+          <td>${extraPoints}</td>
+          <td>${basePoints}</td>
+          <td>${description}</td>
+          <td>${isFlyPremium ? 'Yes' : ''}</td>
+        </tr>
+      `);
     }
 
-    log.push(`
-      <tr>
-        <td>${date.format('YYYY-MM-DD')}</td>
-        <td>${extraPoints}</td>
-        <td>${basePoints}</td>
-        <td>${description}</td>
-        <td>${isFlyPremium ? 'Yes' : ''}</td>
-      </tr>
-    `);
+    const flypremiumBalance = flypremium[0];
+    let flypremiumStatus = 'SAS Plus, Scandinavia, 1 round-trip';
+    if (flypremiumBalance >= 200000) {
+      flypremiumStatus = 'SAS Plus/Business, World, Unlimited';
+    } else if (flypremiumBalance >= 100000) {
+      flypremiumStatus = 'SAS Plus, World, Unlimited';
+    } else if (flypremiumBalance >= 50000) {
+      flypremiumStatus = 'SAS Plus, Europe, Unlimited';
+    }
+
+    document.querySelector('#log > tbody').innerHTML = log.join('\n');
+    document.getElementById('delta').innerText = points[0].y - points[points.length - 1].y;
+    document.getElementById('flypremiumBalance').innerText = flypremiumBalance;
+    document.getElementById('flypremiumStatus').innerText = flypremiumStatus;
+
+    drawPoints(points);
+    drawCategories(categories);
+    drawFlyPremium(flypremium.map(function (e, i) {
+      return { x: moment().startOf('month').add(i, 'months').toDate(), y: e };
+    }));
   }
 
-  document.querySelector('#log > tbody').innerHTML = log.join('\n');
-  document.getElementById('delta').innerText = points[0].y - points[points.length - 1].y;
-  document.getElementById('flypremiumBalance').innerText = flypremium[0];
+  //------------------------------------------------------------------------------------
+  // Charts
+  //------------------------------------------------------------------------------------
 
-  drawPoints(points);
-  drawCategories(categories);
-  drawFlyPremium(flypremium.map((e, i) => {
-    return { x: moment().startOf('month').add(i, 'months').toDate(), y: e };
-  }));
-}
+  function initCharts() {
+    drawPoints([]);
+    drawCategories({});
+    drawFlyPremium([]);  
+  }
 
-//------------------------------------------------------------------------------------
-// Charts
-//------------------------------------------------------------------------------------
-
-function initCharts() {
-  drawPoints([]);
-  drawCategories({});
-  drawFlyPremium([]);  
-}
-
-function drawPoints(data) {
-  var ctx = document.getElementById('pointsChart').getContext('2d');
-  new Chart(ctx, {
-    type: 'line',
-    data: {
-      datasets: [{
-        data,
-        lineTension: 0.1,
-        backgroundColor: 'rgba(41,128,185,0.5)',
-        borderColor: 'rgba(41,128,185,1.0)',
-        pointRadius: 2
-      }]
-    },
-    options: {
-      legend: {
-        display: false
-      },
-      scales: {
-        xAxes: [{
-          type: 'time',
+  function drawPoints(data) {
+    const ctx = document.getElementById('pointsChart').getContext('2d');
+    new Chart(ctx, {
+      type: 'line',
+      data: {
+        datasets: [{
+          data,
+          lineTension: 0.1,
+          backgroundColor: 'rgba(41,128,185,0.5)',
+          borderColor: 'rgba(41,128,185,1.0)',
+          pointRadius: 2
         }]
-      }
-    }
-  });
-}
-
-function drawCategories(data) {
-  var ctx = document.getElementById('categoriesChart').getContext('2d');
-  new Chart(ctx, {
-    type: 'bar',
-    data: {
-      datasets: [{
-        data: Object.keys(data).map(e => data[e]),
-        backgroundColor: [
-          '#9b59b6',
-          '#3498db',
-          '#34495e',
-          '#e74c3c',
-          '#f39c12',
-          '#7f8c8d',
-          '#c0392b',
-          '#2ecc71',
-          '#f39c12',
-          '#16a085',
-        ],
-      }],
-      labels: Object.keys(data)
-    },
-    options: {
-      legend: {
-        display: false
-      }
-    }
-  });
-}
-
-function drawFlyPremium(data) {
-  var ctx = document.getElementById('flypremiumChart').getContext('2d');
-  new Chart(ctx, {
-    type: 'line',
-    data: {
-      datasets: [{
-        data,
-        lineTension: 0.1,
-        backgroundColor: 'rgba(52,73,94,0.5)',
-        borderColor: 'rgba(52,73,94,1.0)',
-      },{
-        data: data.map(e => ({ x: e.x, y: 200000 })),
-        label: 'Business for Go',
-        fill: false,
-        pointRadius: 0,
-        borderColor: '#e74c3c',
-        borderWidth: 1,
-      },{
-        data: data.map(e => ({ x: e.x, y: 100000 })),
-        label: 'Plus for Go',
-        fill: false,
-        pointRadius: 0,
-        borderColor: '#e74c3c',
-        borderWidth: 1,
-      },{
-        data: data.map(e => ({ x: e.x, y:  50000 })),
-        label: 'Plus for Go (Europe)',
-        fill: false,
-        pointRadius: 0,
-        borderColor: '#e74c3c',
-        borderWidth: 1,
-      }]
-    },
-    options: {
-      legend: {
-        display: false
       },
-      scales: {
-        xAxes: [{
-          type: 'time',
-        }]
+      options: {
+        legend: {
+          display: false
+        },
+        scales: {
+          xAxes: [{
+            type: 'time',
+          }]
+        }
       }
-    }
-  });
-}
+    });
+  }
+
+  function drawCategories(data) {
+    const ctx = document.getElementById('categoriesChart').getContext('2d');
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        datasets: [{
+          data: Object.keys(data).map(function (e) { return data[e] }),
+          backgroundColor: [
+            '#9b59b6',
+            '#3498db',
+            '#34495e',
+            '#e74c3c',
+            '#f39c12',
+            '#7f8c8d',
+            '#c0392b',
+            '#2ecc71',
+            '#f39c12',
+            '#16a085',
+          ],
+        }],
+        labels: Object.keys(data)
+      },
+      options: {
+        legend: {
+          display: false
+        }
+      }
+    });
+  }
+
+  function drawFlyPremium(data) {
+    const ctx = document.getElementById('flypremiumChart').getContext('2d');
+    new Chart(ctx, {
+      type: 'line',
+      data: {
+        datasets: [{
+          data,
+          lineTension: 0.1,
+          backgroundColor: 'rgba(52,73,94,0.5)',
+          borderColor: 'rgba(52,73,94,1.0)',
+        },{
+          data: data.map(function (e) { return { x: e.x, y: 200000 }; }),
+          label: 'Business for Go',
+          fill: false,
+          pointRadius: 0,
+          borderColor: '#e74c3c',
+          borderWidth: 1,
+        },{
+          data: data.map(function (e) { return { x: e.x, y: 100000 }; }),
+          label: 'Plus for Go',
+          fill: false,
+          pointRadius: 0,
+          borderColor: '#e74c3c',
+          borderWidth: 1,
+        },{
+          data: data.map(function (e) { return { x: e.x, y: 50000 }; }),
+          label: 'Plus for Go (Europe)',
+          fill: false,
+          pointRadius: 0,
+          borderColor: '#e74c3c',
+          borderWidth: 1,
+        }]
+      },
+      options: {
+        legend: {
+          display: false
+        },
+        scales: {
+          xAxes: [{
+            type: 'time',
+          }]
+        }
+      }
+    });
+  }
+})();

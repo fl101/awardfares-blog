@@ -32,7 +32,8 @@ Your point activity by category during the past 12 months.
 
 ## FlyPremium Forecast
 Your FlyPremium status forecast for the **next** 12 months.  
-Your current FlyPremium balance is: <b><span id="flypremiumBalance">0</span></b>
+Your current FlyPremium balance: <b><span id="flypremiumBalance">0</span></b>  
+Your current FlyPremium status: <b><span id="flypremiumStatus"></span></b>
 <canvas id="flypremiumChart" width="400" height="100"></canvas>
 
 ## Point Activity
