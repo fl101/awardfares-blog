@@ -4,7 +4,6 @@ title: SAS EuroBonus Analysis and Forecast
 tags: [tools, eurobonus]
 author: Philip
 comments: true
-hidden: true
 image: /assets/img/eurobonus-analysis-and-forecast/overview.png
 hide_image_in_post: true
 ---
