@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review of Qatar Airways Economy Copenhagen to Auckland (777-300ER & 777-200LR)
-tags: [review, qatar airways]
+tags: [Review, Qatar Airways]
 author: Philip
 comments: true
 image: /assets/img/qr-eco-review/gcmap.png

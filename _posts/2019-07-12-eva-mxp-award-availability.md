@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wide-Open Award Space on EVA's New Milan (MXP) Route
-tags: [news]
+tags: [News]
 author: Philip
 comments: true
 image: /assets/img/eva-mxp-awards/screenshot.png

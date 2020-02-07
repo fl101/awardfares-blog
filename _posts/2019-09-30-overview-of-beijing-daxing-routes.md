@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overview of Beijing Daxing routes
-tags: [news]
+tags: [News]
 author: Philip
 comments: true
 image: /assets/img/overview-of-daxing-routes/overview.png

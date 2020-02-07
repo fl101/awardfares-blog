@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Haneda Maintenance Facilities Tour
-tags: [review]
+tags: [Review, Tour]
 author: Philip
 comments: true
 image: /assets/img/haneda-jal-tour/overview.png

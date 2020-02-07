@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding a Scandinavia Zone
-tags: [news]
+tags: [News]
 author: Philip
 comments: true
 image: /assets/img/scandinavia.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ultimate Guide to Award Release Dates
-tags: [guide]
+tags: [Guide]
 author: Philip
 comments: true
 image: /assets/img/award-dates/image.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lufthansa Short Haul Business Class Review
-tags: [review, lufthansa]
+tags: [Review, Lufthansa]
 author: Richard
 comments: true
 image: /assets/img/lh-shorthaul-biz/wall.jpeg

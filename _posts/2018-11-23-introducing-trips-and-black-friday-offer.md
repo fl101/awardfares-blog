@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Trips and Black Friday Offer
-tags: [news]
+tags: [News]
 author: Philip
 comments: true
 hidden: false

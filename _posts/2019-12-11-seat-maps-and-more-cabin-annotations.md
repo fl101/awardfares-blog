@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seat Maps and More Cabin Annotations
-tags: [news]
+tags: [News]
 author: Philip
 comments: true
 image: /assets/img/cabin-types-2/overview.png

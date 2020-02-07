@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lufthansa First Class Routes (December 2019)
-tags: [news, lufthansa]
+tags: [News, Lufthansa]
 author: Philip
 comments: true
 image: /assets/img/lh-routes-dec19/summary.png

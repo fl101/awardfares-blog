@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ANA A380 Awards Now Available
-tags: [news]
+tags: [News]
 author: Philip
 comments: true
 hidden: false
