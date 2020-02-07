@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "bundle exec jekyll serve --drafts --future",
-    "images-tags": "node ./_scripts/generate-image-tags.js",
+    "images": "node ./_scripts/generate-image-tags.js",
     "resize": "node ./_scripts/resize-images.js"
   },
   "author": "",
