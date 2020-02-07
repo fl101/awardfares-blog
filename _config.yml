@@ -26,10 +26,13 @@ plugins:
   
 exclude:
   - .git/
-  - _scripts/node_modules
   - .gitignore
   - CNAME
   - Gemfile
   - Gemfile.lock
   - README.md
   - serve.sh
+  - node_modules
+  - package.json
+  - yarn.lock
+  
