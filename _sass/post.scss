@@ -99,6 +99,11 @@
     object-fit: cover;
     width: 100%;
     border: solid 1px #eee;
+    border-radius: 8px;
+  }
+
+  blockquote {
+    font-style: italic;
   }
 
   img.noborder {
