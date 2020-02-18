@@ -46,8 +46,8 @@ Here is a list of the number of days in advance you can earliest find award spac
 | LOT                            | 361             | <span></span>   |
 | Lufthansa                      | 360             | <span></span>   |
 | Lufthansa (long-haul Business) | 180             | <span></span>   |
-| Lufthansa (long-haul First)    | 14              | <span></span>   |
-| SAS                            | 330 *           | <span></span>   |
+| Lufthansa (long-haul First) *  | 14              | <span></span>   |
+| SAS                            | 330 **          | <span></span>   |
 | Singapore Airlines             | 355             | <span></span>   |
 | South African Airways          | 358             | <span></span>   |
 | SWISS                          | 300             | <span></span>   |
@@ -60,7 +60,9 @@ Here is a list of the number of days in advance you can earliest find award spac
 
 Notes:
 
-\* SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
+\* Applies to other Star Alliance airlines. Members of Miles & More can book up to 180 days in advance
+
+\*\* SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
 
 <script>
 (function () {
