@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JAL Economy 777-200 GMP-HND
+title: JAL Economy 777-200 GMP-HND Review
 tags: [Review, JAL, Economy]
 author: Philip
 comments: true
