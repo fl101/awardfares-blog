@@ -5,7 +5,6 @@ tags: [News, Guide]
 author: Philip
 comments: true
 image: /assets/img/covid19/overview.png
-hidden: true
 ---
 
 The recent 2019-20 coronavirus outbreak (SARS-CoV-2 / COVID-19) is definitely having a large impact on the travel and airlines. Whether you're currently travelling or planning to travel there are many different aspects that may affect you, including suspended flight services and country travel restrictions.
