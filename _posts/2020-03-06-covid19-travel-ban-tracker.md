@@ -12,6 +12,8 @@ If you're a frequent traveller it might be hard to keep track of different count
 
  For simplicity, in cases where only parts of a country is affected by the travel bans, such as Hong Kong only banning travellers who have been to certain parts of Italy, any travel to that country will result in the enforcing country being marked as banned. This means you might be able to travel to that country anyway, always check official sources before travelling.
 
+ Last updated: 2020-03-06 22:00 UTC
+
 <link rel="stylesheet" href="/assets/js/jvm/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
 <div id="world-map" style="width: 100%; height: 900px"></div>
   Citizenship: <select class="country-selection" id="nationality-selection"></select>
