@@ -8,6 +8,8 @@ image: /assets/img/covid19/overview.png
 hidden: true
 ---
 
+Test
+
 <link rel="stylesheet" href="/assets/js/jvm/jquery-jvectormap-2.0.5.css" type="text/css" media="screen"/>
 <div id="world-map" style="width: 100%; height: 900px"></div>
   Citizenship: <select class="country-selection" id="nationality-selection"></select>
