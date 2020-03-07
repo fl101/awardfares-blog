@@ -60,6 +60,7 @@ Last updated: <span class="last-updated"></span>
 <script src="/assets/js/jvm/jquery-jvectormap-2.0.5.min.js"></script>
 <script src="/assets/js/jvm/jquery-jvectormap-world-mill.js"></script>
 <script src="/assets/js/travel-bans-map.js"></script>
-<p>
+
 Note that this tool is provided as an indication only and is not intended to replace official sources. Always check official sources of information before travelling. AwardFares does not assume any responsibility for the correctness of the information.
-</p>
+
+Source: [IATA](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)

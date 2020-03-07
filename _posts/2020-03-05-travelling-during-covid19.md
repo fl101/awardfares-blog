@@ -21,6 +21,8 @@ Check out the [OAG blog](https://www.oag.com/blog/chinese-capacity-recovers) for
 ## Travel Restrictions
 Besides airlines suspending and reducing services it is also important to follow the current travel restrictions. Many countries have blocked entry from virus-affected countries or require quarantine upon arrival. [IATA](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) has a great list that summarizes most of the current travel restrictions. However, the list may not always be up to date so **always double check with official information** for any countries you plan to visit.
 
+Keep track of the restrictions using our [Travel Ban Tracker](/covid19-travel-ban-tracker/)
+
 [https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)
 
 <a href="https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm">
