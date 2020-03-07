@@ -14,6 +14,8 @@ For simplicity, in cases where only parts of a country is affected by the travel
 
 The map currently does not take into account if you're a resident or national of the country you want to travel to, citizens of most countries are allowed to return home even if they've been in banned areas. This will be fixed in a future version.
 
+For your privacy the tool runs fully in the browser and no data about your travel history or nationality is ever sent anywhere.
+
 # Instructions
 
 1. Enter the nationality of the passport you're travelling on
