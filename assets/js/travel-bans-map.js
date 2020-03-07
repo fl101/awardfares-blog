@@ -48,6 +48,7 @@ function addCountry() {
   var clone = $('#trip-template').clone();
   clone.attr('style', '');
   clone.attr('id', '');
+  clone.attr('class', 'destination')
   $('.remove-country', clone).on('click', function () {
     clone.remove();
     delete trips[countries[$('.country-selection', clone)[0].selectedIndex].id]
@@ -69,6 +70,8 @@ function addCountry() {
 }
 
 $('#add-country').on('click', addCountry);
+
+$('.last-updated').html(moment.tz('2020-03-06 22:00:00', 'UTC').tz(moment.tz.guess()).format('YYYY-MM-DD HH:mm zz'))
 
 $.getJSON('/assets/js/travel-bans.json', function (data) {
   var options = '';
@@ -95,7 +98,7 @@ $.getJSON('/assets/js/travel-bans.json', function (data) {
     onRegionTipShow: function (e, el, code) {
       var text = countryMap[code] && countryMap[code].tooltip || '';
       el.html(el.html() + '<br/><pre>' + text + '</pre>');
-      $('pre', el).attr('style', 'max-width:500px;white-space: pre-wrap; overflow: wrap')
+      $('pre', el).attr('style', 'max-width:500px;white-space: pre-wrap; overflow: wrap;font-size:9pt')
     }
   });
   recalculateBans();

@@ -1065,8 +1065,7 @@
     "id": "TH",
     "name": "Thailand",
     "nationalBans":["AE"],
-    "bans":{"CN":-1, "TW":-1, "HK":-1, "MO":-1},
-    "tooltip":"1. Passengers and airline crew arriving from or transiting through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China) are not allowed to enter Tonga. This does not apply if they have stayed in a country with no confirmed cases of Coronavirus (COVID-19) for a period of minimum 14 days before entering Tonga. They must have an official medical clearance undertaken within 3 days prior to arrival in Tonga.\n\n- This does not apply to nationals of Tonga and their immediate family members.\n\n- This does not apply to permanent residents of Tonga and their immediate family members.\n\n- This does not apply to airline crew on direct flights from China (People's Rep.) who have been using appropriate personal protective equipment (PPE).\n\n2. Passengers must complete a 'Traveler's Arrival Health Declaration Card' and submit it to the Ministry of Health Border Control when arriving in Tonga."
+    "tooltip":"Based on the travel advisory restriction issued by United Arab Emirates Government, nationals of United Arab Emirates are not allowed to travel to Thailand."
 },
 {
     "id": "TJ",
@@ -1093,7 +1092,10 @@
 },
 {
     "id": "TO",
-    "name": "Tonga"
+    "name": "Tonga",
+    "bans":{"CN":-1, "TW":-1, "HK":-1, "MO":-1},
+    "nationalsExcempt":true,
+    "tooltip":"1. Passengers and airline crew arriving from or transiting through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China) are not allowed to enter Tonga. This does not apply if they have stayed in a country with no confirmed cases of Coronavirus (COVID-19) for a period of minimum 14 days before entering Tonga. They must have an official medical clearance undertaken within 3 days prior to arrival in Tonga.\n\n- This does not apply to nationals of Tonga and their immediate family members.\n\n- This does not apply to permanent residents of Tonga and their immediate family members.\n\n- This does not apply to airline crew on direct flights from China (People's Rep.) who have been using appropriate personal protective equipment (PPE).\n\n2. Passengers must complete a 'Traveler's Arrival Health Declaration Card' and submit it to the Ministry of Health Border Control when arriving in Tonga."
 },
 {
     "id": "TR",
