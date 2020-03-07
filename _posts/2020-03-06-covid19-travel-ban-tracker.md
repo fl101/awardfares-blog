@@ -4,7 +4,6 @@ title: "COVID-19 Travel Ban Tracker"
 tags: [News, Tools]
 author: Richard
 comments: true
-hidden: true
 image: /assets/img/covid19-travelbans/overview.png
 hide_image_in_post: true
 ---
