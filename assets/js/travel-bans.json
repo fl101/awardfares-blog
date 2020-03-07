@@ -323,7 +323,7 @@
     "name": "Fiji",
     "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14},
     "nationalsExcempt":true,
-    "tooltip": "Passengers and airline crew who have been in China (People's Rep.), Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to enter Fiji.\n\n- This does not apply to nationals of Fiji."
+    "tooltip": "1. Passengers and airline crew who have been in China (People's Rep.), Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to enter Fiji.\n\n- This does not apply to nationals of Fiji."
 },
 {
     "id": "FK",
@@ -492,9 +492,9 @@
     "name": "Iraq",
     "nationalBans":["CN", "IR"],
     "nationalRestrictions":["KW", "BH"],
-    "restrictions":{"BH":-30, "CN":-30, "HK":-30, "IR":-30, "IT":-30, "JP":-30, "KR":-30, "KW":-30, "SG":-30, "TH":-30},
+    "restrictions":{"IR":-30, "BH":-30, "CN":-30, "FR":-30, "HK":-30, "IT":-30, "JP":-30, "KR":-30, "KW":-30, "MO":-30, "SG":-30, "TH":-30},
     "bans":{"CN":-14, "HK":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "MO":-14, "SG":-14, "TH":-14},
-    "tooltip":"1.Nationals of China (People's Rep.) are not allowed to enter Iraq.\n\n2.Nationals of Iran are not allowed to enter Iraq.\n\n- This does not apply at Erbil (EBL) and Sulaymaniyah (ISU).\n\n3.Nationals of Iran with a normal passport are not allowed to enter via Erbil (EBL) and Sulaymaniyah (ISU).\n\n4.Nationals of Bahrain and Kuwait with a normal passport are not allowed to enter through Erbil (EBL) and Sulaymaniyah (ISU).\n\n5.Passengers who have been in Bahrain, China (People’s Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea Rep., Kuwait, Singapore, or Thailand, after 1 January 2020 are not allowed to enter through Erbil (EBL) and Sulaymaniyah (ISU).\n\n6.Passengers who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore or Thailand in the past 14 days are not allowed to enter Iraq.\n\n- This does not apply at Erbil (EBL) and Sulaymaniyah (ISU).\n\n- This does not apply to nationals and residents of Iraq who will be quarantined for 14 days.\n\n- This does not apply to passengers with a diplomatic or an official passport working in the embassy or consulate. They must go through a medical check upon arrival.\n\n7.Nationals of Iraq who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore or Thailand in the past 14 days will be quarantined for 14 days.\n\n- This does not apply at Erbil (EBL) and Sulaymaniyah (ISU).\n\n8.Nationals of Iraq who after 1 January 2020 visited Bahrain, China (People’s Rep.), Korea Rep., Iran, Italia, Japan, Kuwait, Singapore or Thailand, when arriving at Erbil (EBL) and Sulaymaniyah (ISU) will be subject to quarantine and medical examination."
+    "tooltip":"1.Nationals of China (People's Rep.) are not allowed to enter Iraq.\n\n2.Nationals of Iran are not allowed to enter Iraq.\n\n- This does not apply at Erbil (EBL) and Sulaymaniyah (ISU).\n\n3.Nationals of Iran with a normal passport are not allowed to enter via Erbil (EBL) and Sulaymaniyah (ISU).\n\n4.Nationals of Bahrain and Kuwait with a normal passport are not allowed to enter via Erbil (EBL) and Sulaymaniyah (ISU).\n\n5. Passengers who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore or Thailand in the past 14 days are not allowed to enter Iraq.\n\n- This does not apply at Erbil (EBL) and Sulaymaniyah (ISU).\n\n- This does not apply to nationals and residents of Iraq who will be quarantined for 14 days.\n\n6. Passengers who have been in Iran on or after 1 January 2020 are not allowed to enter via Erbil (EBL) and Sulaymaniyah (ISU).\n\n7. Passengers who have been in Bahrain, China (People’s Rep.), France, Hong Kong (SAR China), Italy, Japan, Korea Rep., Kuwait, Macao (SAR China), Singapore, Spain or Thailand, in the last 30 days are not allowed to enter via Erbil (EBL) and Sulaymaniyah (ISU).\n\n8. Nationals of Iraq who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore or Thailand in the past 14 days will be quarantined for 14 days.\n\n- This does not apply at Erbil (EBL) and Sulaymaniyah (ISU).\n\n9. Nationals of Iraq who on or after 1 January 2020 have been in  Bahrain, China (People’s Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea Rep., Kuwait, Macao (SAR China), Singapore, or Thailand, when arriving at Erbil (EBL) and Sulaymaniyah (ISU) will be quarantined."
 },
 {
     "id": "IR",
@@ -601,9 +601,10 @@
 {
     "id": "KZ",
     "name": "Kazakhstan",
-    "restrictions":{"CN":-1},
-    "nationalRestrictions":["CN"],
-    "tooltip":"1. Passengers arriving from China (People's Rep.) will be subject to immediate quarantine for a minimum of 14 days.\n\n2. Nationals of China (People’s Rep.) with a normal passport arriving at Almaty (ALA), Aktau (SCO), Astana (TSE), Karaganda (KGF), Shymkent (CIT) or Taraz (DMB) are no longer visa exempt."
+    "bans":{"CN":-14, "IR":-14, "KR":-14},
+    "nationalBans":["CN", "IR", "KR"],
+    "nationalsExcempt": true,
+    "tooltip":"1. Nationals of China (People’s Rep.), Iran and Korea (Rep.) are not allowed to enter Kazakhstan.\n\n2. Passengers who have been in China (People’s Rep.), Iran or Korea (Rep.) in the past 14 days are not allowed to enter Kazakhstan.\n\n- This does not apply to nationals of Kazakhstan."
 },
 {
     "id": "LA",
@@ -748,8 +749,8 @@
     "id": "MV",
     "name": "Maldives",
     "nationalsExcempt":true,
-    "bans":{"CN":-14, "IR":-14, "KR":-14},
-    "tooltip":"1. Passengers and airline crew who have been in China (People's Rep.), Iran or in North Gyeongsang and South Gyeongsang Provinces in Korea (Rep.) in the past 14 days are not allowed to enter the Maldives. - This does not apply to nationals of the Maldives.\n\n2. Passengers and airline crew must fill-in a \"Health Declaration Card\" and an \"Immigration Arrival Card\" before arriving in the Maldives."
+    "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14},
+    "tooltip":"Passengers and airline crew who have been in China (People's Rep.), Iran, Italy or in North Gyeongsang and South Gyeongsang Provinces in Korea (Rep.) in the past 14 days are not allowed to enter the Maldives.\n\n- This does not apply to nationals of the Maldives.\n\n2. A completed Health Declaration Card\" and an \"Immigration Arrival Card\" must be presented upon arrival."
 },
 {
     "id": "MW",
@@ -808,12 +809,12 @@
     "id": "NP",
     "name": "Nepal",
     "nationalRestrictions":["CN", "IT", "IR", "JP", "KR", "HK", "MO"],
-    "tooltip":"1. Nationals of China (People's Rep.), Iran, Italy, Japan and Korea (Rep.) can no longer obtain a visa on arrival. They must obtain a visa before departure.\n\n2. Passengers with a Hong Kong (SAR China) passport can no longer obtain a visa on arrival. They must obtain a visa before departure.\n\n3. Passengers with a Macao (SAR China) passport can no longer obtain a visa on arrival. They must obtain a visa before departure."
+    "tooltip":"1. Passengers who have transited through or have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) in the past 21 days will not be allowed to enter Nauru.\n2. Passengers must complete a Health Declaration Card and submit it to the Health Personnel when arriving in Nauru. They will undergo health screening before entering Nauru."
 },
 {
     "id": "NR",
     "name": "Nauru",
-    "bans":{"CN":-21, "HK":-21, "IT":-21, "KR":-21, "MO":-21},
+    "bans":{"CN":-21, "HK":-21, "IR":-21, "IT":-21, "KR":-21, "MO":-21},
     "tooltip":"Passengers who have transited through or have been in China (People's Rep.), Hong Kong (SAR China), Italy, Korea (Rep.) or Macao (SAR China) in the past 21 days will not be allowed to enter Nauru."
 },
 {
@@ -932,9 +933,10 @@
 {
     "id": "RU",
     "name": "Russian Federation",
-    "bans":{"CN":-14},
-    "nationalBans": ["CN", "IR"],
-    "tooltip": "1. Nationals of China (People's Rep.) are not allowed to enter Russian Fed.\n- This does not apply to passengers who reside in Russian Fed.\n- This does not apply to airline crew.\n\n2. Passengers with a Hong Kong (SAR China) or Macao (SAR China) passport are not allowed to enter Russian Fed.\n- This does not apply to passengers who reside in Russian Fed.\n- This does not apply to airline crew.\n\n3. Nationals of Iran are not allowed to enter Russian Fed."
+    "bans":{"CN":-14, "IR":-1},
+    "restrictions":{"FR":-1000, "DE":-1000, "IT":-1000, "KR":-1000, "ES":-1000},
+    "nationalBans": ["CN", "HK", "MO", "IR"],
+    "tooltip": "1. Nationals of China (People's Rep.) are not allowed to enter Russian Fed.\n\n- This does not apply to passengers who reside in Russian Fed.\n\n- This does not apply to airline crew.\n\n2. Passengers with a Hong Kong (SAR China) or Macao (SAR China) passport are not allowed to enter Russian Fed.\n\n- This does not apply to passengers who reside in Russian Fed.\n\n- This does not apply to airline crew.\n\n3. Nationals of Iran are not allowed to enter Russian Fed.\n\n4. Passengers arriving from Iran are not allowed to enter Russian Fed.\n\n- This does not apply to nationals of Armenia, Belarus, Kazakhstan, Kyrgyzstan and Russian Fed.\n\n- This does not apply to passengers who reside in Russian Fed.\n\n- This does not apply to airline crew.\n\n- This does not apply to official delegations.\n\n5. Passengers who have been in China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain coming to Russian Fed. and planning to stay in Moscow must report to the special hotline by phone. Being in Moscow they must stay self-isolated for a period of 14 days. This requirement does not apply to passengers traveling to other Russian cities."
 },
 {
     "id": "RW",
@@ -944,8 +946,8 @@
     "id": "SA",
     "name": "Saudi Arabia",
     "bans":{"CN":-14, "TW":-14, "HK":-14, "IR":-14, "MO":-14},
-    "restrictions":{"AF":-1, "AZ":-1, "ID":-1, "IN":-1, "IQ":-1, "IT":-1, "JP":-1, "KZ":-1, "KR":-1, "LB":-1, "ML":-1, "PK":-1, "PH":-1, "SG":-1, "SO":-1, "SY":-1, "TH":-1, "UZ":-1, "VN":-1, "YE":-1},
-    "tooltip":"1.Passengers who have transited through or have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran or Macao (SAR China) in the past 14 days are not allowed to enter Saudi Arabia.\n\n- This does not apply to nationals of Saudi Arabia.\n\n2. Nationals of the GCC countries are no longer allowed to enter Saudi Arabia with a national ID card. They must travel with their passport.\n\n- This does not apply to nationals of Saudi Arabia who are allowed to enter with a national ID card if they used the card when they departed from Saudi Arabia.\n\n3. Tourist visas issued to passengers traveling to Madinah (MED) are no longer accepted.\n\n4. Tourist visas issued to passengers arriving from Afghanistan, Azerbaijan, China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), India, Indonesia, Iran, Iraq, Italy, Japan, Kazakhstan, Korea (Rep.), Lebanon, Macao (SAR China), Malaysia, Pakistan, Philippines, Singapore, Somalia, Syria, Thailand, Uzbekistan, Vietnam or Yemen and traveling to Dammam (DMM), Jeddah (JED) or Riyadh (RUH) are no longer accepted.\n\n4. Passengers traveling for the purpose of Umrah or visiting the Prophet's mosque are not allowed to enter Saudi Arabia.\n\n- This does not apply to nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates with Hajj and Umrah permit, obtained through the website of the Ministry of Hajj and Umrah.\n\n5. Airline crew will be subject to medical examination, if required.\n\n6. Passengers must fill-in a \"Health Declaration Form\" before arriving in Saudi Arabia"
+    "restrictions":{"AF":-1, "AZ":-1, "ID":-1, "IN":-1, "IQ":-1, "IT":-1, "JP":-1, "KZ":-1, "KR":-1, "LB":-1, "ML":-1, "PK":-1, "PH":-1, "SG":-1, "SO":-1, "SY":-1, "TH":-1, "UZ":-1, "VN":-1, "YE":-1, "EG":-3},
+    "tooltip":"1.Passengers who have transited through or have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran or Macao (SAR China) in the past 14 days are not allowed to enter Saudi Arabia.\n- This does not apply to nationals of Saudi Arabia.\n2. Nationals of the GCC countries are no longer allowed to enter Saudi Arabia with a national ID card. They must travel with their passport.\n- This does not apply to nationals of Saudi Arabia who are allowed to enter with a national ID card if they used the card when they departed from Saudi Arabia.\n3. Tourist visas issued to passengers traveling to Madinah (MED) are no longer accepted. \n4. Tourist visas issued to passengers arriving from Afghanistan, Azerbaijan, China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), India, Indonesia, Iran, Iraq, Italy, Japan, Kazakhstan, Korea (Rep.), Lebanon, Macao (SAR China), Malaysia, Pakistan, Philippines, Singapore, Somalia, Syria, Thailand, Uzbekistan, Vietnam or Yemen and traveling to Dammam (DMM), Jeddah (JED) or Riyadh (RUH) are no longer accepted.\n5. Passengers traveling for the purpose of Umrah or visiting the Prophet's mosque are not allowed to enter Saudi Arabia.\n- This does not apply to nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates with Hajj and Umrah permit, obtained through the website of the Ministry of Hajj and Umrah.\n6.Passengers who have transited through or are arriving from Bahrain, Kuwait and United Arab Emirates are allowed to enter Saudi Arabia in one of the following airports: Dammam (DMM), Jeddah (JED) and Riyadh (RUH).\n7.Passengers who have transited through or are arriving from Egypt, must have a complete medical examination (PCR) confirming that they are free of the Coronavirus (COVID-19). It must be issued within 24 hours before boarding of the passenger by one of the laboratories specified and approved by the embassy of Saudi Arabia in Cairo.\n-This does not apply to nationals of Saudi Arabia.\n8. Airline crew will be subject to medical examination, if required.\n9. Passengers must fill-in a \"Health Declaration Form\" before arriving in Saudi Arabia."
 },
 {
     "id": "SB",
@@ -1035,7 +1037,10 @@
 },
 {
     "id": "SX",
-    "name": "Sint Maarten"
+    "name": "Sint Maarten",
+    "bans":{"CN":-14, "HK":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "SG":-14},
+    "nationalsExcempt":true,
+    "tooltip":"Passengers and airline crew who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.) or Singapore in the past 14 days are not allowed to transit or enter St. Maarten.\n- This does not apply to nationals of the Netherlands. They must present a medical certificate on arrival.\n\n- This does not apply to residents of St. Maarten. They must present a medical certificate on arrival."
 },
 {
     "id": "SY",
