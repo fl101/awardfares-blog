@@ -16,7 +16,7 @@
 {
     "id": "AG",
     "name": "Antigua and Barbuda",
-    "bans":{"CN":-28, "IT":-100},
+    "bans":{"CN":-28, "IT":-1000},
     "nationalsExcempt":true
 },
 {
@@ -36,7 +36,7 @@
 {
     "id": "AO",
     "name": "Angola",
-    "bans": {"CN": -100, "DZ": -100, "EG": -100, "IR": -100, "IT": -100, "KR": -100, "NG":-100},
+    "bans": {"CN": -1000, "DZ": -1000, "EG": -1000, "IR": -1000, "IT": -1000, "KR": -1000, "NG":-1000},
     "nationalsExcempt": true,
     "tooltip":"Passengers who arrive from or have been in Algeria, China (People's Rep.), Egypt, Iran, Italy, Korea (Rep.) or Nigeria are not allowed to enter Angola.\n- This does not apply to nationals of Angola."
 },
@@ -60,7 +60,7 @@
     "id": "AU",
     "name": "Australia",
     "bans":{"CN":-14, "IR":-14, "KR": -14},
-    "restrictions":{"JP":-100, "IT":-14},
+    "restrictions":{"JP":-1000, "IT":-14},
     "nationalsExcempt":true,
     "tooltip":"1. Passengers who have transited through or have been in China (People's Rep.) in the past 14 days are not allowed to transit or enter Australia.\n\n- This does not apply to nationals of Australia and their immediate family members. They will be required to self-isolate for a period of 14 days from their arrival into Australia.\n\n- This does not apply to permanent residents of Australia and\n\ntheir immediate family members. They will be required to self-isolate for a period of 14 days from their arrival into Australia.\n\n- This does not apply to nationals of New Zealand residing in Australia. They will be required to self-isolate for a period of 14 days from their arrival into Australia.\n\n- This does not apply to airline crew.\n\n2. Passengers who have been in the cruise ship 'Diamond Princess' are not allowed to transit or enter Australia.\n\n- This does not apply to nationals of Australia.\n\n3. Passengers who have transited through or have been in Iran on or after 1 March 2020 are not allowed to enter Australia for 14 days, from the time they left or transited through Iran.\n\n- This does not apply to nationals of Australia, their immediate family members, permanent residents of Australia and their immediate family members. They will be required to self-isolate for a period of 14 days.\n\n4. Passengers who have transited through or have been in Korea (Rep.) on or after 2100 AEDST 5 March 2020 are not allowed to enter Australia for 14 days, from the time they left or transited through Korea (Rep.).\n\n- This does not apply to nationals of Australia, their immediate family members, permanent residents of Australia and their immediate family members. They will be required to self-isolate for a period of 14 days.\n\n5. Passengers who have transited through or have been in Italy on or after 5 March 2020 will go through medical screening upon arrival."
 },
@@ -295,7 +295,7 @@
     "id": "EG",
     "name": "Egypt",
     "nationalBans":["QA"],
-    "restrictions": {"BH":-100, "CN": -100, "TW":-100, "FR":-100, "DE":-100, "HK":-100, "IR":-100, "IQ":-100, "IT":-100, "JP":-100, "KR":-100, "KW":-100, "MO":-100, "MY":-100, "SG":-100, "ZH":-100, "ES":-100, "TH":-100, "VN":-100},
+    "restrictions": {"BH":-1000, "CN": -1000, "TW":-1000, "FR":-1000, "DE":-1000, "HK":-1000, "IR":-1000, "IQ":-1000, "IT":-1000, "JP":-1000, "KR":-1000, "KW":-1000, "MO":-1000, "MY":-1000, "SG":-1000, "ZH":-1000, "ES":-1000, "TH":-1000, "VN":-1000},
     "tooltip": "1. Nationals of Qatar are not allowed to enter Egypt.\n\n2. Passengers who have been in Bahrain, China (People's Rep.), Chinese Taipei, France, Germany, Hong Kong (SAR China), Iran, Iraq, Italy, Japan, Korea (Rep.), Kuwait, Macao (SAR China), Malaysia, Singapore, Switzerland, Spain Thailand or Vietnam will be screened upon arrival, and;\n\n-must present a completed “Health Observation Card, upon arrival, and\n\n-will be followed up for a period of 14 days.\n\nBefore arrival of the flight, carriers must complete and present a “Notifying Form” to the General Quarantine administration."
 },
 {
@@ -332,7 +332,7 @@
 {
     "id": "FM",
     "name": "Micronesia, Federated States of",
-    "bans":{"CN":-100},
+    "bans":{"CN":-1000},
     "tooltip":"1. Passengers who have been in China (People's Rep.) on or after 6 January 2020, are not allowed to enter Micronesia (Federated States).\n\n- This does not apply to airline crew.\n\n2. Passengers who have been in a country with confirmed cases of Coronavirus (COVID-19), other than China (People's Rep.), are not allowed to enter Micronesia (Federated States). They must have stayed in Guam, Hawaii or another country with no confirmed cases of Coronavirus (COVID-19) for a period of minimum 14 days before entering Micronesia (Federated States).\n\n- This does not apply to airline crew."
 },
 {
@@ -479,7 +479,7 @@
     "id": "IN",
     "name": "India",
     "nationalRestrictions":["IR", "IT", "JP", "KR", "CN"],
-    "bans":{"CN":-100, "IR":-100, "IT":-100, "JP":-100, "KR":-100},
+    "bans":{"CN":-1000, "IR":-1000, "IT":-1000, "JP":-1000, "KR":-1000},
     "restrictions":{"HK":-1, "ID":-1, "MO":-1, "ML":-1, "NP":-1, "SG":-1, "TH":-1, "VN":-1},
     "tooltip":"1. Visa and e-visa issued to nationals of Iran, Italy, Japan and Korea (Rep.) on or before 3 March 2020 are invalidated.\n\n- This does not apply to passengers with an OCI card.\n\n- This does not apply to airline crew.\n- This does not apply to diplomats and the United Nations officials.\n\n2. Visa and e-visa issued to nationals of China (People’s Rep.) before 5 February 2020 are invalidated.\n\n- This does not apply to passengers with an OCI card.\n\n- This does not apply to airline crew.\n- This does not apply to diplomats and the United Nations officials.\n\n3. Passengers who have been in China (People's Rep.), Iran, Italy, Japan or Korea (Rep.) on or after 1 February 2020 are not allowed to enter India. Their visa and e-visa are invalidated.\n\n- This does not apply to nationals of India.\n\n- This does not apply to passengers who reside in India.\n\n- This does not apply to passengers with an OCI card.\n\n- This does not apply to airline crew. \n- This does not apply to diplomats and the United Nations officials.\n\n4. Nationals of Japan and Korea (Rep.) can no longer obtain a visa on arrival.\n\n5. Passengers are required to fill the self-declaration form in duplicate upon arrival.\n6. Passengers arriving from China (People's Rep.), Hong Kong (SAR China), Indonesia, Iran, Italy, Japan, Kore (Rep.), Macao (SAR China), Malaysia, Nepal, Singapore, Thailand or Viet Nam must go thorough medical screening upon arrival."
 },
@@ -492,7 +492,7 @@
     "name": "Iraq",
     "nationalBans":["CN", "IR"],
     "nationalRestrictions":["KW", "BH"],
-    "restrictions":{"BH":-100, "CN":-100, "HK":-100, "IR":-100, "IT":-100, "JP":-100, "KR":-100, "KW":-100, "SG":-100, "TH":-100},
+    "restrictions":{"BH":-30, "CN":-30, "HK":-30, "IR":-30, "IT":-30, "JP":-30, "KR":-30, "KW":-30, "SG":-30, "TH":-30},
     "bans":{"CN":-14, "HK":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "MO":-14, "SG":-14, "TH":-14},
     "tooltip":"1.Nationals of China (People's Rep.) are not allowed to enter Iraq.\n\n2.Nationals of Iran are not allowed to enter Iraq.\n\n- This does not apply at Erbil (EBL) and Sulaymaniyah (ISU).\n\n3.Nationals of Iran with a normal passport are not allowed to enter via Erbil (EBL) and Sulaymaniyah (ISU).\n\n4.Nationals of Bahrain and Kuwait with a normal passport are not allowed to enter through Erbil (EBL) and Sulaymaniyah (ISU).\n\n5.Passengers who have been in Bahrain, China (People’s Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea Rep., Kuwait, Singapore, or Thailand, after 1 January 2020 are not allowed to enter through Erbil (EBL) and Sulaymaniyah (ISU).\n\n6.Passengers who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore or Thailand in the past 14 days are not allowed to enter Iraq.\n\n- This does not apply at Erbil (EBL) and Sulaymaniyah (ISU).\n\n- This does not apply to nationals and residents of Iraq who will be quarantined for 14 days.\n\n- This does not apply to passengers with a diplomatic or an official passport working in the embassy or consulate. They must go through a medical check upon arrival.\n\n7.Nationals of Iraq who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore or Thailand in the past 14 days will be quarantined for 14 days.\n\n- This does not apply at Erbil (EBL) and Sulaymaniyah (ISU).\n\n8.Nationals of Iraq who after 1 January 2020 visited Bahrain, China (People’s Rep.), Korea Rep., Iran, Italia, Japan, Kuwait, Singapore or Thailand, when arriving at Erbil (EBL) and Sulaymaniyah (ISU) will be subject to quarantine and medical examination."
 },
@@ -533,7 +533,7 @@
 {
     "id": "JP",
     "name": "Japan",
-    "bans":{"CN":-14, "KR":-14},
+    "bans":{"CN":-14, "KR":-14, "IR":-14},
     "nationalBans":["CN"],
     "nationalsExcempt":true,
     "tooltip": "1. Passengers who have been in the Hubei Province or Zhejiang Province (China People's Rep.) in the past 14 days are not allowed to enter Japan.\n\n- This does not apply to nationals of Japan;\n\n- This does not apply to spouses or children of nationals of Japan if they can prove it.\n2. Passengers who have been in Cheongdo County and Daegu City in Korea (Rep.) in the past 14 days are not allowed to enter Japan.\n\n- This does not apply to nationals of Japan;\n\n- This does not apply to spouses or children of nationals of Japan if they can prove it.\n\n3. Nationals of China (People's Rep.) with a passport issued in Hubei Province or Zhejiang Province (China People's Rep.) are not allowed to enter Japan.\n\n- This does not apply when passengers can prove that they have not been in Hubei Province and Zhejiang Province the last 14 days.\n\n4. Passengers who were in the cruise ship 'Westerdam' are not allowed to enter Japan.\n\n- This does not apply to nationals of Japan."
@@ -578,7 +578,7 @@
     "id": "KR",
     "name": "South Korea",
     "bans":{"CN":-14},
-    "restrictions":{"JP":-100},
+    "restrictions":{"JP":-1000},
     "nationalBans":["CN"],
     "tooltip":"1. Visitors who have been in the Hubei Province (China People's Rep.) in the past 14 days are not allowed to transit or enter Korea (Rep.).\n\n2. Nationals of China (People's Rep) with a passport issued in the Hubei Province are not allowed to enter Korea (Rep.).\n\n3. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated.\n\n4. A visa is required to transit through Korea (Rep.) for:\n\n- nationals of China (People's Rep.) arriving from China (People's Rep); and\n\n- visa required nationals arriving from China (People's Rep.).\n\n5. Visitors arriving from Japan who have been in the cruise ship 'Diamond Princess' are not allowed to transit or enter (Korea Rep.)."
 },
@@ -687,7 +687,7 @@
 {
     "id": "MH",
     "name": "Marshall Islands",
-    "bans":{"CN":-100, "HK":-100, "IT":-100, "IR":-100, "JP":-100, "KR":-100, "MO":-100},
+    "bans":{"CN":-1000, "HK":-1000, "IT":-1000, "IR":-1000, "JP":-1000, "KR":-1000, "MO":-1000},
     "tooltip":"Passengers who have transited through or have been in China (People's Rep.), Hong Kong (SAR China), Italy, Iran, Japan, Korea (Rep.) or Macao (SAR China) after 31 December 2019, are not allowed to enter Marshall Islands"
 },
 {
@@ -1029,7 +1029,7 @@
     "id": "SV",
     "name": "El Salvador",
     "nationalBans":["CN"],
-    "bans":{"KR":-100, "IT":-100},
+    "bans":{"KR":-30, "IT":-30},
     "nationalsExcempt":true,
     "tooltip":"1. Nationals of China (People's Rep.) with a normal passport arriving from China (People's Rep.) are not allowed to enter El Salvador. This does not apply to passengers who reside in El Salvador.\n\n2. Passengers and airline crew who have been in Italy or Korea (Rep.) are not allowed to enter El Salvador. This does not apply to nationals of El Salvador or passengers with a diplomatic, official, service or special passport."
 },

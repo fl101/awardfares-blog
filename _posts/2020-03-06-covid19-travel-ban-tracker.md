@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keeping track of the travel bans during the COVID-19 outbreak"
+title: "COVID-19 Travel Ban Tracker"
 tags: [News, Tools]
 author: Richard
 comments: true
