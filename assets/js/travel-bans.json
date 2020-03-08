@@ -631,9 +631,9 @@
 {
     "id": "LK",
     "name": "Sri Lanka",
-    "nationalBans":["CN"],
-    "restrictions":{"IR":-14, "IT":-14, "KR":-14},
-    "tooltip":"1. Nationals of China (People’s Rep.) can no longer obtain a visa on arrival in Sri Lanka.\n\n2. Passengers who have been in Iran, Italy or Korea (Rep.) in the last 14 days will be subject to immediate quarantine."
+    "nationalRestrictions":["CN"],
+    "restrictions":{"CN":-1, "IR":-1, "IT":-1, "KR":-1},
+    "tooltip":"1. Nationals of China (People’s Rep.) can no longer obtain a visa on arrival in Sri Lanka.\n\n2. Passengers arriving from China (People's Rep.), Iran, Italy or Korea (Rep.) are subject to immediate quarantine for 14 days."
 },
 {
     "id": "LR",
@@ -688,8 +688,8 @@
 {
     "id": "MH",
     "name": "Marshall Islands",
-    "bans":{"CN":-1000, "HK":-1000, "IT":-1000, "IR":-1000, "JP":-1000, "KR":-1000, "MO":-1000},
-    "tooltip":"Passengers who have transited through or have been in China (People's Rep.), Hong Kong (SAR China), Italy, Iran, Japan, Korea (Rep.) or Macao (SAR China) after 31 December 2019, are not allowed to enter Marshall Islands"
+    "bans":{"CN":-1000, "FR":-1000, "DE":-1000, "HK":-1000, "IT":-1000, "IR":-1000, "JP":-1000, "KR":-1000, "MO":-1000},
+    "tooltip":"Passengers who have transited through or have been in China (People's Rep.), France, Germany, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China) or Spain after 31 December 2019, are not allowed to enter Marshall Islands."
 },
 {
     "id": "MK",
@@ -750,7 +750,7 @@
     "name": "Maldives",
     "nationalsExcempt":true,
     "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14},
-    "tooltip":"Passengers and airline crew who have been in China (People's Rep.), Iran, Italy or in North Gyeongsang and South Gyeongsang Provinces in Korea (Rep.) in the past 14 days are not allowed to enter the Maldives.\n\n- This does not apply to nationals of the Maldives.\n\n2. A completed Health Declaration Card\" and an \"Immigration Arrival Card\" must be presented upon arrival."
+    "tooltip":"1. Passengers and airline crew who have been in China (People's Rep.), Iran, Italy or in North Gyeongsang and South Gyeongsang Provinces in Korea (Rep.) in the past 14 days are not allowed to enter the Maldives.\n\n- This does not apply to nationals of the Maldives.\n\n2. A completed \"Health Declaration Card\" and an \"Immigration Arrival Card\" must be presented upon arrival."
 },
 {
     "id": "MW",
@@ -833,10 +833,11 @@
 {
     "id": "OM",
     "name": "Oman",
-    "nationalBans":["CN", "IR"],
+    "nationalBans":["CN", "IR", "IT"],
     "nationalRestrictions":["BH", "KW", "QA", "SA", "AE"],
-    "restrictions":{"CN":-1, "IR":-1, "JP":-1, "KR":-1, "SG":-1},
-    "tooltip":"1. Nationals of China (People’s Rep.), Iran and Italy are not allowed to enter Oman. \n- This does not apply to nationals of China (People’s Rep.), Iran and Italy with a Resident Visa issued by Oman.\n\n2. Nationals of Oman are allowed to enter with a national ID card if they used the card when they departed from Oman.\n\n3. Nationals of Bahrain, Kuwait, Qatar, Saudi Arabia and the United Arab Emirates are no longer allowed to enter the Oman with a national ID card, they must have a passport.\n\n4. Passengers arriving from China (People's Rep.), Iran, Japan, Korea (Rep.) or Singapore will be subject to quarantine for a minimum of 14 days.\n- This does not apply to nationals of China, Iran and Italy."
+    "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14, "EG":-14},
+    "restrictions":{"JP":-1, "SG":-1},
+    "tooltip":"1. Nationals of China (People's Rep.), Iran and Italy are not allowed to enter Oman. \n- This does not apply to nationals of China (People's Rep.), Iran and Italy with a Resident Visa issued by Oman.\n2. Nationals of Oman are allowed to enter with a national ID card if they used the card when they departed from Oman.\n3. Nationals of Bahrain, Kuwait, Qatar, Saudi Arabia and the United Arab Emirates are no longer allowed to enter the Oman with a national ID card, they must have a passport.\n4. Passengers who have been in China (People's Rep.), Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to enter Oman.\n5. Passengers who have been in Egypt in the past 14 days are not allowed to enter Oman. \n-This does not apply to nationals of Oman.\n-This does not apply to nationals of Egypt with a Resident Visa issued by Oman. Passengers must also hold a medical examination (PCR) confirming that they are free of Coronavirus (COVID-19). The PCR must be issued within 48 hours before boarding the aircraft by a laboratory approved by the Oman embassy in Cairo.\n6. Passengers arriving from Japan or Singapore will be subject to quarantine for a minimum of 14 days.\n- This does not apply to nationals of China (People's Rep.), Iran and Italy."
 },
 {
     "id": "PA",
