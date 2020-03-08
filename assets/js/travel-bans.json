@@ -1121,7 +1121,7 @@
 },
 {
     "id": "TW",
-    "name": "Taiwan, Province of China",
+    "name": "Taiwan",
     "bans":{"CN":-14, "HK":-14, "MO":-14},
     "restrictions":{"IR":-1, "IT":-1, "KR":-1},
     "nationalBans": ["CN"],
