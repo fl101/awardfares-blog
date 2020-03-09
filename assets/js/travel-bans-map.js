@@ -71,7 +71,7 @@ function addCountry() {
 
 $('#add-country').on('click', addCountry);
 
-$('.last-updated').html(moment.tz('2020-03-08 15:00:00', 'UTC').tz(moment.tz.guess()).format('YYYY-MM-DD HH:mm zz'))
+$('.last-updated').html(moment.tz('2020-03-09 13:00:00', 'UTC').tz(moment.tz.guess()).format('YYYY-MM-DD HH:mm zz'))
 
 $.getJSON('/assets/js/travel-bans.json', function (data) {
   var options = '';
