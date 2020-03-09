@@ -580,7 +580,8 @@
     "bans":{"CN":-14},
     "restrictions":{"JP":-1000},
     "nationalBans":["CN"],
-    "tooltip":"1. Visitors who have been in the Hubei Province (China People's Rep.) in the past 14 days are not allowed to transit or enter Korea (Rep.).\n\n2. Nationals of China (People's Rep) with a passport issued in the Hubei Province are not allowed to enter Korea (Rep.).\n\n3. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated.\n\n4. A visa is required to transit through Korea (Rep.) for:\n\n- nationals of China (People's Rep.) arriving from China (People's Rep); and\n\n- visa required nationals arriving from China (People's Rep.).\n\n5. Visitors arriving from Japan who have been in the cruise ship 'Diamond Princess' are not allowed to transit or enter (Korea Rep.)."
+    "nationalRestrictions":["JP"],
+    "tooltip":"1. Visitors who have been in the Hubei Province (China People's Rep.) in the past 14 days are not allowed to transit or enter Korea (Rep.).\n\n2. Nationals of China (People's Rep) with a passport issued in the Hubei Province are not allowed to enter Korea (Rep.).\n\n3. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated.\n\n4. A visa is required to transit through Korea (Rep.) for:\n\n- nationals of China (People's Rep.) arriving from China (People's Rep); and\n\n- visa required nationals arriving from China (People's Rep.).\n\n5. Visitors arriving from Japan who have been in the cruise ship 'Diamond Princess' are not allowed to transit or enter (Korea Rep.).\n6. Visas issued to nationals of Japan (at Korean Diplomatic Missions in Japan) before 9 March 2020 are invalidated. \n\n- This does not apply to visas issued outside Japan. Such visas remain valid.\n\n- This does not apply to airline crew.\n\n7. Nationals of Japan who do not hold a Korean visa issued on or after 9 March 2020 will not be allowed entry."
 },
 {
     "id": "KW",
