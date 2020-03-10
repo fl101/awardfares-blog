@@ -16,8 +16,9 @@
 {
     "id": "AG",
     "name": "Antigua and Barbuda",
-    "bans":{"CN":-28, "IT":-1000},
-    "nationalsExcempt":true
+    "bans":{"CN":-28, "IT":-28},
+    "nationalsExcempt":true,
+    "tooltip":"1. Passengers and airline crew who have been in China (People's Rep.) or Italy in the past 28 days are not allowed to enter Antigua and Barbuda.\n\n2. Nationals and resident diplomats of Antigua and Barbuda who have been in China (People's Rep.) or Italy in the past 28 days are allowed to enter Antigua and Barbuda. Airlines must provide their advance passenger information before departure."
 },
 {
     "id": "AI",
@@ -635,8 +636,8 @@
     "id": "LK",
     "name": "Sri Lanka",
     "nationalRestrictions":["CN"],
-    "restrictions":{"CN":-1, "IR":-1, "IT":-1, "KR":-1},
-    "tooltip":"1. Nationals of China (People’s Rep.) can no longer obtain a visa on arrival in Sri Lanka.\n\n2. Passengers arriving from China (People's Rep.), Iran, Italy or Korea (Rep.) are subject to immediate quarantine for 14 days."
+    "restrictions":{"IR":-14, "IT":-14, "KR":-14},
+    "tooltip":"1. Nationals of China (People’s Rep.) can no longer obtain a visa on arrival in Sri Lanka.\n\n2. Passengers who have been in Iran, Italy or Korea (Rep.) in the last 14 days will be subject to immediate quarantine.\n\n3. A completed Health Declaration Form must be presented to the public health inspectors or any other authorized officials upon arrival."
 },
 {
     "id": "LR",
@@ -855,8 +856,7 @@
 {
     "id": "PF",
     "name": "Polynesia",
-    "restrictions":{"KH":-30, "CN":-30, "TW":-30, "HK":-30, "IN":-30, "IR":-30, "IT":-30, "JP":-30, "KR":-30, "MO":-30, "MY":-30, "NP":-30, "SG":-30, "LK":-30, "TH":-30, "PH":-30, "VN":-30},
-    "tooltip":"Passengers and airline crew who have been in Cambodia, China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), India, Iran, Italy (Emilia-Romangna, Lombardy and Veneto regions), Japan, Korea (Rep.), Macao (SAR China), Malaysia, Nepal, Singapore, Sri Lanka, Thailand, Philippines or Viet Nam in the past 30 days must have a medical certificate, dated from maximum 5 days before their arrival in French Polynesia. The medical certificate must confirm that the passenger is free from Coronavirus (COVID-19)."
+    "tooltip":"All passengers are recommended to present a medical certificate dated maximum 5 days before their arrival in French Polynesia. On arrival, mandatory health screening will be carried out for all passengers.  Should a passenger present health risks related to Coronavirus (COVID-19), they will be directed to quarantine process for 14 days in French Polynesia."
 },
 {
     "id": "PG",
@@ -1044,7 +1044,7 @@
     "name": "Sint Maarten",
     "bans":{"CN":-14, "HK":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "SG":-14},
     "nationalsExcempt":true,
-    "tooltip":"Passengers and airline crew who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.) or Singapore in the past 14 days are not allowed to transit or enter St. Maarten.\n- This does not apply to nationals of the Netherlands. They must present a medical certificate on arrival.\n\n- This does not apply to residents of St. Maarten. They must present a medical certificate on arrival."
+    "tooltip":"Passengers and airline crew who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.) or Singapore in the past 14 days are not allowed to transit or enter St. Maarten.\n- This does not apply to nationals of the Netherlands (being from Aruba, Bonaire, Curacao, Netherlands, St. Eustatius and Saba and St. Maarten).\n\n- This does not apply to residents of St. Maarten."
 },
 {
     "id": "SY",
