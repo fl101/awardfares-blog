@@ -1,28 +1,20 @@
 ---
 layout: post
 title: "COVID-19 Travel Ban Tracker"
-tags: [News, Tools]
+tags: [News, Tools, Coronavirus]
 author: Richard
 comments: true
 image: /assets/img/covid19-travelbans/overview.png
 hide_image_in_post: true
 ---
 
-If you're a frequent traveller it might be hard to keep track of different countries' travel bans as a result of the COVID-19 outbreak. We've put together this handy tool which can make it easier to visualize. Simply enter the nationality of the passport you're travelling on as well as the countries you've been to recently and how many days ago you were last there. Red countries are enforcing travel bans either for your nationality or for one of the countries you've recently been to, yellow countries are enforcing some type of restrictions (Such as quarantines or revoking visa on arrival).
-
-For simplicity, in cases where only parts of a country is affected by the travel bans, such as Hong Kong only banning travellers who have been to certain parts of Italy, any travel to that country will result in the enforcing country being marked as banned. This means you might be able to travel to that country anyway, always check official sources before travelling.
-
-The map currently does not take into account if you're a resident or national of the country you want to travel to, citizens of most countries are allowed to return home even if they've been in banned areas. This will be fixed in a future version.
-
-For your privacy the tool runs fully in the browser and no data about your travel history or nationality is ever sent anywhere.
+If you're a frequent traveller it might be hard to keep track of different countries' travel bans as a result of the Coronavirus outbreak. We've put together this handy tool which can make it easier to visualize. Simply enter the nationality of the passport you're travelling on as well as the countries you've been to recently and how many days ago you were last there. Red countries are enforcing travel bans either for your nationality or for one of the countries you've recently been to, yellow countries are enforcing some type of restrictions (Such as quarantines or revoking visa on arrival).
 
 # Instructions
 
 1. Enter the nationality of the passport you're travelling on
 2. Enter any countries you've visited recently and how many days ago you were there
 3. If you're coming from a country, make sure you enter the number of days ago as 1 to observe rules regarding country of origin
-
-Last updated: <span class="last-updated"></span>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.28/moment-timezone-with-data.min.js"></script>
@@ -60,6 +52,14 @@ Last updated: <span class="last-updated"></span>
 <script src="/assets/js/jvm/jquery-jvectormap-2.0.5.min.js"></script>
 <script src="/assets/js/jvm/jquery-jvectormap-world-mill.js"></script>
 <script src="/assets/js/travel-bans-map.js"></script>
+
+For simplicity, in cases where only parts of a country is affected by the travel bans, such as Hong Kong only banning travellers who have been to certain parts of Italy, any travel to that country will result in the enforcing country being marked as banned. This means you might be able to travel to that country anyway, always check official sources before travelling.
+
+The map currently does not take into account if you're a resident or national of the country you want to travel to, citizens of most countries are allowed to return home even if they've been in banned areas. This will be fixed in a future version.
+
+For your privacy the tool runs fully in the browser and no data about your travel history or nationality is ever sent anywhere.
+
+Last updated: <span class="last-updated"></span>
 
 Note that this tool is provided as an indication only and is not intended to replace official sources. Always check official sources of information before travelling. AwardFares does not assume any responsibility for the correctness of the information.
 
