@@ -10,11 +10,9 @@ function recalculateBans() {
   bans = {};
   restrictions = {};
   countries.forEach(function (country) {
-    if (country.nationalBans && country.nationalBans.indexOf(nationality) > -1) {
-      if (country.nationalBans.indexOf('*') > -1 || country.nationalBans.indexOf(nationality) > -1) {
-        bans[country.id] = 1.0;
-        return;
-      }
+    if (country.nationalBans && (country.nationalBans.indexOf('*') > -1 || country.nationalBans.indexOf(nationality) > -1)) {
+      bans[country.id] = 1.0;
+      return;
     }
     if (country.bans) {
       for (const tripCountry in trips) {
