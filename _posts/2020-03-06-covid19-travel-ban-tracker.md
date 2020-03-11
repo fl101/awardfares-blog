@@ -64,3 +64,5 @@ Last updated: <span class="last-updated"></span>
 Note that this tool is provided as an indication only and is not intended to replace official sources. Always check official sources of information before travelling. AwardFares does not assume any responsibility for the correctness of the information.
 
 Source: [IATA](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)
+
+If you find any errors, feel free to [email us](mailto:hello@awardfares.com)
