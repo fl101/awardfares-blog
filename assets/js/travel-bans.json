@@ -6,8 +6,9 @@
     "id": "AE",
     "name": "United Arab Emirates",
     "nationalBans":["IR"],
+    "restrictions":{"IT":-1, "CN":-1, "LB":-1, "SY":-1},
     "nationalRestrictions":["AE", "BH", "KW", "OM", "QA", "SA", "IT", "LB", "SY"],
-    "tooltip":"1. Nationals of Iran are not allowed to transit or enter the United Arab Emirates.\n- This does not apply to passengers with a valid UAE Resident Visa. A prior 'OK TO BOARD' must be obtained from NAIC-UAE.\n\n- This does not apply to diplomatic passport holders. A prior 'OK TO BOARD' must be obtained from NAIC-UAE.\n\n2. Nationals of the United Arab Emirates are allowed to enter with a national ID card if they left before 28 February 2020.\n\n3. Nationals of Bahrain, Kuwait, Oman, Qatar and Saudi Arabia are no longer allowed to enter the United Arab Emirates with a national ID card, they must have a passport.\n\n4. Based on the travel advisory restriction issued by United Arab Emirates Government, nationals of United Arab Emirates are not allowed to travel to Iran or Thailand.\n5. Nationals of Italy, Lebanon and Syria arriving at Abu Dhabi (AUH) must go through a COVID-19 screening process, obtain a proof of screening slip before continuing to Immigration."
+    "tooltip":"1. Nationals of Iran are not allowed to transit or enter the United Arab Emirates.\n\n- This does not apply to passengers with a valid UAE Resident Visa. A prior 'OK TO BOARD' must be obtained from NAIC-UAE.\n\n- This does not apply to diplomatic passport holders. A prior 'OK TO BOARD' must be obtained from NAIC-UAE.\n\n2. Passengers arriving from Italy must have departed from Fiumicino (FCO) or Ciampino (CIA). All passengers and crew must go through a COVID-19 screening process.\n\n3. Passengers arriving from China (People's Rep.) must have departed from Beijing (PEK). All passengers and crew must go through a COVID-19 screening process.\n\n4. Nationals of the United Arab Emirates are allowed to enter with a national ID card if they left before 28 February 2020.\n\n5. Nationals of Bahrain, Kuwait, Oman, Qatar and Saudi Arabia are no longer allowed to enter the United Arab Emirates with a national ID card, they must have a passport.\n\n6. Based on the travel advisory restriction issued by United Arab Emirates Government, nationals of United Arab Emirates are not allowed to travel to Iran or Thailand.\n\n7. Passengers arriving on a direct flight at Abu Dhabi (AUH) from Italy, Lebanon and Syria must go through a COVID-19 screening process and obtain a proof of screening slip before continuing to Immigration."
 },
 {
     "id": "AF",
@@ -16,9 +17,9 @@
 {
     "id": "AG",
     "name": "Antigua and Barbuda",
-    "bans":{"CN":-28, "IT":-28},
+    "bans":{"CN":-28, "IR":-28, "IT":-28, "JP":-28, "KR":-28, "SG":-28},
     "nationalsExcempt":true,
-    "tooltip":"1. Passengers and airline crew who have been in China (People's Rep.) or Italy in the past 28 days are not allowed to enter Antigua and Barbuda.\n\n2. Nationals and resident diplomats of Antigua and Barbuda who have been in China (People's Rep.) or Italy in the past 28 days are allowed to enter Antigua and Barbuda. Airlines must provide their advance passenger information before departure."
+    "tooltip":"1. Passengers and airline crew who have been in China (People's Rep.), Iran, Italy, Japan, Korea (Rep.) or Singapore in the past 28 days are not allowed to enter Antigua and Barbuda.\n\n2. Nationals and resident diplomats of Antigua and Barbuda who have been in China (People's Rep.), Iran, Italy, Japan, Korea (Rep.) or Singapore in the past 28 days are allowed to enter Antigua and Barbuda. Airlines must provide their advance passenger information before departure."
 },
 {
     "id": "AI",
@@ -81,12 +82,14 @@
 {
     "id": "AZ",
     "name": "Azerbaijan",
-    "nationalRestrictions": ["CN", "IR"],
-    "tooltip":"1. Nationals of China (People's Rep.) are not allowed to enter Azerbaijan if they do not have a visa obtained before departure. \n2. Nationals of Iran are not allowed to enter Azerbaijan if they do not have a visa obtained before departure."
+    "nationalRestrictions": ["CN", "BH", "ID", "IR", "IL", "JP", "KR", "KW","MY", "OM", "QA", "SA", "AE", "US"],
+    "tooltip":"1. Nationals of China (People's Rep.) are not allowed to enter Azerbaijan if they do not have a visa obtained before departure. \n2. Nationals of Bahrain, Indonesia, Iran, Israel, Japan, Korea (Rep.), Kuwait, Malaysia, Oman, Qatar, Saudi Arabia, Singapore, UAE and USA are not allowed to enter Azerbaijan if they do not have a visa obtained before departure."
 },
 {
     "id": "BA",
-    "name": "Bosnia and Herzegovina"
+    "name": "Bosnia and Herzegovina",
+    "bans":{"CN":-1000, "IR":-1000, "IT":-1000, "KR":-1000},
+    "tooltip":"1- Passengers who have been in China (People's Rep.) (Hubei - Wuhan Province), Iran, Italy or Korea (Rep.) are not allowed to enter Bosnia and Herzegovina.\n\n- This does not apply to nationals and residents of Bosnia and Herzegovina.\n\n2. Nationals and residents of Bosnia and Herzegovina who have been in China (People's Rep.) (Hubei - Wuhan Province), Iran, Italy or Korea (Rep.) must complete a health questionnaire and will be put under medical supervision."
 },
 {
     "id": "BB",
@@ -254,7 +257,9 @@
 },
 {
     "id": "CW",
-    "name": "Curaçao"
+    "name": "Curaçao",
+    "bans":{"CN":-14, "TW":-14, "IR":-14, "IT":-14, "HK":-14, "MO":-14, "KR":-14, "SG":-14},
+    "tooltip":"Passengers who have been in China (People's Rep.), Chinese Taipei, Iran, Italy (provinces Lobmardy, Veneto, Emiglia Romagna, Piemonte, Aosta Valley, Trentino South Tirol, Friuli-Julisch-Venice and Liguria), Hong Kong (SAR China), Macao (SAR China),  Korea (Rep.) or Singapore in the past 14 days are not allowed to transit or enter Curacao."
 },
 {
     "id": "CX",
@@ -424,9 +429,9 @@
 {
     "id": "GT",
     "name": "Guatemala",
-    "bans":{"CN":-14},
+    "bans":{"CN":-30, "FR":-30, "DE":-30, "IR":-30, "IT":-30, "KR":-30, "ES":-30},
     "nationalsExcempt":true,
-    "tooltip":"1. Passengers who have been in China (People's Rep.) in the past 15 days are not allowed to enter Guatemala.\n\n2. This does not apply to nationals of Guatemala, who will be interviewed in order to comply with clinical evaluation. They will be transferred to a Health Service for the due isolation and treatment by the Ministry of Public Health, if required."
+    "tooltip":"1. Passengers and airline crew who have transited or have been in China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain in the past 30 days are not allowed to enter Guatemala.\n\n- This does not apply to nationals of Guatemala.\n\n- This does not apply to passengers who reside in Guatemala.\n\n2. Nationals and residents of Guatemala arriving from China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain must be in home quarantine for 7 days."
 },
 {
     "id": "GU",
@@ -481,7 +486,7 @@
     "name": "Indonesia",
     "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14},
     "nationalsExcempt":true,
-    "tooltip":"1. Passengers and airline crew who have been in China (People's Rep.) in the past 14 days are not allowed to enter or transit Indonesia.\n\n- This does not apply to nationals of Indonesia.\n\n- This does not apply to residents of Indonesia.\n\n2. Passengers and airline crew who have been in Tehran, Qom or Gilan in Iran in the past 14 days are not allowed to transit or enter Indonesia.\n\n- This does not apply to nationals of Indonesia.\n\n3. Passengers and airline crew who have been in Lombardy, Veneto, Emilia Romagna, Marche or Piedmont in Italy in the past 14 days are not allowed to transit or enter Indonesia.\n\n- This does not apply to nationals of Indonesia.\n\n4. Passengers and airline crew who have been in Daegu and Gyeongsangbuk-do Province in Korea (Rep.) in the past 14 days are not allowed to transit or enter Indonesia.\n\n- This does not apply to nationals of Indonesia.\n\n5. Visa Exemptions and Visa on Arrival facilities are no longer available to passengers who have been in the following areas in the past 14 days:\n\n- China (People's Rep.); or\n\n- Tehran, Qom or Gilan in Iran; or\n\n- Lombardi, Veneto, Emilia Romagna, Marche or Piedmont in Italy; or\n\n- Daegu or Gyeongsangbuk-do Province in Korea (Rep.).\n\n6. Passengers who in the past 14 days have been in areas within Iran, Italy or Korea (Rep.) other than the following mentioned areas must provide a valid health certificate. The certificate must be in English and have been issued at latest 7 days prior to departure from local health authority. It should contain information of (1) fit for travel and (2) free from respiratory disease.\n\n- Tehran, Qom or Gilan in Iran;\n\n- Lombardi, Veneto, Emilia Romagna, Marche or Piedmont in Italy;\n\n- Daegu or Gyeongsangbuk-do Province in Korea (Rep.).\n\nThis does not apply to nationals of Indonesia.\n\n7. Passengers arriving from Iran, Italy or Korea (Rep.) are required to complete a Health Alert Card (Kartu Kewaspadaan Kesehatan) issued by the Ministry of Health of the Republic of Indonesia prior to arrival."
+    "tooltip":"1. Passengers and airline crew who have been in China (People's Rep.) in the past 14 days are not allowed to enter or transit Indonesia.\n\n- This does not apply to nationals of Indonesia.\n\n- This does not apply to residents of Indonesia.\n\n2. Passengers and airline crew who have been in Tehran, Qom or Gilan in Iran in the past 14 days are not allowed to transit or enter Indonesia.\n\n- This does not apply to nationals of Indonesia.\n\n3. Passengers and airline crew who have been in Lombardy, Veneto, Emilia Romagna, Marche or Piedmont in Italy in the past 14 days are not allowed to transit or enter Indonesia.\n\n- This does not apply to nationals of Indonesia.\n\n4. Passengers and airline crew who have been in Daegu and Gyeongsangbuk-do Province in Korea (Rep.) in the past 14 days are not allowed to transit or enter Indonesia.\n\n- This does not apply to nationals of Indonesia. \nThe above restrictions 1, 2, 3, 4 do not apply to the following passengers:\n\n- passengers with a visa issued by Indonesian Embassy; or\n\n- passengers with an Indonesian Permanent Residence Card; or\n\n- passengers with APEC Business Travel Card (ABTC) coming from China (People's Rep.) if they can show valid Certificate of Health free from Covid-19 from their local health authorities. Health certificate must be in English; or\n\n- passengers with Diplomatic Residence Permit and Official Residence Permit from China (People's Rep.), Italy, Iran and Korea (Rep.) if they can show valid Certificate of Health free from Covid-19 from their local health authorities. The health certificate must be in English; or\n\n- passengers with expired Diplomatic Residence Permit and Official Residence Permit from China (People's Rep.), Italy, Iran and Korea (Rep.) if they can show valid Diplomat ID card or valid Identity card as employee of Foreign Representative working in Indonesia which issue by Indonesian Ministry of Foreign Affairs. They must also have valid Certificate of Health free from Covid-19 from their local health authorities. The health certificate must be in English.\n\n5. Visa Exemptions and Visa on Arrival facilities are no longer available to passengers who have been in the following areas in the past 14 days:\n\n- China (People's Rep.); or\n\n- Tehran, Qom or Gilan in Iran; or\n\n- Lombardi, Veneto, Emilia Romagna, Marche or Piedmont in Italy; or\n\n- Daegu or Gyeongsangbuk-do Province in Korea (Rep.).\n\n6. Passengers who in the past 14 days have been in areas within Iran, Italy or Korea (Rep.) other than the following mentioned areas must provide a valid health certificate. The certificate must be in English and have been issued at latest 7 days prior to departure from local health authority. It should contain information of (1) fit for travel and (2) free from respiratory disease.\n\n- Tehran, Qom or Gilan in Iran;\n\n- Lombardi, Veneto, Emilia Romagna, Marche or Piedmont in Italy;\n\n- Daegu or Gyeongsangbuk-do Province in Korea (Rep.).\n\nThis does not apply to nationals of Indonesia.\n\n7. Passengers arriving from Iran, Italy or Korea (Rep.) are required to complete a Health Alert Card (Kartu Kewaspadaan Kesehatan) issued by the Ministry of Health of the Republic of Indonesia prior to arrival."
 },
 {
     "id": "IE",
@@ -612,11 +617,8 @@
 {
     "id": "KW",
     "name": "Kuwait",
-    "nationalBans":["CN", "IR", "IQ", "IT", "JP", "KR", "SG", "TH", "HK"],
-    "bans":{"CN":-14, "HK":-14, "IR":-14, "IQ":-14, "IT":-14, "JP":-14, "KR":-14, "SG":-14, "TH":-14},
-    "restrictions":{"AZ":-1, "BD":-1, "EG":-1, "GE":-1, "ID":-1, "LB":-1, "PH":-1, "LK":-1, "SY":-1, "TR":-1},
-    "nationalsExcempt":true,
-    "tooltip":"1. Nationals of China (People's Rep.) are not allowed to enter Kuwait.\n\n2. Nationals of Iran, Iraq, Italy, Japan, Korea (Rep.), Singapore and Thailand are not allowed to enter Kuwait.\n\n3. Passengers with a Hong Kong (SAR China) passport are not allowed to enter Kuwait.\n\n4. Passengers with a residence permit or visa issued by China (People's Rep.) who have been in China (People's Rep.) in the past 2 weeks are not allowed to enter Kuwait.\n\n5. Passengers with a residence permit or visa issued by Hong Kong (SAR China) who have been in Hong Kong (SAR China) in the past 2 weeks are not allowed to enter Kuwait.\n\n6. Passengers who have been in Iran, Iraq, Italy, Japan, Korea (Rep.), Singapore or Thailand in the past 2 weeks are not allowed to enter Kuwait. \n- This does not apply to nationals of Kuwait.\n7. Effective 8 March 2020, passengers arriving from Azerbaijan, Bangladesh, Egypt, Georgia, India, Lebanon, Philippines, Sri Lanka, Syria and Turkey must complete a medical examination (PCR-certificate) confirming that they are free from coronavirus (COVID-19). The medial certificate must be issued by health centers approved by the embassy of Kuwait.\n\n- This does not apply to nationals of Kuwait."
+    "nationalBans":["*"],
+    "tooltip":"All passengers are not allowed to enter Kuwait.\n\n- This does not apply to nationals and residents of Kuwait.\n\n- This does not apply to the immediate relatives and the domestic workers of nationals of Kuwait."
 },
 {
     "id": "KY",
@@ -628,10 +630,10 @@
 {
     "id": "KZ",
     "name": "Kazakhstan",
-    "bans":{"CN":-14, "IR":-14, "KR":-14},
-    "nationalBans":["CN", "IR", "KR"],
+    "bans":{"CN":-30, "TW":-30, "FR":-30, "DE":-30, "HK":-30, "IR":-30, "IT":-30, "JP":-30, "KR":-14, "MO":-30, "ES":-30},
+    "nationalBans":["CN", "FR", "DE", "IR", "IT", "JP", "KR", "ES"],
     "nationalsExcempt": true,
-    "tooltip":"1. Nationals of China (People’s Rep.), Iran and Korea (Rep.) are not allowed to enter Kazakhstan.\n\n2. Passengers who have been in China (People’s Rep.), Iran or Korea (Rep.) in the past 14 days are not allowed to enter Kazakhstan.\n\n- This does not apply to nationals of Kazakhstan."
+    "tooltip":"1. Visitors who have been in the Hubei Province (China People's Rep.) in the past 14 days are not allowed to transit or enter Korea (Rep.).\n\n2. Nationals of China (People's Rep) with a passport issued in the Hubei Province are not allowed to enter Korea (Rep.).\n\n3. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated.\n\n4. A visa is required to transit through Korea (Rep.) for:\n\n- nationals of China (People's Rep.) arriving from China (People's Rep); and\n\n- visa required nationals arriving from China (People's Rep.).\n\n5. Visitors arriving from Japan who have been in the cruise ship 'Diamond Princess' are not allowed to transit or enter (Korea Rep.).\n\n6. Visas issued to nationals of Japan (at Korean Diplomatic Missions in Japan) before 9 March 2020 are invalidated. \n\n- This does not apply to visas issued outside Japan. Such visas remain valid.\n\n- This does not apply to airline crew.\n\n7. Nationals of Japan who do not hold a Korean visa issued on or after 9 March 2020 will not be allowed entry."
 },
 {
     "id": "LA",
@@ -742,7 +744,7 @@
     "name": "Mongolia",
     "bans":{"CN":-14, "TW":-14, "HK":-14, "MO":-14, "IT":-14, "IR":-14, "JP":-14, "KR":-14},
     "nationalsExcempt":true,
-    "tooltip":"1. Passengers who reside or have been in the China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China) in the past 14 days are not allowed to transit or enter Mongolia.\n\n- This does not apply to nationals of Mongolia.\n\n2. Passengers who have been in Iran, Italy, Japan or Korea (Rep.) in the past 14 days are not allowed to transit or enter Mongolia.\n\n- This does not apply to nationals of Mongolia."
+    "tooltip":"1. Passengers who reside or have been in the China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China) in the past 14 days are not allowed to transit or enter Mongolia.\n\n- This does not apply to nationals of Mongolia.\n\n2. Passengers who have been in Iran, Italy, Japan or Korea (Rep.) in the past 14 days are not allowed to transit or enter Mongolia.\n\n- This does not apply to nationals of Mongolia.\n3. Nationals of Mongolia who have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.) or Macao (SAR China) in the past 14 days will be placed in quarantine for 14 days at their expense."
 },
 {
     "id": "MO",
@@ -768,7 +770,9 @@
 },
 {
     "id": "MT",
-    "name": "Malta"
+    "name": "Malta",
+    "nationalRestrictions":["*"],
+    "tooltip":"1. Passengers who have been in countries affected by Coronavirus (COVID-19) will be required to self-quarantine for 14 days.\n\n2. A completed Public Health Passenger Locator Form must be presented to a handling agent upon arrival"
 },
 {
     "id": "MU",
@@ -795,9 +799,9 @@
     "id": "MY",
     "name": "Malaysia",
     "nationalsExcempt":true,
-    "bans":{"CN":-14, "KR":-14},
-    "nationalBans":["CN"],
-    "tooltip":"1. Passengers and airline crew who have been in the Hubei, Zhejiang or Jiangsu Provinces (China People's Rep.) in the past 14 days are not allowed to enter Malaysia.\n\n- This does not apply to nationals of Malaysia and passengers who reside in Malaysia.\n\n2. Passengers and airline crew who have been in Daegu and Cheongdo in Korea (Rep.) in the past 14 days are not allowed to enter Malaysia.\n\n- This does not apply to nationals of Malaysia and passengers who reside in Malaysia.\n\n3. Nationals of China (People's Rep.) with a passport issued in Hubei, Zhejiang or Jiangsu Province (China People's Rep.)  are not allowed to enter Malaysia.\n\n- This does not apply to passengers who reside in Malaysia."
+    "nationalBans":["CN", "IR", "IT", "KR"],
+    "bans":{"CN":-14, "JP":-14, "IR":-14, "IT":-14, "KR":-14},
+    "tooltip":"1. Nationals of China (People's Rep.) with a passport issued in Hubei, Zhejiang or Jiangsu Province (China People's Rep.) are not allowed to enter Malaysia.\n\n- This does not apply to passengers who reside in Malaysia.\n\n2. Passengers who have been in the Hubei, Zhejiang or Jiangsu Provinces (China People's Rep.) in the past 14 days are not allowed to enter Malaysia.\n\n- This does not apply to nationals of Malaysia and passengers who reside in Malaysia.\n\n3. Passengers who have been in Hokkaido in Japan in the past 14 days are not allowed to transit and enter Malaysia.\n\n- This does not apply to nationals of Malaysia.\n\n- This does not apply to Malaysian permanent residents, Malaysian social pass holders and Malaysian student passes holders.\n\n4. Malaysian Permanent Residents and Pass Holders (Long Term Social Visit Pass and Student Pass) who have been to Iran, Italy or Korea (Rep.) in the last 14 days must undergo health screening by the Ministry of Health (KKM).\n\n5. Operating Airline Crew who are nationals of China (People's Rep.), Iran, Italy and Korea (Rep,) will be subject to health screening upon arrival.\n\nEffective 13 March 2020:\n\n6. Nationals of Iran, Italy and Korea (Rep.) are not allowed to enter.\n\n7. Passengers who have been in Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to enter Malaysia.\n\n- This does not apply to nationals of Malaysia.\n\n- This does not apply to Malaysian permanent residents, Malaysian social pass holders and Malaysian student passes holders."
 },
 {
     "id": "MZ",
@@ -979,9 +983,9 @@
 {
     "id": "SA",
     "name": "Saudi Arabia",
-    "bans":{"BH":-14, "CN":-14, "TW":-14, "EG":-14, "FR":-14, "DE":-14, "HK":-14, "IR":-14, "IT":-14, "KR":-14, "KW":-14, "LB":-14, "MO":-14, "OM":-14, "ES":-14, "SY":-14, "TR":-14, "AE":-14},
+    "bans":{"BH":-14, "CN":-14, "TW":-14, "DJ":-14, "EG":-14, "ER":-14, "ET":-14, "FR":-14, "DE":-14, "HK":-14, "IN":-14, "ID":-14, "IR":-14, "IT":-14, "KE":-14, "KR":-14, "KW":-14, "LB":-14, "MO":-14, "OM":-14, "PK":-14, "PH":-14, "SO":-14, "SS":-14, "ES":-14, "LK":-14, "SD":-14, "SY":-14, "TR":-14, "AE":-14},
     "restrictions":{"AF":-1, "AZ":-1, "ID":-1, "IN":-1, "IQ":-1, "JP":-1, "KZ":-1, "MY":-1, "PK":-1, "PH":-1, "SG":-1, "SO":-1, "TH":-1, "UZ":-1, "VN":-1, "YE":-1, "EG":-3},
-    "tooltip":"1. Passengers who have transited through or have been in Bahrain, China (People's Rep.), Chinese Taipei, Egypt, France, Germany, Hong Kong (SAR China), Iran, Italy, Korea (Rep.), Kuwait, Lebanon, Macao (SAR China), Oman, Spain, Syria, Turkey or United Arab Emirates in the past 14 days are not allowed to enter Saudi Arabia.\n\n- This does not apply to nationals of Saudi Arabia.\n\n2. Nationals of the GCC countries are no longer allowed to enter Saudi Arabia with a national ID card. They must travel with their passport.\n\n- This does not apply to nationals of Saudi Arabia who are allowed to enter with a national ID card if they used the card when they departed from Saudi Arabia.\n\n3. Tourist visas issued to passengers traveling to Madinah (MED) are no longer accepted.\n\n4. Tourist visas issued to passengers arriving from Afghanistan, Azerbaijan, China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), India, Indonesia, Iran, Iraq, Italy, Japan, Kazakhstan, Korea (Rep.), Lebanon, Macao (SAR China), Malaysia, Pakistan, Philippines, Singapore, Somalia, Syria, Thailand, Uzbekistan, Vietnam or Yemen and traveling to Dammam (DMM), Jeddah (JED) or Riyadh (RUH) are no longer accepted.\n\n5. Passengers traveling for the purpose of Umrah or visiting the Prophet's mosque are not allowed to enter Saudi Arabia.\n\n- This does not apply to nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates with Hajj and Umrah permit, obtained through the website of the Ministry of Hajj and Umrah.\n\n6.Passengers who have transited through or are arriving from Bahrain, Kuwait and United Arab Emirates are allowed to enter Saudi Arabia in one of the following airports: Dammam (DMM),\n\nJeddah (JED) and Riyadh (RUH).\n\n7.Passengers who have transited through or are arriving from Egypt, must have a complete medical examination (PCR) confirming that they are free of the Coronavirus (COVID-19). It must be issued within 24 hours before boarding by one of the laboratories specified and approved by the embassy of Saudi Arabia in Cairo.\n\n-This does not apply to nationals of Saudi Arabia.\n\n8. Airline crew will be subject to medical examination, if required.\n\n9. Passengers must fill-in a \"Health Declaration Form\" before arriving in Saudi Arabia.\n\n10. Based on the travel advisory restriction issued by Saudi Arabia Government, nationals of Saudi Arabia are not allowed to travel to Bahrain, Egypt, France, Germany, Iraq, Italy, Korea (Rep.), Kuwait, Lebanon, Oman, Spain, Syria, Turkey or United Arab Emirates.\n\n11. Border crossing on the causeway has been temporarily suspended due to coronavirus (COVID-19)"
+    "tooltip":"1. Passengers who have transited through or have been in Bahrain, China (People's Rep.), Chinese Taipei, Djibouti, Egypt, Eritrea, Ethiopia, France, Germany, Hong Kong (SAR China), India, Indonesia, Iran, Italy, Kenya, Korea (Rep.), Kuwait, Lebanon, Macao (SAR China), Oman, Pakistan, Philippines, Somalia, South Sudan, Spain, Sri Lanka, Sudan, Syria, Turkey or United Arab Emirates in the past 14 days are not allowed to enter Saudi Arabia.\n\n- This does not apply to nationals of Saudi Arabia.\n\n- This does not apply to residents of Saudi Arabia.\n\n2. Nationals of the GCC countries are no longer allowed to enter Saudi Arabia with a national ID card. They must travel with their passport.\n\n- This does not apply to nationals of Saudi Arabia who are allowed to enter with a national ID card if they used the card when they departed from Saudi Arabia.\n\n3. Tourist visas issued to passengers traveling to Madinah (MED) are no longer accepted.\n\n4. Tourist visas issued to passengers arriving from Afghanistan, Azerbaijan, China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), India, Indonesia, Iran, Iraq, Italy, Japan, Kazakhstan, Korea (Rep.), Lebanon, Macao (SAR China), Malaysia, Pakistan, Philippines, Singapore, Somalia, Syria, Thailand, Uzbekistan, Vietnam or Yemen and traveling to Dammam (DMM), Jeddah (JED) or Riyadh (RUH) are no longer accepted.\n\n5. Passengers traveling for the purpose of Umrah or visiting the Prophet's mosque are not allowed to enter Saudi Arabia.\n\n- This does not apply to nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates with Hajj and Umrah permit, obtained through the website of the Ministry of Hajj and Umrah.\n\n6.Passengers who have transited through or are arriving from Bahrain, Kuwait and United Arab Emirates are allowed to enter Saudi Arabia in one of the following airports: Dammam (DMM),\n\nJeddah (JED) and Riyadh (RUH).\n\n7.Passengers who have transited through or are arriving from Egypt, must have a complete medical examination (PCR) confirming that they are free of the Coronavirus (COVID-19). It must be issued within 24 hours before boarding by one of the laboratories specified and approved by the embassy of Saudi Arabia in Cairo.\n\n-This does not apply to nationals of Saudi Arabia.\n\n8. Airline crew will be subject to medical examination, if required.\n\n9. Passengers must fill-in a \"Health Declaration Form\" before arriving in Saudi Arabia. The form can be found on www.cdc.gov.sa .\n\n10. Based on the travel advisory restriction issued by Saudi Arabia Government, nationals of Saudi Arabia are not allowed to travel to Bahrain, Egypt, France, Germany, Iraq, Italy, Korea (Rep.), Kuwait, Lebanon, Oman, Spain, Syria, Turkey or United Arab Emirates.\n\n11. Border crossing on the causeway has been temporarily suspended due to coronavirus (COVID-19)."
 },
 {
     "id": "SB",
@@ -1064,17 +1068,16 @@
 {
     "id": "SV",
     "name": "El Salvador",
-    "nationalBans":["CN"],
-    "bans":{"KR":-30, "IT":-30},
+    "nationalBans":["*"],
     "nationalsExcempt":true,
-    "tooltip":"1. Nationals of China (People's Rep.) with a normal passport arriving from China (People's Rep.) are not allowed to enter El Salvador. This does not apply to passengers who reside in El Salvador.\n\n2. Passengers and airline crew who have been in Italy or Korea (Rep.) are not allowed to enter El Salvador. This does not apply to nationals of El Salvador or passengers with a diplomatic, official, service or special passport."
+    "tooltip":"Passengers are not allowed to enter El Salvador.\n\n- This does not apply to nationals of El Salvador.\n\n- This does not apply to passengers who reside in El Salvador.\n\n- This does not apply to passengers with a diplomatic, official, service or special passport and their immediate family members."
 },
 {
     "id": "SX",
     "name": "Sint Maarten",
-    "bans":{"CN":-21, "HK":-21, "IR":-21, "IT":-21, "JP":-21, "KR":-21, "MO":-21, "SG":-21},
+    "bans":{"CN":-21, "DE":-21, "HK":-21, "IR":-21, "IT":-21, "JP":-21, "KR":-21, "MO":-21, "SG":-21, "ES":-21},
     "nationalsExcempt":true,
-    "tooltip":"Passengers and airline crew who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China) or Singapore in the past 21 days are not allowed to transit or enter St. Maarten. \n- This does not apply to nationals of the Netherlands (being from Aruba, Bonaire, Curacao, Netherlands, St. Eustatius and Saba and St. Maarten). \n- This does not apply to residents of St. Maarten."
+    "tooltip":"Passengers and airline crew who have been in China (People's Rep.), Germany, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore or Spain in the past 21 days are not allowed to transit or enter St. Maarten.\n- This does not apply to nationals of the Netherlands (being from Aruba, Bonaire, Curacao, Netherlands, St. Eustatius and Saba and St. Maarten).\n\n- This does not apply to residents of St. Maarten."
 },
 {
     "id": "SY",
@@ -1086,7 +1089,10 @@
 },
 {
     "id": "TC",
-    "name": "Turks and Caicos Islands"
+    "name": "Turks and Caicos Islands",
+    "nationalsExcempt":true,
+    "bans":{"CN":-21, "IR":-21, "IT":-21, "JP":-21, "KR":-21, "MO":-21, "SG":-21},
+    "tooltip":"1. Passengers who have been in China (People's Rep.), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore in the past 21 days are not allowed to enter Turks and Caicos.\n\n- This does not apply to nationals and residents of Turks and Caicos.\n\n2. Nationals and residents of Turks and Caicos who have been in China (People's Rep.), Iran, Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore in the past 21 days are subject to quarantine for 14 days."
 },
 {
     "id": "TD",
@@ -1105,7 +1111,8 @@
     "name": "Thailand",
     "restrictions":{"CN":-1, "HK":-1, "IR":-1, "IT":-1, "KR":-1, "MO":-1},
     "nationalBans":["AE"],
-    "tooltip":"1. Passengers arriving from China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) must have a Health Certificate to prove they are free from Coronavirus (COVID-19). They must be under doctor's observation 14 days before issuing date. The Health Certificate must be valid for not more than 2 days prior to departure.  \n- This does not apply to airline crew.  \n2. Passengers arriving from China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) must have a medical insurance with coverage of 100,000 USD.  \n- This does not apply to nationals of Thailand.  \n- This does not apply to airline crew.  \n3. Passengers and crew members must present a completed T.8 health questionnaire to Health Control Office upon arrival.  \n4. Crew members not based in Thailand arriving from China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) will be quarantined at the hotel until next departure schedule.  \n5. Crew members based in Thailand arriving from China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) will be quarantined at home until next departure schedule.  \n- This does not apply when they only transited through China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China).  \n6. Based on the travel advisory restriction issued by United Arab Emirates Government, nationals of United Arab Emirates are not allowed to travel to Thailand."
+    "nationalRestrictions":["BG", "BT", "CN", "CY", "ET", "FJ", "GE", "ID", "KZ", "MT", "MX", "NR", "PG", "RO", "SA", "UZ", "VU", "TW", "IT", "KR", "HK"],
+    "tooltip":"1. Passengers arriving from China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) must have a Health Certificate to prove they are free from Coronavirus (COVID-19). They must be under doctor's observation 14 days before issuing date. The Health Certificate must be valid for not more than 2 days prior to departure.\n\n- This does not apply to airline crew.\n\n2. Passengers arriving from China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) must have a medical insurance with coverage of 100,000 USD.\n\n- This does not apply to nationals of Thailand.\n\n- This does not apply to airline crew.\n\n3. Passengers and crew members must present a completed T.8 health questionnaire to Health Control Office upon arrival.\n\n4. Crew members not based in Thailand arriving from China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) will be quarantined at the hotel until next departure schedule.\n\n5. Crew members based in Thailand arriving from China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) will be quarantined at home until next departure schedule.\n\n- This does not apply when they only transited through China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China).\n\n6. Based on the travel advisory restriction issued by United Arab Emirates Government, nationals of United Arab Emirates are not allowed to travel to Thailand.\nEffective from 13 March 2020:\n\n- Nationals of Bulgaria, Bhutan, China (People's Rep.), Cyprus, Ethiopia, Fiji, Georgia, India, Kazakhstan, Malta, Mexico, Nauru, Papua New Guinea, Romania, Saudi Arabia, Uzbekistan, Vanuatu and passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport can no longer obtain a visa on arrival.\n\n- Nationals of Italy and Korea (Rep.) and passengers with a Hong Kong (SAR China) passport are no longer visa exempt."
 },
 {
     "id": "TJ",
@@ -1192,7 +1199,9 @@
 },
 {
     "id": "UZ",
-    "name": "Uzbekistan"
+    "name": "Uzbekistan",
+    "restrictions":{"AF":-1, "CN":-1, "IR":-1, "IT":-1, "JP":-1, "KR":-1},
+    "tooltip":"Passengers arriving from Afghanistan, China (People's Rep.), Iran, Italy, Japan or Korea (Rep.) will be placed in quarantine for a period of 14 days.\n\n- This does not apply to official and government delegations, holders of service and diplomatic passports, pilots and crew members of aircraft, locomotive crews, persons engaged in rail transportation, as well as drivers engaged in international road transport of goods."
 },
 {
     "id": "VA",
