@@ -241,7 +241,9 @@
 },
 {
     "id": "CO",
-    "name": "Colombia"
+    "name": "Colombia",
+    "restrictions":{"CN":-1, "FR":-1, "IT":-1, "ES":-1},
+    "tooltip":"Passengers arriving from China (People's Rep.), France, Italy or Spain are required to self-isolate for a period of 14 days. They must fill-in a health registration form on arrival."
 },
 {
     "id": "CR",
@@ -283,7 +285,10 @@
 },
 {
     "id": "DK",
-    "name": "Denmark"
+    "name": "Denmark",
+    "nationalBans":["*"],
+    "nationalsExcempt":true,
+    "tooltip":"All passengers are not allowed to enter Denmark.\n\n- This does not apply to nationals of Denmark.\n\n- This does not apply to residents of Denmark.\n\n- This does not apply to passengers with one of the following purposes:\n\na. Visiting a critically or terminal ill family member;\n\nb. Participating in a funeral;\n\nc. Called for a court case;\n\nd. Exercising visitation rights with a minor;\n\ne. Being a legal guardian for a minor;\n\nf. Already in an ongoing health treatment;\n\ng. Have employment in Denmark – documentation needed;\n\nh. Passengers in transit or with connecting flights, and who can provide/present valid ticket for next destination which must be non-domestic;\n\ni. Passengers who can provide documentation for having their vehicle parked at Copenhagen Airport, and who need the vehicle for their ongoing journey out of Denmark (e.g. to Sweden)."
 },
 {
     "id": "DM",
@@ -299,7 +304,9 @@
 },
 {
     "id": "EC",
-    "name": "Ecuador"
+    "name": "Ecuador",
+    "restrictions":{"CN":-1, "FR":-1, "DE":-1, "IT":-1, "IR":-1, "KR":-1, "ES":-1},
+    "tooltip":"Passengers arriving from Hubei or Guandong Provinces (China People's Rep.), France, Germany, Italy, Iran, Korea (Rep.) or Spain are required to self-isolate for a period of 14 days. They must fill-in a special migration form upon arrival."
 },
 {
     "id": "EE",
@@ -495,9 +502,10 @@
 {
     "id": "IL",
     "name": "Israel",
-    "nationalBans":["*"],
+    "nationalRestrictions":["*"],
+    "bans":{"CN":-14, "EG":-14, "HK":-14, "IT":-14, "JP":-14, "KR":-14, "MO":-14, "SG":-14, "TH":-14},
     "nationalsExcempt":true,
-    "tooltip":"Passengers are not allowed to enter Israel.\n\n- This does not apply to nationals of Israel.\n\n- This does not apply to residents of Israel.\n\n- This does not apply to crew members who adhere to special procedures published by Israeli Airports Authority.\n\n- This does not apply to passengers with a specific entry approval from the Population and Immigration Authority or from the Ministry of Health.\n\n- This does not apply to passengers who will stay in Israel for more than 14 days and are able to provide a phone number and address of a person in Israel that can provide them with home quarantine."
+    "tooltip":"1. Passengers are required to be in home quarantine for 14 days from their date of entry. They must have an approval letter for arriving to the state of Israel, signed by the Deputy Director General of the Consular Affairs Division of the Israeli Ministry of Foreign Affairs or by the Population and Immigration Authority and Border Control.\n\n- This does not apply to nationals of Israel.\n\n- This does not apply to residents of Israel.\n\n- This does not apply to crew members who adhere to special procedures published by Israeli Airports Authority.\n\n- This does not apply to accredited Diplomats with a Diplomatic/Official I.D Card issued by the Israeli Ministry of Foreign affairs, stating their Diplomatic or official Status in Israel.\n\n2. Passengers who have been in China (People's Rep.), Egypt, Hong Kong (SAR China), Italy, Japan, Korea (Rep.), Macao (SAR China), Singapore or Thailand in the past 14 days are not allowed to enter Israel.\n\n- This does not apply to nationals of Israel.\n\n- This does not apply to residents of Israel.\n\n- This does not apply to accredited Diplomats with a Diplomatic/Official I.D Card issued by the Israeli Ministry of Foreign affairs, stating their Diplomatic or official Status in Israel.\n\n- This does not apply to passengers with an approval letter signed by the Deputy Director General of the Consular Affairs Division of the Israeli Ministry of Foreign Affairs or by the Population and Immigration Authority and Border Control."
 },
 {
     "id": "IM",
@@ -506,10 +514,9 @@
 {
     "id": "IN",
     "name": "India",
-    "nationalRestrictions":["FR", "DE", "ES", "IR", "IT", "JP", "KR", "CN"],
-    "bans":{"CN":-1000, "FR":-1000, "DE":-1000, "IR":-1000, "IT":-1000, "JP":-1000, "KR":-1000, "ES":-1000},
-    "restrictions":{"HK":-1, "ID":-1, "MO":-1, "MY":-1, "NP":-1, "SG":-1, "TH":-1, "VN":-1},
-    "tooltip":"1. Visa and e-visa issued to nationals of France, Germany and Spain on or before 11 March 2020 are invalidated.  \n- This does not apply to passengers with an OCI card.  \n- This does not apply to airline crew.  \n- This does not apply to diplomats and the United Nations officials.  \n2. Visa and e-visa issued to nationals of Iran, Italy, Japan and Korea (Rep.) on or before 3 March 2020 are invalidated.  \n- This does not apply to passengers with an OCI card. \n- This does not apply to airline crew. \n- This does not apply to diplomats and the United Nations officials. \n3. Visa and e-visa issued to nationals of China (People’s Rep.) before 5 February 2020 are invalidated. \n- This does not apply to passengers with an OCI card. \n- This does not apply to airline crew. \n- This does not apply to diplomats and the United Nations officials. \n4. Passengers who have been in China (People's Rep.), France, Germany, Iran, Italy, Japan, Korea (Rep.) or Spain on or after 1 February 2020 are not allowed to enter India. Their visa and e-visa are invalidated. \n- This does not apply to nationals of India. \n- This does not apply to passengers who reside in India. \n- This does not apply to passengers with an OCI card. \n- This does not apply to airline crew.  \n- This does not apply to diplomats and the United Nations officials. \n5. Nationals of Japan and Korea (Rep.) can no longer obtain a visa on arrival. \n6. Passengers are required to fill the self-declaration form in duplicate upon arrival. \n7. Passengers arriving from China (People's Rep.), France, Hong Kong (SAR China), Indonesia, Iran, Italy, Japan, Kore (Rep.), Macao (SAR China), Malaysia, Nepal, Singapore, Spain, Thailand, USA or Viet Nam must go thorough medical screening upon arrival. \n8. Passengers who arrive from or have been in Italy or Korea (Rep.) with a visa issued after 5 March 2020 by India are only allowed to enter if they have a health certificate of being tested negative for Coronavirus (COVID-19) from a designated laboratory authorized by the health authorities of Italy or Korea (Rep.). \nEffective 13 March 2020: \n9. All visa and e-visa are invalidated.  \n- This does not apply to diplomatic, official, UN/International Organizations, employment, project visas.   \n10. Passengers with an OCI card are no longer visa exempt to India. \n11. Visa and e-visa Passengers who arrive from or have been in China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain after 15 February 2020, will be quarantined for a minimum period of 14 days."
+    "nationalRestrictions":["*"],
+    "restrictions":{"CN":-100, "FR":-100, "DE":-100, "IR":-100, "IT":-100, "KR":-100, "ES":-100},
+    "tooltip":"1. All visa and e-visa are invalidated.\n\n- This does not apply to diplomatic, official, UN/International Organizations, employment, project visas.\n\n- This does not apply to airline crew.\n\n2. Passengers with an OCI card are no longer visa exempt to India.\n\n3. Passengers who arrive from or have been in China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain after 15 February 2020, will be quarantined for a minimum period of 14 days.\n\n4. Nationals of Japan and Korea (Rep.) can no longer obtain a visa on arrival.\n\n5. Passengers are required to fill the self-declaration form in duplicate upon arrival.\n\n6. All passengers must go thorough medical screening upon arrival.\n\n7. Passengers who arrive from or have been in Italy or Korea (Rep.) with a visa issued after 5 March 2020 by India are only allowed to enter if they have a health certificate of being tested negative for Coronavirus (COVID-19) from a designated laboratory authorized by the health authorities of Italy or Korea (Rep.)."
 },
 {
     "id": "IO",
@@ -727,7 +734,10 @@
 },
 {
     "id": "MK",
-    "name": "Macedonia"
+    "name": "Macedonia",
+    "bans":{"CN":-1, "IT":-1, "IR":-1, "KR":-1, "FR":-1, "ES":-1, "DE":-1},
+    "restrictions":{"AT":-14, "AU":-14, "BH":-14, "BE":-14, "BR":-14, "CA":-14, "CN":-14, "CZ":-14, "DK":-14, "EG":-14, "GR":-14, "IS":-14, "IL":-14, "IN":-14, "IQ":-14, "JP":-14, "KW":-14, "LB":-14, "MY":-14, "NL":-14, "NO":-14, "PH":-14, "QA":-14, "SM":-14, "SG":-14, "SI":-14, "SE":-14, "ZH":-14, "TH":-14, "AE":-14, "GB":-14, "US":-14},
+    "tooltip":"1. Passengers arriving from China (People's Rep.), Italy, Iran, Korea (Rep.), France, Spain or Germany are not allowed to enter North Macedonia (Rep.) unless they submit a certificate for regulated quarantine issued by an authorized agency.\n2. Nationals and residents of North Macedonia (Rep.) who have been in the last 14 days in the countries listed below will be subject to compulsory 14-day self-isolation: Australia, Austria, Bahrain, Belgium, Brazil, Canada, China (People's Rep.), Czechia, Denmark, Egypt, France, Germany, Greece, Iceland, India, Iran, Iraq, Israel, Italy, Japan, Korea (Rep.), Kuwait, Lebanon, Malaysia, Netherlands, Norway, Philippines, Qatar, San Marino, Singapore, Slovenia, Spain, Sweden, Switzerland, Thailand, United Arab Emirates, United Kingdom and USA. \n3. Passengers who have been in the last 14 days in the countries listed below will be subject to compulsory 14-day self-isolation: Australia, Austria, Bahrain, Belgium, Brazil, Canada,  China (People's Rep.), Czechia, Denmark, Egypt, Greece, Iceland, Israel, India, Iraq, Japan, Kuwait, Lebanon, Malaysia, Netherlands, Norway, Philippines, Qatar, San Marino, Singapore, Slovenia, Sweden, Switzerland, Thailand, United Arab Emirates, United Kingdom and USA.\n4.Passengers that do not have a residence in North Macedonia (Rep.) must have evidence of booked accommodation."
 },
 {
     "id": "ML",
@@ -869,10 +879,10 @@
 {
     "id": "OM",
     "name": "Oman",
-    "nationalRestrictions":["CN", "IR", "IT", "KR", "BH", "KW", "QA", "SA", "AE"],
+    "nationalRestrictions":["*"],
     "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14, "EG":-14},
     "restrictions":{"JP":-1, "SG":-1},
-    "tooltip":"1. Tourist visa and visa on arrival facilities have been suspended.\n\n2. Nationals of China (People's Rep.), Iran, Italy and Korea (Rep.) will be allowed entry only if they had not been to China, Iran, South Korea or Italy within 14 days of arrival in Oman.\n\n- This applies to all types of visas.\n\n3. Passengers who have been in China (People's Rep.), Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to enter Oman.\n\n4. Passengers arriving from Japan or Singapore will be subject to quarantine for a minimum of 14 days.\n\n- This does not apply to nationals of China (People's Rep.), Iran, Italy and Korea (Rep.).\n\n5. Passengers who have been in Egypt in the past 14 days are not allowed to enter Oman.\n\n- This does not apply to nationals of Oman.\n\n- This does not apply to nationals of Egypt with a Resident Visa issued by Oman. Passengers must also hold a medical examination (PCR) confirming that they are free of Coronavirus (COVID-19). The PCR must be issued within 48 hours before boarding the aircraft by a laboratory approved by the Oman embassy in Cairo.\n\n6. Nationals of Oman are allowed to enter with a national ID card if they used the card when they departed from Oman.\n\n7. Nationals of Bahrain, Kuwait, Qatar, Saudi Arabia and the United Arab Emirates are no longer allowed to enter the Oman with a national ID card, they must have a passport."
+    "tooltip":"1. Nationals of China (People's Rep.), Iran, Italy and Korea (Rep.) will be allowed entry only if they had not been to China, Iran, South Korea or Italy within 14 days of arrival in Oman.\n\n- This applies to all types of visas.\n\n2. Passengers who have been in China (People's Rep.), Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to enter Oman.\n\n3. Passengers arriving from Japan or Singapore will be subject to quarantine for a minimum of 14 days.\n\n- This does not apply to nationals of China (People's Rep.), Iran, Italy and Korea (Rep.).\n\n4. Passengers who have been in Egypt in the past 14 days are not allowed to enter Oman.\n\n- This does not apply to nationals of Oman.\n\n- This does not apply to nationals of Egypt with a Resident Visa issued by Oman. Passengers must also hold a medical examination (PCR) confirming that they are free of Coronavirus (COVID-19). The PCR must be issued within 48 hours before boarding the aircraft by a laboratory approved by the Oman embassy in Cairo.\n\n5. Nationals of Oman are allowed to enter with a national ID card if they used the card when they departed from Oman.\n\n6. Nationals of Bahrain, Kuwait, Qatar, Saudi Arabia and the United Arab Emirates are no longer allowed to enter the Oman with a national ID card, they must have a passport.\n\nTourist visa and visa on arrival facilities have been suspended."
 },
 {
     "id": "PA",
@@ -882,7 +892,9 @@
 },
 {
     "id": "PE",
-    "name": "Peru"
+    "name": "Peru",
+    "restrictions":{"CN":-1, "FR":-1, "IT":-1, "ES":-1},
+    "tooltip":"Passengers arriving from China (People's Rep.), France, Italy or Spain are required to self-isolate for a period of 14 days. They must fill-in a health registration form upon arrival."
 },
 {
     "id": "PF",
@@ -1013,9 +1025,10 @@
 {
     "id": "SG",
     "name": "Singapore",
-    "nationalBans":["CN", "IR"],
-    "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14},
-    "tooltip":"1. Passengers who have been in China (People's Rep.) in the last 14 days are not allowed to transit or enter Singapore.\n\n- This does not apply to residents of Singapore (Singapore Citizens/Permanent Residents or travelers holding a long-term pass (Work Pass, Student Pass, Dependent Pass, Long-term Visit Pass only) with final destination Singapore. If they have been in Hubei Province (China People's Rep.) in the last 14 days, they will be quarantined upon entry in Singapore. For the others, they will be issued Stay-Home-Notices (SHNs) upon entry in Singapore.\n\n2. For work pass holders with travel history to mainland China in the last 14 days, they are allowed to enter Singapore subjected to the Ministry of Manpower’s (MOM) prior approval. They are required to show the MOM approval letter to airline staff upon check-in and before boarding.\n\n3. Nationals of China (People's Rep.) with a passport issued in Hubei Province (China People's Rep.) are not allowed to transit or enter Singapore.\n\n- This does not apply to residents of Singapore (Permanent Residents only) or travelers holding a long-term pass (Work Pass, Student Pass, Dependent Pass, Long-term Visit Pass only) with final destination Singapore. They will be quarantined upon entry in Singapore.\n\n4. Passengers with an Approved Letter for Entry from the Singapore Immigration & Checkpoints Authority will not be subject to the above restrictions. However, they may still be subjected to the prevailing health screening requirement upon arriving at Singapore airport. Possession of an Approved Letter for Entry does not guarantee the issuance of a Visit Pass to enter Singapore.\n\n5. For nationals of China (People’s Rep) and Iran with a short or multiple term visa issued by Singapore, the visa has been suspended and is not valid for travel.\n\n6. Passengers and crew members who were on the cruise ship \"Diamond Princess\" are not allowed to transit or enter Singapore from 19 February 2020 to 29 March 2020.\n\n- This does not apply to nationals of Singapore, permanent residents of Singapore or long-term pass holders. They will be quarantined for 14 days upon arrival in Singapore.\n\n7. Passengers who have been in Iran, Italy (Aosta Valley, Piedmont, Liguria, Lombardy, Emilia-Romagna, Veneto, Friuli-Venezia Giulia or Trentino-Alto Adige/Südtirol regions) or Korea (Rep.) in the last 14 days are not allowed to transit or enter Singapore.\n\n- This does not apply to residents of Singapore (Singapore Citizens/Permanent Residents or travelers holding a long-term pass (Work Pass, Student Pass, Dependent Pass, Long-term Visit Pass only). They will be issued a SHNs upon entry in Singapore.\n\n- For work pass holders with travel history to Iran, northern Italy, or the Republic of Korea in the last 14 days, they are allowed to enter Singapore subjected to the MOM’s prior approval. They are required to show the MOM approval letter to airline staff upon check-in and before boarding. Upon entry, they will be issued SHNs."
+    "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14, "FR":-14, "DE":-14, "ES":-14},
+    "nationalBans":["CN"],
+    "nationalRestrictions":["IR"],
+    "tooltip":"1. Passengers who have been in China (People's Rep.) in the last 14 days are not allowed to transit or enter Singapore.\n\n- This does not apply to residents of Singapore (Singapore Citizens/Permanent Residents or travelers holding a long-term pass (Work Pass, Student Pass, Dependent Pass, Long-term Visit Pass only) with final destination Singapore. If they have been in Hubei Province (China People's Rep.) in the last 14 days, they will be quarantined upon entry in Singapore. For the others, they will be issued Stay-Home-Notices (SHNs) upon entry in Singapore.\n\n2. For work pass holders with travel history to mainland China in the last 14 days, they are allowed to enter Singapore subjected to the Ministry of Manpower’s (MOM) prior approval. They are required to show the MOM approval letter to airline staff upon check-in and before boarding.\n\n3. Nationals of China (People's Rep.) are not allowed to transit or enter Singapore.\n\n- This does not apply to residents of Singapore (Permanent Residents only) or travelers holding a long-term pass (Work Pass, Student Pass, Dependent Pass, Long-term Visit Pass only) with final destination Singapore. They will be quarantined upon entry in Singapore.\n\n4. Passengers with an Approved Letter for Entry from the Singapore Immigration & Checkpoints Authority will not be subject to the above restrictions. However, they may still be subjected to the prevailing health screening requirement upon arriving at Singapore airport. Possession of an Approved Letter for Entry does not guarantee the issuance of a Visit Pass to enter Singapore.\n\n5. For nationals of China (People’s Rep) and Iran with a short or multiple term visa issued by Singapore, the visa has been suspended and is not valid for travel.\n\n6. Passengers and crew members who were on the cruise ship "Diamond Princess" are not allowed to transit or enter Singapore from 19 February 2020 to 29 March 2020.\n\n- This does not apply to nationals of Singapore, permanent residents of Singapore or long-term pass holders. They will be quarantined for 14 days upon arrival in Singapore.\n\n7. Passengers who have been in Iran, Italy (Aosta Valley, Piedmont, Liguria, Lombardy, Emilia-Romagna, Veneto, Friuli-Venezia Giulia or Trentino-Alto Adige/Südtirol regions) or Korea (Rep.) in the last 14 days are not allowed to transit or enter Singapore.\n\n- This does not apply to residents of Singapore (Singapore Citizens/Permanent Residents or travelers holding a long-term pass (Work Pass, Student Pass, Dependent Pass, Long-term Visit Pass only). They will be issued a SHNs upon entry in Singapore.\n\n- For work pass holders with travel history to Iran, northern Italy, or the Republic of Korea in the last 14 days, they are allowed to enter Singapore subjected to the MOM’s prior approval. They are required to show the MOM approval letter to airline staff upon check-in and before boarding. Upon entry, they will be issued SHNs.\nEffective 23:59 local time, 15 March 2020:\n\nPassengers who have been in France, Germany, Italy or Spain in the last 14 days are not allowed to transit or enter Singapore.\n\n- This does not apply to nationals of Singapore. They will be issued SHNs upon entry in Singapore.\n\n- This does not apply to permanent residents of Singapore or long-term pass holders. They will be issued a SHNs upon entry in Singapore.\n\n- This does not apply to work pass holders with the MOM's prior approval letter. They must show the MOM approval letter to airline staff upon check-in and before boarding. Upon entry, they will be issued a SHNs."
 },
 {
     "id": "SH",
@@ -1150,8 +1163,9 @@
     "id": "TR",
     "name": "Turkey",
     "nationalsExcempt":true,
-    "bans":{"CN":-14, "IR":-14, "IQ":-14, "IT":-14, "KR":-14},
-    "tooltip":"Passengers who have transited through or have been in China (People's Rep.), Iran, Iraq, Italy or Korea Rep. in the past 14 days are not allowed to transit or enter Turkey.\n\n-This does not apply to nationals of Turkey and residents of Turkey."
+    "nationalBans":["AU", "BE", "DK", "FR", "DE", "NL", "NO", "ES", "SE"],
+    "bans":{"AT":-14, "BE":-14, "CN":-14, "DK":-14, "FR":-14, "DE":-14, "IR":-14, "IQ":-14, "IT":-14, "KR":-14, "NL":-14, "NO":-14, "ES":-14, "SE":-14},
+    "tooltip":"1. Nationals of Austria, Belgium, Denmark, France, Germany, Netherlands, Norway, Spain and Sweden are not allowed to enter Turkey.\n\n2. Passengers who have transited through or have been in Austria, Belgium, China (People's Rep.), Denmark, France, Germany, Iran, Iraq, Italy, Korea Rep., Netherlands, Norway, Spain or Sweden in the past 14 days are not allowed to transit or enter Turkey.\n\n-This does not apply to nationals of Turkey and residents of Turkey.\n\n3. Passengers departing from Austria, Belgium, China (People's Rep.), Denmark, France, Germany, Iran, Iraq, Italy, Korea Rep., Netherlands, Norway, Spain or Sweden in the past 14 days are not allowed to transit or enter Turkey."
 },
 {
     "id": "TT",
@@ -1167,10 +1181,10 @@
 {
     "id": "TW",
     "name": "Taiwan",
+    "nationalBans": ["CN", "HK", "MO"],
     "bans":{"CN":-14, "HK":-14, "MO":-14},
-    "restrictions":{"IR":-14, "IT":-14, "KR":-14},
-    "nationalBans": ["CN"],
-    "tooltip":"1. Nationals of China (People's Rep.) are not allowed to transit or enter Chinese Taipei.\n- This does not apply if their spouse is from Chinese Taipei.</p>2. Passengers who have been in China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) in the past 14 days are not allowed to enter Chinese Taipei.\n- This does not apply to passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport.\n- This does not apply to residents of Chinese Taipei with a ROC (Taiwan) Resident Certificate, type APRC or ARC.\n- This does not apply to passengers with a Hong Kong (SAR China) passport.\n- This does not apply to passengers with a Macao (SAR China) passport.\n- This does not apply to passengers who have transited through China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) in the past 14 days but not leaving the transit areas. They will be under home quarantine for 14 days.\n- This does not apply to airline crew who have transited through China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) but not leaving the transit areas. They can enter with a guarantee letter proving that they have not entered China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) in the past 14 days.\n\n3. Passengers residing in China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) are not allowed to enter Chinese Taipei.\n- This does not apply to passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport.\n- This does not apply to passengers with a Hong Kong (SAR China) passport.\n- This does not apply to passengers with a Macao (SAR China) passport.\n\n4. Passengers arriving from Iran, Italy or Korea (Rep.) must be in home quarantine for 14 days."
+    "restrictions":{"AT":-14, "BE":-14, "BG":-14, "HR":-14, "CY":-14, "CZ":-14, "DK":-14, "EE":-14, "FI":-14, "FR":-14, "DE":-14, "GR":-14, "HU":-14, "IR":-14, "IE":-14, "IT":-14, "KR":-14, "LV":-14, "LT":-14, "LU":-14, "MT":-14, "NL":-14, "PL":-14, "PT":-14, "RO":-14, "SK":-14, "SI":-14, "ES":-14, "SE":-14, "AE":-14},
+    "tooltip":"1. Nationals of China (People's Rep.) are not allowed to transit or enter Chinese Taipei.\n\n- This does not apply if their spouse is from Chinese Taipei.\n\n2. Passengers with a Hong Kong (SAR China) passport or Macao (SAR China) passport are not allowed to enter Chinese Taipei.\n\n- This does not apply if their spouse or their parent(s) is from Chinese Taipei. They must have an ROC (Taiwan) Resident Certificate and must be in home quarantine for 14 days.\n\n- This does not apply when they are on business trips or are being transferred by multinational companies. They must be in home quarantine for 14 days.\n\n3. Passengers who have been in China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) in the past 14 days are not allowed to enter Chinese Taipei.\n\n- This does not apply to passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport.\n\n- This does not apply to residents of Chinese Taipei with a ROC (Taiwan) Resident Certificate, type APRC or ARC.\n\n- This does not apply to passengers with a Hong Kong (SAR China) passport.\n\n- This does not apply to passengers with a Macao (SAR China) passport.\n\n- This does not apply to passengers who have transited through China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) in the past 14 days but not leaving the transit areas. They will be under home quarantine for 14 days.\n\n- This does not apply to airline crew who have transited through China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) but not leaving the transit areas. They can enter with a guarantee letter proving that they have not entered China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) in the past 14 days.\n\n4. Passengers who reside in China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) are not allowed to enter Chinese Taipei.\n\n- This does not apply to passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport.\n\n- This does not apply to passengers with a Hong Kong (SAR China) passport.\n\n- This does not apply to passengers with a Macao (SAR China) passport.\n\n5. Passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iran, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or United Arab Emirates must be in home quarantine for 14 days."
 },
 {
     "id": "TZ",
@@ -1203,8 +1217,9 @@
 {
     "id": "UZ",
     "name": "Uzbekistan",
-    "restrictions":{"AF":-1, "CN":-1, "IR":-1, "IT":-1, "JP":-1, "KR":-1},
-    "tooltip":"Passengers arriving from Afghanistan, China (People's Rep.), Iran, Italy, Japan or Korea (Rep.) will be placed in quarantine for a period of 14 days.\n\n- This does not apply to official and government delegations, holders of service and diplomatic passports, pilots and crew members of aircraft, locomotive crews, persons engaged in rail transportation, as well as drivers engaged in international road transport of goods."
+    "nationalBans":["CN", "FR", "IR", "IT", "KR", "ES"],
+    "restrictions":{"AF":-1, "CN":-1, "IR":-1, "IT":-1, "JP":-1, "KR":-1, "TW":-14, "FR":-14, "DE":-14, "HK":-14, "MO":-14, "SG":-14, "ES":-14, "US":-14},
+    "tooltip":"1. Nationals of China (People's Rep.), France, Iran, Italy, Korea (Rep.) and Spain are not allowed to enter Uzbekistan.\n\n2. Passengers arriving from Afghanistan, China (People's Rep.), Iran, Italy, Japan or Korea (Rep.) will be placed in quarantine for a period of 14 days.\n\n- This does not apply to official and government delegations, holders of service and diplomatic passports, pilots and crew members of aircraft, locomotive crews, persons engaged in rail transportation, as well as drivers engaged in international road transport of goods.\n\n3. Passengers who have been in Chinese Taipei, France, Germany, Hong Kong (SAR China), Macao (SAR China), Singapore, Spain or USA in the past 14 days will be subject to home/hotel self quarantine.\n\n- This does not apply to official and government delegations, holders of service and diplomatic passports, pilots and crew members of aircraft, locomotive crews, persons engaged in rail transportation, as well as drivers engaged in international road transport of goods."
 },
 {
     "id": "VA",
