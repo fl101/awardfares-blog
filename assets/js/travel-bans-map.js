@@ -5,14 +5,25 @@ var countryMap = {};
 var map;
 var bans = {};
 var restrictions = {};
+var SCHENGEN_COUNTRIES = ["AT", "BE", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "HU", "IS", "IT", "LV", "LI", "LT", "LU", "ML", "NL", "NO", "PL", "PT", "SK", "SI", "ES", "SE", "CH"]
+
+function checkSchengen(country) {
+  return !!(SCHENGEN_COUNTRIES.indexOf(country) > -1)
+}
 
 function recalculateBans() {
   bans = {};
   restrictions = {};
   countries.forEach(function (country) {
-    if (country.nationalBans && (country.nationalBans.indexOf('*') > -1 || country.nationalBans.indexOf(nationality) > -1)) {
-      bans[country.id] = 1.0;
-      return;
+    if (country.nationalBans) {
+      if ((country.nationalBans.indexOf('*') > -1 || country.nationalBans.indexOf(nationality) > -1)) {
+        bans[country.id] = 1.0;
+        return;
+      }
+      if (country.nationalBans.indexOf('SCH') > -1 && checkSchengen(country)) {
+        bans[country.id] = 1.0;
+        return;
+      }
     }
     if (country.bans) {
       for (const tripCountry in trips) {
@@ -20,16 +31,30 @@ function recalculateBans() {
           bans[country.id] = 1.0;
           return;
         }
+        if (checkSchengen(tripCountry) && country.bans['SCH'] <= trips[tripCountry]) {
+          bans[country.id] = 1.0;
+          return;
+        }
       }
     }
     bans[country.id] = 0.0;
-    if (country.nationalRestrictions && (country.nationalRestrictions.indexOf('*') > -1 || country.nationalRestrictions.indexOf(nationality) > -1)) {
-      restrictions[country.id] = 1.0;
-      return;
+    if (country.nationalRestrictions) {
+      if ((country.nationalRestrictions.indexOf('*') > -1 || country.nationalRestrictions.indexOf(nationality) > -1)) {
+        restrictions[country.id] = 1.0;
+        return;
+      }
+      if (country.nationalRestrictions.indexOf('SCH') > -1 && checkSchengen(country)) {
+        restrictions[country.id] = 1.0;
+        return;
+      }
     }
     if (country.restrictions) {
       for (const tripCountry in trips) {
         if (country.restrictions[tripCountry] <= trips[tripCountry]) {
+          restrictions[country.id] = 1.0;
+          return;
+        }
+        if (checkSchengen(tripCountry) && country.restrictions['SCH'] <= trips[tripCountry]) {
           restrictions[country.id] = 1.0;
           return;
         }
