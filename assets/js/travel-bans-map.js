@@ -27,7 +27,7 @@ function recalculateBans() {
     }
     if (country.bans) {
       for (const tripCountry in trips) {
-        if (country.bans[tripCountry] <= trips[tripCountry]) {
+        if (country.bans[tripCountry] <= trips[tripCountry] || country.bans['*'] <= trips[tripCountry]) {
           bans[country.id] = 1.0;
           return;
         }
@@ -50,7 +50,7 @@ function recalculateBans() {
     }
     if (country.restrictions) {
       for (const tripCountry in trips) {
-        if (country.restrictions[tripCountry] <= trips[tripCountry]) {
+        if (country.restrictions[tripCountry] <= trips[tripCountry] || country.restrictions['*'] <= trips[tripCountry]) {
           restrictions[country.id] = 1.0;
           return;
         }
@@ -97,7 +97,7 @@ function addCountry() {
 $('#add-country').on('click', addCountry);
 
 $.getJSON('/assets/js/travel-bans.json', function (data) {
-  $('.last-updated').html(moment.tz('2020-03-16 15:00:00', 'UTC').tz(moment.tz.guess()).format('YYYY-MM-DD HH:mm zz'))
+  $('.last-updated').html(moment.tz('2020-03-18 03:00:00', 'UTC').tz(moment.tz.guess()).format('YYYY-MM-DD HH:mm zz'))
 
   var options = '';
   countries = data;
