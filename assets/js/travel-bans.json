@@ -5,10 +5,8 @@
 {
     "id": "AE",
     "name": "United Arab Emirates",
-    "nationalBans":["IR"],
-    "restrictions":{"IT":-1, "CN":-1, "LB":-1, "SY":-1},
-    "nationalRestrictions":["*"],
-    "tooltip":"1. Nationals of Iran are not allowed to transit or enter the United Arab Emirates. \n- This does not apply to passengers with a valid UAE Resident Visa. A prior 'OK TO BOARD' must be obtained from NAIC-UAE. \n- This does not apply to diplomatic passport holders. A prior 'OK TO BOARD' must be obtained from NAIC-UAE.\n2. Passengers arriving from Italy must have departed from Fiumicino (FCO) or Ciampino (CIA). All passengers and crew must go through a COVID-19 screening process. \n3. Passengers arriving from China (People's Rep.) must have departed from Beijing (PEK). All passengers and crew must go through a COVID-19 screening process.\n4. Nationals of the United Arab Emirates are allowed to enter with a national ID card if they left before 28 February 2020. \n5. Nationals of Bahrain, Kuwait, Oman, Qatar and Saudi Arabia are no longer allowed to enter the United Arab Emirates with a national ID card, they must have a passport. \n6. Based on the travel advisory restriction issued by United Arab Emirates Government, nationals of United Arab Emirates are not allowed to travel to Iran or Thailand. \n7. Passengers arriving on a direct flight at Abu Dhabi (AUH) from Italy, Lebanon and Syria must go through a COVID-19 screening process and obtain a proof of screening slip before continuing to Immigration.\n8. Issuance of pre-arranged visas is suspended.\n9. Passengers who are visa exempt or eligible for visa on arrival traveling as tourist and arriving from China (People's Rep.), Iran, Italy or Korea (Rep.) are required to be in quarantine for 4 days and be re-examined after 4 days.\n10. Residents of United Arab Emirates are required to undergo PCR test and be in quarantine for 14 days."
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter United Arab Emirates.\n- This does not apply to nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates.\n- This does not apply to passengers with a diplomatic passport.\n- This does not apply to family members (including father, mother, son, daughter, wife, husband, grandparents, grandchildren and domestic helpers) of nationals of United Arab Emirates. They must travel together. Airlines are required to contact the local immigration for prior approval before boarding.\n2. Visas issued before 17 March 2020 by United Arab Emirates have been invalidated.\n3. Passengers arriving from Italy must have departed from Fiumicino (FCO) or Ciampino (CIA). All passengers and crew must go through a COVID-19 screening process. \n4. Passengers arriving from China (People's Rep.) must have departed from Beijing (PEK). All passengers and crew must go through a COVID-19 screening process.\n5. Nationals of the United Arab Emirates are allowed to enter with a national ID card if they left before 28 February 2020. \n6. Nationals of Bahrain, Kuwait, Oman and Saudi Arabia are no longer allowed to enter the United Arab Emirates with a national ID card, they must have a passport. \n7. Based on the travel advisory restriction issued by United Arab Emirates Government, nationals of United Arab Emirates are not allowed to travel to Iran or Thailand. \n8. Passengers arriving on a direct flight at Abu Dhabi (AUH) from Italy, Lebanon and Syria must go through a COVID-19 screening process and obtain a proof of screening slip before continuing to Immigration."
 },
 {
     "id": "AF",
@@ -38,10 +36,10 @@
 {
     "id": "AO",
     "name": "Angola",
-    "bans": {"CN": -1000, "IR": -1000, "IT": -1000, "KR": -1000},
+    "bans": {"CN": -1000, "FR":-1000, "IR": -1000, "IT": -1000, "KR": -1000, "PT":-1000, "ES":-1000},
     "nationalRestrictions":["*"],
     "nationalsExcempt": true,
-    "tooltip":"1. Passengers and airline crew who arrive from or have been in China (People's Rep.), Iran, Italy or Korea (Rep.) are not allowed to enter Angola. \n- This does not apply to airline crew and nationals of Angola. \n2. Residents of Angola, airline crew and nationals of Angola who arrive from or have been in China (People's Rep.), Iran, Italy or Korea (Rep.) will be put in quarantine. \n3. A completed sanitary control sheet must be presented to the National Directorate of Public Health of the Ministry of Health upon arrival"
+    "tooltip":"1. Passengers and airline crew who have been in China (People's Rep.), France, Iran, Italy, Korea (Rep.), Portugal or Spain are not allowed to enter Angola. This also applies to passengers and airline crew who have been in contact with people infected by the Coronavirus (COVID-19).\n- This does not apply to airline crew and nationals of Angola. \n2. Residents of Angola, airline crew and nationals of Angola who arrive from or have been in China (People's Rep.), France, Iran, Italy, Korea (Rep.), Portugal or Spain will be put in quarantine. \n3. A completed sanitary control sheet must be presented to the National Directorate of Public Health of the Ministry of Health upon arrival."
 },
 {
     "id": "AQ",
@@ -75,8 +73,9 @@
 {
     "id": "AW",
     "name": "Aruba",
-    "bans":{"AT":-14, "BE":-14, "BG":-14, "HR":-14, "CN":-14, "TW":-14, "CY":-14, "CZ":-14, "DK":-14, "EE":-14, "FI":-14, "FR":-14, "DE":-14, "GR":-14, "HK":-14, "HU":-14, "IE":-14, "IT":-14, "IR":-14, "JP":-14, "KR":-14, "LV":-14, "LT":-14, "LU":-14, "MO":-14, "MT":-14, "NL":-14, "NO":-14, "PL":-14, "PT":-14, "RO":-14, "SG":-14, "SI":-14, "SK":-14, "ES":-14, "SE":-14, "CH":-14, "GB":-14},
-    "tooltip": "Passengers who have been in Austria, Belgium, Bulgaria, Croatia, China (People's Rep.), Chinese Taipei, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Ireland (Rep.), Italy, Iran, Japan, Korea (Rep.), Latvia, Lithuania, Luxembourg, Macao (SAR China), Malta, Netherlands, Norway, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, and United Kingdom in the past 14 days are not allowed to enter Aruba.\n\n    -This does not apply to residents of Aruba."
+    "nationalBans":["*"],
+    "nationalsExcempt":true,
+    "tooltip": "Passengers are not allowed to enter Aruba.\n-This does not apply to residents of Aruba. They must hold an valid Aruban driving license, Aruban ID card or a valid Aruban Health Insurance Card.\n-This does not apply to airline crew.\n-Passengers must apply self-quarantine for 14 days"
 },
 {
     "id": "AX",
@@ -115,7 +114,10 @@
 },
 {
     "id": "BG",
-    "name": "Bulgaria"
+    "name": "Bulgaria",
+    "bans":{"BD":-1, "CN":-1, "FR":-1, "DE":-1, "IN":-1, "IR":-1, "IE":-1, "IT":-1, "KR":-1, "MV":-1, "NP":-1, "NL":-1, "ES":-1, "LK":-1, "CH":-1, "GB":-1},
+    "nationalsExcempt":true,
+    "tooltip":"Passengers arriving from Bangladesh, China (People's Rep.), France, Germany, India, Iran, Ireland (Rep.), Italy, Korea (Rep.), Maldives, Nepal, Netherlands, Spain, Sri Lanka, Switzerland or United Kingdom are not allowed to enter Bulgaria.\n- This does not apply to nationals of Bulgaria.\n- This does not apply to family members of nationals of Bulgaria.\n- This does not apply to passengers and their families with a permanent or long term residence permit issued by Bulgaria."
 },
 {
     "id": "BH",
@@ -152,8 +154,8 @@
 {
     "id": "BO",
     "name": "Bolivia",
-    "bans":{"CN":-20, "IT":-20, "KR":-20, "ES":-20},
-    "tooltip":"Passengers who have been in China (People's Rep.), Italy, Korea (Rep.) or Spain in the past 20 days are not allowed to enter Bolivia.\n- This does not apply to nationals of Bolivia."
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter Bolivia.\n- This does not apply to nationals of Bolivia.\n- This does not apply to passengers who reside in Bolivia.\n- This does not apply to passengers who are in a diplomatic mission."
 },
 {
     "id": "BQ",
@@ -166,9 +168,9 @@
 {
     "id": "BS",
     "name": "Bahamas",
-    "bans": {"CN":-20},
+    "bans": {"CN":-20, "SCH":-20, "GB":-20, "IR":-20, "KR":-20, "IE":-20},
     "nationalsExcempt":true,
-    "tooltip": "1. Passengers who have been in China (People's Rep.) in the past 20 days are not allowed to enter.\n\n2. Residents of the Bahamas who have been in China (People's Rep.) will be subject to immediate quarantine for a maximum of 14 days."
+    "tooltip": "1. Passengers who have been in China (People's Rep.), Europe, Iran, Italy, Korea (Rep.) or United Kingdom in the past 20 days are not allowed to enter. \n2. Residents of the Bahamas who have been in China (People's Rep.), Europe, Iran, Italy, Korea (Rep.) or United Kingdom will be subject to immediate quarantine for a maximum of 14 days."
 },
 {
     "id": "BT",
@@ -180,7 +182,10 @@
 },
 {
     "id": "BW",
-    "name": "Botswana"
+    "name": "Botswana",
+    "bans":{"AT":-1, "BE":-1, "CN":-1, "DK":-1, "FR":-1, "DE":-1, "IN":-1, "IR":-1, "IT":-1, "JP":-1, "KR":-1, "NL":-1, "NO":-1, "ES":-1, "SE":-1, "CH":-1, "US":-1, "GB":-1},
+    "nationalRestrictions":["AT", "BE", "CN", "DK", "FR", "DE", "IN", "IR", "IT", "JP","KR","NL","NO","ES","SE","CH","US","GB"],
+    "tooltip":"1. Passengers arriving from Austria, Belgium, China (People's Rep.), Denmark, France, Germany, India, Iran, Italy, Japan, Korea (Rep.), Netherlands, Norway, Spain, Sweden, Switzerland, USA or United Kingdom are not allowed to enter Botswana.\n- This does not apply to nationals of Botswana.\n- This does not apply to passengers who reside in Botswana.\n2. Nationals and residents of Botswana will be quarantined for 14 days.\n3. Passengers can no longer obtain a visa on arrival in Botswana.. \n4. Visas issued to nationals of Austria, Belgium, China (People's Rep.), Denmark, France, Germany, India, Iran, Italy, Japan, Korea (Rep.), Netherlands, Norway, Spain, Sweden, Switzerland or USA are invalidated.\n5. Visas issued to passengers with a British passport with nationality \"British Citizen\" are invalidated."
 },
 {
     "id": "BY",
@@ -219,8 +224,8 @@
 {
     "id": "CH",
     "name": "Switzerland",
-    "bans":{"AT":-1, "FR":-1, "DE":-1, "IT":-1},
-    "tooltip":"Passengers arriving from Austria, France, Germany or Italy are not allowed to enter Switzerland.\n- This does not apply to nationals and permanent residents of Switzerland."
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter Switzerland.\n- This does not apply if arriving from Belgium, Czechia, Denmark, Estonia, Finland, Greece, Hungary, Iceland, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia or Sweden.\n- This does not apply to nationals or residents of Switzerland.\n- This does not apply to passenger with a cross-border commuter permit, a visa issued by Switzerland for the purpose of \"business meetings\" as specialists in the field of health or \"official visit\" of great importance, or who have an assurance of a residence permit.\n- This does not apply to passengers who are entitled to freedom of movement and have a professional reason for entering Switzerland and have a confirmation of registration.\n- This does not apply to passengers who are of great importance as specialists in the health sector."
 },
 {
     "id": "CI",
@@ -237,8 +242,8 @@
 {
     "id": "CL",
     "name": "Chile",
-    "restrictions":{"CN":-1000, "FR":-1000, "DE":-1000, "IR":-1000, "IT":-1000, "ES":-1000},
-    "tooltip":"Passengers who have been in China (People's Rep), France, Germany, Iran, Italy or Spain will be isolated for 14 days."
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter Chile.\n2. Below listed passengers are allowed to enter Chile:\na. nationals of Chile;\nb. residents of Chile;\nc. passengers bringing humanitarian help;\nd. passengers with a diplomatic visa;\ne. passengers with an official ID issued by the Ministry of Foreign Affairs of Chile;\nf. passengers with a safe-conduct."
 },
 {
     "id": "CM",
@@ -259,7 +264,9 @@
 },
 {
     "id": "CR",
-    "name": "Costa Rica"
+    "name": "Costa Rica",
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter Costa Rica.\n- This does not apply to nationals of Costa Rica.\n- This does not apply to passengers who reside in Costa Rica.\n2. Nationals and residents of Costa Rica will be required to be in isolation for a period of 14 days."
 },
 {
     "id": "CU",
@@ -335,9 +342,8 @@
 {
     "id": "EG",
     "name": "Egypt",
-    "nationalBans":["QA"],
-    "restrictions": {"BH":-1000, "CN": -1000, "TW":-1000, "FR":-1000, "DE":-1000, "HK":-1000, "IR":-1000, "IQ":-1000, "IT":-1000, "JP":-1000, "KR":-1000, "KW":-1000, "MO":-1000, "MY":-1000, "SG":-1000, "CH":-1000, "ES":-1000, "TH":-1000, "VN":-1000},
-    "tooltip": "1. Nationals of Qatar are not allowed to enter Egypt.\n\n2. Passengers who have been in Bahrain, China (People's Rep.), Chinese Taipei, France, Germany, Hong Kong (SAR China), Iran, Iraq, Italy, Japan, Korea (Rep.), Kuwait, Macao (SAR China), Malaysia, Singapore, Switzerland, Spain Thailand or Vietnam will be screened upon arrival, and;\n\n-must present a completed “Health Observation Card, upon arrival, and\n\n-will be followed up for a period of 14 days.\n\nBefore arrival of the flight, carriers must complete and present a “Notifying Form” to the General Quarantine administration."
+    "nationalBans":["*"],
+    "tooltip": "Passengers are not allowed to enter Egypt until 31 March 2020."
 },
 {
     "id": "EH",
@@ -362,15 +368,15 @@
 {
     "id": "FJ",
     "name": "Fiji",
-    "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14},
+    "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14, "US":-14, "SCH":-14, "GB":-14, "IE":-14},
     "nationalsExcempt":true,
-    "tooltip": "1. Passengers and airline crew who have been in China (People's Rep.), Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to enter Fiji.\n\n- This does not apply to nationals of Fiji."
+    "tooltip": "1. Passengers and airline crew who have been in China (People's Rep.), Europe, Iran, Italy, Korea (Rep.) or Spain, USA in the past 14 days are not allowed to enter Fiji.\n2. Passengers will be required to self-quarantine for 14 days."
 },
 {
     "id": "FK",
     "name": "Falkland Islands",
-    "restrictions":{"CN":-14, "IR":-14, "IT":-14, "KR":-14, "KH":-14, "TW":-14, "HK":-14, "JP":-14, "LA":-14, "MO":-14, "MY":-14, "MM":-14, "SG":-14, "TH":-14, "VN":-14},
-    "tooltip":"1. Passengers who arrive from or have been in Wuhan City or Hubei Province of China (People's Rep.), Iran, Italy, Daegu or Cheongdo of Korea (Rep.), in the past 14 days, will be interviewed and medically examined on arrival.   \n2. Passengers who arrive from or have been in Cambodia, China (People's Rep.) (except Wuhan City or Hubei Province), Chinese Taipei, Hong Kong (SAR China), Japan, Korea (Rep.) (except Daegu or Cheongdo), Lao People's Dem. Rep, Macao (SAR China), Malaysia, Myanmar, Singapore, Thailand or Viet Nam and who have relevant symptoms (cough, high temperature or shortness of breath etc.) and who have a relevant travel history, will be isolated immediately under public health legislation."
+    "nationalRestrictions":["*"],
+    "tooltip":"1. Passengers are subject to isolation for a period of 14 days if they develop symptoms of Coronavirus (COVID-19). They must contact the local hospital on 28000 for advice.\n2. Passengers who arrive from or have been in Wuhan City or Hubei Province of China (People's Rep.), Iran, Italy, Daegu or Cheongdo of Korea (Rep.), in the past 14 days, and are not a Falkland Islands resident, should not travel to the Falkland Islands. All such arrivals, including local residents, will be interviewed and medically examined on arrival. They will be required to self-isolate for 14 days."
 },
 {
     "id": "FM",
@@ -402,13 +408,15 @@
     "id": "GD",
     "name": "Grenada",
     "nationalBans":["CN"],
-    "bans":{"CN":-14},
+    "bans":{"SCH":-14, "UK":-14, "CN":-14, "KR":-14, "IE":-14, "IR":-14},
     "nationalsExcempt":true,
-    "tooltip":"1. Nationals of China (People's Rep.) are not allowed to enter Grenada.\n\n2. Passengers who have been in China (People's Rep.) in the past 14 days are not allowed to enter Grenada.\n\n- This does not apply to nationals of Grenada.\n\n- This does not apply to passengers who reside in Grenada."
+    "tooltip":"1. Passengers who have been in Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iran, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom in the past 14 days are not allowed to enter Grenada. \n- This does not apply to nationals of Grenada.\n- This does not apply to residents of Grenada.\n2. Nationals of China (People's Rep.) are not allowed to enter Grenada. \n3. Nationals and residents of Grenada who have been in Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iran, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom in the past 14 days will be put in quarantine upon arrival for a period of 14 days."
 },
 {
     "id": "GE",
-    "name": "Georgia"
+    "name": "Georgia",
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter Georgia.\n- This does not apply to nationals and residents of Georgia.\n- This does not apply to airline crew.\n- This does not apply to representatives of diplomatic missions and international organizations and their family members accredited to Georgia.\n- This does not apply to mixed families where one of the spouses or their under age child is a citizen of Georgia.\n- This does not apply to passengers who are part of the humanitarian mission if trip of such mission (doctors, volunteers) becomes a necessity. \n- This does not apply to passengers who have been granted the status of stateless persons by respective authorities of Georgia.\n- This does not apply to passengers who are holding status neutral travel documents.\n- This does not apply to passengers with a refugee status in Georgia.\n2. Passengers with a residence permit issued by Georgia must get an OKTOBOARD before departing for Georgia."
 },
 {
     "id": "GF",
@@ -451,8 +459,8 @@
 {
     "id": "GR",
     "name": "Greece",
-    "restrictions":{"*":-1},
-    "tooltip":"1. Passenger flights from and to Italy and Spain are suspended.\n2. Passengers arriving from any country will be required to be in isolation for a period of 14 days.\n- This does not apply to airline crew."
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter Greece.\n- This does not apply to nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland.\n- This does not apply to family members of nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland.\n- This does not apply to passengers with a British passport and their family members.\n- This does not apply to passengers with a residence permit issued by Greece. A certificate of application for renewal of a residence permit issued by Greece is not accepted.\n- This does not apply to passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.\n- This does not apply to passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.\n- This does not apply to the following passengers:\na. Healthcare professionals and health researchers designated to support the national health care system.\nb. government members, diplomats, staff of international organizations, military personnel and humanitarian aid workers in the exercise of their duties.\nc. passengers in transit.\nd. Aircraft flight crew.\ne. passengers travelling for imperative family or business reasons provided that the relevant authorization has been obtained by the Greek embassy/consulate.\n2. Passengers are required to be in isolation for a period of 14 days.\n- This does not apply to airline crew."
 },
 {
     "id": "GS",
@@ -461,7 +469,7 @@
 {
     "id": "GT",
     "name": "Guatemala",
-    "bans":{"CN":-30, "FR":-30, "DE":-30, "IR":-30, "IT":-30, "KR":-30, "ES":-30},
+    "nationalBans":["*"],
     "nationalsExcempt":true,
     "tooltip":"1. Passengers and airline crew who have transited or have been in China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain in the past 30 days are not allowed to enter Guatemala.\n\n- This does not apply to nationals of Guatemala.\n\n- This does not apply to passengers who reside in Guatemala.\n\n2. Nationals and residents of Guatemala arriving from China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain must be in home quarantine for 7 days."
 },
@@ -546,7 +554,7 @@
     "nationalRestrictions":["*"],
     "bans":{"SCH":-1, "TK":-1, "GB":-1},
     "restrictions":{"CN":-30, "FR":-30, "DE":-30, "IR":-30, "IT":-30, "KR":-30, "ES":-30},
-    "tooltip":"1. All visa and e-visa are invalidated. \n- This does not apply to diplomatic, official, UN/International Organizations, employment, project visas. \n- This does not apply to airline crew.\n2. Passengers with an OCI card are no longer visa exempt to India. \n3. Passengers who arrive from or have been in China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain after 15 February 2020, will be quarantined for a minimum period of 14 days. \n4. Nationals of Japan and Korea (Rep.) can no longer obtain a visa on arrival. \n5. Passengers are required to fill the self-declaration form in duplicate upon arrival. \n6. All passengers must go thorough medical screening upon arrival. \n7. Passengers who arrive from or have been in Italy or Korea (Rep.) with a visa issued after 5 March 2020 by India are only allowed to enter if they have a health certificate of being tested negative for Coronavirus (COVID-19) from a designated laboratory authorized by the health authorities of Italy or Korea (Rep.).\n8. Passengers arriving from Afghanistan, Malaysia or Philippines are not allowed to enter India until 30 March 2020.\nPassengers who have transited through or have been in Kuwait, Oman, Qatar or United Arab Emirates are subject to compulsory quarantine for minimum 14 days.\nPassengers who arrive from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey or United Kingdom are not allowed to enter."
+    "tooltip":"1. All visa and e-visa are invalidated. \n- This does not apply to diplomatic, official, UN/International Organizations, employment, project visas. \n- This does not apply to airline crew.\n2. Passengers with an OCI card are no longer visa exempt to India. This is effective till 15 April 2020.\n3. Nationals of Japan and Korea (Rep.) can no longer obtain a visa on arrival. \n4. Passengers who arrive from or have been in Italy or Korea (Rep.) with a visa issued after 5 March 2020 by India are only allowed to enter if they have a health certificate of being tested negative for Coronavirus (COVID-19) from a designated laboratory authorized by the health authorities of Italy or Korea (Rep.).\n5. Passengers who arrive from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey or United Kingdom are not allowed to enter.\n- This does not apply to passengers with a diplomatic, official, UN/International Organizations, employment or project visa. \n- This does not apply to airline crew.\n6. Passengers who have been in Afghanistan, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Netherlands, Norway, Philippines, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey or United Kingdom on or after 15 February 2020 are not allowed to enter.\n- This does not apply to passengers with a diplomatic, official, UN/International Organizations, employment or project visa. \n- This does not apply to airline crew. \n7. Passengers arriving from Afghanistan, Malaysia or Philippines are not allowed to enter India until 30 March 2020.\n8. Passengers who arrive from or have been in China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain after 15 February 2020, will be quarantined for a minimum period of 14 days. \n9. Passengers who have transited through or have been in Kuwait, Oman, Qatar or United Arab Emirates are subject to compulsory quarantine for minimum 14 days.\n10. Passengers are required to fill the self-declaration form in duplicate upon arrival. \n11. All passengers must go thorough medical screening upon arrival."
 },
 {
     "id": "IO",
@@ -574,7 +582,9 @@
 },
 {
     "id": "IT",
-    "name": "Italy"
+    "name": "Italy",
+    "nationalBans":["*"],
+    "tooltip":"1.Passengers traveling as tourists are not allowed to enter via airports in below listed areas. \n2.Passengers arriving at airports in below listed areas, are allowed to enter if they are traveling on business, for health reasons, in an emergency or if they reside in one of these areas. A completed \"Self-declaration\" form must be presented upon arrival. \n- Areas: Lombardy region and the provinces of Alessandria, Asti, Modena, Novara, Padova, Parma, Pesaro and Urbino, Piacenza, Reggio Emilia, Rimini, Treviso-Venice, Verbano - Cusio - Ossola and Vercelli. \n3. Passengers must report to the regional Health Office upon arrival in Italy and be quarantined for 14 days.\n- This does not apply to passengers traveling on urgent working purposes with a written declaration. They are allowed to enter for 72 hours with a possible extension of 24 hours."
 },
 {
     "id": "JE",
@@ -590,25 +600,24 @@
 {
     "id": "JO",
     "name": "Jordan",
-    "bans":{"CN":-14, "EG":-14, "IR":-14, "IT":-14, "KR":-14},
-    "restrictions":{"FR":-1, "DE":-1, "ES":-1},
     "nationalsExcempt":true,
-    "tooltip":"1. Passengers who have been in China (People's Rep.), Egypt, Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to transit or enter Jordan.\n\n- This does not apply to nationals of Jordan, their spouses and children.\n\n- This does not apply to Chinese Delegations and diplomats.\n\n- This does not apply to Italian Delegations and diplomats.\n\nEffective 14 March 2020:\n\n2. All passengers arriving from France, Germany or Spain are required to submit health certificate that is certified by official authorities guaranteeing that they are free of Coronavirus (COVID-19). If the health certificate is not available, passengers are not allowed to enter or transit Jordan.\n\n3. Health procedure will be applied for nationals of Jordan arriving from France, Germany or Spain and who do not have health certificate."
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter Jordan."
 },
 {
     "id": "JP",
     "name": "Japan",
-    "bans":{"CN":-14, "KR":-14, "IR":-14, "IT":-14},
+    "bans":{"CN":-14, "KR":-14, "IR":-14, "IT":-14, "IS":-14, "ES":-14, "CH":-14},
     "nationalBans":["CN"],
     "nationalRestrictions":["HK", "MO", "KR"],
     "nationalsExcempt":true,
-    "tooltip": "1. Passengers who have been in the Hubei Province or Zhejiang Province (China People's Rep.) in the past 14 days are not allowed to enter Japan.  \n- This does not apply to nationals of Japan;  \n- This does not apply to spouses or children of nationals of Japan if they can prove it. \n2. Passengers who have been in Cheongdo County or Daegu City in Korea (Rep.) in the past 14 days are not allowed to enter Japan. \n- This does not apply to nationals of Japan;  \n- This does not apply to spouses or children of nationals of Japan if they can prove it. \n3. Passengers who have been in Gyeongsan-si, Andong-si , Yeongcheon-si, Chilgok-gun, Uiseong-gun, Seongju-gun or Gunwi-gun in Gyeongsangbuk-do in Korea (Rep.) in the past 14 days are not allowed to enter Japan.  \n-This does not apply to nationals of Japan.  \n-This does not apply to spouses or children of nationals of Japan if they can prove it.  \n4. Passengers who have been in the provinces of Alborz, Gilan, Golestan, Isfahan, Lorestan, Markazi, Mazandaran, Qazvin, Qom, Semnan or Tehran in Iran in the past 14 days are not allowed to enter Japan. \n- This does not apply to nationals of Japan.  \n- This does not apply to spouses or children of nationals of Japan if they can prove it.  \n5. Passengers who have been in San Marino or Emilia-Romagna, Lombardy, Marche, Piedmont or Veneto in Italy in the past 14 days are not allowed to enter Japan. \n- This does not apply to nationals of Japan. \n- This does not apply to spouses or children of nationals of Japan if they can prove it.  \n6. Nationals of China (People's Rep.) with a passport issued in Hubei Province or Zhejiang Province (China People's Rep.) are not allowed to enter Japan.  \n- This does not apply when passengers can prove that they have not been in Hubei Province and Zhejiang Province the last 14 days.  \n7. Passengers who were in the cruise ship 'Westerdam' are not allowed to enter Japan. \n- This does not apply to nationals of Japan. \n8. Visas issued on or before 8 March 2020 by the Embassies, Consulates-General and Consulate of Japan in China (People's Rep.), Hong Kong (SAR China) or Korea (Rep.) are invalidated. \n9. Visa exemptions for passengers with a British National (Overseas) passport, passengers with a Hong Kong (SAR China) passport, passengers with a Macao (SAR China) passport and nationals of Korea (Rep.) have been suspended till 31 March 2020."
+    "tooltip": "1. Passengers who have been in the Hubei Province or Zhejiang Province (China People's Rep.) in the past 14 days are not allowed to enter Japan. \n- This does not apply to nationals of Japan; \n- This does not apply to spouses or children of nationals of Japan if they can prove it. \n2. Passengers who have been in Cheongdo County or Daegu City in Korea (Rep.) in the past 14 days are not allowed to enter Japan. \n- This does not apply to nationals of Japan; \n- This does not apply to spouses or children of nationals of Japan if they can prove it. \n3. Passengers who have been in Gyeongsan-si, Andong-si , Yeongcheon-si, Chilgok-gun, Uiseong-gun, Seongju-gun or Gunwi-gun in Gyeongsangbuk-do in Korea (Rep.) in the past 14 days are not allowed to enter Japan. \n-This does not apply to nationals of Japan. \n-This does not apply to spouses or children of nationals of Japan if they can prove it. \n4. Passengers who have been in the provinces of Alborz, Gilan, Golestan, Isfahan, Lorestan, Markazi, Mazandaran, Qazvin, Qom, Semnan or Tehran in Iran in the past 14 days are not allowed to enter Japan. -\nThis does not apply to nationals of Japan. \n- This does not apply to spouses or children of nationals of Japan if they can prove it. \n5. Passengers who have been in San Marino or Aosta Valley, Emilia-Romagna, Friuli-Venezia Giulia, Liguria, Lombardy, Marche, Piedmont, Trentino-South Tyrol or Veneto in Italy in the past 14 days are not allowed to enter Japan. \n- This does not apply to nationals of Japan. \n- This does not apply to spouses or children of nationals of Japan if they can prove it. \n6. Nationals of China (People's Rep.) with a passport issued in Hubei Province or Zhejiang Province (China People's Rep.) are not allowed to enter Japan. \n- This does not apply when passengers can prove that they have not been in Hubei Province and Zhejiang Province the last 14 days. \n7. Passengers who were in the cruise ship 'Westerdam' are not allowed to enter Japan. - This does not apply to nationals of Japan. \n8. Visas issued on or before 8 March 2020 by the Embassies, Consulates-General and Consulate of Japan in China (People's Rep.), Hong Kong (SAR China) or Korea (Rep.) are invalidated. \n9. Visa exemptions for passengers with a British National (Overseas) passport, passengers with a Hong Kong (SAR China) passport, passengers with a Macao (SAR China) passport and nationals of Korea (Rep.) have been suspended till 31 March 2020. \nEffective 19 March 2020:\nPassengers who have been in Iceland, Spain (Community of Madrid, Basque Autonomous Community, La Rioja or Chartered Community of Navarre) or Switzerland (Canton of Ticino or Basel-Stadt) in the past 14 days are not allowed to enter Japan. \n- This does not apply to nationals of Japan. \n- This does not apply to spouses or children of nationals of Japan if they can prove it."
 },
 {
     "id": "KE",
     "name": "Kenya",
-    "nationalRestrictions":["*"],
-    "tooltip":"Passengers who have been in China (People's Rep.) or in any other country with confirmed cases of Coronavirus (COVID-19) in the past 14 days must complete a health declaration form and present it at the Government port health officials upon arrival."
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter Kenya.\n- This does not apply to nationals and residents of Kenya."
 },
 {
     "id": "KG",
@@ -638,7 +647,9 @@
 },
 {
     "id": "KN",
-    "name": "Saint Kitts and Nevis"
+    "name": "Saint Kitts and Nevis",
+    "restrictions":{"CN":-1000, "FR":-1000, "DE":-1000, "HK":-1000, "IR":-1000, "IT":-1000, "JP":-1000, "KR":-1000, "SG":-1000, "ES":-1000, "GB":-1000},
+    "tooltip":"Passengers who have been in China (People's Rep.), France, Germany, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Singapore, Spain or United Kingdom will be screened and put into a mandatory quarantine of 14 days if deemed necessary."
 },
 {
     "id": "KP",
@@ -648,10 +659,9 @@
     "id": "KR",
     "name": "South Korea",
     "bans":{"CN":-14},
-    "restrictions":{"JP":-1000, "SCH":-1, "GB":-1, "MO":-1, "HK":-1},
     "nationalBans":["CN"],
-    "nationalRestrictions":["JP"],
-    "tooltip":"1. Visitors who have been in the Hubei Province (China People's Rep.) in the past 14 days are not allowed to transit or enter Korea (Rep.). \n2. Nationals of China (People's Rep) with a passport issued in the Hubei Province are not allowed to enter Korea (Rep.). \n3. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated. \n4. A visa is required to transit through Korea (Rep.) for: - nationals of China (People's Rep.) arriving from China (People's Rep); and - visa required nationals arriving from China (People's Rep.). \n5. Visitors arriving from Japan who have been in the cruise ship 'Diamond Princess' are not allowed to transit or enter (Korea Rep.). \n6. Visas issued to nationals of Japan (at Korean Diplomatic Missions in Japan) before 9 March 2020 are invalidated. \n- This does not apply to visas issued outside Japan. Such visas remain valid. \n- This does not apply to airline crew. \n7. Nationals of Japan who do not hold a Korean visa issued on or after 9 March 2020 will not be allowed entry. \n8. Passengers arriving from Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Iran, Ireland (Rep.), Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom will be subject to quarantine procedures. They must install a self-diagnosis application in their personal device and a completed Health Declaration Form and a Special Quarantine Declaration Form must be presented to the quarantine desk upon arrival. \n- This does not apply to airline crew."
+    "nationalRestrictions":["*"],
+    "tooltip":"1. Visitors who have been in the Hubei Province (China People's Rep.) in the past 14 days are not allowed to transit or enter Korea (Rep.). \n2. Nationals of China (People's Rep) with a passport issued in the Hubei Province are not allowed to enter Korea (Rep.). \n3. Korean visas issued by the Wuhan Consulate in the Hubei Province are invalidated. \n4. A visa is required to transit through Korea (Rep.) for: - nationals of China (People's Rep.) arriving from China (People's Rep); and - visa required nationals arriving from China (People's Rep.). \n5. Visitors arriving from Japan who have been in the cruise ship 'Diamond Princess' are not allowed to transit or enter (Korea Rep.). \n6. Visas issued to nationals of Japan (at Korean Diplomatic Missions in Japan) before 9 March 2020 are invalidated. \n- This does not apply to visas issued outside Japan. Such visas remain valid. \n- This does not apply to airline crew. \n7. Nationals of Japan who do not hold a Korean visa issued on or after 9 March 2020 will not be allowed entry. \n8. Passengers arriving from any country will be subject to quarantine procedures. They must install a self-diagnosis application in their personal device and a completed Health Declaration Form and a Special Quarantine Declaration Form must be presented to the quarantine desk upon arrival.\n- This does not apply to airline crew."
 },
 {
     "id": "KW",
@@ -680,15 +690,15 @@
     "id": "LB",
     "name": "Lebanon",
     "nationalsExcempt":true,
-    "nationalBans":["CN", "IR", "IT", "KR", "HK"],
-    "bans":{"CN":-14, "TW":-14, "HK":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "MO":-14},
-    "tooltip":"1. Nationals of China (People's Rep.), Iran, Italy and Korea (Rep.) are not allowed to enter and transit Lebanon.\n- This does not apply to residents of Lebanon.\n2. Passengers with a passport issued by Hong Kong (SAR China) are not allowed to enter and transit Lebanon. \n- This does not apply to residents of Lebanon.\n3. Passengers who have transited through or have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.) or Macao (SAR China) in the past 14 days, are not allowed to enter and transit Lebanon.\n- This does not apply to nationals and residents of Lebanon.\n4. Nationals of Lebanon and resident of Lebanon who have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.) or Macao (SAR China) must fill-in \"The ministry of health new information form\" before arrival."
+    "nationalBans":["*"],
+    "tooltip":"Effective 19 March 2020, passengers are not allowed to enter Lebanon until 29 March 2020."
 },
 {
     "id": "LC",
     "name": "Saint Lucia",
-    "bans":{"CN":-14, "HK":-14, "JP":-14, "IT":-14, "KR":-14, "SG":-14},
-    "tooltip":"1. Passengers who have been in China (People's Rep.), Hong Kong (SAR China), Japan, Italy, Korea (Rep.) or Singapore in the past 14 days are not allowed to enter.\n\n- This does not apply to nationals of St. Lucia.\n\n2. Nationals of St. Lucia who have been in China (People's Rep.), Hong Kong (SAR China), Japan, Italy, Korea (Rep.) or Singapore in the past 14 days will be subject to immediate quarantine for a maximum of 14 days."
+    "bans":{"CN":-14, "HK":-14, "FR":-14, "DE":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "SG":-14, "ES":-14, "GB":-14},
+    "restrictions":{"US":-1000},
+    "tooltip":"1. Passengers who have been in China (People's Rep.), Hong Kong (SAR China), France, Germany, Iran, Italy, Japan, Korea (Rep.), Singapore, Spain or United Kingdom in the past 14 days are not allowed to enter.\n- This does not apply to nationals and residents of St. Lucia.\n2. Passengers who have been in the USA and who develop respiratory signs and symptoms will be isolated and tested for COVID-19.\n- This does not apply to nationals and residents of St. Lucia.\n3. Nationals and residents of St. Lucia with a travel history to China (People's Rep.), Hong Kong (SAR China), France, Germany, Iran, Japan, Italy, Korea (Rep.), Singapore, Spain, USA or United Kingdom will be quarantined for 14 days."
 },
 {
     "id": "LI",
@@ -697,9 +707,8 @@
 {
     "id": "LK",
     "name": "Sri Lanka",
-    "nationalRestrictions":["*"],
-    "bans":{"IR":-14, "IT":-14,"KR":-14, "AT":-1000, "DK":-1000, "FR":-1000, "DE":-1000, "NL":-1000, "ES":-1000, "SE":-1000, "CH":-1000, "BE":-1000, "NO":-1000, "GB":-1000},
-    "tooltip":"1. Nationals of China (People's Rep.) can no longer obtain a visa on arrival in Sri Lanka.\n2. A completed Health Declaration Form must be presented to the public health inspectors or any other authorized officials upon arrival.\n3. Passengers who transited through or have been in Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to enter Sri Lanka. \n- This does not apply to passengers with a diplomatic, an official or a service passport. \n4. Visa on arrival for all eligible nationalities have been suspended.\n5. Passengers who transited through or have been in Austria, Bahrain, Belgium, Canada, Denmark, France, Germany, Netherlands, Norway, Qatar, Spain, Sweden or United Kingdom are not allowed to enter Sri Lanka. \n- This does not apply to passengers with a diplomatic, an official or a service passport. \n6.Visas and ETAs issued to nationals of Austria, Bahrain, Belgium, Canada, Denmark, France, Germany, Iran, Italy, Korea (Rep.), Netherlands, Norway, Qatar, Spain, Sweden and passengers with a British passport have been invalidated. \n-This does not apply to passengers with a diplomatic, an official or a service passport. "
+    "nationalBans":["*"],
+    "tooltip":"1. Effective 04:00 local time 19 March 2020, passengers are not allowed to enter Sri Lanka until 25 March 2020."
 },
 {
     "id": "LR",
@@ -786,9 +795,9 @@
 {
     "id": "MN",
     "name": "Mongolia",
-    "bans":{"CN":-14, "TW":-14, "HK":-14, "MO":-14, "IT":-14, "IR":-14, "JP":-14, "KR":-14},
     "nationalsExcempt":true,
-    "tooltip":"1. Passengers who reside or have been in the China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China) in the past 14 days are not allowed to transit or enter Mongolia.\n\n- This does not apply to nationals of Mongolia.\n\n2. Passengers who have been in Iran, Italy, Japan or Korea (Rep.) in the past 14 days are not allowed to transit or enter Mongolia.\n\n- This does not apply to nationals of Mongolia.\n3. Nationals of Mongolia who have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.) or Macao (SAR China) in the past 14 days will be placed in quarantine for 14 days at their expense."
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter Mongolia.\n- This does not apply to nationals of Mongolia. \n- This does not apply to residents of Mongolia who are direct family members of a national of Mongolia. \n2. Nationals of Mongolia will be placed in quarantine for 14 days. \n3. Residents of Mongolia who are direct family members of a national of Mongolia will be placed in quarantine for 14 days."
 },
 {
     "id": "MO",
@@ -821,8 +830,8 @@
 {
     "id": "MU",
     "name": "Mauritius",
-    "bans":{"CN":-14, "TW":-14, "HK":-14, "IR":-14, "IT":-14, "KR":-14, "MO":-14},
-    "tooltip":"1.Passengers who reside or have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) in the past 14 days are not allowed to transit or enter Mauritius.\n\n2.Nationals of Mauritius and residents of Mauritius who have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) in the past 14 days will be placed in quarantine."
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter Mauritius until 2 April 2020, 6:00GMT.\n- This does not apply to nationals of Mauritius, their spouses and children. They will be placed in quarantine"
 },
 {
     "id": "MV",
@@ -843,9 +852,8 @@
     "id": "MY",
     "name": "Malaysia",
     "nationalsExcempt":true,
-    "nationalBans":["CN", "IR", "IT", "KR"],
-    "bans":{"CN":-14, "JP":-14, "IR":-14, "IT":-14, "KR":-14},
-    "tooltip":"1. Nationals of China (People's Rep.) with a passport issued in Hubei, Zhejiang or Jiangsu Province (China People's Rep.) are not allowed to enter Malaysia.\n\n- This does not apply to passengers who reside in Malaysia.\n\n2. Passengers who have been in the Hubei, Zhejiang or Jiangsu Provinces (China People's Rep.) in the past 14 days are not allowed to enter Malaysia.\n\n- This does not apply to nationals of Malaysia and passengers who reside in Malaysia.\n\n3. Passengers who have been in Hokkaido in Japan in the past 14 days are not allowed to transit and enter Malaysia.\n\n- This does not apply to nationals of Malaysia.\n\n- This does not apply to Malaysian permanent residents, Malaysian social pass holders and Malaysian student passes holders.\n\n4. Malaysian Permanent Residents and Pass Holders (Long Term Social Visit Pass and Student Pass) who have been to Iran, Italy or Korea (Rep.) in the last 14 days must undergo health screening by the Ministry of Health (KKM).\n\n5. Operating Airline Crew who are nationals of China (People's Rep.), Iran, Italy and Korea (Rep,) will be subject to health screening upon arrival.\n\nEffective 13 March 2020:\n\n6. Nationals of Iran, Italy and Korea (Rep.) are not allowed to enter.\n\n7. Passengers who have been in Iran, Italy or Korea (Rep.) in the past 14 days are not allowed to enter Malaysia.\n\n- This does not apply to nationals of Malaysia.\n\n- This does not apply to Malaysian permanent residents, Malaysian social pass holders and Malaysian student passes holders."
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter Malaysia.\n- This does not apply to nationals of Malaysia.\n- This does not apply to permanent residents of Malaysia.\n- This does not apply to passengers with a diplomatic passport.\n2.Nationals and residents of Malaysia are required to be self-quarantined for 14 days."
 },
 {
     "id": "MZ",
@@ -858,7 +866,8 @@
 {
     "id": "NC",
     "name": "New Caledonia",
-    "tooltip":"Passengers and airline crew transiting through or arriving in New Caledonia must fill-in a health declaration form. They will be allowed to transit or enter New Caledonia after a medical clearance and passport check done by the Border Force."
+    "nationalRestrictions":["*"],
+    "tooltip":"All passengers arriving in New Caledonia will be self-isolated for 14 days at their home or hotel. Checks will be undertaken by the local the authorities. \nPassengers with symptoms (cough and fever) will be placed in quarantine at the hospital until their screening test is negative."
 },
 {
     "id": "NE",
@@ -920,8 +929,8 @@
 {
     "id": "PA",
     "name": "Panama",
-    "restrictions":{"CN":-30},
-    "tooltip":"Passengers who have been in China (People's Rep.) in the past 30 days must fill-in the \"Affidavit of the Traveler\" given by the immigration officer."
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter Panama.\n- This does not apply to nationals of Panama.\n- This does not apply to passengers who reside in Panama.\n2. Nationals and residents of Panama must be in home quarantine for 14 days."
 },
 {
     "id": "PE",
@@ -932,14 +941,14 @@
 {
     "id": "PF",
     "name": "Polynesia",
-    "nationalRestrictions":["*"],
-    "tooltip":"All passengers are recommended to present a medical certificate dated maximum 5 days before their arrival in French Polynesia.\nOn arrival, mandatory health screening will be carried out for all passengers and all passengers will be directed to self-quarantine for 14 days in French Polynesia."
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter French Polynesia.\n-This does not apply to residents of French Polynesia. They must have a \"Carte de resident\" with a validity of 10 years."
 },
 {
     "id": "PG",
     "name": "Papua New Guinea",
-    "bans":{"CN":-14},
-    "tooltip":"Passengers who have been in China (People's Rep.) in the past 14 days are not allowed to enter Papua New Guinea. They must have spent 14 consecutive days in a country that is free from Coronavirus (COVID-19)."
+    "bans":{"CN":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14},
+    "tooltip":"Passengers who have been in China (People's Rep.), Iran, Italy, Japan or Korea (Rep.) in the past 14 days are not allowed to enter Papua New Guinea. They must have spent 14 consecutive days in a country that is free from Coronavirus (COVID-19)."
 },
 {
     "id": "PH",
@@ -991,18 +1000,15 @@
 {
     "id": "PY",
     "name": "Paraguay",
-    "nationalRestrictions":["CN"],
-    "restrictions":{"CN":-14, "IR":-14, "IT":-14, "KR":-14, "JP":-14, "SG":-14, "TH":-14},
-    "tooltip":"Visas issued to nationals of China (People’s Rep.) are invalidated.\n\nPassengers arriving from China (People's Rep.), Iran, Italy, Japan, Korea (Rep.), Singapore or Thailand will be quarantined for 14 days."
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter or transit Paraguay.\n- This does not apply to nationals of Paraguay.\n- This does not apply to passengers who reside in Paraguay.\n- This does not apply to passengers who are in a diplomatic mission.\n2. Nationals and residents of Paraguay will be placed in quarantine for 14 days. \n3. Passengers who are in a diplomatic mission will be placed in quarantine for 14 days."
 },
 {
     "id": "QA",
     "name": "Qatar",
     "nationalsExcempt":true,
-    "nationalBans":["BD", "CN","EG","FR","DE","IN","IR","IQ","IT","KR","LB","NE","PK","PH","ES","LK","SY","TH"],
-    "bans":{"BD":-14, "CN":-14, "EG":-14, "IN":-14, "IR":-14, "IQ":-14, "KR":-14, "LB":-14, "NP":-14, "PK":-14, "PH":-14, "LK":-14, "SD":-14, "SY":-14, "TH":-14, "FR":-14, "DE":-14, "IT":-14, "ES":-14},
-    "restrictions":{"JP":-14, "SG":-14},
-    "tooltip":"1. Nationals of Bangladesh, China (People's Rep.), Egypt, France, Germany, India, Iran, Iraq, Italy, Korea (Rep.), Lebanon, Nepal, Pakistan, Philippines, Spain, Sri Lanka, Syria and Thailand are not allowed to enter Qatar. \n2. Passengers who have been in Bangladesh, China (People's Rep.), Egypt, India, Iran, Iraq, Korea (Rep.), Lebanon, Nepal, Pakistan, Philippines, Sri Lanka, Sudan, Syria or Thailand in the past 14 days are not allowed to enter Qatar.\n- This does not apply to nationals of Qatar.\n3. Passengers who have been in France, Germany, Italy or Spain in the past 14 days are not allowed to enter Qatar. \n - This does not apply to nationals and residents of Qatar. \n4. Passengers who have been in Japan or Singapore in the past 14 days will be required to self-quarantine for 14 days. \n5. Residents of Qatar who have been in France, Germany, Italy or Spain in the past 14 days will be subject to quarantine for a minimum of 14 days."
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter Qatar.\n- This does not apply to nationals of Qatar."
 },
 {
     "id": "RE",
@@ -1046,8 +1052,10 @@
     "id": "SC",
     "name": "Seychelles",
     "nationalsExcempt":true,
-    "bans":{"CN":-14, "HK":-14, "MO":-14, "IR":-14, "IT":-14, "KR":-14},
-    "tooltip":"1. Passengers who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) in the past 14 days are not allowed to transit or enter Seychelles.\n\n- This does not apply to nationals and residents of Seychelles.\n\n2. Passengers residing in China (People's Rep.), Hong Kong (SAR China), Iran, Italy, Korea (Rep.) or Macao (SAR China) are not allowed to transit or enter Seychelles.\n\n- This does not apply to nationals of Seychelles."
+    "bans":{"AT":-14, "BE":-14, "BG":-14, "CN":-14, "HR":-14, "CY":-14, "CZ":-14, "DK":-14, "EE":-14, "FI":-14, "FR":-14, "DE":-14, "GR":-14,
+      "HK":-14, "HU":-14, "IS":-14, "IR":-14, "IE":-14, "IT":-14, "KR":-14, "LV":-14, "LI":-14, "LT":-14, "LX":-14, "MO":-14, "MT":-14, "NL":-14,
+      "NO":-14, "PL":-14, "PT":-14, "RO":-14, "SK":-14,  "SI":-14, "ES":-14, "SE":-14, "CH":-14, "GB":-14},
+    "tooltip":"1. Passengers and airline crew who have been in Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Iran, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Mayotte, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom in the past 14 days are not allowed to transit or enter Seychelles.\n- This does not apply to nationals and residents of Seychelles. \n2. Passengers residing in Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Iran, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Mayotte, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom are not allowed to transit or enter Seychelles. \n- This does not apply to nationals of Seychelles. \n3. Nationals and residents of Seychelles who have been in Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Iran, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Mayotte, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom in the past 14 days will be put in quarantine for a period of 14 days upon arrival."
 },
 {
     "id": "SD",
@@ -1057,7 +1065,9 @@
 },
 {
     "id": "SE",
-    "name": "Sweden"
+    "name": "Sweden",
+    "nationalBans":["*"],
+    "tooltip":"Passengers not arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Switzerland are not allowed to enter.\n- This does not apply to nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members. \n- This does not apply to passengers with a British passport and their family members.\n- This does not apply to passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.\n- This does not apply to passengers with a permanent residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or United Kingdom.\n- This does not apply to passengers with a national visa issued by Sweden. \n- This does not apply to the following passengers:\na. healthcare personnel;\nb. border workers;\nc. personnel transporting goods and other personnel in the transport sector to the necessary extent;\nd. persons covered by Chapter 2. Section 10 of the Aliens Act (2005: 716);\ne. persons working in international organizations, military personnel and relief workers;\nf. passengers in transit; \ng. persons with urgent family reasons;\nh. persons in need of international protection or for other humanitarian reasons."
 },
 {
     "id": "SG",
@@ -1070,7 +1080,9 @@
 },
 {
     "id": "SH",
-    "name": "Saint Helena, Ascension and Tristan da Cunha"
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter St. Helena.\n- This does not apply to nationals and residents of St. Helena.\n- This does not apply to passengers with a long-term permit.\n- This does not apply to temporary contractors.\n- This does not apply to sponsor Technical Cooperation Officers.\n- This does not apply to passengers to Ascension.\n- This does not apply to persons authorized in advance by the Governor.\n2. Self-isolation for 14 days is mandatory when entering St. Helena."
 },
 {
     "id": "SI",
@@ -1128,9 +1140,9 @@
 {
     "id": "SX",
     "name": "Sint Maarten",
-    "bans":{"CN":-21, "DE":-21, "HK":-21, "IR":-21, "JP":-21, "KR":-21, "MO":-21, "SG":-21, "SCH":-21, "US":-21, "GB":-21},
+    "nationalBans":["*"],
     "nationalsExcempt":true,
-    "tooltip":"1. Passengers and airline crew who have been in China (People's Rep.), Hong Kong (SAR China), Iran, Japan, Korea (Rep.), Macao (SAR China) or Singapore in the past 21 days are not allowed to transit or enter St. Maarten.\n\n- This does not apply to legal residents of Anguilla, Aruba, Bonaire, Curacao, Saba, St. Barthelemy, St. Eustatius, St. Kitts and Nevis and St. Maarten/St. Martin.\n\n- This does not apply to passengers arriving in St. Maarten on flights that departed before 23:59 Atlantic Standard Time on 16 March 2020.\n\n- This does not apply to passengers who are specialists with evidence of traveling at the invitation of the Government of St. Maarten.\n\n2. Passengers who have been in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Ireland (Rep.), Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Spain, Slovakia, Slovenia, Sweden, USA or United Kingdom in the past 21 days are not allowed to transit or enter St. Maarten.\n\n- This does not apply to legal residents of Anguilla, Aruba, Bonaire, Curacao, Saba, St. Barthelemy, St. Eustatius, St. Kitts and Nevis and St. Maarten/St. Martin.\n\n- This does not apply to passengers arriving in St. Maarten on flights that departed before 23:59 Atlantic Standard Time on 16 March 2020.\n\n- This does not apply to airline crew.\n\n- This does not apply to passengers who are specialists with evidence of traveling at the invitation of the Government of St. Maarten.\n\n3. Residents of St. Maarten and crew members must self-quarantine for 14 days."
+    "tooltip":"1. Passengers are not allowed to enter St. Maarten. \n-This does not apply to residents of St. Maarten or Saint Martin (FWI). They must hold a proof of residence, which can be a St. Maarten/ Saint Martin driving license or a St. Maarten ID/ Saint Martin carte d'identite or a St. Maarten/Saint Martin registration document.\n-This does not apply to airline crew. \n-This does not apply to passengers who are specialists with evidence of traveling at the invitation of the Government of St. Maarten. \n2. Residents of St. Maarten must self-quarantine for 14 days. \n3. Airline crew that are overnighting must undergo a mandatory self-quarantine."
 },
 {
     "id": "SY",
@@ -1205,16 +1217,16 @@
     "id": "TR",
     "name": "Turkey",
     "nationalsExcempt":true,
-    "nationalBans":["AT", "BE", "DK", "FR", "DE", "NL", "NO", "ES", "SE"],
+    "nationalBans":["AT", "BE", "CN", "DK", "EG", "FR", "DE", "NL", "IR", "IQ", "IE", "IT", "KR", "NL", "NO", "SA", "ES", "SE", "CH", "AE"],
     "bans":{"AT":-14, "BE":-14, "CN":-14, "DK":-14, "FR":-14, "DE":-14, "IR":-14, "IQ":-14, "IT":-14, "KR":-14, "NL":-14, "NO":-14, "ES":-14, "SE":-14},
-    "tooltip":"1. Nationals of Austria, Belgium, Denmark, France, Germany, Netherlands, Norway, Spain and Sweden are not allowed to enter Turkey.\n2. Passengers who have transited through or have been in Austria, Belgium, China (People's Rep.), Denmark, France, Germany, Iran, Iraq, Italy, Korea Rep., Netherlands, Norway, Spain or Sweden are not allowed to transit or enter Turkey.\n- This does not apply to nationals of Turkey and residents of Turkey."
+    "tooltip":"1. Nationals of Austria, Belgium, China (People's Rep.) Denmark, Egypt, France, Germany, Iran, Iraq, Ireland (Rep.), Italy, Korea (Rep.), Netherlands, Norway, Saudi Arabia, Spain, Sweden, Switzerland and United Arab Emirates are not allowed to enter Turkey.\n2. Passengers with a British passport are not allowed to enter Turkey.\n3. Passengers who have transited through or have been in Austria, Belgium, China (People's Rep.), Denmark, Egypt, France, Germany, Iran, Iraq, Ireland, Italy, Korea Rep., Netherlands, Norway, Saudi Arabia, Spain, Sweden, Switzerland, United Arab Emirates or United Kingdom in the past 14 days are not allowed to transit or enter Turkey.\n- This does not apply to nationals of Turkey and residents of Turkey.\n4. Passengers arriving from Austria, Belgium, China (People's Rep.), Denmark, Egypt, France, Germany, Iran, Iraq, Ireland, Italy, Korea Rep., Netherlands, Norway, Saudi Arabia, Spain, Sweden, Switzerland, United Arab Emirates or United Kingdom in the past 14 days are not allowed to transit or enter Turkey.\n- This does not apply to nationals of Turkey and residents of Turkey."
 },
 {
     "id": "TT",
     "name": "Trinidad and Tobago",
-    "bans":{"CN":-14, "FR":-14, "DE":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "SG":-14, "ES":-14},
     "nationalsExcempt":true,
-    "tooltip":"1. Passengers and crew members who have been in China (People's Rep.), France, Germany, Iran, Italy, Japan, Korea (Rep.), Singapore or Spain in the past 14 days are not allowed to enter Trinidad and Tobago.\n\n- This does not apply to nationals of Trinidad and Tobago.\n\n- This does not apply to passengers who reside in Trinidad and Tobago\n\n2. Nationals of Trinidad and Tobago who have been in China (People's Rep.), France, Germany, Iran, Italy, Japan, Korea (Rep.), Singapore or Spain in the past 14 days will be put in immediate isolation.\n\n3. Passengers who are permanent residents of Trinidad and Tobago and who have been in China (People's Rep.), France, Germany, Iran, Italy, Japan, Korea (Rep.), Singapore or Spain in the past 14 days will be put in immediate isolation."
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter Trinidad and Tobago. \n-This does not apply to nationals of Trinidad and Tobago. \n-This does not apply to residents of Trinidad and Tobago."
 },
 {
     "id": "TV",
@@ -1223,15 +1235,8 @@
 {
     "id": "TW",
     "name": "Taiwan",
-    "nationalBans": ["CN", "HK", "MO"],
-    "bans":{"CN":-14, "HK":-14, "MO":-14},
-    "restrictions":{"AT":-1, "BE":-1, "BG":-1, "HR":-1, "CY":-1, "CZ":-1, "DK":-1, "EE":-1, "FI":-1, "FR":-1, "DE":-1, "GR":-1, "HU":-1,
-      "IR":-1, "IE":-1, "IT":-1, "KR":-1, "LV":-1, "LT":-1, "LU":-1, "MT":-1, "NL":-1, "PL":-1, "PT":-1, "RO":-1, "SK":-1, "SI":-1, "ES":-1,
-      "SE":-1, "AE":-1, "AF":-1, "AL":-1, "DZ":-1, "AM":-1, "AZ":-1, "BH":-1, "BD":-1, "BY":-1, "BT":-1, "BA":-1, "BN":-1, "KH":-1, "EG":-1,
-      "GE":-1, "IN":-1, "ID":-1, "IQ":-1, "IL":-1, "JP":-1, "JO":-1, "KZ":-1, "KP":-1, "XK":-1, "KW":-1, "KG":-1, "LA":-1, "LB":-1, "LY":-1,
-      "ML":-1, "MV":-1, "MO":-1, "ME":-1, "MA":-1, "MK":-1, "MD":-1, "MY":-1, "NP":-1, "OM":-1, "PK":-1, "PH":-1, "QA":-1, "RU":-1, "SA":-1,
-      "RS":-1, "SG":-1, "LK":-1, "SY":-1, "TJ":-1, "TH":-1, "TL":-1, "TN":-1, "TR":-1, "TM":-1, "UA":-1, "US":-1, "UZ":-1, "VN":-1, "YE":-1},
-    "tooltip":"1. Nationals of China (People's Rep.) are not allowed to transit or enter Chinese Taipei. \n- This does not apply if their spouse is from Chinese Taipei. \n2. Passengers with a Hong Kong (SAR China) passport or Macao (SAR China) passport are not allowed to enter Chinese Taipei. \n- This does not apply if their spouse or their parent(s) is from Chinese Taipei. They must have an ROC (Taiwan) Resident Certificate and must be in home quarantine for 14 days. \n- This does not apply when they are on business trips or are being transferred by multinational companies. They must be in home quarantine for 14 days. \n3. Passengers who have been in China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) in the past 14 days are not allowed to enter Chinese Taipei. \n- This does not apply to passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport. \n- This does not apply to residents of Chinese Taipei with a ROC (Taiwan) Resident Certificate, type APRC or ARC.\n- This does not apply to passengers with a Hong Kong (SAR China) passport. \n- This does not apply to passengers with a Macao (SAR China) passport. \n- This does not apply to passengers who have transited through China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) in the past 14 days but not leaving the transit areas. They will be under home quarantine for 14 days. \n- This does not apply to airline crew who have transited through China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) but not leaving the transit areas. They can enter with a guarantee letter proving that they have not entered China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) in the past 14 days. \n4. Passengers who reside in China (People's Rep.), Hong Kong (SAR China) or Macao (SAR China) are not allowed to enter Chinese Taipei. \n- This does not apply to passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport. \n- This does not apply to passengers with a Hong Kong (SAR China) passport. \n- This does not apply to passengers with a Macao (SAR China) passport. \n5. Passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iran, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or United Arab Emirates must be in home quarantine for 14 days. \n6. Passengers arriving from Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Bangladesh, Belarus, Bhutan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Cambodia, Egypt, Georgia, India, Indonesia, Iraq, Israel, Japan, Jordan, Kazakhstan, Korea (Dem. People's Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Lebanon, Libya, Malaysia, Maldives, Mongolia, Montenegro, Morocco, North Macedonia, Moldova (Rep.), Myanmar, Nepal, Oman, Pakistan, Palestinian Territory, Philippines, Qatar, Russian Fed., Saudi Arabia, Serbia, Singapore, Sri Lanka, Syria, Tajikistan, Thailand, Timor-Leste, Tunisia, Turkey, Turkmenistan, Ukraine, USA (only for states California, New York and Washington), Uzbekistan, Viet Nam or Yemen must be in home quarantine for 14 days."
+    "nationalBans": ["*"],
+    "tooltip":"1. Passengers are not allowed to enter Chinese Taipei.\n- This does not apply to passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport.\n- This does not apply to passengers with an Alien Resident Certificate.\n- This does not apply to personnel on diplomatic or official business.\n- This does not apply to passengers who can prove they are fulfilling commercial and contractual obligations, or passengers requiring special permission. \n- This does not apply to passengers with a visa with \"SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK\" stated on remarks. \n2. Passengers who can enter must observe a 14-day home quarantine upon arrival."
 },
 {
     "id": "TZ",
@@ -1261,7 +1266,9 @@
 },
 {
     "id": "UY",
-    "name": "Uruguay"
+    "name": "Uruguay",
+    "bans":{"AR":-1, "CN":-1, "FR":-1, "DE":-1, "IR":-1, "IT":-1, "JP":-1, "KR":-1, "SG":-1, "ES":-1},
+    "tooltip":"1. Passengers arriving from Argentina, China (People's Rep.), France, Germany, Iran, Italy, Japan, Korea (Rep.), Singapore or Spain are not allowed to enter Uruguay.\n- This does not apply to nationals and residents of Uruguay.\n2. Passengers can only land at Montevideo (MVD) and Punta del Este (PDP).\n3. Passengers who have been in China (People's Rep.), France, Germany, Iran, Italy, Japan, Korea (Rep.), Singapore or Spain in the past 15 days will be placed in quarantine for 14 days."
 },
 {
     "id": "UZ",
@@ -1294,10 +1301,11 @@
 {
     "id": "VN",
     "name": "Viet Nam",
-    "bans":{"CN":-14},
-    "restrictions":{"KR":-14, "IT":-14, "IR":-14},
+    "bans":{"AT":-14, "BE":-14, "HR":-14, "CZ":-14, "DK":-14, "EE":-14, "FI":-14, "FR":-14, "DE":-14, "GR":-14, "HU":-14,
+    "IS":-14, "IT":-14, "LT":-14, "LI":-14, "LV":-14, "LX":-14, "ML":-14, "NL":-14, "NO":-14, "PL":-14, "PT":-14, "SI":-14, "SK":-14, "ES":14, 
+  "SE":-14, "CH":-14, "GB":-14},
     "nationalRestrictions":["*"],
-    "tooltip":"1. Passengers who have been in or transited through China (People's Rep.) in the past 14 days are not allowed to enter Viet Nam. This does not apply to passengers who travel for diplomatic or official purpose.\n\n- This does not apply to nationals of Viet Nam.\n\n- This does not apply to passengers who reside in Viet Nam.\n2. All passengers must fill out a quarantine form prior to arrival.\n\n3. Passengers who travel for diplomatic or official purpose will undergo a medical examination at the border before allowed to enter Viet Nam.\n4. Passengers who have been or transited through Korea (Rep.) will be quarantined.\n5. Passengers who have been or transited through Iran or Italy in the past 14 days will be quarantined for 14 days.\n6. Nationals of Italy and Korea (Rep.) with a normal passport are no longer visa exempt.\n\n7. Nationals of Denmark, Finland, France, Germany, Norway, Spain, Sweden and passengers with a British passport are no longer visa exempt.\n8. Passengers with a Certificate of Visa Exemption issued by Viet Nam are no longer visa exempt if they reside in China (People's Rep.), Denmark, Finland, France, Germany, Iran, Italy, Korea (Rep.), Norway, Spain, Sweden or United Kingdom."
+    "tooltip":"1. All visa on arrivals are suspended.\n2. Passengers who have been in or transited through Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom in the past 14 days are not allowed to enter Viet Nam. This does not apply to passengers who travel for diplomatic or official purpose. \n- This does not apply to nationals of Viet Nam. \n- This does not apply to passengers who reside in Viet Nam. \n3. Passengers who have been in or transited through China (People's Rep.) in the past 14 days are not allowed to enter Viet Nam. This does not apply to passengers who travel for diplomatic or official purpose. \n- This does not apply to nationals of Viet Nam. \n- This does not apply to passengers who reside in Viet Nam. \n4. All passengers must fill out a quarantine form prior to arrival. \n5. Passengers who travel for diplomatic or official purpose will undergo a medical examination at the border before allowed to enter Viet Nam. \n6. Nationals of Italy and Korea (Rep.) with a normal passport are no longer visa exempt. \n7. Nationals of Denmark, Finland, France, Germany, Norway, Spain, Sweden and passengers with a British passport are no longer visa exempt.\n8. Passengers with a Certificate of Visa Exemption issued by Viet Nam are no longer visa exempt if they reside in China (People's Rep.), Denmark, Finland, France, Germany, Iran, Italy, Korea (Rep.), Norway, Spain, Sweden or United Kingdom. \n9. Visa exempt passengers and passengers with a Certificate of Visa Exemption issued by Viet Nam must submit a document certifying they are not tested positive for the Coronavirus (COVID-19). It must be issued by local competent authority accepted by Vietnam authority.\n- This does not apply to passengers with a diplomatic, an official or a service passport.\n10. Passengers who have been in or transited through Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore or Thailand in the past 14 days will be placed on quarantine at a designated facility for 14 days upon arrival.\n11. Passengers who have been in or transited through Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iran, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom or USA in the past 14 days will be placed on quarantine at a designated facility for 14 days upon arrival."
 },
 {
     "id": "VU",
@@ -1334,8 +1342,9 @@
 {
     "id": "ZA",
     "name": "South Africa",
+    "bans":{"CN":-1000, "FR":-1000, "DE":-1000, "IR":-1000, "IT":-1000, "KR":-1000, "ES":-1000, "US":-1000, "GB":-1000},
     "nationalRestrictions":["*"],
-    "tooltip":"A completed health questionnaire must be presented to Port Health upon arrival."
+    "tooltip":"1. Passengers who have been in China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.), Spain, USA or United Kingdom are not allowed to transit or enter South Africa.\n- This does not apply to nationals and residents of South Africa. \n2. Passengers who have been in Hong Kong (SAR China), Portugal and Singapore are subject to extra screening.\n3. A completed health questionnaire must be presented to Port Health upon arrival."
 },
 {
     "id": "ZM",
