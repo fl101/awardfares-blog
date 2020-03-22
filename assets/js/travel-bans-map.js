@@ -5,7 +5,7 @@ var countryMap = {};
 var map;
 var bans = {};
 var restrictions = {};
-var SCHENGEN_COUNTRIES = ["AT", "BE", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "HU", "IS", "IT", "LV", "LI", "LT", "LU", "ML", "NL", "NO", "PL", "PT", "SK", "SI", "ES", "SE", "CH"]
+var SCHENGEN_COUNTRIES = ["AT", "BE", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "HU", "IS", "IT", "LV", "LI", "LT", "LU", "MT", "NL", "NO", "PL", "PT", "SK", "SI", "ES", "SE", "CH"]
 
 function checkSchengen(country) {
   return !!(SCHENGEN_COUNTRIES.indexOf(country) > -1)
