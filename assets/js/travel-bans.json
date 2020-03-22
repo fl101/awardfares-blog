@@ -94,7 +94,9 @@
 },
 {
     "id": "BB",
-    "name": "Barbados"
+    "name": "Barbados",
+    "restrictions":{"CN":-1, "SCH":-1, "IR":-1, "KR":-1, "GB":-1, "US":-1, "IE":-1},
+    "tooltip":"1. Passengers arriving from China's (People's Rep.), Europe, Iran, Korea (Rep.), United Kingdom or USA will be quarantined for 14 days. \n2. Residents of Barbados will be placed in self-quarantine if they are deemed by health authorities to be at low-risk for COVID-19, while all others will be quarantined at a facility."
 },
 {
     "id": "BD",
@@ -363,7 +365,9 @@
 },
 {
     "id": "ET",
-    "name": "Ethiopia"
+    "name": "Ethiopia",
+    "nationalRestrictions":["*"],
+    "tooltip":"Effective 23 March 2020, all passengers arriving in Ethiopia will be placed in a mandatory quarantine at the Ethiopian Skylight Hotel for 14 days at their own expense."
 },
 {
     "id": "FI",
@@ -558,10 +562,8 @@
 {
     "id": "IN",
     "name": "India",
-    "nationalRestrictions":["*"],
-    "bans":{"SCH":-1, "TK":-1, "GB":-1},
-    "restrictions":{"CN":-30, "FR":-30, "DE":-30, "IR":-30, "IT":-30, "KR":-30, "ES":-30},
-    "tooltip":"1. All visa and e-visa are invalidated. \n- This does not apply to diplomatic, official, UN/International Organizations, employment, project visas. \n- This does not apply to airline crew.\n2. Passengers with an OCI card are no longer visa exempt to India. This is effective till 15 April 2020.\n3. Nationals of Japan and Korea (Rep.) can no longer obtain a visa on arrival. \n4. Passengers who arrive from or have been in Italy or Korea (Rep.) with a visa issued after 5 March 2020 by India are only allowed to enter if they have a health certificate of being tested negative for Coronavirus (COVID-19) from a designated laboratory authorized by the health authorities of Italy or Korea (Rep.).\n5. Passengers who arrive from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey or United Kingdom are not allowed to enter.\n- This does not apply to passengers with a diplomatic, official, UN/International Organizations, employment or project visa. \n- This does not apply to airline crew.\n6. Passengers who have been in Afghanistan, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Netherlands, Norway, Philippines, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey or United Kingdom on or after 15 February 2020 are not allowed to enter.\n- This does not apply to passengers with a diplomatic, official, UN/International Organizations, employment or project visa. \n- This does not apply to airline crew. \n7. Passengers arriving from Afghanistan, Malaysia or Philippines are not allowed to enter India until 30 March 2020.\n8. Passengers who arrive from or have been in China (People's Rep.), France, Germany, Iran, Italy, Korea (Rep.) or Spain after 15 February 2020, will be quarantined for a minimum period of 14 days. \n9. Passengers who have transited through or have been in Kuwait, Oman, Qatar or United Arab Emirates are subject to compulsory quarantine for minimum 14 days.\n10. Passengers are required to fill the self-declaration form in duplicate upon arrival. \n11. All passengers must go thorough medical screening upon arrival."
+    "nationalBans":["*"],
+    "tooltip":"Flights to India are suspended from 00:01 GMT 22 March 2020 until 00:01 GMT 29 March 2020."
 },
 {
     "id": "IO",
@@ -785,9 +787,8 @@
 {
     "id": "MK",
     "name": "Macedonia",
-    "bans":{"CN":-1, "IT":-1, "IR":-1, "KR":-1, "FR":-1, "ES":-1, "DE":-1},
-    "restrictions":{"AT":-14, "AU":-14, "BH":-14, "BE":-14, "BR":-14, "CA":-14, "CN":-14, "CZ":-14, "DK":-14, "EG":-14, "GR":-14, "IS":-14, "IL":-14, "IN":-14, "IQ":-14, "JP":-14, "KW":-14, "LB":-14, "MY":-14, "NL":-14, "NO":-14, "PH":-14, "QA":-14, "SM":-14, "SG":-14, "SI":-14, "SE":-14, "CH":-14, "TH":-14, "AE":-14, "GB":-14, "US":-14},
-    "tooltip":"1. Passengers arriving from China (People's Rep.), Italy, Iran, Korea (Rep.), France, Spain or Germany are not allowed to enter North Macedonia (Rep.) unless they submit a certificate for regulated quarantine issued by an authorized agency.\n2. Nationals and residents of North Macedonia (Rep.) who have been in the last 14 days in the countries listed below will be subject to compulsory 14-day self-isolation: Australia, Austria, Bahrain, Belgium, Brazil, Canada, China (People's Rep.), Czechia, Denmark, Egypt, France, Germany, Greece, Iceland, India, Iran, Iraq, Israel, Italy, Japan, Korea (Rep.), Kuwait, Lebanon, Malaysia, Netherlands, Norway, Philippines, Qatar, San Marino, Singapore, Slovenia, Spain, Sweden, Switzerland, Thailand, United Arab Emirates, United Kingdom and USA. \n3. Passengers who have been in the last 14 days in the countries listed below will be subject to compulsory 14-day self-isolation: Australia, Austria, Bahrain, Belgium, Brazil, Canada,  China (People's Rep.), Czechia, Denmark, Egypt, Greece, Iceland, Israel, India, Iraq, Japan, Kuwait, Lebanon, Malaysia, Netherlands, Norway, Philippines, Qatar, San Marino, Singapore, Slovenia, Sweden, Switzerland, Thailand, United Arab Emirates, United Kingdom and USA.\n4.Passengers that do not have a residence in North Macedonia (Rep.) must have evidence of booked accommodation."
+    "nationalBans":["*"],
+    "tooltip":"North Macedonia (Rep.) borders are closed.\n\n- This does not apply to nationals and residents of North Macedonia (Rep.).\n\n- This does not apply to accredited diplomats.\n\n- This does not apply to passengers with a special permit issued by the Ministry of Interior of North Macedonia (Rep.)."
 },
 {
     "id": "ML",
@@ -796,16 +797,16 @@
 {
     "id": "MM",
     "name": "Myanmar",
-    "nationalRestrictions":["CN"],
+    "nationalRestrictions":["*"],
     "restrictions":{"CN":-1, "FR":-14, "DE":-14, "IR":-14, "IT":-14, "ES":-14},
-    "tooltip":"1. Nationals of China (People's Rep.) traveling to Myanmar can no longer obtain a visa on arrival. \n2. Passengers arriving from China (People's Rep.) on any Chinese airline can no longer obtain a visa on arrival.\n3. Passengers who have been in Hubei Province of China (People's Rep.) and Daegu and Gyeongbuk Regions of Korea (Rep.) in the past 14 days are not allowed to enter Myanmar.\n- This does not apply to nationals of Myanmar. They are subject to 14-day quarantine upon arrival in Myanmar.\n4. Passengers who have been in areas other than Daegu and Gyeongbuk Regions of Korea (Rep.) are required to present a medical certificate that proves no symptoms of acute respiratory illness prior to boarding. They are subject to 14-day quarantine at their home or hotel upon arrival in Myanmar.\n5. All passengers who have been in France, Germany, Iran, Italy or Spain in the past 14 days are subject to quarantine for 14 days."
+    "tooltip":"1. All visa issuances are suspended until 30 April 2020.\n\n2. Nationals of China (People's Rep.) can not transit without visa (TWOV) in Myanmar.\n\n3. Passengers who have been in Hubei Province of China (People's Rep.) and Daegu and Gyeongbuk Regions of Korea (Rep.) in the past 14 days are not allowed to enter Myanmar.\n\n- This does not apply to nationals of Myanmar. They are subject to 14-day quarantine upon arrival in Myanmar.\n\n4. Passengers who have been in areas other than Daegu and Gyeongbuk Regions of Korea (Rep.) are required to present a medical certificate that proves no symptoms of acute respiratory illness prior to boarding. They are subject to 14-day quarantine at their home or hotel upon arrival in Myanmar.\n\n5. All passengers who have been in Austria, Belgium, Denmark, France, Germany, Iran, Italy, Netherlands, Norway, Spain, Sweden, Switzerland, USA or the United Kingdom in the past 14 days are subject to quarantine for 14 days. They must present a Medical Certificate issued by a medical facility recognized by the health authorities. The medical certificates must show that they have no symptoms of acute respiratory illness (fever and cough or shortness of breath). This must be done before boarding the flight."
 },
 {
     "id": "MN",
     "name": "Mongolia",
     "nationalsExcempt":true,
     "nationalBans":["*"],
-    "tooltip":"1. Passengers are not allowed to enter Mongolia.\n- This does not apply to nationals of Mongolia. \n- This does not apply to residents of Mongolia who are direct family members of a national of Mongolia. \n2. Nationals of Mongolia will be placed in quarantine for 14 days. \n3. Residents of Mongolia who are direct family members of a national of Mongolia will be placed in quarantine for 14 days."
+    "tooltip":"1. Passengers are not allowed to enter Mongolia until the 30 April 2020.\n- This does not apply to nationals of Mongolia. \n- This does not apply to residents of Mongolia who are direct family members of a national of Mongolia. \n2. Nationals of Mongolia will be placed in quarantine for 14 days. \n3. Residents of Mongolia who are direct family members of a national of Mongolia will be placed in quarantine for 14 days"
 },
 {
     "id": "MO",
@@ -815,7 +816,9 @@
 },
 {
     "id": "MP",
-    "name": "Northern Mariana Islands"
+    "name": "Northern Mariana Islands",
+    "nationalRestrictions":["*"],
+    "tooltip":"1. Passengers arriving in Saipan from a country with an identified COVID-19 outbreak, inclusive of Guam, Hawaii, and the continental USA, will be required to quarantine for 14 consecutive days at a hotel property. This applies to both residents and non-residents. \n\n2. Passengers who need to leave the island prior to the 14-day period will be allowed to depart back to Guam.  \n\n3. Passengers will complete a health form prior to landing in Saipan. Public Health will meet the passengers in the terminal prior to arrival at the customs hall. Passengers will then proceed to the bus where they will be taken to a hotel property for quarantine.\n\n4. Airline crew, with return flights within less than 14 days of arrival will be allowed to depart Northern Mariana Isl. \n\n5. Passengers entering into the Northern Mariana Isl. by air transport, whose ultimate destination is the island of Tinian or the island of Rota, shall exercise the 14-day quarantine on the island of Saipan before traveling to Tinian or Rota. "
 },
 {
     "id": "MQ",
@@ -906,8 +909,8 @@
 {
     "id": "NP",
     "name": "Nepal",
-    "nationalRestrictions":["*"],
-    "tooltip":"1. Nationals of China (People's Rep.), Iran, Italy, Japan and Korea (Rep.) can no longer obtain a visa on arrival. They must obtain a visa before departure and have a medical certificate proving they are free from Coronavirus (COVID-19). They are only allowed to enter Nepal if arriving at Kathmandu (KTM).\n\n2. Passengers with a Hong Kong (SAR China) passport can no longer obtain a visa on arrival. They must obtain a visa before departure and have a medical certificate proving they are free from Coronavirus (COVID-19). They are only allowed to enter Nepal if arriving at Kathmandu (KTM).\n\n3. Passengers with a Macao (SAR China) passport can no longer obtain a visa on arrival. They must obtain a visa before departure and have a medical certificate proving they are free from Coronavirus (COVID-19). They are only allowed to enter Nepal if arriving at Kathmandu (KTM).\nEffective 13 May 2020:\n\n4. Nationals of France, Germany and Spain can no longer obtain a visa on arrival. They must obtain a visa before departure and have a medical certificate proving they are free from Coronavirus (COVID-19). They are only allowed to enter Nepal if arriving at Kathmandu (KTM). \nEffective 00:00 Nepal Standard Time 14 March 2020:\n\n1. All visa on arrivals have been suspended till 30 April 2020.\n\n2. Passengers with a visa must submit a swab test PCR health certificate to the immigration office TIA. The certificate must be issued maximum 7 days before their arrival in Nepal.\n\n3. Passengers are subject to self-quarantine for 14 days from the date of arrival.\n\n4. Passengers can only land at Tribhuvan Airport (KTM)."
+    "nationalBans":["*"],
+    "tooltip":"All international flights to Nepal are suspended until 31 March 2020."
 },
 {
     "id": "NR",
@@ -967,8 +970,8 @@
 {
     "id": "PK",
     "name": "Pakistan",
-    "nationalRestrictions":["*"],
-    "tooltip":"Passengers must provide copy of test results for COVID-19 through RT-PCR conducted during the last 24 hours before boarding. The test result must include the name and passport number of the passenger. Original test result will have to be presented at arrival in Pakistan."
+    "nationalBans":["*"],
+    "tooltip":"All international flights to Pakistan are suspended until 4 April 2020."
 },
 {
     "id": "PL",
@@ -1260,7 +1263,7 @@
     "id": "UG",
     "name": "Uganda",
     "nationalBans":["*"],
-    "tooltip":"1. Flights from Australia, Austria, Belgium, Brazil, Canada, Chile, China (People's Rep.), Czechia, Denmark, France, Germany, Iceland, India, Indonesia, Iran, Ireland (Rep.), Israel, Italy, Korea (Rep.), Netherlands, Norway, Pakistan, Philippines, Portugal, Qatar, Slovenia, Spain, Sweden, Switzerland, USA and United Kingdom are suspended.\n\n2. Nationals and residents of Uganda are subject to quarantine for 14 days.\n\n3. Passengers arriving in Uganda are subject to physical and temperature screening."
+    "tooltip":"All international flights to Uganda are suspended."
 },
 {
     "id": "UM",
@@ -1300,7 +1303,11 @@
 },
 {
     "id": "VG",
-    "name": "Virgin Islands, British"
+    "name": "Virgin Islands, British",
+    "bans":{"SCH":-14, "GB":-14, "IE":-14, "AU":-14, "BH":-14, "CA":-14, "CN":-14, "EG":-14, "HK":-14, "IN":-14,
+    "ID":-14, "IR":-14, "IL":-14, "JP":-14, "KR":-14, "KW":-14, "MY":-14, "PH":-14, "QA":-14, "SM":-14, "SA":-14,
+  "SG":-14, "TH":-14, "US":-14},
+  "tooltip":"1. Auguste George Airport (NGD), Anegada and Taddy Bay Airport and Virgin Gorda Airport (VIJ) are closed to international flights.\n\n2. Passengers and airline crew who have transited or have been in Australia, Austria, Bahrain, Belgium, Canada, China (People's Rep.), Czechia, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), India, Indonesia, Iran, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Malaysia, Netherlands, Norway, Philippines, Poland, Portugal, Qatar, Romania, San Marino, Saudi Arabia, Singapore, Slovenia, Spain, Sweden, Switzerland, Thailand, USA or United Kingdom in the past 14 days are not allowed to enter.\n\n- This does not apply to residents of Virgin Isl. (British).\n\n3. Residents of Virgin Isl. (British) who have transited or have been in Australia, Austria, Bahrain, Belgium, Canada, China (People's Rep.), Czechia, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), India, Indonesia, Iran, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Malaysia, Netherlands, Norway, Philippines, Poland, Portugal, Qatar, Romania, San Marino, Saudi Arabia, Singapore, Slovenia, Spain, Sweden, Switzerland, Thailand, USA or United Kingdom in the past 14 days will be subject to advanced screening procedures and quarantined for a period of up to 14 days based on the outcome of the risk assessment."
 },
 {
     "id": "VI",
@@ -1309,11 +1316,8 @@
 {
     "id": "VN",
     "name": "Viet Nam",
-    "bans":{"AT":-14, "BE":-14, "HR":-14, "CZ":-14, "DK":-14, "EE":-14, "FI":-14, "FR":-14, "DE":-14, "GR":-14, "HU":-14,
-    "IS":-14, "IT":-14, "LT":-14, "LI":-14, "LV":-14, "LX":-14, "ML":-14, "NL":-14, "NO":-14, "PL":-14, "PT":-14, "SI":-14, "SK":-14, "ES":14, 
-  "SE":-14, "CH":-14, "GB":-14},
-    "nationalRestrictions":["*"],
-    "tooltip":"1. All passengers will be placed on quarantine at a designated facility for 14 days upon arrival.\n\n2. All visa on arrivals are suspended.\n\n3. Passengers who have been in or transited through Austria, Belgium, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom in the past 14 days are not allowed to enter Viet Nam. This does not apply to passengers who travel for diplomatic or official purpose.\n\n- This does not apply to nationals of Viet Nam.\n\n- This does not apply to passengers who reside in Viet Nam.\n\n4. Passengers who have been in or transited through China (People's Rep.) in the past 14 days are not allowed to enter Viet Nam. This does not apply to passengers who travel for diplomatic or official purpose.\n\n- This does not apply to nationals of Viet Nam.\n\n- This does not apply to passengers who reside in Viet Nam.\n\n5. All passengers must fill out a quarantine form prior to arrival.\n\n6. Passengers who travel for diplomatic or official purpose will undergo a medical examination at the border before allowed to enter Viet Nam.\n\n7. Nationals of Italy and Korea (Rep.) with a normal passport are no longer visa exempt.\n\n8. Nationals of Denmark, Finland, France, Germany, Norway, Spain, Sweden and passengers with a British passport are no longer visa exempt.\n\n9. Passengers with a Certificate of Visa Exemption issued by Viet Nam are no longer visa exempt if they reside in China (People's Rep.), Denmark, Finland, France, Germany, Iran, Italy, Korea (Rep.), Norway, Spain, Sweden or United Kingdom.\n\n10. Visa exempt passengers and passengers with a Certificate of Visa Exemption issued by Viet Nam must submit a document certifying they are not tested positive for the Coronavirus (COVID-19). It must be issued by local competent authority accepted by Vietnam authority.\n\n- This does not apply to passengers with a diplomatic, an official or a service passport."
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter Viet Nam.\n\n- This does not apply to nationals of Viet Nam.\n\n- This does not apply to passengers for diplomatic or official duty. They will be subject to mandatory medical declaration and self-isolation.\n\n- This does not apply to passengers who are experts, business managers or highly skilled workers. They will be subject to mandatory medical declaration and self-isolation.\n\n2. Before boarding a national of Viet Nam to return to Viet Nam, airlines must contact the Vietnamese Diplomatic Representative agency in the local country in advance.\n\n3. All passengers will be placed on quarantine at a designated facility for 14 days upon arrival.\n\n4. All visa issuances are suspended.\n\n5. All passengers must fill out a quarantine form prior to arrival.\n\n6. Passengers who travel for diplomatic or official purpose will undergo a medical examination at the border before allowed to enter Viet Nam.\n\n7. Nationals of Italy and Korea (Rep.) with a normal passport are no longer visa exempt.\n\n8. Nationals of Denmark, Finland, France, Germany, Norway, Spain, Sweden and passengers with a British passport are no longer visa exempt.\n\n9. Passengers with a Certificate of Visa Exemption issued by Viet Nam are no longer visa exempt if they reside in China (People's Rep.), Denmark, Finland, France, Germany, Iran, Italy, Korea (Rep.), Norway, Spain, Sweden or United Kingdom.\n\n10. Nationals of Belarus, Japan and Russian Fed. with a normal passport are no longer visa exempt.\n\n11. Passengers with a Certificate of Visa Exemption issued by Viet Nam are no longer visa exempt if they are nationals of Belarus, Japan or Russian Fed. with a normal passport."
 },
 {
     "id": "VU",
