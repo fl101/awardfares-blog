@@ -20,7 +20,7 @@ function recalculateBans() {
         bans[country.id] = 1.0;
         return;
       }
-      if (country.nationalBans.indexOf('SCH') > -1 && checkSchengen(country)) {
+      if (country.nationalBans.indexOf('SCH') > -1 && checkSchengen(nationality)) {
         bans[country.id] = 1.0;
         return;
       }
@@ -43,7 +43,7 @@ function recalculateBans() {
         restrictions[country.id] = 1.0;
         return;
       }
-      if (country.nationalRestrictions.indexOf('SCH') > -1 && checkSchengen(country)) {
+      if (country.nationalRestrictions.indexOf('SCH') > -1 && checkSchengen(nationality)) {
         restrictions[country.id] = 1.0;
         return;
       }
