@@ -25,13 +25,16 @@
 },
 {
     "id": "AL",
-    "name": "Albania"
+    "name": "Albania",
+    "nationalBans":["*"],
+    "tooltip":"Flights to Albania are suspended.\n- This does not apply to flights operated by Air Albania (ZB) from/to Istanbul (IST)."
 },
 {
     "id": "AM",
     "name": "Armenia",
     "nationalRestrictions":["CN", "IR"],
-    "tooltip": "1. Nationals of China (People's Rep.) with a normal passport are no longer visa exempt.  \n2. Nationals of Iran can no longer obtain a visa on arrival. \nThey must obtain a visa or an e-visa prior to their arrival in Armenia. The e-visa can be obtained at https://evisa.mfa.am/"
+    "bans":{"AT":-14, "BE":-14, "CN":-14, "DK":-14, "FR":-14, "DE":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "NL":-14, "NO":-14, "ES":-14, "SE":-14, "CH":-14, "GB":-14},
+    "tooltip": "1. Nationals of China (People's Rep.) with a normal passport are no longer visa exempt. \n2. Nationals of Iran can no longer obtain a visa on arrival. They must obtain a visa or an e-visa prior to their arrival in Armenia. The e-visa can be obtained at https://evisa.mfa.am/ \n3. Passengers who have been in Austria, Belgium, China (People's Rep.), Denmark, France, Germany, Iran, Italy, Japan, Korea (Rep.), Netherlands, Norway, Spain, Sweden, Switzerland or United Kingdom in the past 14 days are not allowed to enter Armenia.\n\n- This does not apply to nationals or residents of Armenia.\n\n- This does not apply to spouses or children of nationals of Armenia.\n\n- This does not apply to employees of foreign diplomatic missions and consular institutions.\n\n- This does not apply to representations of official international missions or organizations.\n\n4. Nationals of Armenia who have been in Austria, Belgium, China (People's Rep.), Denmark, France, Germany, Iran, Italy, Japan, Korea (Rep.), Netherlands, Norway, Spain, Sweden, Switzerland or United Kingdom in the past 14 days must undergo 14-days of quarantine or self-isolation regime."
 },
 {
     "id": "AO",
@@ -361,7 +364,9 @@
 },
 {
     "id": "ES",
-    "name": "Spain"
+    "name": "Spain",
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter Spain.\n\n-This does not apply to:\n\na) Nationals and residents of a European Union or Schengen member state, who go directly to their place of residence;\n\nb) Holders of a long-term visa issued by a European Union or Schengen member state who travel to the country that issued the visa;\n\nc) Cross-border workers;\n\nd) Healthcare or elderly care professionals in the performance of their duties;\n\ne) Transport of goods personnel;\n\nf) Diplomats, international organizations, military personnel and members of humanitarian organizations in the performance of their duties;\n\ng) People traveling for imperative family reasons duly accredited.\n\nh) Persons who document documentary reasons of force majeure or situation of need, or whose entry is permitted for humanitarian reasons."
 },
 {
     "id": "ET",
@@ -656,8 +661,10 @@
 {
     "id": "KN",
     "name": "Saint Kitts and Nevis",
-    "restrictions":{"CN":-1000, "FR":-1000, "DE":-1000, "HK":-1000, "IR":-1000, "IT":-1000, "JP":-1000, "KR":-1000, "SG":-1000, "ES":-1000, "GB":-1000},
-    "tooltip":"Passengers who have been in China (People's Rep.), France, Germany, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Singapore, Spain or United Kingdom will be screened and put into a mandatory quarantine of 14 days if deemed necessary."
+    "restrictions":{"AT":-1, "BE":-1, "BL":-1, "CN":-1, "HR":-1, "CY":-1, "CZ":-1, "DK":-1, "EE":-1, "FI":-1, "FR":-1, "DE":-1, "GR":-1,
+      "HK":-1, "HU":-1, "IR":-1, "IT":-1, "JP":-1, "KR":-1, "LV":-1, "LT":-1, "LU":-1, "ML":-1, "NL":-1, "PL":-1, "PT":-1, "RO":-1, "SG":-1,
+      "SK":-1, "SL":-1, "ES":-1, "SE":-1, "US":-1, "GB":-1},
+    "tooltip":"1. Passengers arriving from Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iran, Ireland (Rep.), Italy, Japan, Korea (Rep.), Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, Spain, Sweden, USA or United Kingdom are not allowed to enter St. Kitts and Nevis.\n\n- This does not apply to nationals of St. Kitts and Nevis.\n\n2. Passengers will be screened and put into a mandatory quarantine of 14 days."
 },
 {
     "id": "KP",
@@ -1228,9 +1235,10 @@
     "id": "TR",
     "name": "Turkey",
     "nationalsExcempt":true,
+    "nationalRestrictions":["*"],
     "nationalBans":["AT", "BE", "CN", "DK", "EG", "FR", "DE", "NL", "IR", "IQ", "IE", "IT", "KR", "NL", "NO", "SA", "ES", "SE", "CH", "AE"],
     "bans":{"AT":-14, "BE":-14, "CN":-14, "DK":-14, "FR":-14, "DE":-14, "IR":-14, "IQ":-14, "IT":-14, "KR":-14, "NL":-14, "NO":-14, "ES":-14, "SE":-14},
-    "tooltip":"1. Nationals of Austria, Belgium, China (People's Rep.) Denmark, Egypt, France, Germany, Iran, Iraq, Ireland (Rep.), Italy, Korea (Rep.), Netherlands, Norway, Saudi Arabia, Spain, Sweden, Switzerland and United Arab Emirates are not allowed to enter Turkey.\n2. Passengers with a British passport are not allowed to enter Turkey.\n3. Passengers who have transited through or have been in Austria, Belgium, China (People's Rep.), Denmark, Egypt, France, Germany, Iran, Iraq, Ireland, Italy, Korea Rep., Netherlands, Norway, Saudi Arabia, Spain, Sweden, Switzerland, United Arab Emirates or United Kingdom in the past 14 days are not allowed to transit or enter Turkey.\n- This does not apply to nationals of Turkey and residents of Turkey.\n4. Passengers arriving from Austria, Belgium, China (People's Rep.), Denmark, Egypt, France, Germany, Iran, Iraq, Ireland, Italy, Korea Rep., Netherlands, Norway, Saudi Arabia, Spain, Sweden, Switzerland, United Arab Emirates or United Kingdom in the past 14 days are not allowed to transit or enter Turkey.\n- This does not apply to nationals of Turkey and residents of Turkey."
+    "tooltip":"1. Nationals of Algeria, Angola, Austria, Azerbaijan, Bangladesh, Belgium, Cameroon, Canada, Chad, China (People's Rep.), Colombia, Cote d'Ivoire, Czechia, Denmark, Djibouti, Dominica, Ecuador, Egypt, Equatorial Guinea, Finland, France, Germany, Guatemala, Hungary, India, Iran, Iraq, Ireland (Rep.), Italy, Jordan, Kazakhstan, Kenya, Korea (Rep.), Kosovo, Kuwait, Latvia, Lebanon, Mauritania, Moldova, Mongolia, Montenegro, Morocco, Nepal, Netherlands, Niger, North Macedonia (Rep.), Norway, Oman, Panama, Peru, Philippines, Poland, Portugal, Saudi Arabia, Slovenia, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Tunisia, Ukraine, United Arab Emirates and Uzbekistan are not allowed to enter Turkey.\n\n2. Passengers with a British passport are not allowed to enter Turkey.\n\n3. Passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport are not allowed to enter Turkey.\n\n4. Passengers who have transited or have been in Algeria, Angola, Austria, Azerbaijan, Bangladesh, Belgium, Cameroon, Canada, Chad, China (People's Rep.), Chinese Taipei, Colombia, Cote d'Ivoire, Czechia, Denmark, Djibouti, Dominica, Ecuador, Egypt, Equatorial Guinea, Finland, France, Germany, Guatemala, Hungary, India, Iran, Iraq, Ireland (Rep.), Italy, Jordan, Kazakhstan, Kenya, Korea (Rep.), Kosovo, Kuwait, Latvia, Lebanon, Mauritania, Moldova, Mongolia, Montenegro, Morocco, Nepal, Netherlands, Niger, North Macedonia (Rep.), Norway, Oman, Panama, Peru, Philippines, Poland, Portugal, Saudi Arabia, Slovenia, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Tunisia, Ukraine, United Arab Emirates, United Kingdom or Uzbekistan in the past 14 days are not allowed to transit or enter Turkey.\n\n5. Passengers arriving from Algeria, Angola, Austria, Azerbaijan, Bangladesh, Belgium, Cameroon, Canada, Chad, China (People's Rep.), Chinese Taipei, Colombia, Cote d'Ivoire, Czechia, Denmark, Djibouti, Dominica, Ecuador, Egypt, Equatorial Guinea, Finland, France, Germany, Guatemala, Hungary, India, Iran, Iraq, Ireland (Rep.), Italy, Jordan, Kazakhstan, Kenya, Korea (Rep.), Kosovo, Kuwait, Latvia, Lebanon, Mauritania, Moldova, Mongolia, Montenegro, Morocco, Nepal, Netherlands, Niger, North Macedonia (Rep.), Norway, Oman, Panama, Peru, Philippines, Poland, Portugal, Saudi Arabia, Slovenia, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Tunisia, Ukraine, United Arab Emirates, United Kingdom or Uzbekistan in the past 14 days are not allowed to transit or enter Turkey.\n\n6. All passengers who traveled to the above restricted countries during the last 14 days are prohibited to be accepted to all flights to Turkey. Otherwise, all passengers on the flights will be quarantined for 14 days."
 },
 {
     "id": "TT",
@@ -1251,7 +1259,9 @@
 },
 {
     "id": "TZ",
-    "name": "Tanzania, United Republic of"
+    "name": "Tanzania, United Republic of",
+    "nationalRestrictions":["*"],
+    "tooltip":"1. All passengers and airline crew must undergo quarantine for 14 days at their own expense.\n\n2. A completed \"Health Form\" must be presented to the Ministry of Health personnel upon arrival."
 },
 {
     "id": "UA",
