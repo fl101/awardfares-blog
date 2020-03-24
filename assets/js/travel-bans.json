@@ -156,9 +156,8 @@
 {
     "id": "BN",
     "name": "Brunei",
-    "nationalRestrictions":["*"],
-    "bans":{"CN":-14, "SCH":-14, "GB":-14, "IE":-14},
-    "tooltip":"1. All passengers must undergo self-isolation for 14 days.\n\n2. Passengers who have been in the Hubei, Zhejiang or Jiangsu Provinces (China People's Rep.) in the past 14 days are not allowed to transit or enter Brunei Darussalam.\n\n- This does not apply to nationals of Brunei Darussalam.\n\n- This does not apply to permanent residents of Brunei Darussalam.\n\n3. Passengers who have been in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Iran, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom in the past 14 days are not allowed to transit or enter Brunei Darussalam.\n\n- This does not apply to nationals of Brunei Darussalam and permanent residents of Brunei Darussalam."
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to transit or enter Brunei Darussalam.\n\n- This does not apply to nationals and residents of Brunei Darussalam.\n\n2. All visa exemptions and Visa on Arrival are temporarily suspended.\n\n3. All visa issued to passengers are temporarily suspended.\n\n4. Special consideration is only given by the Brunei Immigration Department which is subject to the affairs of interest to Brunei Darussalam by applying to the Brunei Immigration Department by downloading the form provided on the Department’s website at www.immigration.gov.bn"
 },
 {
     "id": "BO",
@@ -315,7 +314,9 @@
 },
 {
     "id": "DJ",
-    "name": "Djibouti"
+    "name": "Djibouti",
+    "nationalBans":["*"],
+    "tooltip":"Flights to Djibouti are suspended."
 },
 {
     "id": "DK",
@@ -711,9 +712,8 @@
 {
     "id": "LC",
     "name": "Saint Lucia",
-    "bans":{"CN":-14, "HK":-14, "FR":-14, "DE":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "SG":-14, "ES":-14, "GB":-14},
-    "restrictions":{"US":-1000},
-    "tooltip":"1. Passengers who have been in China (People's Rep.), Hong Kong (SAR China), France, Germany, Iran, Italy, Japan, Korea (Rep.), Singapore, Spain or United Kingdom in the past 14 days are not allowed to enter.\n- This does not apply to nationals and residents of St. Lucia.\n2. Passengers who have been in the USA and who develop respiratory signs and symptoms will be isolated and tested for COVID-19.\n- This does not apply to nationals and residents of St. Lucia.\n3. Nationals and residents of St. Lucia with a travel history to China (People's Rep.), Hong Kong (SAR China), France, Germany, Iran, Japan, Italy, Korea (Rep.), Singapore, Spain, USA or United Kingdom will be quarantined for 14 days."
+    "nationalBans":["*"],
+    "tooltip":"All airports are closed until 5 April 2020."
 },
 {
     "id": "LI",
@@ -723,7 +723,7 @@
     "id": "LK",
     "name": "Sri Lanka",
     "nationalBans":["*"],
-    "tooltip":"1. Effective 04:00 local time 19 March 2020, passengers are not allowed to enter Sri Lanka until 25 March 2020."
+    "tooltip":"All airports are closed until 31 March 2020."
 },
 {
     "id": "LR",
@@ -806,7 +806,7 @@
     "name": "Myanmar",
     "nationalRestrictions":["*"],
     "restrictions":{"CN":-1, "FR":-14, "DE":-14, "IR":-14, "IT":-14, "ES":-14},
-    "tooltip":"1. All visa issuances are suspended until 30 April 2020.\n\n2. Nationals of China (People's Rep.) can not transit without visa (TWOV) in Myanmar.\n\n3. Passengers who have been in Hubei Province of China (People's Rep.) and Daegu and Gyeongbuk Regions of Korea (Rep.) in the past 14 days are not allowed to enter Myanmar.\n\n- This does not apply to nationals of Myanmar. They are subject to 14-day quarantine upon arrival in Myanmar.\n\n4. Passengers who have been in areas other than Daegu and Gyeongbuk Regions of Korea (Rep.) are required to present a medical certificate that proves no symptoms of acute respiratory illness prior to boarding. They are subject to 14-day quarantine at their home or hotel upon arrival in Myanmar.\n\n5. All passengers who have been in Austria, Belgium, Denmark, France, Germany, Iran, Italy, Netherlands, Norway, Spain, Sweden, Switzerland, USA or the United Kingdom in the past 14 days are subject to quarantine for 14 days. They must present a Medical Certificate issued by a medical facility recognized by the health authorities. The medical certificates must show that they have no symptoms of acute respiratory illness (fever and cough or shortness of breath). This must be done before boarding the flight."
+    "tooltip":"1. All visa issuances are suspended until 30 April 2020.\n\n2. Nationals of China (People's Rep.) are not allowed to transit Myanmar without a visa.\n\nEffective 25 March 2020:\n\n1. Passengers will be quarantined for 14 days upon arrival.\n\n2. Passengers must have a lab test proving they are free from Coronavirus (COVID-19).\n\n- This does not apply to nationals of Myanmar."
 },
 {
     "id": "MN",
@@ -1295,7 +1295,7 @@
     "id": "UZ",
     "name": "Uzbekistan",
     "nationalBans":["*"],
-    "tooltip":"Passengers are not allowed to transit or enter Uzbekistan. \n- This does not apply to nationals and residents of Uzbekistan."
+    "tooltip":"Flights to Uzbekistan are suspended."
 },
 {
     "id": "VA",
@@ -1333,8 +1333,8 @@
     "id": "VU",
     "name": "Vanuatu",
     "nationalsExcempt":true,
-    "bans":{"CN":-14, "TW":-14, "HK":-14, "IR":-14, "IT":-14, "JP":-14, "KR":-14, "MO":-14, "SG":-14},
-    "tooltip":"1. Passengers must complete an Incoming Passenger Health Declaration Form before boarding. \n\n2. Passengers who have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macau (SAR China) or Singapore in the past 14 days are not allowed to enter Vanuatu.\n\n- This does not apply to nationals of Vanuatu.\n\n- This does not apply to residents of Vanuatu.\n\n3. Passengers who have transited through or have been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macau (SAR China) or Singapore since 31 December 2019 but who have spent the previous 14 days outside of China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Iran, Italy, Japan, Korea (Rep.), Macau (SAR China) or Singapore must complete the medical certificate from a registered medical practitioner certifying that they are free from any respiratory illness suspected of Coronavirus (COVID-19).\n\n4. Nationals and residents of Vanuatu who have been away in any other country excluding China (People's Rep.), within the last 2 months, can transit through Hong Kong (SAR China) or Singapore to Vanuatu if the transit time is not more than 8 hours. They must stay in the airport terminal.\n\n5. Nationals and residents of Vanuatu transiting for more than eight hours in Hong Kong (SAR China) or Singapore or have left the terminal must be self-Quarantined for 14 days outside of Vanuatu before traveling into the country.\n"
+    "nationalBans":["*"],
+    "tooltip":"Vanuatu ports of entry are closed. \n1. Nationals of Vanuatu, permanent residents and diplomats will be allowed to enter and will be quarantined for 14 days upon arrival. \n2. Consideration may be given for Foreign Diplomatic Missions and international organizations and will be determined on a case by case basis.\n\n3. Passenger on a Permanent Residents and passengers with a Resident Visa will be allowed as follows:\n\na) their entire family is living in Vanuatu;\n\nb) the person has left Vanuatu for business and needs to return;\n\nc) the person has a business investment and resides permanently in Vanuatu;\n\nd) the person is a child of a resident but studies overseas;\n\ne) a resident transiting for less than 8 hours in Australia or New Zealand and resides permanently in Vanuatu."
 },
 {
     "id": "WF",
