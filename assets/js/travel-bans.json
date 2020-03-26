@@ -14,7 +14,6 @@
 },
 {
     "id": "AG",
-    // Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA or United Kingdom
     "name": "Antigua and Barbuda",
     "bans":{"AT":-28, "BE":-28, "BL":-28,"CA":-28, "CN":-28, "HR":-28, "CY":-28, "CZ":-28, "DK":-28, "EE":-28, "FI":-28, "FR":-28, "DE":-28,
       "GR":-28, "HU":-28, "IS":-28, "IR":-28, "IE":-28, "IT":-28, "KR":-28, "LV":-28, "LI":-28, "LT":-28, "LU":-28, "MT":-28, "NL":-28, "NO":-28, "PL":-28, "PT":-28,
