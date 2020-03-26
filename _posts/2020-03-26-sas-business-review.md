@@ -8,7 +8,7 @@ image: /assets/img/sas-business/plane.jpeg
 hidden: true
 ---
 
-On a recent trip I was able to upgrade to SAS Business Class from their premium economy (SAS Plus) for a relatively low cost (About 20 000 Eurobonus points). This gave me the opportunity to write a short review.
+On a recent trip I was able to upgrade to SAS Business Class from their premium economy (SAS Plus) for a relatively low cost (About 20 000 Eurobonus points). I've flown SAS Business a number of times before and as a result this review will be a mix of my different expereiences, however with focus on the latest flight.
 
 ## Seat & Cabin
 <img src="/assets/img/sas-business/seat.jpeg" class="full"/>
