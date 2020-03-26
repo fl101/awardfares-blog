@@ -224,6 +224,12 @@
     "name": "Cocos (Keeling) Islands"
 },
 {
+    "id": "CD",
+    "name": "Congo, the Democratic Republic of the",
+    "nationalBans":["*"],
+    "tooltip":"All airports in Congo are closed."
+},
+{
     "id": "CF",
     "name": "Central African Republic"
 },
