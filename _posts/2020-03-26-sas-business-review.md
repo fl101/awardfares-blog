@@ -15,6 +15,8 @@ On a recent trip I was able to upgrade to SAS Business Class from their premium 
 
 The seat is a fully lie flat business class seat with an air mattress. It comes with bedding and a pillow in case you want to sleep and can be set to any position between lying down and fully upright. Since it's an air mattress it also comes with a massage function, however I've never really seen the use for this as one can barely feel it. You can also configure the firmness of the seat which is a nice touch as of course different people have different preferences, especially when it comes to beds. This means the seat can be adjusted to be perfectly comfortable, however it also comes with a big drawback - It can puncture! While I've never had this happen to me personally I've heard many stories of seats being punctured and since the air mattress is the only cushioning the seat provides, at that point you will be spending the flight on a plastic bench unless there are other seats available for you to switch to, which is hardly the experience you would want in business class. In SAS' defense they do usually compensate these passengers when it happens and it is a fairly rare occurrence.
 
+<center><img style="height:500px; width:auto" src="/assets/img/sas-business/seatmap.png" class="full"/></center>
+
 The seat has some neat storage options and depending on what row you choose these will be either on the aisle side or the window side. I recommend even rows as the divider is by the aisle (The seat in the picture is 01A, I was seated on 02A) which gives some additional privacy and a better view out the windows if you're in a window seat. There's enough space in this area to store your personal headphones (As well as the ones provided by SAS), a bottle of water as well as your phone, the amenity kit and other small items you may wish to keep close at hand.
 
 The business class cabin on the A330 which I flew consists of one large cabin with 8 rows of seats. The cabin features two toilets in the back, one on the starboard side which is large and spacious and one on the port side which is about as small as a normal economy class toilet (However it does feature a window). I'm not particularly tall yet I struggle to stand up without hitting my head. Taller passengers will want to stick to the starboard side toilet, worth keeping in mind when picking your seat!
@@ -33,7 +35,7 @@ This rebranding and focus could easily had been just a gimmick and fancy marketi
 <a href="/assets/img/sas-business/drinks.jpeg"><img src="/assets/img/sas-business/drinks.jpeg" class="half"/></a>
 <a href="/assets/img/sas-business/drinks2.jpeg"><img src="/assets/img/sas-business/drinks2.jpeg" class="half"/></a>
 </figure>
-Food and (Especially) drink selection in SAS Business is really good. However I've long argued that SAS has the best beer selection in the air but this has become slightly worse recently (While still being among the best). The delicious Mikkeller IPA has been replaced by a dull Mikkeller Lager and the Mikkeller/SAS sour beers have now been replaced by an organic Danish semi-dry cider. While it was good, it was not as delicious ad the sour beers which used to be on offer.
+Food and (Especially) drink selection in SAS Business is really good. However I've long argued that SAS has the best beer selection in the air but this has become slightly worse recently (While still being among the best). The delicious Mikkeller IPA has been replaced by a dull Mikkeller Lager and the Mikkeller/SAS sour beers have now been replaced by an organic Danish semi-dry cider. While it was good, it was not as delicious as the sour beers which used to be on offer.
 
 <figure>
 <a href="/assets/img/sas-business/milano.jpeg"><img src="/assets/img/sas-business/milano.jpeg" class="half"/></a>
@@ -48,7 +50,7 @@ The food on the other hand has always been consistently good in SAS Business. Th
 
 <a href="/assets/img/sas-business/main.jpeg"><img src="/assets/img/sas-business/main.jpeg" class="half"/></a>
 
-For main course I picked the chicken with chanterelle sauce and root fruit croquettes. Also a a great dish, I consider chicken to be a generally safe bet on airplanes as it's often served with a lot of sauce meaning it's rarely dry. However in this case it was also served with skin which was crispy with the rest of the chicken being moist and tender, very impressive! 
+For main course I picked the chicken with chanterelle sauce and root vegetable croquettes. Also a great dish, I consider chicken to be a generally safe bet on airplanes as it's often served with a lot of sauce meaning it's rarely dry. However in this case it was also served with skin which was crispy with the rest of the chicken being moist and tender, very impressive! 
 
 <a href="/assets/img/sas-business/dessert.jpeg"><img src="/assets/img/sas-business/dessert.jpeg" class="half"/></a>
 
