@@ -684,7 +684,9 @@
 },
 {
     "id": "KP",
-    "name": "North Korea"
+    "name": "North Korea",
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers traveling as tourists are not allowed to enter. \n2. Passengers traveling on business or duty must spend 14 days in quarantine upon arrival."
 },
 {
     "id": "KR",
