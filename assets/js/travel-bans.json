@@ -72,7 +72,7 @@
     "name": "Australia",
     "nationalBans":["*"],
     "nationalsExcempt":true,
-    "tooltip":"Temporary exception: European nationals currently in New Zealand with a confirmed onward ticket to a country in Europe are allowed to transit through Australia. \nItem 1 is effective 21:00 AEDT 20 March 2020: \n1. Passengers are not allowed to transit or enter Australia. \n- This does not apply to nationals of Australia. \n- This does not apply to the immediate family members of nationals of Australia. \n- This does not apply to permanent residents of Australia and their immediate family members. \n- This does not apply to nationals of New Zealand residing in Australia. \n- This does not apply to airline crew.\n- This does not apply to nationals of Cook Isl., Fiji, French Polynesia, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Niue, Palau, Papua New Guinea, Samoa (American), Solomon Isl., Tonga, Tuvalu and Vanuatu when they are transiting through Australia to their home country.\n2. Passengers who have transited through or have been in China (People's Rep.) in the past 14 days are not allowed to transit or enter Australia. \n- This does not apply to nationals of Australia and their immediate family members. They will be required to self-isolate for a period of 14 days from their arrival into Australia. \n- This does not apply to permanent residents of Australia and their immediate family members. They will be required to self-isolate for a period of 14 days from their arrival into Australia. \n- This does not apply to nationals of New Zealand residing in Australia. They will be required to self-isolate for a period of 14 days from their arrival into Australia. \n- This does not apply to airline crew. \n3. Passengers who have transited through or have been in Iran on or after 1 March 2020 are not allowed to enter Australia for 14 days, from the time they left or transited through Iran. \n- This does not apply to nationals of Australia, their immediate family members, permanent residents of Australia and their immediate family members. They will be required to self-isolate for a period of 14 days. \n4. Passengers who have transited through or have been in Korea (Rep.) on or after 2100 AEDST 5 March 2020 are not allowed to enter Australia for 14 days, from the time they left or transited through Korea (Rep.). \n- This does not apply to nationals of Australia, their immediate family members, permanent residents of Australia and their immediate family members. They will be required to self-isolate for a period of 14 days. \n5. Passengers who have transited through or have been in Italy on or after 1800 AEDST 11 March 2020 are not allowed to enter Australia for 14 days, from the time they left or transited through Italy. \n- This does not apply to nationals of Australia, their immediate family members, permanent residents of Australia and their immediate family members. They will be required to self-isolate for a period of 14 days. \n6. All passengers are required to self-isolate for a period of 14 days from their arrival into Australia. If their duration of stay is less than 14 days, they must self-isolate for the entire duration of stay. \n- This does not apply to airline crew with the appropriate personal protective equipment."
+    "tooltip":"1. Passengers are not allowed to transit or enter Australia. \n- This does not apply to nationals of Australia. \n- This does not apply to the immediate family members of nationals of Australia. \n- This does not apply to permanent residents of Australia and their immediate family members. \n- This does not apply to nationals of New Zealand residing in Australia. \n- This does not apply to airline crew.\n- This does not apply to diplomats accredited to Australia and currently resident in Australia, and their immediate family members.\n- This does not apply to nationals of Fiji, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Zealand, Niue, Palau, Papua New Guinea, Samoa (American), Solomon Isl., Tonga, Tuvalu and Vanuatu when they are transiting through Australia to their home country.\n- This does not apply to passengers who reside in Cook Isl., French Polynesia or New Caledonia when they are transiting through Australia to their home country. \n2. All passengers are required to self-isolate for a period of 14 days at their first arrival location in Australia. If their duration of stay is less than 14 days, they must self-isolate for the entire duration of stay.\n- This does not apply to airline crew with the appropriate personal protective equipment. \n3. Nationals of Australia are not allowed to travel out of Australia.\nThis does not apply to the following:\n- Persons ordinarily resident in a country other than Australia; \n- Airline and maritime crew and associated safety workers;\n- Persons engaged in the day to day conduct of outbound and inbound freight;\n- Persons whose travel is associated with essential work at offshore facilities; and\n- Persons travelling on official government business, including members of the Australian Defence Force."
 },
 {
     "id": "AW",
@@ -178,15 +178,15 @@
 {
     "id": "BR",
     "name": "Brazil",
-    "bans":{"AU":-1, "CN":-1, "IR":-1, "JP":-1, "KR":-1, "MY":-1, "GB":-1, "IE":-1, "SCH":-1},
-    "tooltip":"Passengers arriving from Australia, China (People's Rep.), Iceland, Iran, Japan, Korea (Rep.), Malaysia, Norway, Switzerland United Kingdom or a European Union Member State are not allowed to enter Brazil.\nThis does not apply to:\n- Nationals of Brazil;\n- Passengers who reside in Brazil;\n- Foreign professionals in a mission in the service of an international body, provided that it is duly identified;\n- Foreign employee accredited to the Brazilian Government;\n- Immediate family member of a national of Brazil;\n- Passengers with an authorization issued by Brazilian Government;\n- Passengers with a National Migration Registry."
+    "nationalBans":["*"],
+    "tooltip":"Passengers are not allowed to enter Brazil. This does not apply to:\n- Nationals of Brazil;\n- Passengers who reside in Brazil;\n- Foreign professionals in a mission in the service of an international body, provided that it is duly identified;\n- Foreign employee accredited to the Brazilian Government;\n- Immediate family member of a national of Brazil;\n- Passengers with an authorization issued by Brazilian Government;\n- Passengers with a National Migration Registry."
 },
 {
     "id": "BS",
     "name": "Bahamas",
     "nationalBans":["*"],
     "nationalsExcempt":true,
-    "tooltip": "All airports are closed until 31 March 2020."
+    "tooltip": "Bahamas borders are closed until 15 April 2020. \n- This does not apply to repatriation flights of foreign nationals from the Bahamas."
 },
 {
     "id": "BT",
@@ -263,7 +263,7 @@
     "id": "CL",
     "name": "Chile",
     "nationalBans":["*"],
-    "tooltip":"1. Passengers are not allowed to enter Chile.\n2. Below listed passengers are allowed to enter Chile:\na. nationals of Chile;\nb. residents of Chile;\nc. passengers bringing humanitarian help;\nd. passengers with a diplomatic visa;\ne. passengers with an official ID issued by the Ministry of Foreign Affairs of Chile;\nf. passengers with a safe-conduct."
+    "tooltip":"1. Passengers are not allowed to enter Chile.\nThis does not apply to:\n- Nationals of Chile;\n- Residents of Chile;\n- Passengers bringing humanitarian help;\n- Passengers with a diplomatic visa and an official ID issued by the Ministry of Foreign Affairs of Chile;\n- Passengers with a safe-conduct.\n2. Nationals and residents of Chile will be quarantined for 14 days.\n3. Nationals of New Zealand are not allowed to transit Chile.\n- This does not apply if the passenger resides in Chile."
 },
 {
     "id": "CM",
@@ -368,7 +368,7 @@
     "id": "EG",
     "name": "Egypt",
     "nationalBans":["*"],
-    "tooltip": "Passengers are not allowed to enter Egypt until 31 March 2020."
+    "tooltip": "Flights to Egypt are suspended.\n- This does not apply to humanitarian, repatriation and United Nations flights with a pre-authorization from the Egyptian Civil Aviation Authority."
 },
 {
     "id": "EH",
@@ -399,9 +399,9 @@
 {
     "id": "FJ",
     "name": "Fiji",
-    "bans":{"CN":-14, "IR":-14, "IT":-14, "KR":-14, "US":-14, "SCH":-14, "GB":-14, "IE":-14},
+    "nationalBans":["*"],
     "nationalsExcempt":true,
-    "tooltip": "1. Passengers and airline crew who have been in China (People's Rep.), Europe, Iran, Italy, Korea (Rep.) or Spain, USA in the past 14 days are not allowed to enter Fiji.\n2. Passengers will be required to self-quarantine for 14 days."
+    "tooltip": "1. Passengers and airline crew are not allowed to enter Fiji. \n- This does not apply to nationals of Fiji.\n2. Nationals of Fiji must go into quarantine for a period of 14 days."
 },
 {
     "id": "FK",
@@ -509,7 +509,7 @@
     "id": "GU",
     "name": "Guam",
     "nationalRestrictions":["*"],
-    "tooltip":"Passengers who have been in a country with confirmed COVID-19 cases for more than one week and do not hold a document recognized and certified by DPHSS (Guam Department of Social Health and Services), which confirms they are not infected with COVID-19, are not allowed to enter. The date of the test must be not more than one week before the date of arrival. Passengers who enter Guam without proper documentation will be quarantined.\n-This does not apply to residents of Guam."
+    "tooltip":"Passengers will be quarantined for a period of 14 days upon arrival. \n- This does not apply to passengers with a healthcare recognized and certified document which confirms that they are not infected with COVID-19 within\nthe last 72 hours."
 },
 {
     "id": "GW",
@@ -535,7 +535,8 @@
 {
     "id": "HN",
     "name": "Honduras",
-    "bans":{"AT":-1, "BE":-1, "CN":-1, "CZ":-1, "DK":-1, "EE":-1, "FI":-1, "FR":-1, "DE":-1, "GR":-1, "HU":-1, "IS":-1, "IR":-1, "KR":-1, "LV":-1, "LI":-1, "LT":-1, "LU":-1, "MT":-1, "NL":-1, "NO":-1, "PL":-1, "PT":-1, "SI":-1, "SK":-1, "ES":-1, "SE":-1, "CH":-1, "GB":-1}
+    "nationalBans":["*"],
+    "tooltip":"1. Passengers are not allowed to enter Honduras. \n- This does not apply to nationals and residents of Honduras. \n- This does not apply to members of the diplomatic corps. \n2. Nationals and residents of Honduras can only land at San Pedro Sula (SAP) or Tegucigalpa (TGU). \n3. Passengers who are members of the diplomatic corps can only land at San Pedro Sula (SAP) or Tegucigalpa (TGU). \n4. Nationals and residents of Honduras are required to self-isolate for 14 days. \n5. Passengers who are members of the diplomatic corps are required to self-isolate for 14 days."
 },
 {
     "id": "HR",
@@ -707,7 +708,7 @@
     "name": "Cayman Islands",
     "nationalBans":["*"],
     "nationalsExcempt":true,
-    "tooltip":"1. Passengers are not allowed to enter Cayman Isl. \n- This does not apply to nationals and residents of Cayman Isl.\n2. Nationals and residents of Cayman Isl. will be isolated for 14 days."
+    "tooltip":"1. Passengers are not allowed to enter Cayman Isl. \n- This does not apply to passengers who reside in Cayman Isl.\n- This does not apply to passengers arriving from the United Kingdom.\n2. Passengers who reside in Cayman Isl. will be isolated for 14 days.\n3. Passengers arriving from the United Kingdom will be isolated for 14 days."
 },
 {
     "id": "KZ",
@@ -740,7 +741,7 @@
     "id": "LK",
     "name": "Sri Lanka",
     "nationalBans":["*"],
-    "tooltip":"All airports are closed until 31 March 2020."
+    "tooltip":"All airports are closed until 07 April 2020."
 },
 {
     "id": "LR",
@@ -821,9 +822,8 @@
 {
     "id": "MM",
     "name": "Myanmar",
-    "nationalRestrictions":["*"],
-    "restrictions":{"CN":-1, "FR":-14, "DE":-14, "IR":-14, "IT":-14, "ES":-14},
-    "tooltip":"1. All visa issuances are suspended until 30 April 2020.\n\n2. Nationals of China (People's Rep.) are not allowed to transit Myanmar without a visa.\n\nEffective 25 March 2020:\n\n1. Passengers will be quarantined for 14 days upon arrival.\n\n2. Passengers must have a lab test proving they are free from Coronavirus (COVID-19).\n\n- This does not apply to nationals of Myanmar."
+    "nationalBans":["*"],
+    "tooltip":"All international flights are not allowed to land in Myanmar until 13 April 2020 (23:59 - Myanmar Standard Time).\n- This does not apply to relief flights;\n- This does not apply to medical evacuation flights;\n- This does not apply to special flights approved by the Department of Civil Aviation."
 },
 {
     "id": "MN",
@@ -940,7 +940,7 @@
     "id": "NP",
     "name": "Nepal",
     "nationalBans":["*"],
-    "tooltip":"All international flights to Nepal are suspended until 31 March 2020."
+    "tooltip":"All international flights to Nepal are suspended until 15 April 2020."
 },
 {
     "id": "NR",
@@ -1094,7 +1094,7 @@
     "name": "Seychelles",
     "nationalsExcempt":true,
     "nationalBans":["*"],
-    "tooltip":"1. Passengers are not allowed to enter Seychelles.\n- This does not apply to nationals and residents of Seychelles.\n2. Nationals and residents of Seychelles will be subjected to additional health screening and placed under obligatory quarantine for at least 14 days."
+    "tooltip":"1. The international airport in Seychelles is closed to all international flights.\n- This does not apply to repatriation flights of foreign nationals from Seychelles.\n- This does not apply to emergency diversions.\n- This does not apply to special mission flights that are approved (MEDEVAC).\n2. Passengers are not allowed to enter Seychelles.\n- This does not apply to passengers who require to enter Seychelles on special mission and have a permission from the Public Health Commissioner before departure. \n- This does not apply to crew members requiring minimum rest. They must undergo strict mandatory quarantine during the rest period. \n- This does not apply to any other person under other circumstances as approved by the Public Health Commissioner."
 },
 {
     "id": "SD",
@@ -1118,7 +1118,7 @@
     "id": "SH",
     "name": "Saint Helena, Ascension and Tristan da Cunha",
     "nationalBans":["*"],
-    "tooltip":"1. Passengers are not allowed to enter St. Helena.\n- This does not apply to nationals and residents of St. Helena.\n- This does not apply to passengers with a long-term permit.\n- This does not apply to temporary contractors.\n- This does not apply to sponsor Technical Cooperation Officers.\n- This does not apply to passengers to Ascension.\n- This does not apply to persons authorized in advance by the Governor.\n2. Self-isolation for 14 days is mandatory when entering St. Helena."
+    "tooltip":"1. Passengers are not allowed to enter St. Helena.\n- This does not apply to passengers who reside in St. Helena.\n- This does not apply to passengers with a long-term permit.\n- This does not apply to temporary contractors.\n- This does not apply to sponsor Technical Cooperation Officers.\n- This does not apply to passengers to Ascension.\n- This does not apply to persons authorized in advance by the Governor.\n2. Self-isolation for 14 days is mandatory when entering St. Helena."
 },
 {
     "id": "SI",
@@ -1261,7 +1261,7 @@
     "name": "Trinidad and Tobago",
     "nationalsExcempt":true,
     "nationalBans":["*"],
-    "tooltip":"Passengers are not allowed to enter Trinidad and Tobago. \n-This does not apply to nationals of Trinidad and Tobago. \n-This does not apply to residents of Trinidad and Tobago."
+    "tooltip":"Airports in Trinidad and Tobago are closed until 30 April 2020.\n- This does not apply if permitted by the Minister with responsibility for national security."
 },
 {
     "id": "TV",
@@ -1291,7 +1291,7 @@
     "id": "UG",
     "name": "Uganda",
     "nationalBans":["*"],
-    "tooltip":"All international flights to Uganda are suspended."
+    "tooltip":"All international flights to Uganda are suspended until 24 April 2020.\n- This does not apply to:\n1. Aircraft in a state of emergency.\n2. Operations related to humanitarian aid, medical and relief flights.\n3. Technical landings where passengers do not disembark.\n4. Any other flight that may be so approved by the appropriate authority."
 },
 {
     "id": "UM",
@@ -1352,7 +1352,7 @@
     "name": "Vanuatu",
     "nationalsExcempt":true,
     "nationalBans":["*"],
-    "tooltip":"Vanuatu ports of entry are closed. \n1. Nationals of Vanuatu, permanent residents and diplomats will be allowed to enter and will be quarantined for 14 days upon arrival. \n2. Consideration may be given for Foreign Diplomatic Missions and international organizations and will be determined on a case by case basis.\n\n3. Passenger on a Permanent Residents and passengers with a Resident Visa will be allowed as follows:\n\na) their entire family is living in Vanuatu;\n\nb) the person has left Vanuatu for business and needs to return;\n\nc) the person has a business investment and resides permanently in Vanuatu;\n\nd) the person is a child of a resident but studies overseas;\n\ne) a resident transiting for less than 8 hours in Australia or New Zealand and resides permanently in Vanuatu."
+    "tooltip":"Vanuatu ports of entry are closed."
 },
 {
     "id": "WF",
