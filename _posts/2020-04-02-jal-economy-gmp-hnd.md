@@ -7,7 +7,7 @@ comments: true
 image: /assets/img/jal-economy-gmp-hnd/overview.jpg
 ---
 
-A short flight with Japan Airlines (JAL) from Seoul Gimpo (GMP) to Tokyo Haneda (HND). It was definitely one of the better economy flights I've experienced recently. From the crew and cabin, to the seat and food, everything was excellent. My only complaint was not being able to choose my seats in advance. Read more about that below.
+Back in January I flew Japan Airlines (JAL) from Seoul Gimpo (GMP) to Tokyo Haneda (HND). It was definitely one of the better economy flights I've experienced recently. From the crew and cabin, to the seat and food, everything was excellent. My only complaint was not being able to choose my seats in advance. Read more about that below.
 
 ## Seat Selection
 When booking the lowest priced JAL fares you may not be eligible to choose your seats in-advance (despite having Oneworld status). This was the case for my booking. When I checked my booking I just received a message saying seat selection not eligible:
