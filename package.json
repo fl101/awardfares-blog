@@ -6,11 +6,14 @@
   "scripts": {
     "start": "bundle exec jekyll serve --drafts --future",
     "images": "node ./_scripts/generate-image-tags.js",
-    "resize": "node ./_scripts/resize-images.js"
+    "resize": "node ./_scripts/resize-images.js",
+    "gcmap": "node ./_scripts/gcmap.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sharp": "^0.25.2"
+    "request": "^2.88.2",
+    "sharp": "^0.25.2",
+    "yargs": "^15.3.1"
   }
 }
