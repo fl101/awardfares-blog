@@ -28,7 +28,7 @@ With the new TAP route there will be 4 Star Alliance routes from Europe to Cape 
 
 <img src="/assets/img/new-tap-routes/cpt.png" />
 
-The other main alternative has been to fly via JNB and connect with South African Airlines. However, considering the state of SAA and the current global situation who knows if that will still be a viable option in the future.
+The main alternative direct from Europe would be to fly via Johannesburg (JNB) and connect with South African Airlines (SAA). However, considering the state of SAA and the current global situation who knows if that will still be a viable option in the future.
 
 * JNB-LHR - South African (Airbus A330)
 * JNB-FRA - South African (Airbus A350)
@@ -36,6 +36,8 @@ The other main alternative has been to fly via JNB and connect with South Africa
 * JNB-ZRH - Swiss (Airbus A340)
 
 <img src="/assets/img/new-tap-routes/jnb.png" />
+
+The best alternatives with connections outside of Europe would be Ethiopian via Addis Ababa (ADD) or Turkish via Istanbul (IST). The former is known to have better award availability, whilst the latter has a more extensive route network in Europe.
 
 ## Cancun, Mexico (CUN)
 Before the new TAP route there is only a single Star Alliance direct route from Europe to Cancun, operated by Lufthansa from Fankfurt.
