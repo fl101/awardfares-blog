@@ -13,7 +13,7 @@ Starting November 11, 2020, TAP will be expanding to 2 new destinations from Eur
 - Lisabon, Portugal (LIS) - Cancun, Mexico (CUN)
 - Ponta Delgada, Azores (PDL) - Toronto, Canada (YYZ)
 
-Revenue tickets are for sale, but award space through Star Alliance partners isn't available yet as of April 11, 2020. If you're interested in any of the new routes then be sure to [setup alerts in AwardFares](https://awardfares.com/alerts) to get notified as soon as award space opens up.
+Revenue tickets are for sale, but award space through Star Alliance partners isn't available yet as of April 13, 2020. If you're interested in any of the new routes then be sure to [setup alerts in AwardFares](https://awardfares.com/alerts) to get notified as soon as award space opens up.
 
 Of the new routes, the first two routes (Cape Town and Cancun) will probably be of most interested to European frequent flyers as these offer two new options for award travel to these regions. Furthermore, TAP intends to operate these routes with modern aircraft types compared to the other carriers; a nice benefit.
 
