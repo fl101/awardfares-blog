@@ -5,7 +5,6 @@ tags: [News, TAP]
 author: Philip
 comments: true
 image: /assets/img/new-tap-routes/overview.png
-hidden: true
 ---
 
 Starting November 11, 2020, TAP will be expanding to 2 new destinations from Europe, Cape Town and Cancun. Furthermore, they are also adding another route to Ponta Delgada from North America from June 25, 2020:
