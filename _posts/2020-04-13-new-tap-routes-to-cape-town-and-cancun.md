@@ -7,6 +7,10 @@ comments: true
 image: /assets/img/new-tap-routes/overview.png
 ---
 
+**Update (April 17, 2020)**: Award space with United MileagePlus is now wide-open on the Cape Town and Cancun routes. Interestingly only Business awards are available on the Cancun route.
+
+<img src="/assets/img/new-tap-routes/awards.png" />
+
 Starting November 11, 2020, TAP will be expanding to 2 new destinations from Europe, Cape Town and Cancun. Furthermore, they are also adding another route to Ponta Delgada from North America from June 25, 2020:
 
 - Lisabon, Portugal (LIS) - Cape Town, South Africa (CPT)
