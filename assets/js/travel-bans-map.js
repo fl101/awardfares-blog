@@ -97,7 +97,7 @@ function addCountry() {
 $('#add-country').on('click', addCountry);
 
 $.getJSON('/assets/js/travel-bans.json', function (data) {
-  $('.last-updated').html(moment.tz('2020-04-14 10:00:00', 'UTC').tz(moment.tz.guess()).format('YYYY-MM-DD HH:mm zz'))
+  $('.last-updated').html(moment.tz('2020-04-21 07:00:00', 'UTC').tz(moment.tz.guess()).format('YYYY-MM-DD HH:mm zz'))
 
   var options = '';
   countries = data;
@@ -121,13 +121,13 @@ $.getJSON('/assets/js/travel-bans.json', function (data) {
       ],
     },
     onRegionTipShow: function (e, el, code) {
-      if (countryMap[code] && countryMap[code].tooltip) {
-        var text = countryMap[code] && countryMap[code].tooltip;
-        el.html(el.html() + '<br/><pre>' + text + '</pre>');
-        $('pre', el).attr('style', 'max-width:500px;white-space: pre-wrap; overflow: wrap;font-size:9pt')
-      } else {
-        e.preventDefault();
-      }
+      // if (countryMap[code] && countryMap[code].tooltip) {
+      //   var text = countryMap[code] && countryMap[code].tooltip;
+      //   el.html(el.html() + '<br/><pre>' + text + '</pre>');
+      //   $('pre', el).attr('style', 'max-width:500px;white-space: pre-wrap; overflow: wrap;font-size:9pt')
+      // } else {
+      e.preventDefault();
+      // }
     },
     onRegionOut: function (e) {
       e.preventDefault();
