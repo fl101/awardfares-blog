@@ -126,11 +126,11 @@ $.getJSON('/assets/js/travel-bans.json', function (data) {
       //   el.html(el.html() + '<br/><pre>' + text + '</pre>');
       //   $('pre', el).attr('style', 'max-width:500px;white-space: pre-wrap; overflow: wrap;font-size:9pt')
       // } else {
-      e.preventDefault();
+      // e.preventDefault();
       // }
     },
     onRegionOut: function (e) {
-      e.preventDefault();
+      // e.preventDefault();
     }
   });
   recalculateBans();
