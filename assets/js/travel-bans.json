@@ -578,7 +578,8 @@
 },
 {
     "id": "IE",
-    "name": "Ireland"
+    "name": "Ireland",
+    "nationalRestrictions":["*"]
 },
 {
     "id": "IL",
