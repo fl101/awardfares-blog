@@ -10,14 +10,13 @@
 },
 {
     "id": "AF",
-    "name": "Afghanistan"
+    "name": "Afghanistan",
+    "nationalBans":["*"]
 },
 {
     "id": "AG",
     "name": "Antigua and Barbuda",
-    "bans":{"AT":-28, "BE":-28, "BL":-28,"CA":-28, "CN":-28, "HR":-28, "CY":-28, "CZ":-28, "DK":-28, "EE":-28, "FI":-28, "FR":-28, "DE":-28,
-      "GR":-28, "HU":-28, "IS":-28, "IR":-28, "IE":-28, "IT":-28, "KR":-28, "LV":-28, "LI":-28, "LT":-28, "LU":-28, "MT":-28, "NL":-28, "NO":-28, "PL":-28, "PT":-28,
-      "RO":-28, "SG":-28, "SK":-28, "SI":-28, "ES":-28, "SE":-28, "CH":-28, "US":-28, "GB":-28},
+    "nationalBans":["*"],
     "nationalsExcempt":true,
     "tooltip":"1. Passengers and airline crew who have been in Austria, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iran, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA or United Kingdom in the past 28 days are not allowed to enter Antigua and Barbuda.\n- This does not apply to nationals of Antigua and Barbuda and resident diplomats. \n2. Airlines must provide advance passenger information of scheduled arrival of nationals of Antigua and Barbuda and resident diplomats."
 },
@@ -232,7 +231,8 @@
 },
 {
     "id": "CF",
-    "name": "Central African Republic"
+    "name": "Central African Republic",
+    "nationalRestrictions":["*"]
 },
 {
     "id": "CG",
@@ -482,11 +482,13 @@
 },
 {
     "id": "GM",
-    "name": "Gambia"
+    "name": "Gambia",
+    "nationalBans":["*"]
 },
 {
     "id": "GN",
-    "name": "Guinea"
+    "name": "Guinea",
+    "nationalBans":["*"]
 },
 {
     "id": "GP",
@@ -494,7 +496,8 @@
 },
 {
     "id": "GQ",
-    "name": "Equatorial Guinea"
+    "name": "Equatorial Guinea",
+    "nationalBans":["*"]
 },
 {
     "id": "GR",
@@ -521,7 +524,8 @@
 },
 {
     "id": "GW",
-    "name": "Guinea-Bissau"
+    "name": "Guinea-Bissau",
+    "nationalBans":["*"]
 },
 {
     "id": "GY",
@@ -748,11 +752,13 @@
 },
 {
     "id": "LR",
-    "name": "Liberia"
+    "name": "Liberia",
+    "nationalBans":["*"]
 },
 {
     "id": "LS",
-    "name": "Lesotho"
+    "name": "Lesotho",
+    "nationalRestrictions":["*"]
 },
 {
     "id": "LT",
@@ -884,7 +890,8 @@
 },
 {
     "id": "MW",
-    "name": "Malawi"
+    "name": "Malawi",
+    "nationalBans":["*"]
 },
 {
     "id": "MX",
@@ -899,7 +906,8 @@
 },
 {
     "id": "MZ",
-    "name": "Mozambique"
+    "name": "Mozambique",
+    "nationalRestrictions":["*"]
 },
 {
     "id": "NA",
@@ -923,7 +931,8 @@
 },
 {
     "id": "NG",
-    "name": "Nigeria"
+    "name": "Nigeria",
+    "nationalBans":["*"]
 },
 {
     "id": "NI",
@@ -1059,7 +1068,8 @@
 },
 {
     "id": "RE",
-    "name": "Reunion"
+    "name": "Reunion",
+    "nationalRestrictions":["*"]
 },
 {
     "id": "RO",
@@ -1080,7 +1090,8 @@
 },
 {
     "id": "RW",
-    "name": "Rwanda"
+    "name": "Rwanda",
+    "nationalBans":["*"]
 },
 {
     "id": "SA",
@@ -1128,7 +1139,8 @@
 },
 {
     "id": "SI",
-    "name": "Slovenia"
+    "name": "Slovenia",
+    "nationalBans":["*"]
 },
 {
     "id": "SJ",
@@ -1168,7 +1180,8 @@
 },
 {
     "id": "SS",
-    "name": "South Sudan"
+    "name": "South Sudan",
+    "nationalBans":["*"]
 },
 {
     "id": "ST",
@@ -1194,7 +1207,8 @@
 },
 {
     "id": "SZ",
-    "name": "Swaziland"
+    "name": "Swaziland",
+    "nationalRestrictions":["*"]
 },
 {
     "id": "TC",
@@ -1205,7 +1219,8 @@
 },
 {
     "id": "TD",
-    "name": "Chad"
+    "name": "Chad",
+    "nationalBans":["*"]
 },
 {
     "id": "TF",
@@ -1213,7 +1228,8 @@
 },
 {
     "id": "TG",
-    "name": "Togo"
+    "name": "Togo",
+    "nationalBans":["*"]
 },
 {
     "id": "TH",
@@ -1401,7 +1417,8 @@
 },
 {
     "id": "ZW",
-    "name": "Zimbabwe"
+    "name": "Zimbabwe",
+    "nationalBans":["*"]
 },
 {
     "id": "XS",
