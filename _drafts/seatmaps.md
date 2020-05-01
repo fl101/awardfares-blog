@@ -1,0 +1,247 @@
+---
+layout: post
+title: Star Alliance Seat Availability Checker
+tags: [Star Alliance, Tools]
+author: Philip
+---
+
+Easily check seat availability for Star Alliance flights. Note that seats marked as blocked (yellow) are usually reserved for status passengers. If you have SAS och Star Alliance status then you may be able to choose these seats.
+
+<style type="text/css">
+
+table, td, th, tr {
+  border: none !important;
+  background: none !important;
+  padding: 0 !important;
+  font-size: 10pt;
+}
+
+.seatmap {
+  margin-top: 30px;
+}
+
+.seat {
+  border-radius: 2px;
+  width: 20px;
+  height: 20px;
+  margin: 2px;
+}
+
+thead th {
+  text-align: center;
+}
+
+.seat.present.available {
+  background: #2ecc71;
+}
+
+.seat.present.occupied {
+  background: #e74c3c;
+}
+
+.seat.present.available.blocked {
+  background: #f1c40f;
+}
+
+.number {
+  text-align: right;
+  padding-right: 10px !important;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+.row + .row {
+  margin-top: 15px;
+}
+
+#app {
+  margin-top: 40px;
+  border: solid 1px #ddd;
+  border-radius: 10px;
+  padding: 50px;
+}
+
+.error {
+  color: red;
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+}
+
+.left {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.right {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+@media screen and (max-width: 660px) {
+  #app {
+    padding: 30px;
+  }
+  .container {
+    flex-direction: column;
+  }
+  .right {
+    margin-top: 30px;
+  }
+}
+
+</style>
+
+{% raw %}
+<div id="app">
+  <div class="error" v-if="error">{{error}}</div>
+  <div class="container">
+    <div class="left">
+      <div class="row">
+        <label>Origin</label>
+        <input class="u-fw" type="text" v-model="query.from" placeholder="CPH" />
+      </div>
+      <div class="row">
+        <label>Destination</label>
+        <input class="u-fw" type="text" v-model="query.to" placeholder="HND" />
+      </div>
+      <div class="row">
+        <label>Flight Number</label>
+        <input class="u-fw" type="text" v-model="query.flight" placeholder="SK983" />
+      </div>
+      <div class="row">
+        <label>Departure Date</label>
+        <input class="u-fw" type="date" v-model="query.date" placeholder="Today" />
+      </div>
+      <div class="row">
+        <label>Cabin</label>
+        <select class="u-full-width" v-model="query.cabin">
+          <option value="economy">Economy</option>
+          <option value="premeco">Prem. Economy</option>
+          <option value="business">Business</option>
+          <option value="first">First</option>
+        </select>
+      </div>
+      <div class="row">
+        <button class="button-primary" type="button" v-on:click="search">Search</button>
+      </div>
+    </div>
+    <div class="right" v-if="seatmap">
+      <div>{{seatmap.aircraft || 'Aircraft: N/A'}} ({{seatmap.arrangement.join('-')}})</div>
+      <div>Occupied: {{seatmap.occupied}} / {{seatmap.total}} ({{seatmap.occupancy}}%)</div>
+      <div>Blocked: {{seatmap.blocked}} / {{seatmap.total}}</div>
+      <table class="seatmap">
+        <thead>
+          <tr>
+            <th></th>
+            <th v-for="col,i in layout.columns">{{col}}</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-for="row in layout.rows">
+            <td class="number">{{row.number}}</td>
+            <td v-for="seat in row.seats" v-bind:class="seat">
+              <div class="seat" v-bind:class="seat"></div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% endraw %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+
+<script>
+
+  function makeLayout(data) {
+    const layoutColumns = [];
+    let counter = 0;
+    for (const section of data.arrangement) {
+      if (layoutColumns.length > 0) {
+        layoutColumns.push('');
+      }
+      for (let i = 0; i < section; i++) {
+        layoutColumns.push(data.columns[counter++]);
+      }
+    }
+    const layoutRows = [];
+    for (const row of data.rows) {
+      const seats = [];
+      let counter = 0;
+      for (const section of data.arrangement) {
+        if (seats.length > 0) {
+          seats.push(['aisle']);
+        }
+        for (let i = 0; i < section; i++) {
+          const seat = row.seats[counter++];
+          seats.push([
+            seat.blocked ? 'blocked' : 'not-blocked',
+            seat.available ? 'available' : 'occupied',
+            seat.present ? 'present' : 'not-present'
+          ]);
+        }
+      }
+      layoutRows.push({ number: row.number, seats });
+    }
+    return { columns: layoutColumns, rows: layoutRows };
+  }
+
+  var app = new Vue({
+    el: "#app",
+    data: {
+      query: {
+        from: '',
+        to: '',
+        date: moment().format('YYYY-MM-DD'),
+        flight: '',
+        cabin: 'economy',
+      },
+      loading: false,
+      seatmap: null,
+      layout: null,
+      error: null,
+    },
+    created() {
+      this.load();
+    },
+    methods: {
+      load() {
+        var hash = window.location.hash.slice(1);
+        if (hash) {
+          const params = new URLSearchParams(hash);
+          this.query = Object.assign(this.query, {
+            from: params.get('from'),
+            to: params.get('to'),
+            date: params.get('date'),
+            flight: params.get('flight'),
+            cabin: params.get('cabin'),
+          });
+          this.search();
+        }
+      },
+      search() {
+        this.loading = true;
+        var qs = $.param(this.query);
+        window.location.hash = qs;
+        $.getJSON('https://awardfares.com/api/seatmap.json?' + qs, (body) => {
+          this.error = null;
+          this.seatmap = body;
+          this.layout = makeLayout(body);
+        }).fail((resp) => {
+          this.error = resp.responseJSON && resp.responseJSON.error ? resp.responseJSON.error : 'Seat map not available';
+          this.seatmap = null;
+        });
+      }
+    },
+  });
+</script>
