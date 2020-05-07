@@ -205,7 +205,8 @@
 },
 {
     "id": "BY",
-    "name": "Belarus"
+    "name": "Belarus",
+    "nationalRestrictions":["*"]
 },
 {
     "id": "BZ",
@@ -216,7 +217,7 @@
 {
     "id": "CA",
     "name": "Canada",
-    "bans":{"*":-14},
+    "nationalBans":["*"],
     "tooltip": "1. Passengers who have been outside of Canada or USA in the past 14 days, are not allowed to enter Canada.\n- This does not apply to nationals of Canada.\n- This does not apply to immediate family members of nationals of Canada, which include:\na. the spouse or common-law partner of the person;\nb. a dependent child of the person or of the person's spouse or common-law partner;\nc. a dependent child of a dependent child referred to in paragraph b;\nd. the parent or step-parent of the person or of the person's spouse or common-law partner; or\ne. the guardian or tutor of the person. (membre de la famille immediate). \n- This does not apply to permanent residents of Canada and their immediate family members.\n- This does not apply to diplomats.\n- This does not apply to airline crew.\n- This does not apply to seasonal agricultural workers, fish/seafood workers, caregivers and all other temporary foreign workers.\n- This does not apply to international students who held a valid study permit, or had been approved for a study permit, when the travel restrictions took effect on March 18, 2020.\n- This does not apply to permanent resident applicants who had been approved for permanent residence before the travel restrictions were announced on March 18, 2020, but who had not yet travelled to Canada.\n- This does not apply to the following passengers:\na. Person registered as an Indian under the Indian Act;\nb. Person authorized in writing by a consular officer of the government of Canada to come to Canada to reunite with immediate family members;\nc. Person who is exempt from the requirements to obtain a temporary resident visa under paragraph 190 (2)(a) of the Immigration and Refugee Protection Regulations, and their immediate family members;\nd. Person who enters Canada at the invitation of the Minister of Health for the purpose of assisting in the COVID-19 response;\ne. Person who arrives by means of an aircraft operated by Canadian Forces or the Department of National Defence;\nf. Member of the Canadian Forces or a visiting force, as defined in section 2 of the Visiting Forces Act, and their immediate family members;\ng. Protected person, under section 95 (2) of the Immigration and Refugee Protection Act;\nh. French citizen who resides in Saint-Pierre-et-Miquelon who has not been outside Saint-Pierre-et-Miquelon / Canada / U.S. in the last 14 days;\ni. Person or class of persons that the Chief Public Health Officer, appointed under subsection 6 (1) of the Public Health Agency of Canada Act, determines does not pose a risk of significant harm to public health or who will provide an essential service while in Canada;\nj. Person whom the Minister of Foreign Affairs, the Minister of Citizenship and Immigration or the Minister of Public Safety and Emergency Preparedness determines their presence is in the national interest.\n2. Passengers with Coronavirus (COVID-19) symptoms are not allowed to travel to Canada until:\n- they have waited for a period of 14 days; or\n- they can present a medical certificate that confirms the patient is free from the Coronavirus (COVID-19). \n3. Passengers who have been refused boarding in the past 14 days due to a medical reason related to Coronavirus (COVID-19) are not allowed to enter.\n4. Passengers are required to self-isolate for a period of 14 days upon arrival at their final destination in Canada. \n5. Passengers who were in the cruise ship 'Diamond Princess' are subject to a mandatory 14-day isolation at a quarantine facility upon arrival in Canada. "
 },
 {
@@ -457,7 +458,8 @@
 },
 {
     "id": "GF",
-    "name": "French Guiana"
+    "name": "French Guiana",
+    "nationalRestrictions":["*"]
 },
 {
     "id": "GG",
@@ -827,7 +829,8 @@
 },
 {
     "id": "ML",
-    "name": "Mali"
+    "name": "Mali",
+    "nationalBans":["*"]
 },
 {
     "id": "MM",
@@ -937,7 +940,8 @@
 },
 {
     "id": "NI",
-    "name": "Nicaragua"
+    "name": "Nicaragua",
+    "nationalBans":["*"]
 },
 {
     "id": "NL",
@@ -1251,7 +1255,8 @@
 },
 {
     "id": "TL",
-    "name": "Timor-Leste"
+    "name": "Timor-Leste",
+    "nationalBans":["*"]
 },
 {
     "id": "TM",
@@ -1402,7 +1407,8 @@
 },
 {
     "id": "YT",
-    "name": "Mayotte"
+    "name": "Mayotte",
+    "nationalRestrictions":["*"]
 },
 {
     "id": "ZA",
