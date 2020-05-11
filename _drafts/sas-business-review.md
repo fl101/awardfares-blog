@@ -3,7 +3,6 @@ layout: post
 title: Review of SAS Business Class Oslo to Miami
 tags: [Review, SAS]
 author: Richard
-comments: true
 image: /assets/img/sas-business/plane.jpeg
 hidden: true
 ---

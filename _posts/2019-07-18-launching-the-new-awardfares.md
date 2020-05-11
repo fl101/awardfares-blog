@@ -3,7 +3,6 @@ layout: post
 title: Launching the New AwardFares
 tags: [News]
 author: Philip
-comments: true
 image: /assets/img/new-awardfares/scene.png
 ---
 

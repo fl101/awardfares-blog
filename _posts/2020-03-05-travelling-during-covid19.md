@@ -3,7 +3,6 @@ layout: post
 title: "Travelling during COVID-19: Tips & Resources"
 tags: [News, Guide, Coronavirus]
 author: Philip
-comments: true
 image: /assets/img/covid19/overview.png
 ---
 

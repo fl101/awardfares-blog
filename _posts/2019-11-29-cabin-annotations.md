@@ -3,7 +3,6 @@ layout: post
 title: Introducing Cabin Annotations
 tags: [News]
 author: Philip
-comments: true
 image: /assets/img/cabin-types/overview.png
 ---
 

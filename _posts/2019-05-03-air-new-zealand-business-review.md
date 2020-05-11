@@ -3,7 +3,6 @@ layout: post
 title: Review of Air New Zealand Business Auckland to Taipei (787-9)
 tags: [Review, Air New Zealand]
 author: Philip
-comments: true
 image: /assets/img/nz-biz-review/exterior.jpg
 ---
 

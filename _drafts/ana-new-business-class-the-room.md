@@ -3,7 +3,6 @@ layout: post
 title: ANA New Business Class "The Room" 777-300ER LHR-HND Review
 tags: [Review, ANA, Business]
 author: Philip
-comments: true
 image: /assets/img/ana-new-business/overview.jpg
 ---
 

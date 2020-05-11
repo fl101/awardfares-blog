@@ -3,7 +3,6 @@ layout: post
 title: EuroBonus Point of Sale Award Space
 tags: [Guide]
 author: Philip
-comments: true
 image: /assets/img/eurobonus-pos/comparison.png
 hide_image_in_post: true
 ---

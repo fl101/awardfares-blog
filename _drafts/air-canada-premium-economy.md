@@ -3,7 +3,6 @@ layout: post
 title: Air Canada Premium Economy 777-300ER CPH-YYZ Review
 tags: [Review, Air Canada, Premium Economy]
 author: Philip
-comments: true
 image: /assets/img/air-canada-premium-economy/overview.jpg
 ---
 

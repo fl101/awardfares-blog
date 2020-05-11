@@ -3,7 +3,6 @@ layout: post
 title: Improving the Journey Builder
 tags: [News]
 author: Philip
-comments: true
 image: /assets/img/improving-journey-builder/overview.png
 ---
 

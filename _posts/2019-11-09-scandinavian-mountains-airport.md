@@ -3,7 +3,6 @@ layout: post
 title: Scandinavian Mountains Airport
 tags: [News]
 author: Philip
-comments: true
 image: /assets/img/scandinavian-mountains-airport/overview.png
 hide_image_in_post: true
 ---

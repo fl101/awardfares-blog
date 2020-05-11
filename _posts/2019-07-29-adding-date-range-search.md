@@ -3,7 +3,6 @@ layout: post
 title: Adding Date Range Search
 tags: [News]
 author: Philip
-comments: true
 image: /assets/img/date-ranges/overview.png
 ---
 

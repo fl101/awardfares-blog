@@ -3,7 +3,6 @@ layout: post
 title: Adding Ability to "Import" Journeys
 tags: [News]
 author: Philip
-comments: true
 image: /assets/img/copy-paste/overview.png
 ---
 

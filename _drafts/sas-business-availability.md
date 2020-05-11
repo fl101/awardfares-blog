@@ -3,7 +3,6 @@ layout: post
 title: "SAS Business Long-Haul Award: Summary"
 tags: [News, Guide]
 author: Philip
-comments: true
 hidden: true
 ---
 

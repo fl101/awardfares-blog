@@ -3,7 +3,6 @@ layout: post
 title: Plan Your Holiday Award Bookings 🎄🎊
 tags: [News]
 author: Philip
-comments: true
 image: /assets/img/holiday-award-bookings/overview.png
 ---
 

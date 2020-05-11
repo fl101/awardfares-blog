@@ -3,7 +3,6 @@ layout: post
 title: New TAP Routes to Cape Town and Cancun
 tags: [News, TAP]
 author: Philip
-comments: true
 image: /assets/img/new-tap-routes/overview.png
 ---
 

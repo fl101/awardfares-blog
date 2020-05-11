@@ -3,7 +3,6 @@ layout: post
 title: Adding Flight Filter and Improving the Journey Builder Even More
 tags: [News]
 author: Richard
-comments: true
 image: /assets/img/flight-picker-and-journey/filter-overview.png
 ---
 
