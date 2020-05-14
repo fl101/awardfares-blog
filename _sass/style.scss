@@ -8,6 +8,12 @@ body, select, input, textarea {
   line-height: 1.5;
 }
 
+@media screen and (max-width: 500px) {
+  body {
+    font-size: 18px;
+  }
+}
+
 html, body {
   height: 100%;
 }
