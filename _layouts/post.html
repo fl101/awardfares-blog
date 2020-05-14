@@ -10,15 +10,15 @@ layout: default
   <div class="title" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-    <p class="meta">
-      {% for tag in page.tags %}<a class="tag" href="/tags/#{{tag}}">{{tag}}</a> {% endfor %}{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} By {{ page.author }} {% endif %}
-    </p>
+    <div class="meta">
+      <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
+      {% if page.author %}<span class="author">&middot; {{ page.author }} {% endif %}</span>
+      <!--{% for tag in page.tags %}<a class="tag" href="/tags/#{{tag}}">{{tag}}</a> {% endfor %}{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} By {{ page.author }} {% endif %}-->
+    </div>
     {% unless page.hide_image_in_post %}
     {% if page.image %}
     <div class="image">
-      <div class="image-wrap">
-        <img src="{{ page.image }}" />
-      </div>
+      <img src="{{ page.image }}" />
     </div>
     {% endif %}
     {% endunless %}
@@ -28,7 +28,8 @@ layout: default
 </div>
 
 <a class="cta" href="https://awardfares.com" target="_blank">
-  Find & track award availability with AwardFares
+  <p>Find & track award availability with awardfares</p>
+  <span class="button">Sign Up Free</span>
 </a>
 
 <!-- AddThis -->

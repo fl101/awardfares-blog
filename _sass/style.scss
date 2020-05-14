@@ -1,9 +1,11 @@
-$theme: #2e5c8a;
+$theme: #1d3863;
+$light: #28baeb;
+$accent: #26a8d8;
 
 body, select, input, textarea {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  line-height: 1.42857143;
+  font-family: Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+  font-size: 20px;
+  line-height: 1.5;
 }
 
 html, body {
@@ -15,7 +17,12 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Barlow'
+  line-height: 1.1;
+  font-family: 'Barlow';
+}
+
+p {
+  line-height: 1.7;
 }
 
 a {
@@ -24,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: $theme;
+  color: $accent;
 }
 
 img {
@@ -47,13 +54,13 @@ img {
   
   a {
     text-decoration: none;
-    color: $theme;
+    color: $accent;
   }
 }
 
 @media screen and (max-width: 500px) {
   .wrap {
-    padding: 15px;
+    padding: 30px;
   }
 }
 
