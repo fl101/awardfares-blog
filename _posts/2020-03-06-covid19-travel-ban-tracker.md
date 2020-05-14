@@ -58,7 +58,7 @@ The map currently does not take into account if you're a resident or national of
 
 For your privacy the tool runs fully in the browser and no data about your travel history or nationality is ever sent anywhere.
 
-Last updated: <span class="last-updated"></span>
+**Last updated:** <span class="last-updated"></span>
 
 NOTE: The information is correct to the best of AwardFares' knowledge at the time of publication and is being reviewed and updated on an ongoing basis by AwardFares staff, given the rapidly evolving nature of the international response to the COVID-19 outbreak AwardFares cannot guarantee its accuracy and can accept no liability for any errors or omissions. This website is provided for informational purposes only and should not be relied upon as travel advice, you should make your own independent inquiries before relying on any information or materials contained on these pages.  
 
