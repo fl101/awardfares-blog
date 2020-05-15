@@ -5,6 +5,7 @@ tags: [News, Tools, Coronavirus]
 author: Richard
 image: /assets/img/covid19-travelbans/overview.png
 hide_image_in_post: true
+hidden: true
 ---
 
 If you're a frequent traveller it might be hard to keep track of different countries' travel bans as a result of the Coronavirus outbreak. We've put together this handy tool which can make it easier to visualize. Simply enter the nationality of the passport you're travelling on as well as the countries you've been to recently and how many days ago you were last there. Red countries are enforcing travel bans either for your nationality or for one of the countries you've recently been to, yellow countries are enforcing some type of restrictions (Such as quarantines or revoking visa on arrival).
