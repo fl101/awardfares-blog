@@ -1,0 +1,109 @@
+
+table, td, th, tr {
+  border: none !important;
+  background: none !important;
+  padding: 0 !important;
+  font-size: 10pt;
+}
+
+.seatmap {
+  margin-top: 30px;
+}
+
+.seat {
+  border-radius: 2px;
+  width: 20px;
+  height: 20px;
+  margin: 2px;
+}
+
+thead th {
+  text-align: center;
+}
+
+.seat.present.available {
+  background: #2ecc71;
+}
+
+.seat.present.occupied {
+  background: #e74c3c;
+}
+
+.seat.present.available.blocked {
+  background: #f1c40f;
+}
+
+.number {
+  text-align: right;
+  padding-right: 10px !important;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+.row + .row {
+  margin-top: 15px;
+}
+
+#app {
+  margin-top: 40px;
+  border: solid 1px #ddd;
+  border-radius: 10px;
+  padding: 50px;
+  position: relative;
+}
+
+.error {
+  color: red;
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+}
+
+.left {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.right {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.loader {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #eee;
+  opacity: 0.5;
+}
+
+.loader img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -50px;
+  width: 100px;
+  height: 100px;
+  border: none !important;
+}
+
+@media screen and (max-width: 660px) {
+  #app {
+    padding: 10px;
+  }
+  .container {
+    flex-direction: column;
+  }
+  .right {
+    margin-top: 30px;
+  }
+}
