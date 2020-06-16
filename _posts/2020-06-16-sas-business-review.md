@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Review of SAS Business Class Oslo to Miami
-tags: [Review, SAS]
+tags: [Review, Business, SAS]
 author: Richard
 image: /assets/img/sas-business/plane.jpeg
-hidden: true
 ---
 
-On a recent trip I was able to upgrade to SAS Business Class from their premium economy (SAS Plus) for a relatively low cost (About 20 000 Eurobonus points). I've flown SAS Business a number of times before and as a result this review will be a mix of my different experiences, however with focus on the latest flight.
+On a trip back in March I was able to upgrade from their premium economy (SAS Plus) for a relatively low cost (About 20 000 Eurobonus points). I've flown SAS Business a number of times before and as a result this review will be a mix of my different experiences, however with focus on the latest flight.
 
 ## Seat & Cabin
 <img src="/assets/img/sas-business/seat.jpeg" class="full"/>
@@ -66,8 +65,6 @@ The IFE is the same as in SAS Economy and Premium Economy apart from the screen 
 ## Sleep
 
 With the air mattress seat fully reclined, the bedding (From Hästens - another Swedish touch) and the face mask it was very easy to get a few hours of sleep. As my flight had departed early in the morning Swedish time and would arrive early afternoon local time it was crucial for me to get one or two hours of sleep in order to be able to stay awake until the evening. I'm happy to say that went well and I was woken up by the cabin crew when the second service, consisting of a light meal, was starting.
-
-## Stats
 
 ## Summary
 
