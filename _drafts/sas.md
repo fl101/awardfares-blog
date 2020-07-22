@@ -28,7 +28,7 @@ Monday to Friday: 9-17
 
 *When calling to book Star Alliance awards, the automated phone reply says that booking new flights is not available. This is an old message.*
 
-To book a Star Alliance award flight without using a 2-4-1 voucher you can contact the regular SAS customer service. For SAS award flights (with or without a voucher) you can use the regular SAS online points booking.
+To book a Star Alliance award flight without using a 2-4-1 voucher you can contact the regular [SAS customer service](https://www.flysas.com/en/customer-service/contact/). For SAS award flights (with or without a voucher) you can use the regular SAS online points booking.
 
 ## Current Restrictions
 There are still many travel restriction in place. Check [IATA](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) for the latest information.
