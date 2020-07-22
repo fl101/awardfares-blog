@@ -17,17 +17,30 @@ Here's a summary of all the award booking services currently offered by SAS, and
 | Book with 2-4-1 vouchers for SAS and Star Alliance award flights| Yes |
 | Book with FlyPremium for SAS award flights | Yes |
 
-Opening hours and contact details for booking via phone:
+Note that for 2-4-1 vouchers that expire 2020 used for a flights that take place during 2021, if the flight gets cancelled then your voucher will get extended. This is normally not the case.
 
+## How to Book
+To book a Star Alliance award flight with a 2-4-1 voucher, contact the Tallinn service center. Opening hours and contact details for booking via phone:
+
+> Tallinn service center:  
 +46(0)18-480 91 67  
 Monday to Friday: 9-17
 
-Notes:
+*When calling to book Star Alliance awards, the automated phone reply says that booking new flights is not available. This is an old message.*
 
-1) When calling to book Star Alliance awards, the automated phone reply still says that booking new flights is not available, but this message hasn't been updated yet.
+To book a Star Alliance award flight without using a 2-4-1 voucher you can contact the regular SAS customer service. For SAS award flights (with or without a voucher) you can use the regular SAS online points booking.
 
-2) There are still some additional restrictions in place. For example, currently Singapore Airlines does not release any award space to partners.
+## Current Restrictions
+There are still many travel restriction in place. Check [IATA](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) for the latest information.
 
-3) Furthermore, there are still many travel restrictions in place, so to be on the safe side, it's probably best to plan your travel for in the future.
+- Currently it is not possible to book any Singapore Airlines awards using Eurobonus points. Singapore Airlines is currently not releasing any award space to partners. 
 
-Stay safe!
+- Thai currently available for up to 89 days in advance.
+
+- ANA is currently available up to 340 days in advance.
+
+- Lufthansa is currently available until end of September.
+
+- United is currently available until end of February 2021.
+
+For more airlines see [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/).
