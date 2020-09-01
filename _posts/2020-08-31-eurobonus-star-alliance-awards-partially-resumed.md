@@ -19,8 +19,6 @@ Here's a summary of all the award booking services currently offered by SAS, and
 | Book with 2-4-1 vouchers for SAS and Star Alliance award flights| Yes |
 | Book with FlyPremium for SAS award flights | Yes |
 
-Note that for 2-4-1 vouchers that expire at the end of 2020 used for a flights that take place during 2021, if the flight gets cancelled then your voucher will get extended. This is normally not the case.
-
 ## How to Book
 To book a Star Alliance award flight with a 2-4-1 voucher, contact the Tallinn service center. Opening hours and contact details for booking via phone:
 
