@@ -5,6 +5,7 @@ tags: [SAS, News]
 author: Philip
 image: /assets/img/eurobonus-star-alliance-awards-partially-resumed/overview.png
 hidden: true
+hide_image_in_post: true
 ---
 
 Earlier during the year SAS stopped the ability to book Star Alliance awards using EuroBonus points. However, SAS have now (partially) resumed the ability to book these flights. The service is currently only available by phone. The online booking service is unfortunately still closed at this time.
