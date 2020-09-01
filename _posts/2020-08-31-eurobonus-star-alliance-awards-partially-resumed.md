@@ -37,13 +37,6 @@ There are still many travel restriction in place. Check [IATA](https://www.iatat
 
 - Currently it is not possible to book any Singapore Airlines awards using EuroBonus points. Singapore Airlines is currently not releasing any award space to partners.
 
-- Some airlines, like Thai, are currently only offerings awards for a shorter time period. For example, Thai is only available for up to 89 days in advance.
-- Thai currently available for up to 89 days in advance.
+- Some airlines are currently limiting the number of days in advance that awards can be booked. For example, Thai awards are currently only available up to 89 days in advance.
 
-- ANA is currently available up to 340 days in advance.
-
-##- Lufthansa is currently available until end of September.
-
-- United is currently available until end of February 2021.
-
-For more airlines see [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/).
+For more airlines and their normal release dates, see [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/).
