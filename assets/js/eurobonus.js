@@ -124,6 +124,7 @@
       const basePoints = safeNumber(row[3]);
       const isRefund = description.includes('Refund');
       const isStatus = description.includes('Status');
+      const isTransfer = description.includes('Transfer');
 
       // Some old upgrade transactions report a positive number
       if (extraPoints > 0 && description.includes('Points used')) {
@@ -175,7 +176,7 @@
   
       // Update flypremium data
       let isFlyPremium = false;
-      if (extraPoints > 0 && !isRefund && !isStatus) {
+      if (extraPoints > 0 && !isRefund && !isStatus && !isTransfer) {
         const monthsOffset = moment().startOf('month').diff(date.clone().startOf('month'), 'month');
         if (monthsOffset <= flypremium.length) {
           isFlyPremium = true;
