@@ -149,8 +149,8 @@
         categories.Status += extraPoints;
         k.push('Status');
       } else if (description.includes('Refund')) {
-        categories.Redemption += extraPoints;
-        k.push('Redemption');
+        categories.Redemption -= extraPoints;
+        k.push('Refund');
       } else if (description.includes('Amex')) {
         categories.Amex += extraPoints;
         k.push('Amex');
@@ -167,7 +167,7 @@
         categories.Transfer += extraPoints;
         k.push('Transfer');
       } else if (extraPoints < 0) {
-        categories.Redemption += extraPoints;
+        categories.Redemption -= extraPoints;
         k.push('Redemption');
       } else {
         categories.Other += extraPoints;
