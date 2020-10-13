@@ -101,7 +101,7 @@
     const log = [];
 
     // Only process activity within the last 12 months
-    const cutoff = moment().startOf('month').subtract(12, 'months');
+    // const cutoff = moment().startOf('month').subtract(12, 'months');
 
     for (let i = 1; i < data.length; i++) {
       const row = data[i];
@@ -115,15 +115,20 @@
         continue;
       }
 
-      if (cutoff.isAfter(date)) {
-        continue;
-      }
+      // if (cutoff.isAfter(date)) {
+      //   continue;
+      // }
 
-      const description = row[1].split('\n').join('; ');
-      const extraPoints = safeNumber(row[2]);
+      let description = row[1].split('\n').join('; ');
+      let extraPoints = safeNumber(row[2]);
       const basePoints = safeNumber(row[3]);
       const isRefund = description.includes('Refund');
       const isStatus = description.includes('Status');
+
+      // Some old upgrade transactions report a positive number
+      if (extraPoints > 0 && description.includes('Points used')) {
+        extraPoints *= -1;
+      }
 
       // Update points data
       if (!isStatus) {
@@ -135,26 +140,37 @@
       }
 
       // Update categories data
+      let k = [];
       if (basePoints) {
         categories.Flights += basePoints;
+        k.push('Flight');
       } else if (description.includes('Status')) {
         categories.Status += extraPoints;
+        k.push('Status');
       } else if (description.includes('Refund')) {
         categories.Redemption += extraPoints;
+        k.push('Redemption');
       } else if (description.includes('Amex')) {
         categories.Amex += extraPoints;
+        k.push('Amex');
       } else if (description.includes('MasterCard')) {
         categories.MasterCard += extraPoints;
+        k.push('MasterCard');
       } else if (description.includes('Avis')) {
         categories.Avis += extraPoints;
+        k.push('Avis');
       } else if (description.includes('Shop')) {
         categories.Shopping += extraPoints;
+        k.push('Shopping');
       } else if (description.includes('Transfer')) {
         categories.Transfer += extraPoints;
+        k.push('Transfer');
       } else if (extraPoints < 0) {
         categories.Redemption += extraPoints;
+        k.push('Redemption');
       } else {
         categories.Other += extraPoints;
+        k.push('Other');
       }
   
       // Update flypremium data
@@ -174,7 +190,7 @@
           <td>${date.format('YYYY-MM-DD')}</td>
           <td>${extraPoints}</td>
           <td>${basePoints}</td>
-          <td>${description}</td>
+          <td title="${k.join(', ')}">${description}</td>
           <td>${isFlyPremium ? 'Yes' : ''}</td>
         </tr>
       `);

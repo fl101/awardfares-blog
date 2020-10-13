@@ -20,12 +20,12 @@ We've built a simple tool that helps you analyze and forecast your SAS EuroBonus
 </div>
 
 ## Point History
-Your point accrual and spend history during the past 12 months.  
+Your point accrual and spend history during the past 5 years.
 Your balance changed by <b><span id="delta">0</span></b> points during this time.
 <canvas id="pointsChart" width="400" height="100"></canvas>
 
 ## Point Categories
-Your point activity by category during the past 12 months.
+Your point activity by category during the past 5 years.
 <canvas id="categoriesChart" width="400" height="100"></canvas>
 
 ## FlyPremium Forecast
