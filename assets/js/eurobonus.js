@@ -70,7 +70,6 @@
       let balance = safeNumber(safeGet('eurobonus.balance', '0'));
       balance = safeNumber(prompt('Current EuroBonus "Points for Use" balance:', balance));
       safeSet('eurobonus.balance', balance);
-
       parseData(arr, balance);
     };
     reader.readAsArrayBuffer(file);
@@ -82,7 +81,8 @@
 
   function parseData(data, balance) {
 
-    const flypremium = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+    const flypremium = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+    let flypremiumForecast = 0;
 
     const categories = {
       Flights: 0,
@@ -100,9 +100,6 @@
     const points = [{ x: new Date, y: acc }];
     const log = [];
 
-    // Only process activity within the last 12 months
-    // const cutoff = moment().startOf('month').subtract(12, 'months');
-
     for (let i = 1; i < data.length; i++) {
       const row = data[i];
       if (row.length < 4) {
@@ -114,10 +111,6 @@
         alert('Found invalid date: ' + row[0]);
         continue;
       }
-
-      // if (cutoff.isAfter(date)) {
-      //   continue;
-      // }
 
       let description = row[1].split('\n').join('; ');
       let extraPoints = safeNumber(row[2]);
@@ -178,10 +171,15 @@
       let isFlyPremium = false;
       if (extraPoints > 0 && !isRefund && !isStatus && !isTransfer) {
         const monthsOffset = moment().startOf('month').diff(date.clone().startOf('month'), 'month');
-        if (monthsOffset <= flypremium.length) {
+        if (monthsOffset <= 24) {
           isFlyPremium = true;
-          for (let j = 0; j <= 12 - monthsOffset; j++) {
+          const startMonth = Math.max(0, 12 - monthsOffset);
+          const endMonth = 24 - monthsOffset;
+          for (let j = startMonth; j <= endMonth; j++) {
             flypremium[j] += extraPoints;
+          }
+          if (monthsOffset < 6) {
+            flypremiumForecast += extraPoints;
           }
         }
       }
@@ -197,13 +195,21 @@
       `);
     }
 
-    const flypremiumBalance = flypremium[0];
+    const monthlyAverage = Math.round(flypremiumForecast / 6);
+    
+    const flypremiumBalance = flypremium[12];
+
+    let highestFlypremiumBalance = 0;
+    for (let i = 0; i <= 12; i++) {
+      highestFlypremiumBalance = Math.max(highestFlypremiumBalance, flypremium[i]);
+    }
+    
     let flypremiumStatus = 'SAS Plus, Scandinavia, 1 round-trip';
-    if (flypremiumBalance >= 200000) {
+    if (highestFlypremiumBalance >= 200000) {
       flypremiumStatus = 'SAS Plus/Business, World, Unlimited';
-    } else if (flypremiumBalance >= 100000) {
+    } else if (highestFlypremiumBalance >= 100000) {
       flypremiumStatus = 'SAS Plus, World, Unlimited';
-    } else if (flypremiumBalance >= 50000) {
+    } else if (highestFlypremiumBalance >= 50000) {
       flypremiumStatus = 'SAS Plus, Europe, Unlimited';
     }
 
@@ -211,12 +217,11 @@
     document.getElementById('delta').innerText = points[0].y - points[points.length - 1].y;
     document.getElementById('flypremiumBalance').innerText = flypremiumBalance;
     document.getElementById('flypremiumStatus').innerText = flypremiumStatus;
+    document.getElementById('flypremiumForecast').innerText = monthlyAverage;
 
     drawPoints(points);
     drawCategories(categories);
-    drawFlyPremium(flypremium.map(function (e, i) {
-      return { x: moment().startOf('month').add(i, 'months').toDate(), y: e };
-    }));
+    drawFlyPremium(flypremium, monthlyAverage);
 
     document.querySelector('[id=point-history]').scrollIntoView();
   }
@@ -287,16 +292,31 @@
     });
   }
 
-  function drawFlyPremium(data) {
+  function drawFlyPremium(data, forecast) {
+    data = data.map(function (e, i) {
+      return { x: moment().startOf('month').subtract(12, 'months').add(i, 'months').toDate(), y: e };
+    });
+
+    forecast = data.map(function (e, i) {
+      return { x: e.x, y: i > 12 ? Math.round(e.y + forecast * (i - 12)) : e.y };
+    });
+
     const ctx = document.getElementById('flypremiumChart').getContext('2d');
     new Chart(ctx, {
       type: 'line',
       data: {
         datasets: [{
-          data,
+          data: data,
           lineTension: 0.1,
-          backgroundColor: 'rgba(52,73,94,0.5)',
-          borderColor: 'rgba(52,73,94,1.0)',
+          backgroundColor: 'rgba(52,73,94,0.3)',
+          borderColor: 'rgba(52,73,94,1)',
+          label: 'Balance'
+        },{
+          data: forecast,
+          lineTension: 0.1,
+          backgroundColor: 'rgba(0,0,0,0)',
+          borderColor: 'rgba(255,73,94,1)',
+          label: 'Forecast'
         },{
           data: data.map(function (e) { return { x: e.x, y: 200000 }; }),
           label: 'Business for Go',
@@ -332,4 +352,5 @@
       }
     });
   }
+
 })();
