@@ -15,7 +15,7 @@ We've built a simple tool that helps you analyze and forecast your SAS EuroBonus
 4. Drag the downloaded Excel file to the box below
 5. Enter your current EuroBonus "Points for Use" balance
 
-<div id="dropzone" ondrop="dropHandler(event);" ondragover="dragOverHandler(event);">
+<div id="dropzone">
   Drag and drop your exported activity here!
 </div>
 
