@@ -171,8 +171,8 @@
       let isFlyPremium = false;
       if (extraPoints > 0 && !isRefund && !isStatus && !isTransfer) {
         const monthsOffset = moment().startOf('month').diff(date.clone().startOf('month'), 'month');
+        isFlyPremium = true;
         if (monthsOffset <= 24) {
-          isFlyPremium = true;
           const startMonth = Math.max(0, 12 - monthsOffset);
           const endMonth = 24 - monthsOffset;
           for (let j = startMonth; j <= endMonth; j++) {
