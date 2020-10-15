@@ -74,7 +74,7 @@
             this.loading = false;
             this.error = null;
             this.seatmap = body;
-            this.layout = makeLayout(body);
+            //this.layout = makeLayout(body);
           }).fail((resp) => {
             this.loading = false;
             this.error = resp.responseJSON && resp.responseJSON.error ? resp.responseJSON.error : 'Seat map not available';
