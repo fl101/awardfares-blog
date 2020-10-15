@@ -12,8 +12,7 @@ layout: default
     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
     <div class="meta">
       <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
-      {% if page.author %}<span class="author">&middot; {{ page.author }} {% endif %}</span>
-      <!--{% for tag in page.tags %}<a class="tag" href="/tags/#{{tag}}">{{tag}}</a> {% endfor %}{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} By {{ page.author }} {% endif %}-->
+      {% if page.tags != empty %}&middot;&nbsp;{% for tag in page.tags %}<a class="tag" href="/tags/#{{tag}}">{{tag}}</a> {% endfor %}{% endif %}
     </div>
     {% unless page.hide_image_in_post %}
     {% if page.image %}

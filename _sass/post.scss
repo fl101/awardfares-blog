@@ -7,13 +7,18 @@
 
   .title {
     margin: 40px 0 -10px 0;
-
+    
+    a {
+      color: inherit;
+    }
+    
     h1 {
       line-height: 1.2em;
     }
 
     .meta {
       opacity: 0.5;
+      font-size: 0.9em;
     }
 
     .image {
