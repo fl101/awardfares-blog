@@ -2,12 +2,13 @@
 layout: post
 title: Introducing Search With Stops
 tags: [News]
-author: Philip
+image: /assets/img/multistop/overview.png
+hidden: true
 ---
 
-Big news at AwardFares! In spite of the current situation we've been hard at work building new features. One of the most requested improvements over the years has been to be able to search for full trips. You asked, and we listened. Introducing search with stops!
+Big news at AwardFares! Despite the current situation we've been hard at work building new features. One of the most requested improvements over the years has been to be able to search for full trips. You asked, and we listened. Introducing search with stops!
 
-## Search
+## Search With Stops
 
 Simply type in your origin and destination and you will see all the results that can take you to your destination, including layovers! This makes it much easier to find award availability for a destination, rather than searching individual flight segments manually.
 
