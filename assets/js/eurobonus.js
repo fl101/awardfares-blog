@@ -218,6 +218,7 @@
     document.getElementById('flypremiumBalance').innerText = flypremiumBalance;
     document.getElementById('flypremiumStatus').innerText = flypremiumStatus;
     document.getElementById('flypremiumForecast').innerText = monthlyAverage;
+    document.getElementById('flypremiumHighest').innerText = highestFlypremiumBalance;
 
     drawPoints(points);
     drawCategories(categories);

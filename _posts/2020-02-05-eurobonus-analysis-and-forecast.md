@@ -31,6 +31,7 @@ Your point activity by category during the past 5 years.
 ## FlyPremium
 Your FlyPremium balance for the past and next 12 months.   
 Your current FlyPremium balance: <b><span id="flypremiumBalance">0</span></b>  
+Your highest FlyPremium balance: <b><span id="flypremiumHighest">0</span></b> (during the past 12 months).  
 Your current FlyPremium status: <b><span id="flypremiumStatus"></span></b>  
 Your current FlyPremium forecast: <b><span id="flypremiumForecast"></span> per month</b>. This is based on your average earnings during the past 6 months.
 
