@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Search With Stops
 tags: [News]
-image: /assets/img/multistop/overview.png
+image: /assets/img/multistop/search2.png
 hidden: true
 ---
 
