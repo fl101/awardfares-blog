@@ -4,6 +4,7 @@ title: Introducing Search With Stops
 tags: [News]
 image: /assets/img/multistop/search2.png
 hidden: true
+hide_image_in_post: true
 ---
 
 Big news at AwardFares! Despite the current situation we've been hard at work building new features. One of the most requested improvements over the years has been to be able to search for full trips. You asked, and we listened. Introducing search with stops!
