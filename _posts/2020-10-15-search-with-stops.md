@@ -28,5 +28,6 @@ In alerts we've also added a new filter for number of stops. Any existing alerts
 
 <img src="/assets/img/multistop/alerts.png" />
 
-## Try it now!
-Search with stops is now available to all Gold and Diamond accounts. Try it out!
+---
+
+Search with stops is now available to all Gold and Diamond accounts. [Try it now!](https://awardfares.com/search)
