@@ -10,7 +10,7 @@ Big news at AwardFares! Despite the current situation we've been hard at work bu
 
 ## Search With Stops
 
-Simply type in your origin and destination and you will see {% raw %}<a class="af-dynamic-search-date" af-search-string="https://awardfares.com/search?CPH.SIN.{date};o:duration;so:asc">all the results</a>{% endraw %} that can take you to your destination, including layovers! This makes it much easier to find award availability for a destination, rather than searching individual flight segments manually.
+Simply type in your origin and destination and you will see [all the results](https://awardfares.com/search?CPH.SIN.+7;o:duration;so:asc) that can take you to your destination, including layovers! This makes it much easier to find award availability for a destination, rather than searching individual flight segments manually.
 
 <img src="/assets/img/multistop/search2.png" />
 
@@ -18,7 +18,7 @@ Expanding a result shows detailed information about each flight segment and any 
 
 <img src="/assets/img/multistop/result.png" />
 
-You can also filter search results by {% raw %}<a class="af-dynamic-search-date" af-search-string="https://awardfares.com/search?CPH.HND.{date};o:duration;so:asc;x:2">number of stops</a>{% endraw %}. For those looking for the fastest route you can filter for non-stop flights. But for those looking to maximize their mileage you can also exclude routes with few stops.
+You can also filter search results by [number of stops](https://awardfares.com/search?CPH.HND.+7;o:duration;so:asc;x:2). For those looking for the fastest route you can filter for non-stop flights. But for those looking to maximize their mileage you can also exclude routes with few stops.
 
 <img src="/assets/img/multistop/stops2.png" />
 
@@ -31,7 +31,3 @@ In alerts we've also added a new filter for number of stops. Any existing alerts
 ---
 
 Search with stops is now available to all Gold and Diamond accounts. [Try it now!](https://awardfares.com/search)
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
-<script src="/assets/js/dynamic-search-date.js">
