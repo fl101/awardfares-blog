@@ -9,32 +9,11 @@
   //------------------------------------------------------------------------------------
 
   function safeNumber(str) {
-    return Number(str.replace(' ', ''));
-  }
-
-  const MONTHS = moment().locale('en').localeData().months();
-  const LOCALES = ['sv-se', 'nb-no', 'en', 'da-dk'];
-
-  function safeMonth(str) {
-    for (let localeIdx in LOCALES) {
-      const locale = LOCALES[localeIdx];
-      const localeData = moment().locale(locale).localeData();
-      const months = localeData.months().map(function (e) { return e.toLowerCase() });
-      const short = localeData.monthsShort().map(function (e) { return e.toLowerCase() });
-      for (let monthIdx = 0; monthIdx < 12; monthIdx++) {
-        if (str == months[monthIdx]) return MONTHS[monthIdx];
-        if (str == short[monthIdx]) return MONTHS[monthIdx];
-      }
-    }
-    throw new Error('Unknown month: ' + str);
+    return Number(str);
   }
 
   function safeDate(str) {
-    str = str.toLowerCase();
-    str = str.split(' ');
-    str[0] = safeMonth(str[0]);
-    str = str.join(' ');
-    return moment(str, 'MMMM D, YYYY');
+    return moment(str, 'YYYY-MM-DD');
   }
 
   function safeGet(key, def) {
@@ -64,7 +43,7 @@
     reader.onload = function(e) {
       const data = new Uint8Array(e.target.result);
       const workbook = XLSX.read(data, {type: 'array'});
-      const sheet = workbook.Sheets['My EuroBonus Activity'];
+      const sheet = workbook.Sheets[workbook.SheetNames[0]];
       const arr = XLSX.utils.sheet_to_json(sheet, { header: 1 });
 
       let balance = safeNumber(safeGet('eurobonus.balance', '0'));
@@ -113,8 +92,9 @@
       }
 
       let description = row[1].split('\n').join('; ');
-      let extraPoints = safeNumber(row[2]);
-      const basePoints = safeNumber(row[3]);
+      const pointsType = row[3];
+      let extraPoints = pointsType == 'Extra Points' ? safeNumber(row[2]) : 0;
+      const basePoints = pointsType == 'Status Points' ? safeNumber(row[2]) : 0;
       const isRefund = description.includes('Refund');
       const isStatus = description.includes('Status');
       const isTransfer = description.includes('Transfer');
