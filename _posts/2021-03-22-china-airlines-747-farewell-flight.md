@@ -5,7 +5,6 @@ tags: [Review, Economy, China Airlines]
 author: Richard
 image: /assets/img/china-airlines-747-farewell/overview.jpg
 hide_image_in_post: true
-hidden: true
 ---
 
 Today's journey started months ago when I read that Taiwan's flag carrier, China Airlines, would be arranging a special 747 farewell flight as they would be retiring their 747 fleet. Furthermore, this wasn't just a regular "flight to nowhere". The goal was to fly to Japan, passing the iconic Mt. Fuji, and then return to Taiwan. Since I'm currently living in Taiwan I thought I would try to get a ticket on this special flight.
