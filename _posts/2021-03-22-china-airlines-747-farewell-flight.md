@@ -8,7 +8,7 @@ hide_image_in_post: true
 hidden: true
 ---
 
-Today's journey started months ago when I read that one of Taiwan's flag carrier, China Airlines, would be arranging a special 747 farewell flight as they would be retiring their 747 fleet. Furthermore, this wasn't just a regular "flight to nowhere". The goal was to fly towards Japan, circle the iconic Mt. Fuji, and then return to Taiwan As I'm currently living in Taiwan I thought I would try to get a ticket on this special flight.
+Today's journey started months ago when I read that Taiwan's flag carrier, China Airlines, would be arranging a special 747 farewell flight as they would be retiring their 747 fleet. Furthermore, this wasn't just a regular "flight to nowhere". The goal was to fly to Japan, passing the iconic Mt. Fuji, and then return to Taiwan. Since I'm currently living in Taiwan I thought I would try to get a ticket on this special flight.
 
 <img src="/assets/img/china-airlines-747-farewell/kkday.png" />
 
@@ -16,7 +16,7 @@ I knew there would be a lot of competition getting tickets for this flight. My f
 
 ## Departure Day
 
-Today's flight departed from Taoyuan Interntional Airport (TPE), headed north-east towards Japan, flying past Mt. Fuji, and then return back to Taiwan. With a scheduled flight time of just over 5 hours, this would definitely be the longest flight I've taken in a long time!
+Today's flight departed from Taoyuan Interntional Airport (TPE), heading north-east towards Japan, flying past Mt. Fuji, and then returning back to Taiwan. With a scheduled flight time of just over 5 hours, this would definitely be the longest flight I've taken in a long time!
 
 <img src="/assets/img/china-airlines-747-farewell/flight-map1.png" />
 
@@ -24,14 +24,14 @@ The assigned flight number was appropriately chosen to be CI-2747.
 
 ## Check-In
 
-Fast-forward two and half months, the time was finally here. Check-in started at 7:47 in the morning on March 20th, 2021. It was fun to see my flight with Destination *Taipei* on the departures board!
+Check-in started at 7:47 in the morning on March 20th, 2021. It was fun to see my flight with Destination *Taipei* on the departure board!
 
 <figure>
   <img src="/assets/img/china-airlines-747-farewell/checkin1.jpg" class="half" />
   <img src="/assets/img/china-airlines-747-farewell/checkin2.jpg" class="half" />
 </figure>
 
-At check-in my travel companion and I were initially informed that we wouldn't be sitting together. We were not happy to hear that as we were really hoping to sit together for this 5+ hour flight. It seemed KKDay (a Taiwanese travel agency) had issued our tickets separately even though they were booked together. However, booking information clearly stated that we would be seated next to each other.
+At check-in my travel companion and I were initially informed that we wouldn't be sitting together. We were not happy to hear that as we were really hoping to sit together for this 5+ hour flight. It seemed KKDay (the Taiwanese travel agency where I purchased the tickets) had issued our tickets separately even though they were booked together.
 
 After some back and forth in English and Chinese, the ground staff finally managed to arrange different seats for us, which we were very thankful for!
 
@@ -65,7 +65,7 @@ When I arrived at the departure gate area, the pre-departure celebrations were a
 
 ## Cabin Tour
 
-Before departure, we were also given a chance visit the first class and business class cabins. It was my first time onboard a China Airlines plane so it was interesting to check it out. However, as expected, the cabin seemed a little dated.
+Before departure, we were also given a chance visit the first class and business class cabins. It was my first time onboard a China Airlines plane so it was interesting to have a look. As expected, the cabin seemed a little dated.
 
 <figure>
   <img src="/assets/img/china-airlines-747-farewell/first-class1.jpg" class="half" />
@@ -140,7 +140,7 @@ We were also given a very nice flight/boarding certificate.
   <img src="/assets/img/china-airlines-747-farewell/certificate4.jpg" class="half" />
 </figure>
 
-Overall, we received *a lot* of gifts throughout the day, including China Airlines branded face-masks, some nice travel guides for Shizuoka, China Airlines branded tote bag, a THE NORTH FACE branded amenity kit, and a China Airlines tailfin key chain, among other things.
+Overall, we received *a lot* of gifts throughout the day, including China Airlines branded face-masks, some nice travel guides for Shizuoka, a China Airlines branded tote bag, a THE NORTH FACE branded amenity kit, and a China Airlines tailfin key chain, among other things.
 
 <img src="/assets/img/china-airlines-747-farewell/goodies2.jpg" class="half" />
 
