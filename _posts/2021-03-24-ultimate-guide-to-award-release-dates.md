@@ -21,7 +21,7 @@ Here are the number of days in advance that some popular frequent flyer program 
 | United MileagePlus     | 337             | <span></span>   |
 | SAS EuroBonus          | 360             | <span></span>   |
 | Avianca LifeMiles      | 360             | <span></span>   |
-| Air Canada Aeroplan    | 355             | <span></span>   |
+| Air Canada Aeroplan    | 365             | <span></span>   |
 
 
 ## Airlines
@@ -34,7 +34,7 @@ Here is a list of the number of days in advance you can earliest find award spac
 | Air India                                   | 337                     | <span></span>   |
 | Air New Zealand                             | 355                     | <span></span>   |
 | ANA                                         | 355                     | <span></span>   |
-| Asiana                                      | 360                     | <span></span>   |
+| Asiana                                      | 361                     | <span></span>   |
 | Austrian                                    | 361                     | <span></span>   |
 | Avianca                                     | 355                     | <span></span>   |
 | Brussels                                    | 360                     | <span></span>   |
