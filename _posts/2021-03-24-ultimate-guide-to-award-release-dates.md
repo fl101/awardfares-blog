@@ -6,7 +6,7 @@ author: Philip
 image: /assets/img/award-dates/image.png
 ---
 
-One of the best ways of booking your perfect award trip is to plan far in advance. Even though most airlines generally release new award space continously throughout the year, it is always best to book as far in advance as possible. There are however two important things to consider:
+One of the best ways of booking your perfect award trip is to plan far in advance. Even though most airlines generally release new award space continuously throughout the year, it is always best to book as far in advance as possible. There are however two important things to consider:
 
 1. Different airlines release award seats at different dates.
 2. Different frequent flyer programs show seats at different dates.
@@ -25,7 +25,7 @@ Here are the number of days in advance that some popular frequent flyer program 
 
 
 ## Airlines
-Here is a list of the number of days in advance you can earliest find award space using AwardFares for all Star Alliance airlines. Dates are updated automatically.
+So, how many days in advance do Star Alliance airlines release award availability? Here is a list of the number of days in advance you can earliest find award space using AwardFares for all Star Alliance airlines. Dates are updated automatically.
 
 | Airline                                     | Days in advance         | Date from today |
 |---------------------------------------------|-------------------------|-----------------|
