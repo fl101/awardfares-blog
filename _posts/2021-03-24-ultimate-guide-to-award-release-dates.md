@@ -52,8 +52,8 @@ So, how many days in advance do Star Alliance airlines release award availabilit
 | SWISS                                       | 300                     | <span></span>   |
 | TAP                                         | 361                     | <span></span>   |
 | Thai <sup>5</sup>                           | 340                     | <span></span>   |
-| Thai (long-haul Business) <sup>4</sup>      | 90                      | <span></span>   |
-| Thai (long-haul First) <sup>4</sup>         | 60                      | <span></span>   |
+| Thai (long-haul Business) <sup>5</sup>      | 90                      | <span></span>   |
+| Thai (long-haul First) <sup>5</sup>         | 60                      | <span></span>   |
 | Turkish                                     | 354                     | <span></span>   |
 | United                                      | 337                     | <span></span>   |
 
