@@ -18,6 +18,10 @@ This also means that once again it is possible to [book](https://www.sas.se/euro
 
 ## New Feature: Filter By Program
 
-We also recently released a highly requested feature. It is now possible to filter, search and setup alerts by a specific Frequent Flyer Program. On the search page and when creating alerts you can choose the programs you'd like to search, making results faster and more accurate!
+We also recently released a highly requested feature. It is now possible to filter and search by a specific Frequent Flyer Program. On the search page you can choose the programs you'd like to search in the top-left corner, making results faster and more accurate!
+
+![](/assets/img/eurobonus-star-alliance-back/eurobonus.png)
+
+The same can be done when creating alerts:
 
 ![](/assets/img/eurobonus-star-alliance-back/alerts.png)
