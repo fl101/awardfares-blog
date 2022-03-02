@@ -158,10 +158,10 @@
           const startMonth = Math.max(0, 12 - monthsOffset);
           const endMonth = 24 - monthsOffset;
           for (let j = startMonth; j <= endMonth; j++) {
-            flypremium[j] += extraPoints;
+            flypremium[j] += extraPoints || basePoints;
           }
           if (monthsOffset < 6) {
-            flypremiumForecast += extraPoints;
+            flypremiumForecast += extraPoints || basePoints;
           }
         }
       }
