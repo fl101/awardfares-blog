@@ -151,7 +151,7 @@
   
       // Update flypremium data
       let isFlyPremium = false;
-      if (extraPoints > 0 && !isRefund && !isStatus && !isTransfer) {
+      if ((basePoints > 0 || extraPoints > 0) && !isRefund && !isStatus && !isTransfer) {
         const monthsOffset = moment().startOf('month').diff(date.clone().startOf('month'), 'month');
         isFlyPremium = true;
         if (monthsOffset <= 24) {
