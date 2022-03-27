@@ -4,7 +4,6 @@ title: New SAS Route between Scandinavia and Toronto
 tags: News
 author: Philip
 image: /assets/img/sas-toronto/flight.png
-hidden: true
 ---
 
 Earlier this year, in February, SAS announced that they will start to fly from Stockholm (ARN) and Copenhagen (CPH) to Toronto (YYZ). Award tickets were finally released and made available to book!
