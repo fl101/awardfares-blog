@@ -6,8 +6,8 @@ const sharp = require('sharp');
 
 
 const IMAGE_FILES = ['.png', '.jpeg', '.jpg']
-const MAX_WIDTH = 1600;
-
+const MAX_SIZE = 1600;
+const DRY_RUN = false;
 
 (async function () {
 
@@ -22,15 +22,19 @@ const MAX_WIDTH = 1600;
 
   // Check if any files need to be resized. If so, perform size
   for (let file of files) {
-    const image = sharp(file);
-    const md = await image.metadata();
-    if (md.width > 1600) {
-      console.log('[Resizing]', file, `(${md.width})`);
-      await fs.copyFile(file, file + '.orig');
-      const buf = await image.resize(MAX_WIDTH).toBuffer(file);
-      await fs.writeFile(file, buf);
-    } else {
-      console.log('[OK]', file);
+    if (file.includes('.tmp')) {
+      continue;
+    }
+    const img = sharp(file);
+    const metadata = await img.metadata();
+    const { width, height } = metadata;
+    if (width > MAX_SIZE || height > MAX_SIZE) {
+      console.log(file, width, height);
+      if (!DRY_RUN) {
+        const tmp = file + '.tmp';
+        await sharp(file).resize(MAX_SIZE, MAX_SIZE, { fit: 'inside', withoutEnlargement: true }).rotate().toFile(tmp);
+        await fs.rename(tmp, file);
+      }
     }
   }
 
