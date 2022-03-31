@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Air Canada Business 737-MAX8 YVR-SFO Trip Report
+title: Air Canada Business 737 MAX 8 YVR-SFO Trip Report
 tags: [Review, Air Canada, Business]
 author: Philip
 image: /assets/img/air-canada-yvr-sfo/plane.jpg
 ---
 
-For a recent trip in between Vancouver (YVR) and San Francisco (SFO) in March of 2022, I chose to fly with Air Canada in Business on their 737-MAX8. I wasn't really sure what to expect for this short Business flight, however my expectations were definitely exceeded.
+For a recent trip in between Vancouver (YVR) and San Francisco (SFO) in March of 2022, I chose to fly with Air Canada in Business on their 737 MAX 8. I wasn't really sure what to expect for this short Business flight, however my expectations were definitely exceeded.
 
 Using the Air Canada app I was able to submit all of my documents beforehand, which made check-in very smooth. I could upload my covid test results, vaccine certificate, and fill out the USA attestation form (which, unfortunately, I only found out about after I had already printed the 7 page form).
 
@@ -25,7 +25,7 @@ Once through security and immigration I headed to the Air Canada transborder Map
 
 Boarding was also very smooth, having a Business class ticket allowed me to board first, in Zone 1.
 
-The 737-MAX8 Business cabin consists of 4 rows of 2-2 seating. The cabin felt very modern, clean, and spacious. The seats were comfortable and plenty of space for this short hop down to San Francisco.
+The 737 MAX 8 Business cabin consists of 4 rows of 2-2 seating. The cabin felt very modern, clean, and spacious. The seats were comfortable and plenty of space for this short hop down to San Francisco.
 
 <figure>
   <img src="/assets/img/air-canada-yvr-sfo/seat1.jpg" class="half" />
