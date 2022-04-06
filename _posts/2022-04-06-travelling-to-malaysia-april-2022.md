@@ -86,7 +86,7 @@ Tip: I use [SafetyWing Nomad Insurance](https://safetywing.com/nomad-insurance).
 
 At the immigration desk I had to present the MySejahtera traveller card. That seemed to be the only thing they cared about.
 
-Furthermore, after arriving in Malaysia you have to take an arrival test within 24 hours, otherwise you will be required to undergo 5 days of home quarantine.
+Furthermore, after arriving in Malaysia you have to take an arrival antigen test within 24 hours, otherwise you will be required to undergo 5 days of home quarantine.
 
 There is a 24/7 [testing station](https://airport.doctor2u.my/) available at KLIA. It was located on the departures floor (level 5) past the L check-in counters. The process was quite quick since it wasn't busy. You can save some time by booking your test online.
 
