@@ -1,4 +1,8 @@
 
+[v-cloak] {
+  display: none;
+}
+
 table, td, th, tr {
   border: none !important;
   background: none !important;
@@ -21,21 +25,34 @@ thead th {
   text-align: center;
 }
 
-.seat.present.available {
+.seat.available {
   background: #2ecc71;
 }
 
-.seat.present.occupied {
+.seat.occupied {
   background: #e74c3c;
 }
 
-.seat.present.available.blocked {
+.seat.blocked {
   background: #f1c40f;
 }
 
 .number {
   text-align: right;
   padding-right: 10px !important;
+}
+
+.legend {
+  margin-top: 30px;
+}
+
+.legend > div {
+  display: flex;
+  align-items: center;
+}
+
+.legend span {
+  margin-left: 10px;
 }
 
 label {
