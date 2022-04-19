@@ -41,9 +41,9 @@ var app = new Vue({
         this.loading = false;
         this.error = null;
         this.seatmap = body;
-      }).fail((resp, a, b, c) => {
+      }).fail((resp) => {
         this.loading = false;
-        this.error = resp.responseJSON && resp.responseJSON.error ? resp.responseJSON.error : 'Seat map not available';
+        this.error = resp.responseJSON?.error || resp.responseJSON?.errorMessage || resp.responseText || 'Seat map not available';
         this.seatmap = null;
       });
     }
