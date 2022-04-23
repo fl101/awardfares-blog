@@ -97,4 +97,3 @@ In any case, I proceeded with Online ticketing and that seemed to do the trick. 
 <img src="/assets/img/eva-air-redemption/complete.png" />
 
 I guess the moral of the story is, if you are collecting EVA Air miles and potentially plan to book a redemption with travel companions in the future, make sure you prepare in advance!
-
