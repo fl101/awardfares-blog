@@ -6,13 +6,14 @@ author: Philip
 image: /assets/img/eva-air-redemption/search.png
 hide_image_in_post: true
 hidden: true
+language: zh-tw
 ---
 
 不得不說，長榮航空的哩程兌換方式是有點特殊。我最近才剛有機會用長榮的飛行常客計劃（哩程獎勵計劃）兌換哩程，流程不是很簡單，尤其是這次我還需要用哩程幫我自己和同行夥伴訂兩張機票，過程更是複雜。
 
 ## 1. 在長榮網站上搜尋哩程可兌換的機票
 
-當然要搜尋可兌換的哩程機位，AwardFares是最方便快速的方式，在AwardFares網站上就可以直接查詢手上的哩程能夠兌換哪些航空的機位，雖然AwardFares目前還沒有直接支援長榮的飛行常客計劃，但我們還是提供了不錯的方式來預測可兌換哩程的機票艙位（如圖）。以我個人的經驗為例，我在AwardFares的系統上很快找到了兩個吉隆坡（KUL）飛台北桃園（TPE）的商務艙位置，之後在長榮航空的官網上的訂票系統也驗證了這件事。
+當然要搜尋可兌換的哩程機位，[AwardFares](https://awardfares.com)是最方便快速的方式，在AwardFares網站上就可以直接查詢手上的哩程能夠兌換哪些航空的機位，雖然AwardFares目前還沒有直接支援長榮的飛行常客計劃，但我們還是提供了不錯的方式來預測可兌換哩程的機票艙位（如圖）。以我個人的經驗為例，我在AwardFares的系統上很快找到了兩個吉隆坡（KUL）飛台北桃園（TPE）的商務艙位置，之後在長榮航空的官網上的訂票系統也驗證了這件事。
 
 <img src="../assets/img/eva-air-redemption/availability.png" />
 

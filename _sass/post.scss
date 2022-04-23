@@ -165,6 +165,18 @@
 
 }
 
+.post.zh-tw {
+  h1, h2, h3, h4 {
+    font-weight: 400;
+  }
+  p {
+    font-weight: 300;
+  }
+  strong {
+    font-weight: 500;
+  }
+}
+
 
 .cta {
   margin-top: 100px;
