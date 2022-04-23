@@ -1,4 +1,23 @@
 
+const fpPromise = import('https://fpcdn.io/v3/zw0y41RkzgTSnHArtryn')
+  .then(fp => fp.load())
+  .catch(err => console.log(err));
+
+async function getVisitorId() {
+  const fp = await fpPromise;
+  if (fp) {
+    try {
+      const result = await fp.get();
+      return result.visitorId;
+    } catch (err) {
+      console.log(err);
+      return null;
+    }
+  } else {
+    return null;
+  }
+}
+
 var app = new Vue({
   el: "#app",
   data: {
@@ -13,6 +32,7 @@ var app = new Vue({
     seatmap: null,
     layout: null,
     error: null,
+    quotaReached: false,
   },
   created() {
     this.load();
@@ -34,17 +54,26 @@ var app = new Vue({
     },
     search() {
       this.loading = true;
-      var qs = $.param(this.query);
-      window.location.hash = qs;
-      var endpoint = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';
-      $.getJSON(endpoint + '/api/seatmap.json?' + qs, (body) => {
-        this.loading = false;
-        this.error = null;
-        this.seatmap = body;
-      }).fail((resp) => {
-        this.loading = false;
-        this.error = resp.responseJSON?.error || resp.responseJSON?.errorMessage || resp.responseText || 'Seat map not available';
-        this.seatmap = null;
+      getVisitorId().then(visitorId => {
+        window.location.hash = $.param(this.query);
+        var query = Object.assign({}, this.query, { visitorId });
+        var qs = $.param(query);
+        var endpoint = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';
+        $.getJSON(endpoint + '/api/seatmap.json?' + qs, (body) => {
+          this.loading = false;
+          this.error = null;
+          this.seatmap = body;
+        }).fail((resp) => {
+          if (resp.status == 429) {
+            this.quotaReached = true;
+            this.error = null;
+          } else {
+            this.quotaReached = false;
+            this.error = resp.responseJSON?.error || resp.responseJSON?.errorMessage || resp.responseText || 'Seat map not available';
+          }
+          this.loading = false;
+          this.seatmap = null;
+        });
       });
     }
   },

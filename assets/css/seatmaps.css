@@ -10,6 +10,10 @@ table, td, th, tr {
   font-size: 10pt;
 }
 
+input {
+  width: 230px;
+}
+
 .seatmap {
   margin-top: 30px;
 }
