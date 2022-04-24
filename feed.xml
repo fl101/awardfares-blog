@@ -10,6 +10,7 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     {% for post in site.posts limit:15 %}
+    {% unless post.lang == "zh_TW" %}
     {% unless post.hidden %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
@@ -18,6 +19,7 @@ layout: null
         <description>{{ post.excerpt | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       </item>
+    {% endunless %}
     {% endunless %}
     {% endfor %}
   </channel>
