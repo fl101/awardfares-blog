@@ -5,7 +5,6 @@ tags: [EVA, Guide]
 author: Philip
 image: /assets/img/eva-air-redemption/search.png
 hide_image_in_post: true
-hidden: true
 ---
 
 EVA Air award redemptions are quirky. I recently made my first award redemption using their frequent flyer program, and the process was not easy, especially since I was booking a flight for two people, myself and a travel companion.

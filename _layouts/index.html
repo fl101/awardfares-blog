@@ -6,6 +6,7 @@ layout: default
   
   <div class="posts">
     {% for post in paginator.posts %}
+      {% unless post.lang == "zh_TW" %}
       {% unless post.hidden %}
         <div class="post-teaser">
           <h1>
@@ -29,6 +30,7 @@ layout: default
             Continue Reading <i class="fa fa-long-arrow-right"></i>
           </a>
         </div>
+      {% endunless %}
       {% endunless %}
     {% endfor %}
   </div>
