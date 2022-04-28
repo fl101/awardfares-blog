@@ -5,7 +5,6 @@ tags: [News]
 author: Philip
 image: /assets/img/seatmap-integration/seatmap-integration.png
 hide_image_in_post: true
-hidden: true
 ---
 
 We're glad to finally release a couple of new features that we've been working on for quite a while! Today we're releasing three brand new features:
