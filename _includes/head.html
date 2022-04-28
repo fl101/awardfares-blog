@@ -18,6 +18,7 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/main.css">
 
+  {% if jekyll.environment == "production" %}
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20883114-19"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -25,8 +26,8 @@
     gtag('js', new Date());
     gtag('config', 'UA-20883114-19');
   </script>
-
   <script async defer data-website-id="4f2f3c51-02c8-466f-b555-0f11b8a3fb7c" src="https://umami.fl101.tech/umami.js"></script>
+  {% endif %}
 
   {% seo %}
 
