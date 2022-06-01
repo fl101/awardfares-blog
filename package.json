@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "shrinkem": "^1.0.1"
+    "shrinkem": "^2.0.0"
   }
 }
