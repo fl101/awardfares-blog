@@ -5,14 +5,13 @@ tags: [EVA, Guide]
 author: Philip
 image: /assets/img/eva-air-redemption/search.png
 hide_image_in_post: true
-hidden: true
 ---
 
 EVA Air award redemptions are quirky. I recently made my first award redemption using their frequent flyer program, and the process was not easy, especially since I was booking a flight for two people, myself and a travel companion.
 
 ## 1. Searching redemptions on EVA Air
 
-AwardFares is the easiest and fastest way to search award seat availability. Even though AwardFares doesn't have direct support EVA Air's frequent flyer program, it still provides a good way to estimate availability. In my case, I was able to find two Business seats on the EVA Air flight between Kuala Lumpur (KUL) and Taipei (TPE), which I could confirm were also available in EVA Air's system.
+[AwardFares](https://awardfares.com) is the easiest and fastest way to search award seat availability. Even though AwardFares doesn't have direct support for EVA Air's frequent flyer program, it still provides a good way to estimate availability. In my case, I was able to find two Business seats on the EVA Air flight between Kuala Lumpur (KUL) and Taipei (TPE), which I could confirm were also available in EVA Air's system.
 
 <img src="/assets/img/eva-air-redemption/availability.png" />
 
