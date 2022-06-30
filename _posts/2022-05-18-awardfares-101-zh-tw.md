@@ -43,7 +43,7 @@ AwardFares目前支援的航空聯盟有：United MileagePlus, SAS EuroBonus, Av
 <img src="/assets/img/awardfares-101-zh-tw/alerts.png" />
 
 ## 航空旅程資訊
-AwardFares也提供加強版的航空旅程資訊，不用再一次開多個視窗瀏覽多個航空公司網站也能即時了解哩程機票的艙等種類及座位配置圖。目前支援的航空公司可參閱醉心部落格文章[blog post](https://blog.awardfares.com/seat-maps-and-more-cabin-annotations/)。
+AwardFares也提供加強版的航空旅程資訊，不用再一次開多個視窗瀏覽多個航空公司網站也能即時了解哩程機票的艙等種類及座位配置圖。目前支援的航空公司可參閱最新部落格文章[blog post](https://blog.awardfares.com/seat-maps-and-more-cabin-annotations/)。
 
 <img src="/assets/img/awardfares-101-zh-tw/annotations.png" />
 
