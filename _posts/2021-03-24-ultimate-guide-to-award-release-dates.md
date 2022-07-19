@@ -51,7 +51,7 @@ So, how many days in advance do Star Alliance airlines release award availabilit
 | South African Airways                       | 358                     | <span></span>   |
 | SWISS                                       | 300                     | <span></span>   |
 | TAP                                         | 361                     | <span></span>   |
-| Thai                                        | 180                     | <span></span>   |
+| Thai <sup>5</sup>                           | 339                     | <span></span>   |
 | Turkish                                     | 354                     | <span></span>   |
 | United                                      | 337                     | <span></span>   |
 
@@ -61,6 +61,7 @@ Notes:
 - (2) Lufthansa long-haul First partner redemptions are released 30 days in advance. Members of Miles & More can book up to 180 days in advance.
 - (3) SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
 - (4) Singapore Airlines currently does not offer awards to partner airlines.
+- (5) Aeroplan and EuroBonus limited to 180 days in advance.
 
 <script>
 (function () {
