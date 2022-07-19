@@ -3,7 +3,7 @@ layout: post
 title: "THAI First Class Award Redemption Guide 2022"
 tags: [Thai, Guide]
 author: Philip
-image: /assets/img/tg-redemption-guide-2022/tg-first.jpeg
+image: /assets/img/tg-redemption-guide-2022/tg-first.jpg
 ---
 
 After a long break during the COVID-19 pandemic, [THAI First Class](https://www.thaiairways.com/en/book/offers/royal-first-class.page) redemptions are finally back to an increasing number of routes. The first route to receive First Class was the London route, back in April of 2022. Now, Tokyo is also available, and Osaka is coming in September 2022.
