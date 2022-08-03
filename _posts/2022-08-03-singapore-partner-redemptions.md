@@ -42,6 +42,6 @@ United<br>*MileagePlus* | Economy<br>Business | Economy
 Other programs:
 * Air China: Unable to search online
 * Asiana: No Star Alliance redemption search online
-* Miles & More: Unable to search (not enough miles)
+* Miles & More: Unable to search SQ online
 * THAI: Star Alliance award redemptions suspended
 * Turkish: Unable to create an account
