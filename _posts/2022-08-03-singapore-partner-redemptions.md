@@ -30,18 +30,18 @@ Air Canada<br>*Aeroplan* | Economy<br>Business | Economy
 Air India<br>*Flying Returns* | ❌ | ❌
 Air New Zealand<br>*Airpoints* | ❌ | ❌
 ANA<br>*Mileage Club* | Economy<br>Business | Economy
+Avianca<br>*LifeMiles* | Economy<br>Business<br>First | Economy
 Copa<br>*ConnectMiles* | ❌ | ❌
 Ethiopian<br>*ShebaMiles* | Economy | Economy
 EVA<br>*Infinity MileageLands* | Economy<br>Business<br>First (777 only) | Economy<br>Business<br>First (777 only)
-Avianca<br>*LifeMiles* | Economy<br>Business<br>First | Economy
+Miles & More<br>*(only by phone)* | Economy<br>Business | Economy<br>Business
 SAS<br>*EuroBonus* | ❌ | ❌
 Shenzhen<br>*PhoenixMiles* | ❌ | ❌
 TAP<br>*Miles&Go* | Economy<br>Business | Economy
+Turkish<br>*Miles&Smiles* | Economy<br>Business | Economy
 United<br>*MileagePlus* | Economy<br>Business | Economy
 
 Other programs:
 * Air China: Unable to search online
 * Asiana: No Star Alliance redemption search online
-* Miles & More: Unable to search SQ online
 * THAI: Star Alliance award redemptions suspended
-* Turkish: Unable to create an account
