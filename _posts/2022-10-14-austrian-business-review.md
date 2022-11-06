@@ -3,7 +3,7 @@ layout: post
 title: Review of Austrian Class Vienna to Montreal
 tags: [Review, Business, Austrian]
 author: Richard
-image: /assets/img/sas-business/plane.jpeg
+image: /assets/img/austrian-business-review/window.jpeg
 hidden: true
 ---
 
