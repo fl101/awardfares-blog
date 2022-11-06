@@ -11,9 +11,9 @@ After many cancellations and with the latest crunch on Eurobonus award seats to 
 
 ## Seat & Cabin
 
-<img src="/assets/img/austrian-business-review/seat.jpeg" class="full"/>
-
 The seat is similar to many other European airlines', including SAS and Swiss, with the air mattress. It's a slightly smaller version than the one SAS uses and as a result they're able to squeeze in a 2-2-2/1-2-1 layout on the 777. However this flight is normally served by a 767 and it was in our case as well, meaning a 1-2-1 layout. For me a 2-2-2 layout in business class will always be a mark against the airline, since there are no good seats for a solo traveler (The single seats, so-called "throne seats" are not bookable in advance unless you have status with Swiss), but on the 767 this is of course not an issue.
+
+<img src="/assets/img/austrian-business-review/seat.jpeg" class="full"/>
 
 The seat itself is good, the air cushion means you can regulate the stiffness of the seat as well as changing the position of the lumbar support. The difference between the settings isn't huge, but it's a nice gimmick. The seat is also very comfortable and I had no issues sleeping in it. The seat is a bit narrower than the one used by SAS and Swiss, but for me that was not a problem. It comes with a lot of practical storage space, including a bottle holder next to the screen and the reading light was a perfect place to hand a pair of headphones.
 
@@ -34,8 +34,8 @@ If the amenity kit was a disappointment the food was quite the opposite! The thr
 The wine selection was also very good, with a good selection of mainly Austrian wines. I sampled most of them and they all held up to the standards one would expect for wines served in business class, especially surprising was the Austrian sparkling rosé which surpassed my expectations once again.
 
 <figure>
-<img src="/assets/img/austrian-business-review/ice-coffee.jpeg" class="full"/>
-<img src="/assets/img/austrian-business-review/coffee-menu.jpeg" class="full"/>
+<img src="/assets/img/austrian-business-review/ice-coffee.jpeg" class="half"/>
+<img src="/assets/img/austrian-business-review/coffee-menu.jpeg" class="half"/>
 </figure>
 
 After dinner they treated us to the Vienna Café menu, which featured a whole host of coffee creations. I don't normally drink coffee, and especially not in the air, but with an ice cream coffee on the menu I couldn't resist. It was delicious, and I'm not even a coffee drinker!
