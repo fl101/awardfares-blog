@@ -4,18 +4,17 @@ title: Review of Austrian Class Vienna to Montreal
 tags: [Review, Business, Austrian]
 author: Richard
 image: /assets/img/austrian-business-review/window.jpeg
-hidden: true
 ---
 
-After many cancellations and with the latest crunch on Eurobonus award seats to the US it was this trip was close to not being possible at all. But as luck would have it Austrian had some availability in business class on one of their shorter long haul routes to Montreal. I had not heard much about this airline's business class service so my expectations were not very high, but I was they were greatly surpassed!
+After many cancellations and with the latest crunch on Eurobonus award seats to the US this trip was close to not being possible at all. But as luck would have it Austrian had some availability in business class on one of their shorter long haul routes to Montreal. I had not heard much about this airline's business class service so my expectations were not very high, but I was happy to find they were greatly surpassed!
 
 ## Seat & Cabin
 
-The seat is similar to many other European airlines', including SAS and Swiss, with the air mattress. It's a slightly smaller version than the one SAS uses and as a result they're able to squeeze in a 2-2-2/1-2-1 layout on the 777. However this flight is normally served by a 767 and it was in our case as well, meaning a 1-2-1 layout. For me a 2-2-2 layout in business class will always be a mark against the airline, since there are no good seats for a solo traveler (The single seats, so-called "throne seats" are not bookable in advance unless you have status with Swiss), but on the 767 this is of course not an issue.
+The seat is similar to many other European airlines', including SAS and Swiss, with the air mattress. It's a slightly smaller version than the one SAS uses and as a result they're able to squeeze in a 2-2-2/1-2-1 layout on the 777. However this flight is normally served by a 767 and it was in our case as well, meaning a 1-2-1 layout. For me a 2-2-2 layout in business class will always be a mark against the airline, since there are no good seats for a solo traveler (The single seats, so-called "throne seats" are not bookable in advance unless you have status with the LH Group), but on the 767 this is of course not an issue.
 
 <img src="/assets/img/austrian-business-review/seat.jpeg" class="full"/>
 
-The seat itself is good, the air cushion means you can regulate the stiffness of the seat as well as changing the position of the lumbar support. The difference between the settings isn't huge, but it's a nice gimmick. The seat is also very comfortable and I had no issues sleeping in it. The seat is a bit narrower than the one used by SAS and Swiss, but for me that was not a problem. It comes with a lot of practical storage space, including a bottle holder next to the screen and the reading light was a perfect place to hand a pair of headphones.
+The seat itself is good, the air cushion means you can regulate the stiffness of the seat as well as changing the position of the lumbar support. The difference between the settings isn't huge, but it's a nice gimmick. The seat is also very comfortable and I had no issues sleeping in it. The seat is a bit narrower than the one used by SAS and Swiss, but for me that was not a problem. It comes with a lot of practical storage space, including a bottle holder next to the screen and the reading light was a perfect place to hang a pair of headphones.
 
 The IFE system is good, just as with SAS it features a regular 3.5mm headphone jack which allows you to plug in your own headphones. This is always a plus for me as I carry a comfortable pair of Bose QC35 whenever I travel and airline headphones, even in business, are generally not very good. That being said Austrian offers the same Bose noise canceling headphones as Lufthansa does in First Class!
 
@@ -23,7 +22,7 @@ At 7 rows the cabin is small enough to feel quite intimate, but not so small tha
 
 ## Amenity Kit
 
-The amenity kit was among the most dull and anonymous ones I've seen throughout my travels. It's a small black bag with a few basic items, including a toothbrush, toothpaste, socks, eye mask, some skin cremes, and ear plugs. None of the products stood out as especially great nor with an as particularly Austrian, I know a several airlines like to highlight products from famous brands from their home country, but this was not the case here.
+The amenity kit was among the most dull and anonymous ones I've seen throughout my travels. It's a small black bag with a few basic items, including a toothbrush, toothpaste, socks, eye mask, some skin cremes, and ear plugs. None of the products stood out as especially great nor as particularly Austrian, I know of several airlines which like to highlight products from famous brands from their home country, but this was not the case here.
 
 ## Food & Drink Service
 
