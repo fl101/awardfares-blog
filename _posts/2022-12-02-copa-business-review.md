@@ -5,7 +5,7 @@ tags: [Review, Business, Copa]
 author: Germán
 image: /assets/img/copa-review/aircraft1.jpeg
 hide_image_in_post: true
-hidden: true
+hidden: false
 ---
 
 Earlier this year I was trying to book a flight from Miami to Buenos Aires, Argentina, and I was checking AwardFares for seats available using my SAS EuroBonus points. I saw two seats available in Business Class with Copa Airlines, and I booked them right away.  
