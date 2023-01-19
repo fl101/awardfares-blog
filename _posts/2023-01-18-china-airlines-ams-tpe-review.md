@@ -73,7 +73,7 @@ SkyPriority boarding was available, but it turned out we would be boarding by bu
 
 ## Cabin
 
-The A350-900 economy cabin felt bright, clean, modern, and spacious (thanks to the 3-3-3 layout). I was glad to have snagged a bulkhead seat, which offers plenty of legroom, something I'd really come to appreciate on this long flight.
+The A350-900 economy cabin felt clean and spacious (thanks to the 3-3-3 layout). Nothing more or else than what I'd expect from other Far East Asian carriers. I was glad to have snagged a bulkhead seat, which offers plenty of legroom, something I'd really come to appreciate on this long flight.
 
 <figure>
 <img src="/assets/img/china-airlines-ams-tpe-economy-review/5-cabin.jpg" class="half" />
