@@ -11,7 +11,7 @@ After having recently acquired my SkyTeam Elite Plus status, through the Delta S
 <table>
 <tr>
   <td><b>Flight No</b></td>
-  <td>CL74</td>
+  <td>CI74</td>
 </tr>
 <tr>
   <td><b>Cabin</b></td>
