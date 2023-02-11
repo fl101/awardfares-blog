@@ -6,12 +6,14 @@
   "scripts": {
     "start": "bundle exec jekyll serve --drafts --future",
     "images": "node ./_scripts/generate-image-tags.js",
-    "resize": "shrinkem assets/ --size 1600"
+    "resize": "shrinkem assets/ --size 1600",
+    "links": "linkinator http://127.0.0.1:4000/ --verbosity error --recurse --skip '^(?!http://127.0.0.1)'"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
+    "linkinator": "^4.1.2",
     "shrinkem": "^2.1.0"
   }
 }
