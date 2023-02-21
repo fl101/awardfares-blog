@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A review of SAS Business Class on their new route from CPH to JFK
+title: A review of SAS A321 XLR in Business Class on their new route from CPH to JFK
 tags: [Review, Business, SAS, JFK]
 author: Richard
 image: /assets/img/sas-business-jfk/speech.jpeg
