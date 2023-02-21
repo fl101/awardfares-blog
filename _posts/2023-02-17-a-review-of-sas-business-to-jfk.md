@@ -3,22 +3,33 @@ layout: post
 title: A review of SAS Business Class on their new route from CPH to JFK
 tags: [Review, Business, SAS, jfk]
 author: Richard
-image: /assets/img/sas-business/plane.jpeg
+image: /assets/img/sas-business-jfk/speech.jpeg
+hidden: true
 ---
 
 SAS recently opened a new route from CPH to JFK and I was able to snag a seat in business class on their opening night. This route is part of SAS' new strategy of flying more point-to-point routes to the US with their smaller A321 XLR (Extra Long Range). They use this plane on routes from Gothenburg and Aalborg to Newark as well as on several routes from the Nordics to Washington DC and Toronto. The aircraft offers a full 3 class configuration even though it's a relatively small single aisle aircraft. This has some pros and cons as you will see in this review.
 
-<Photos from the inauguration>
+<figure>
+<img src="/assets/img/sas-business-jfk/speech2.jpeg" class="half"/>
+<img src="/assets/img/sas-business-jfk/ribbon.jpeg" class="half"/>
+</figure>
 
 ## Seat & Cabin
 
-<photo of the seat>
-
 The seat is more or less the same as in the regular SAS business cabin which you might be familiar with if you've read [my review](/link-to-sas-review) of that cabin or if you've flown on any of their A330, A340 or A350 aircraft. The only difference I could see is that the softness setting for the seat is gone, so you are stuck with the default (Which is still quite soft), however the massage and adjustable lumbar support are still there. There is however a major difference and that's in the cabin layout. Instead of the regular 1-2-2 layout they use on their wide-body aircraft this one uses a 1-1/2-2 configuration which means the even numbered rows have a throne seat with the same amount of space as two seats on the rows in front and behind! This is an _amazing_ upgrade from the regular cabin, which is good already. The amount of storage space offered is incredible, even better than most of the first class cabins I've been in. There are two large "armrests" on either side of the seat, however they are large enough to serve as tables on their own. Finally there is a place to store all the bedding that always comes with the SAS business seat! I've always struggled to find a place that's not dirty to store this before I go to bed.
+
+<figure>
+<img src="/assets/img/sas-business-jfk/seat.jpeg" class="half"/>
+<img src="/assets/img/sas-business-jfk/hook.jpeg" class="half"/>
+</figure>
+
+A small details that I really appreciate as a person with glasses is the dedicated hook for them.
 
 The few drawbacks I could see of this seat configuration is that the foot well becomes very tight. I had trouble finding a good way to rest my feet as they were a bit too long to fit in any comfortable way. There is also no toilet for the premium economy passengers which means many of them end up using the business class toilet at the front and as a result there was a line forming near the front, keep this in mind when selecting seats if you're easily disturbed.
 
 ## Food & Drink Service
+
+<img src="/assets/img/sas-business-jfk/food.jpeg" class="full"/>
 
 On the outbound leg the food was amazing! The food served was [...food here], all of which was delicious. The wine and spirit selection is good as usual with some nice made-to-order cocktails, gone are the premixed canned cocktails that I mentioned in my previous review, thank goodness!
 
@@ -34,7 +45,9 @@ The homebound flight offered a strong contrast to how amazing CPH is, JFK Termin
 
 ## IFE
 
-The IFE is exactly the same as the one described in [my other review](/link-to-sas-review). However there is a big downgrade, the 3.5mm headphone jack has been removed! This means you're stuck using SAS' own headphones if you want to watch something on the IFE and while they are good as headphones they get quite uncomfortable after a few hours. I ended up mostly watching content on my own laptop instead.
+The IFE is exactly the same as the one described in [my other review](/link-to-sas-review). However there is a big downgrade, the 3.5mm headphone jack has been removed! This means you're stuck using SAS' own headphones if you want to watch something on the IFE and while they are good as headphones they get quite uncomfortable after a few hours. There's also a few of the older movies (Such as Ocean's 13) which have had their aspect ration changed in a very strange way. I ended up mostly watching content on my own laptop instead.
+
+<img src="/assets/img/sas-business-jfk/ife.jpeg" class="full"/>
 
 ## Sleep
 
