@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wide-Open Award Space on CPH-JFK SAS Route
-tags: [Review, Business, SAS]
+tags: [Business, SAS]
 image: /assets/img/sas-cph-jfk-wide-open/overview.png
 ---
 

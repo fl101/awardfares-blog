@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A review of SAS Business Class on their new route from CPH to JFK
-tags: [Review, Business, SAS, jfk]
+tags: [Review, Business, SAS, JFK]
 author: Richard
 image: /assets/img/sas-business-jfk/speech.jpeg
 hidden: true
