@@ -3,7 +3,7 @@ layout: post
 title: Booking Trips with Married Segments
 tags: [Review, Business, Copa]
 image: /assets/img/married-segments/search-vie.png
-hide_image_in_post: trueƒ
+hide_image_in_post: true
 hidden: true
 ---
 
