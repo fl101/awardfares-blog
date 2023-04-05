@@ -6,7 +6,9 @@ author: Philip
 image: /assets/img/award-dates/image.png
 ---
 
-One of the best ways of booking your perfect award trip is to plan far in advance. Even though most airlines generally release new award space continuously throughout the year, it is always best to book as far in advance as possible. There are however two important things to consider:
+One of the best ways of booking your perfect award trip is to plan far in advance. Even though most airlines generally release new award space continuously throughout the year, it is always best to book as far in advance as possible. This guide will help you answer the question of how long in advance airlines such as Lufthansa release award seats?
+
+There are however two important things to consider:
 
 1. Different airlines release award seats at different dates.
 2. Different frequent flyer programs show seats at different dates.
@@ -14,21 +16,22 @@ One of the best ways of booking your perfect award trip is to plan far in advanc
 For example, if you're using United to search for first class seats, then you will only be able to find awards up to 337 days in advance. However, as a EuroBonus member you can still book awards more than 337 days in advance. This is especially important to consider when going after highly sought after awards. Luckily AwardFares makes it super easy to find these since you're able to search across multiple frequent flyer programs at once!
 
 ## Award Search
+
 Here are the number of days in advance that some popular frequent flyer program award search sites will show. Dates are updated automatically.
 
 | Frequent Flyer Program | Days in advance | Date from today |
-|------------------------|-----------------|-----------------|
+| ---------------------- | --------------- | --------------- |
 | United MileagePlus     | 337             | <span></span>   |
 | SAS EuroBonus          | 360             | <span></span>   |
 | Avianca LifeMiles      | 360             | <span></span>   |
 | Air Canada Aeroplan    | 365             | <span></span>   |
 
-
 ## Airlines
+
 So, how many days in advance do Star Alliance airlines release award availability? Here is a list of the number of days in advance you can earliest find award space using AwardFares for all Star Alliance airlines. Dates are updated automatically.
 
 | Airline                                     | Days in advance         | Date from today |
-|---------------------------------------------|-------------------------|-----------------|
+| ------------------------------------------- | ----------------------- | --------------- |
 | Air Canada                                  | 360                     | <span></span>   |
 | Air China                                   | 361                     | <span></span>   |
 | Air India                                   | 337                     | <span></span>   |
