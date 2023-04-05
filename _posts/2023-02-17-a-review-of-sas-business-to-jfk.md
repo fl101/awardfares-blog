@@ -46,7 +46,7 @@ The homebound flight offered a strong contrast to how amazing CPH is, JFK Termin
 
 ## IFE
 
-The IFE is exactly the same as the one described in [my other review](/link-to-sas-review). However there is a big downgrade, the 3.5mm headphone jack has been removed! This means you're stuck using SAS' own headphones (Or an adapter if you have that) if you want to watch something on the IFE and while they are good as headphones they get quite uncomfortable after a few hours. There's also a few of the older movies (Such as Ocean's 13) which have had their aspect ration changed in a very strange way. I ended up mostly watching content on my own laptop instead.
+The IFE is exactly the same as the one described in [my other review](/sas-business-review/). However there is a big downgrade, the 3.5mm headphone jack has been removed! This means you're stuck using SAS' own headphones (Or an adapter if you have that) if you want to watch something on the IFE and while they are good as headphones they get quite uncomfortable after a few hours. There's also a few of the older movies (Such as Ocean's 13) which have had their aspect ration changed in a very strange way. I ended up mostly watching content on my own laptop instead.
 
 <img src="/assets/img/sas-business-jfk/ife.jpeg" class="full"/>
 
