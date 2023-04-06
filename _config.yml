@@ -12,11 +12,6 @@ paginate_path: "blog/page:num"
 markdown: kramdown
 highlighter: rouge
 
-collections:
-  release_dates:
-    permalink: /:name
-    output: true
-
 sass:
   sass_dir: _sass
   style: :compressed
