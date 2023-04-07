@@ -66,6 +66,28 @@ Notes:
 - (4) Aeroplan and EuroBonus limited to 180 days in advance.
 
 <script>
+(function () {
+  function pad(value) {
+    return String(value).length == 1 ? '0' + value : value;
+  }
+  function calculateDateFromToday(i) {
+    var date = new Date(new Date().getTime() + (i * 24 * 3600 * 1000));
+    return [
+      date.getFullYear(), 
+      pad(date.getMonth()+1),
+      pad(date.getDate())
+    ].join('-');
+  }
+  // Automagically calculate "date from today" for each table row
+  document.querySelectorAll('td span').forEach(function (el, i) {
+    var days = el.parentNode.previousElementSibling.innerText.split(' ')[0];
+    el.innerText = calculateDateFromToday(days);
+  });
+  
+})();
+
+</script>
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -90,25 +112,4 @@ Notes:
     }
   }
 }
-
-(function () {
-  function pad(value) {
-    return String(value).length == 1 ? '0' + value : value;
-  }
-  function calculateDateFromToday(i) {
-    var date = new Date(new Date().getTime() + (i * 24 * 3600 * 1000));
-    return [
-      date.getFullYear(), 
-      pad(date.getMonth()+1),
-      pad(date.getDate())
-    ].join('-');
-  }
-  // Automagically calculate "date from today" for each table row
-  document.querySelectorAll('td span').forEach(function (el, i) {
-    var days = el.parentNode.previousElementSibling.innerText.split(' ')[0];
-    el.innerText = calculateDateFromToday(days);
-  });
-  
-})();
-
 </script>
