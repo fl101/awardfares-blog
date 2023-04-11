@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer 2023: 7 Flights You Can Book RIGHT NOW Using SAS EuroBonus Points
+title: "Summer 2023: 7 Flights You Can Book RIGHT NOW Using SAS EuroBonus Points"
 tags: [Guide]
 author: Germán
 hidden: true
@@ -28,7 +28,7 @@ Aalborg is the fourth largest city in Denmark, but with heavy traffic to it beca
 
 There are lots of open space on this route to and from New York during May and June. It's operated by their A321neo (Long-range)
 
-<img src="/assets/img/sas-summer-2023-routes/2-aal-ewr.webp" "Aalborg to New York search on AwardFares" />
+<img src="/assets/img/sas-summer-2023-routes/2-aal-ewr.webp" alt="Aalborg to New York search on AwardFares" />
 
 
 ### 3. Oslo to Olbia (SK4907 A320neo)
@@ -36,7 +36,7 @@ There are lots of open space on this route to and from New York during May and J
 **Watch out!** This one is a temporary destination during spring and summer, but there are not so many seats available, so hurry up if you are interested. Olbia is a charming city on the northeastern coast of the island of Sardinia in Italy. It is known for its stunning beaches, crystal clear waters, and Hollywood-ready harbor. It's a very popular summer destination and one of the hidden gems in Italy. It receives plenty of Scandinavian tourists every year. With its stunning natural beauty, rich cultural heritage, and warm Mediterranean climate, Olbia is a must-visit destination for anyone traveling to Sardinia.
 
 We could find a few flights during July both in SAS Go and Business.
-<img src="/assets/img/sas-summer-2023-routes/3-osl-olb.webp" "Oslo to Olbia search on AwardFares" />
+<img src="/assets/img/sas-summer-2023-routes/3-osl-olb.webp" alt="Oslo to Olbia search on AwardFares" />
 
 
 ### 4. Stockholm to Palma de Mallorca (SK1415/SK2811 A320neo)
@@ -45,7 +45,7 @@ Palma is an all-time classic. A hot tip: holidays in Sweden and Norway start ear
 
 We did not find direct flights open yet, but there's availability with a quick connection in Copenhagen. You can also book this flight ex-Copenhagen.
 
-<img src="/assets/img/sas-summer-2023-routes/4-arn-pmi.webp" "Stockholm to Palma de Mallorca search on AwardFares" />
+<img src="/assets/img/sas-summer-2023-routes/4-arn-pmi.webp" alt="Stockholm to Palma de Mallorca search on AwardFares" />
 
 ### 5. Stockholm to New York JFK (SK1429/SK2919 A320neo/A330-300)
 
@@ -53,7 +53,7 @@ There are many advantages to visiting New York during the summer season. The wea
 
 There are quite many seats available on both SAS Go and SAS Plus, with a quick hop in Copenhagen. 
 
-<img src="/assets/img/sas-summer-2023-routes/5-arn-jfk.webp" "Stockholm to New York search on AwardFares" />
+<img src="/assets/img/sas-summer-2023-routes/5-arn-jfk.webp" alt="Stockholm to New York search on AwardFares" />
 
 ### 6. Copenhagen to Boston (SK927 A321neo)
 
@@ -61,7 +61,7 @@ Boston is a beautiful University city with a European tint. With Harvard, MIT, a
 
 SAS has a direct route from Copenhagen on their A321neo, with lots of open space during May, June and July.
 
-<img src="/assets/img/sas-summer-2023-routes/6-cph-bos.webp" "Copenhagen to Boston search on AwardFares"/>
+<img src="/assets/img/sas-summer-2023-routes/6-cph-bos.webp" alt="Copenhagen to Boston search on AwardFares"/>
 
 
 ### 7. Copenhagen to Los Angeles (SK931 A350-900)
@@ -70,21 +70,31 @@ This one is one of our top picks. Flying the A350 to Los Angeles is most likely 
 
 Wide open space to LAX diretly from Copenhagen. There's also availability from Stockholm with an extra leg on a A320neo.
 
-<img src="/assets/img/sas-summer-2023-routes/7-cph-lax.webp" "Copenhagen to Los Angeles search on AwardFares" />
+<img src="/assets/img/sas-summer-2023-routes/7-cph-lax.webp" alt="Copenhagen to Los Angeles search on AwardFares" />
 
 
 ## How To Find SAS EuroBonus Award Flights With AwardFares
 
 1. Log-in to [AwardFares](https://awardfares.com/search).
-<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-1.webp" alt="AwardFares filter by frequent flyer program." width="300"/ style="display: block; margin: 0 auto">
+
+<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-1.webp" alt="AwardFares filter by frequent flyer program." width="300" style="display: block; margin: 0 auto">
+
 2. Under FFPs, select **SAS EuroBonus Only**.
-<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-2.webp" alt="AwardFares filter by frequent flyer program." width="400"/ style="display: block; margin: 0 auto">
+
+<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-2.webp" alt="AwardFares filter by frequent flyer program." width="400" style="display: block; margin: 0 auto">
+
 3. Under Airlines, select **SAS Only**.
-<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-3.webp" alt="AwardFares filter by frequent flyer program." width="700"/ style="display: block; margin: 0 auto">
+
+<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-3.webp" alt="AwardFares filter by frequent flyer program." width="700" style="display: block; margin: 0 auto">
+
 4. Select your destination City or Region (e.g. United States).
-<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-4.webp" alt="AwardFares filter by frequent flyer program." width="700"/ style="display: block; margin: 0 auto">
+
+<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-4.webp" alt="AwardFares filter by frequent flyer program." width="700" style="display: block; margin: 0 auto">
+
 5. Select the potential dates.
-<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-5.webp" alt="AwardFares filter by frequent flyer program." width="700"/ style="display: block; margin: 0 auto">
+
+<img src="/assets/img/sas-summer-2023-routes/awardfares-sas-howto-5.webp" alt="AwardFares filter by frequent flyer program." width="700" style="display: block; margin: 0 auto">
+
 6. Done! You'll see the available seats in the result list.
 
 Remember that with **AwardFares Diamond** you can get real-time availability, unlimited alerts, and unlimited custom searches!
