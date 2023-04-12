@@ -3,7 +3,6 @@ layout: post
 title: Best EuroBonus Redemptions (April 2023)
 tags: [Guide]
 author: Germán
-hidden: true
 image: /assets/img/best-eurobonus-redemptions-april-2023/cover.webp
 ---
 
