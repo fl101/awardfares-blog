@@ -3,7 +3,6 @@ layout: post
 title: "Summer 2023: 7 Flights You Can Book RIGHT NOW Using SAS EuroBonus Points"
 tags: [Guide]
 author: Germán
-hidden: true
 image: /assets/img/sas-summer-2023-routes/cover.webp
 ---
 
