@@ -90,8 +90,8 @@ AwardFares, however, has been meant for mobile from day one. Moreover, it doesn�
 
 
 <figure>
-<img src="/assets/img/awardfares-vs-expertflyer/5a-awardfares-vs-expertflyer-mobile-1.webp" alt="AwardFares Mobile App" class="half" width=250px />
-<img src="/assets/img/awardfares-vs-expertflyer/5b-awardfares-vs-expertflyer-mobile-2.webp" alt="AwardFares Mobile App" class="half" width=250px />
+<img src="/assets/img/awardfares-vs-expertflyer/5a-awardfares-vs-expertflyer-mobile-1.webp" alt="AwardFares Mobile App" class="half" />
+<img src="/assets/img/awardfares-vs-expertflyer/5b-awardfares-vs-expertflyer-mobile-2.webp" alt="AwardFares Mobile App" class="half" />
 </figure>
 
 ### 6. Customer Support: One tap to reach AwardFares’ support
@@ -101,7 +101,7 @@ ExpertFlyer has been around for almost 20 years, so its online community is well
 Customer support is at the core of AwardFares’ principles. That’s why some of the UI elements at hand are aimed at seeking help quickly. On the AwardFares app, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
 
 
-<img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" width=250px />
+<img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" />
 
 ### 7. Pricing
 
