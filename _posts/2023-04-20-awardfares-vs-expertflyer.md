@@ -25,7 +25,7 @@ That sounds similar to what AwardFares does, right? So, what are the key differe
 ## ExpertFlyer vs. AwardFares: What are the differences?
 
 
-### User Interface: AwardFares has a modern UI and beautiful charts
+### 1. User Interface: AwardFares has a modern UI and beautiful charts
 
 AwardFares' UI is designed with simplicity in mind, making it easy for users to navigate and find the information they need quickly. This simplicity particularly appeals to those who may be new to searching for award seats or prefer a less cluttered interface.
 
@@ -45,7 +45,7 @@ On the other hand, ExpertFlyer’s interface tries to condense extensive informa
 
 
 
-### Award Searches
+### 2. Award Searches: Eeasy views and filter
 
 While ExpertFlyer does include an award search feature, it is less focused or extensive than the award seat search capabilities found in AwardFares. Users primarily interested in award seat availability might find ExpertFlyer's offering more limited, even on the paid plans.
 
@@ -59,8 +59,16 @@ Unlike ExpertFlyer, where filtering down the options require new searches, filte
 
 Another convenient feature on AwardFares is the possibility to set up email notifications for award seat availability directly from the search results. On ExpertFlyer, users need to configure alerts manually.
 
+### 3. Availability Data: Real availability for each program
 
-### Complexity: AwardFares is much simpler to use
+While ExpertFlyer provides a combined number of available seats, it's not clear where this data is sourced from, and it is hard to relate to the availability per frequent flyer program.
+
+AwardFares gives you accurate, up-to-date information on the award seat availability **for each** frequent flyer program, so users can determine not only what, but also how to book those seats.
+
+<img src="/assets/img/awardfares-vs-expertflyer/2b-awardfares-vs-expertflyer-data.webp" alt="AwardFares provides accurate and real data for each frequent flyer program." />
+
+
+### 4. Complexity: AwardFares is much simpler to use
 
 The information offered by ExpertFlyer can be overwhelming for some users, especially those new to the world of frequent flying. The main drawback of ExpertFlyer is that users have to know exactly what they are looking for to take advantage of the tool. 
 
@@ -71,7 +79,7 @@ AwardFares, on the other hand, brings the ease of use and power of Google Flight
 Overall, the learning curve to use ExpertFlyer is much steeper compared to what AwardFares users experience.
 
 
-### Mobile Experience: AwardFares is meant for mobile
+### 5. Mobile Experience: AwardFares is meant for mobile
 
 Although ExpertFlyer has a mobile app, it is only included in the paid versions, and its functionality may be more limited compared to the desktop version. Users might find accessing all the features and information they need on their mobile devices more challenging. Interestingly, ExpertFlyer still showcases its mobile version on Blackberries and a first-generation iPhone. That’s a sign of an old software architecture from another internet era.
 
@@ -86,7 +94,7 @@ AwardFares, however, has been meant for mobile from day one. Moreover, it doesn�
 <img src="/assets/img/awardfares-vs-expertflyer/5b-awardfares-vs-expertflyer-mobile-2.webp" alt="AwardFares Mobile App" class="half" width=250px />
 </figure>
 
-### Customer Support: One tap to reach AwardFares’ support
+### 6. Customer Support: One tap to reach AwardFares’ support
 
 ExpertFlyer has been around for almost 20 years, so its online community is well-established. Some of the experiences you can capture from users are that many claim that their customer support can sometimes be slow or unresponsive. This could be a concern for those who rely on prompt assistance when encountering issues with the platform.
 
@@ -95,7 +103,7 @@ Customer support is at the core of AwardFares’ principles. That’s why some o
 
 <img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" width=250px />
 
-### Pricing
+### 7. Pricing
 
 Both ExpertFlyer and AwardFares are subscription-based and have free and paid tiers. While ExpertFlyer provides a range of comprehensive features, their packages focus on general flight searches and alerts, mainly for users willing to pay for flights or upgrade using cash.
 
