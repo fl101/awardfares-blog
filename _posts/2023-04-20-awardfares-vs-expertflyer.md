@@ -83,8 +83,9 @@ Overall, the learning curve to use ExpertFlyer is much steeper compared to what 
 
 Although ExpertFlyer has a mobile app, it is only included in the paid versions, and its functionality may be more limited compared to the desktop version. Users might find accessing all the features and information they need on their mobile devices more challenging. Interestingly, ExpertFlyer still showcases its mobile version on Blackberries and a first-generation iPhone. That’s a sign of an old software architecture from another internet era.
 
+<figure>
 <img src="/assets/img/awardfares-vs-expertflyer/5c-awardfares-vs-expertflyer-ef-mobile.webp" alt="ExpertFlyer Mobile App in 2023" />
-
+</figure>
 
 AwardFares, however, has been meant for mobile from day one. Moreover, it doesn’t compromise the intuitive searches or the beautiful user interface when going mobile.
 
