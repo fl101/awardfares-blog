@@ -115,7 +115,7 @@ ExpertFlyer has been around for almost 20 years, so its online community is well
 Customer support is at the core of AwardFares’ principles. That’s why some of the UI elements at hand are aimed at seeking help quickly. On the AwardFares app, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
 
 <figure>
-<img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" />
+<img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" class="half" />
 </figure>
 
 ### 7. Pricing
@@ -148,15 +148,13 @@ ExpertFlyer Pricing Tiers:
 
 ## Conclusion
 
-ExpertFlyer and AwardFares often get confused as direct competitors trying to provide tools and solve the same set of problems for frequent flyers. **They are not.**
+AwardFares and ExpertFlyer often get confused as direct competitors trying to provide tools and solve the same set of problems for frequent flyers. **They are not.** While there is an evident overlap on some of the features, the two platforms have different focuses and target different use cases.
 
-While there is an evident overlap on some of the features, it’s important to highlight that the two platforms have different focuses and target different use cases.
+AwardFares provides a stunning, **modern user interface**, meant for quickly **searching and filtering** award space. The results are up-to-date and **accurate**, sourced from each frequent flyer program. It's **simple to use**, and planned for **mobile devices**. Users can get started for **free**, in addition to **accessible** paid tiers for both casual and hardcore flyers.
 
-ExpertFlyer targets experienced frequent flyers that need power tools when selecting flight schedules, buying, changing, or upgrading their flights. Its features are powerful, and they have become the industry standard for a certain types of users and searches. However, it requires previous knowledge to utilize the tool fully; its learning curve is steep, and the old architecture and interface make it difficult to onboard new users.
+Overall, AwardFares helps travelers make more informed decisions on where to spend miles and points without spending hours on searches.
 
-AwardFares is built on top of a modern technology stack, enabling a modern, powerful, yet simple user interface and high performance. Its core is built for frequent flyers that want to make more informed decisions on where to spend miles and points **without spending hours on frequent flyer programs’ websites**. 
-
-It’s a great exploration tool that provides beautiful insights in seconds, letting users narrow down results with a few clicks. Setting up alerts and getting notified when award space becomes available is also easy.
+On the other hand, ExpertFlyer targets experienced frequent flyers that need power tools when selecting flight schedules, buying, changing, or upgrading their flights. Its features are powerful, and they have become the industry standard for a certain types of users and searches. However, it requires previous knowledge to utilize the tool fully; its learning curve is steep, and the old architecture and interface make it difficult to onboard new users.
 
 If you want to experience AwardFares, you can join and try it out by creating a free account. [Read more here](https://awardfares.com/pricing).
 
