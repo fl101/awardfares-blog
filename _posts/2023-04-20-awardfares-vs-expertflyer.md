@@ -100,8 +100,9 @@ ExpertFlyer has been around for almost 20 years, so its online community is well
 
 Customer support is at the core of AwardFares’ principles. That’s why some of the UI elements at hand are aimed at seeking help quickly. On the AwardFares app, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
 
-
+<figure>
 <img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" />
+</figure>
 
 ### 7. Pricing
 
