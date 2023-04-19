@@ -7,22 +7,35 @@ hidden: true
 image: /assets/img/awardfares-vs-expertflyer/cover.webp
 ---
 
-[ExpertFlyer](https://www.expertflyer.com/) was founded in 2004, and since then, it has provided flight information and tools for frequent flyers, travel enthusiasts, and aviation professionals to get the most out of their airline miles, points, and benefits.
+AwardFares is a modern and fast platform to search award availability across multiple frequenty flyer programs. Among other things, it lets you search flights to find available award seats, setup alerts to monitor award availability, and lookup seat maps and flight schedules.
 
-This guide closely examines the key differences between ExpertFlyers and AwardFares.
+Some other tools, like ExpertFlyer, provide similar functionalities for frequent flyers, travel enthusiasts, and aviation professionals when it comes to getting the most out of their airline miles, points, and benefits.
+
+This guide closely examines the key differences between AwardFares and ExpertFlyer.
+
+### Contents
+
+- [What is ExpertFlyer?](#what-is-expertflyer)
+- [AwardFares vs. ExpertFlyer: Key Differences](#awardfares-vs-expertflyer-what-are-the-differences)
+	- [User Interface](#1-user-interface-awardfares-has-a-modern-UI-and-beautiful-charts)
+	- [Award Searches](#2-award-searches-easy-views-and-filters)
+	- [Availability Data](#3-availability-data-real-availability-for-each-program)
+	- [Complexity](#4-complexity-awardfares-is-much-simpler-to-use)
+	- [Mobile Experience](#5-mobile-experience-awardfares-is-meant-for-mobile)
+	- [Customer Support](#6-customer-support-one-tap-to-reach-awardfares-support)
+	- [Pricing](#7-pricing)
+- [Conclusion](#conclusion)
 
 
 ## What is ExpertFlyer?
 
-ExpertFlyer is a comprehensive online travel tool designed for frequent flyers, travel enthusiasts, and aviation professionals. It offers many features and services, such as flight availability and schedules, fare class availability, seat maps and alerts, award seat search, and flight alerts.
-
-That sounds similar to what AwardFares does, right? So, what are the key differences between the two?
+[ExpertFlyer](https://www.expertflyer.com/) is a comprehensive online travel tool designed for frequent flyers, travel enthusiasts, and aviation professionals. It offers many features and services, such as flight availability and schedules, fare class availability, seat maps and alerts, award seat search, and flight alerts.
 
 <img src="/assets/img/awardfares-vs-expertflyer/1-awardfares-vs-expertflyer-ef-home.webp" alt="ExpertFlyer Home Page (2023)" />
 
 
 
-## ExpertFlyer vs. AwardFares: What are the differences?
+## AwardFares vs. ExpertFlyer: What are the differences?
 
 
 ### 1. User Interface: AwardFares has a modern UI and beautiful charts
@@ -45,7 +58,7 @@ On the other hand, ExpertFlyer’s interface tries to condense extensive informa
 
 
 
-### 2. Award Searches: Eeasy views and filter
+### 2. Award Searches: Easy views and filters
 
 While ExpertFlyer does include an award search feature, it is less focused or extensive than the award seat search capabilities found in AwardFares. Users primarily interested in award seat availability might find ExpertFlyer's offering more limited, even on the paid plans.
 
@@ -84,7 +97,7 @@ Overall, the learning curve to use ExpertFlyer is much steeper compared to what 
 Although ExpertFlyer has a mobile app, it is only included in the paid versions, and its functionality may be more limited compared to the desktop version. Users might find accessing all the features and information they need on their mobile devices more challenging. Interestingly, ExpertFlyer still showcases its mobile version on Blackberries and a first-generation iPhone. That’s a sign of an old software architecture from another internet era.
 
 <figure>
-<img src="/assets/img/awardfares-vs-expertflyer/5c-awardfares-vs-expertflyer-ef-mobile.webp" alt="ExpertFlyer Mobile App in 2023" />
+<img src="/assets/img/awardfares-vs-expertflyer/5c-awardfares-vs-expertflyer-ef-mobile.webp" alt="ExpertFlyer Mobile App in 2023" class="half" />
 </figure>
 
 AwardFares, however, has been meant for mobile from day one. Moreover, it doesn’t compromise the intuitive searches or the beautiful user interface when going mobile.
