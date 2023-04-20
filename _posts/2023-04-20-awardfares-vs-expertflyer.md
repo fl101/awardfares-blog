@@ -3,7 +3,7 @@ layout: post
 title: "AwardFares vs. ExpertFlyer"
 tags: [Guide]
 author: Germán
-hidden: true
+hidden: false
 image: /assets/img/awardfares-vs-expertflyer/cover.webp
 ---
 
