@@ -156,6 +156,6 @@ Overall, AwardFares helps travelers make more informed decisions on where to spe
 
 On the other hand, ExpertFlyer targets experienced frequent flyers that need power tools when selecting flight schedules, buying, changing, or upgrading their flights. Its features are powerful, and they have become the industry standard for a certain types of users and searches. However, it requires previous knowledge to utilize the tool fully; its learning curve is steep, and the old architecture and interface make it difficult to onboard new users.
 
-If you want to experience AwardFares, you can join and try it out by creating a free account. [Read more here](https://awardfares.com/signup).
+If you want to experience AwardFares, you can join and try it out by creating a free account. [Read more here](https://awardfares.com).
 
 
