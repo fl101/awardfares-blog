@@ -7,7 +7,7 @@ hidden: true
 image: /assets/img/awardfares-vs-expertflyer/cover.webp
 ---
 
-AwardFares is a modern and fast platform to search award availability across multiple frequenty flyer programs. Among other things, it lets you search flights to find available award seats, setup alerts to monitor award availability, and lookup seat maps and flight schedules.
+AwardFares is a modern and fast platform to search award availability across multiple frequent flyer programs. Among other things, it lets you search flights to find available award seats, setup alerts to monitor award availability, and lookup seat maps and flight schedules.
 
 Some other tools, like ExpertFlyer, provide similar functionalities for frequent flyers, travel enthusiasts, and aviation professionals when it comes to getting the most out of their airline miles, points, and benefits.
 
@@ -76,7 +76,7 @@ Another convenient feature on AwardFares is the possibility to set up email noti
 
 While ExpertFlyer provides a combined number of available seats, it's not clear where this data is sourced from, and it is hard to relate to the availability per frequent flyer program.
 
-AwardFares gives you accurate, up-to-date information on the award seat availability **for each** frequent flyer program, so users can determine not only what, but also how to book those seats.
+AwardFares gives you accurate, up-to-date information on the award seat availability **for each** frequent flyer program (more coming soon!), so users can determine not only what, but also how to book those seats.
 
 <img src="/assets/img/awardfares-vs-expertflyer/2b-awardfares-vs-expertflyer-data.webp" alt="AwardFares provides accurate and real data for each frequent flyer program." />
 
@@ -112,7 +112,7 @@ AwardFares, however, has been meant for mobile from day one. Moreover, it doesn�
 
 ExpertFlyer has been around for almost 20 years, so its online community is well-established. Some of the experiences you can capture from users are that many claim that their customer support can sometimes be slow or unresponsive. This could be a concern for those who rely on prompt assistance when encountering issues with the platform.
 
-Customer support is at the core of AwardFares’ principles. That’s why some of the UI elements at hand are aimed at seeking help quickly. On the AwardFares app, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
+Customer support is at the core of AwardFares’ principles. That’s why some of the UI elements at hand are aimed at seeking help quickly. On the AwardFares site, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
 
 <figure>
 <img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" class="half" />
@@ -156,6 +156,6 @@ Overall, AwardFares helps travelers make more informed decisions on where to spe
 
 On the other hand, ExpertFlyer targets experienced frequent flyers that need power tools when selecting flight schedules, buying, changing, or upgrading their flights. Its features are powerful, and they have become the industry standard for a certain types of users and searches. However, it requires previous knowledge to utilize the tool fully; its learning curve is steep, and the old architecture and interface make it difficult to onboard new users.
 
-If you want to experience AwardFares, you can join and try it out by creating a free account. [Read more here](https://awardfares.com/pricing).
+If you want to experience AwardFares, you can join and try it out by creating a free account. [Read more here](https://awardfares.com/signup).
 
 
