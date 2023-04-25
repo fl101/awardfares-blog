@@ -13,7 +13,7 @@ We're thrilled to announce the rollout of some great new features that we know y
 1. [Two New Frequent Flyer Programs](#new-providers-american-and-alaska)
 2. [Area Search](#area-search)
 3. [Improved Frequent Flyer Program Picker](#improved-frequent-flyer-program-picker)
-4. [First Class Search With SAS EuroBonus](#first-class-search-with-sas-eurobonus)
+4. [First Class Search With SAS EuroBonus](#bonus-first-class-search-with-sas-eurobonus)
 
 
 ## New Providers: American and Alaska
