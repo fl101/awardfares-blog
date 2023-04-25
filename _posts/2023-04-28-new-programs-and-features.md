@@ -64,4 +64,4 @@ Searches on a first-class route that can be booked using SAS EuroBonus now also 
 
 ## Get Started and Stay Tuned
 
-We are rolling out new features and improvements regularly, so make sure to create a (free) account to stay on top of the latest news, announcements and guide through our newsletter.
+We are rolling out new features and improvements regularly, so make sure to [create a (free) account](https://awardfares.com/signup) to stay on top of the latest news, announcements and guide through our newsletter.
