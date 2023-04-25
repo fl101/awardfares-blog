@@ -91,25 +91,22 @@ Notes:
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": {
+  "mainEntity": [{
     "@type": "Question",
     "name": "When does Lufthansa release award seats?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "Lufthansa typically releases award seats 360 days in advance. Lufthansa long-haul Business partner redemptions are currently released 85 days in advance. Lufthansa long-haul First partner redemptions are released 30 days in advance. Members of Miles & More can book up to 180 days in advance."
     }
-  }
-}
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": {
+  },
+  {
     "@type": "Question",
     "name": "When does Singapore Airlines release award seats?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Lufthansa typically releases award seats 355 days in advance both to their own frequent flyer program as well as partners."
+      "text": "Singapore Airlines typically releases award seats 355 days in advance both to their own frequent flyer program as well as partners."
     }
   }
+  ]
 }
 </script>
