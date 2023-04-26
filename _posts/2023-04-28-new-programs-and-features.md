@@ -63,9 +63,9 @@ As AwardFares incorporates more features, we are also slightly adjusting what's 
 
 ## Bonus: First-class Search With SAS EuroBonus
 
-we've improved the way we find [first-class availability with SAS EuroBonus](https://awardfares.com/search?..;c:first;z:eurobonus). Our algorithm now sources data from other frequent flyer programs to better estimate the number of available seats, when that information is not directly available from SAS. 
+We've improved the way we find [first-class availability with SAS EuroBonus](https://awardfares.com/search?..;c:first;z:eurobonus). Our algorithm now sources data from other frequent flyer programs to better estimate the number of available seats, when that information is not directly available from SAS. 
 
-*Note: keep in mind that the estimated seats does not guarantee availability.*
+*Note: keep in mind that the estimation is informative and does not guarantee available seats.*
 
 <img src="/assets/img/new-programs-and-features-apr-2023/new-features-4.webp" alt="New First-class Search Using SAS EuroBonus Points." />
 
