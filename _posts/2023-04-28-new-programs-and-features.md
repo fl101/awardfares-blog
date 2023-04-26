@@ -32,7 +32,14 @@ Both programs are now visible on the availability view after performing a search
 
 ## Area Search
 
-This is a long-awaited feature: users can now search metropolitan areas! For example, you can query flights to [TYO](https://awardfares.com/search?.area:TYO.), [LON](https://awardfares.com/search?.area:LON.), [NYC](https://awardfares.com/search?.area:NYC.), and AwardFares will show up results for airports in that metro area. Click to try!
+
+
+
+This is a long-awaited feature: users can now search metropolitan areas! There are several big cities in the world that have multiple operating airports, such as Tokyo, New York, and London).
+
+You can now search flights to all airports in a particular city by using a city code. For example, find all flights to Tokyo (HND and NRT) [by using TYO](https://awardfares.com/search?.area:TYO.). Similarly, find flights to all New York City airports (e.g. EWR and JFK) [using NYC](https://awardfares.com/search?.area:NYC.), to all London airports [using LON](https://awardfares.com/search?.area:LON.), etc.
+
+Click to try!
 
 
 <img src="/assets/img/new-programs-and-features-apr-2023/new-features-2.webp" alt="Search Metropolitan Areas using AwadrFares." />
@@ -40,14 +47,15 @@ This is a long-awaited feature: users can now search metropolitan areas! For exa
 
 ## Improved Frequent Flyer Program Picker
 
-The Frequent Flyer Program (FFP) field is now a primary search field, which makes it easier to interact with an more clear when performing searches, as we grow into more frequent flyer programs. Users can still perform searches across program, just as before, by tapping on the drop-down menu and adding those.
+The Frequent Flyer Program (FFP) field is now a primary search field, which makes it easier to interact with, and more clear when performing searches, as we grow into more frequent flyer programs. Users can still perform searches across program, just as before, by tapping on the drop-down menu and adding those.
 
  <img src="/assets/img/new-programs-and-features-apr-2023/new-features-3a.webp" alt="New frequent flyer program picker on AwardFares" />
 
 
 The FFP selection is required, unless performing a broad search (e.g. [Europe-Asia](https://awardfares.com/search?zone:Europe.continent:AS.)). By the way, AwardFares will remember your selection for your next session, so there’s no need to re-select the programs on new sessions.
 
-Gold members can search **up to two programs** at a time, and **unlimited** programs for Diamond members.
+
+As AwardFares incorporates more features, we are also slightly adjusting what's included in our Gold and Diamond tiers. From now on, Gold members will be able to search **up to two programs** at a time, and Diamond members will get to search **unlimited** programs simultaneously.
 
 <img src="/assets/img/new-programs-and-features-apr-2023/new-features-3b.webp" alt="Search limits on AwardFares Gold and Diamond (April 2023)." />
 
@@ -55,7 +63,9 @@ Gold members can search **up to two programs** at a time, and **unlimited** prog
 
 ## Bonus: First-class Search With SAS EuroBonus
 
-We now fully support searching for [first-class seats with SAS EuroBonus](https://awardfares.com/search?..;c:first;z:eurobonus)!
+we've improved the way we find [first-class availability with SAS EuroBonus](https://awardfares.com/search?..;c:first;z:eurobonus). Our algorithm now sources data from other frequent flyer programs to better estimate the number of available seats, when that information is not directly available from SAS. 
+
+*Note: keep in mind that the estimated seats does not guarantee availability.*
 
 <img src="/assets/img/new-programs-and-features-apr-2023/new-features-4.webp" alt="New First-class Search Using SAS EuroBonus Points." />
 
