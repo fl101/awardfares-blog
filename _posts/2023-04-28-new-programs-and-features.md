@@ -55,9 +55,7 @@ Gold members can search **up to two programs** at a time, and **unlimited** prog
 
 ## Bonus: First-class Search With SAS EuroBonus
 
-Determining [first-class availability on SAS EuroBonus](https://awardfares.com/search?..;c:first;z:eurobonus) has always been challenging, and most often it requires to give a call to SAS service center. BUT, we’ve now improved the experience for EuroBonus members.
-
-Searches on a first-class route that can be booked using SAS EuroBonus now also add a search a search on Aeroplan too. Historically, Aeroplan’s availability matches fairly well with EuroBonus, so we use this information to complement SAS search results.
+We now fully support searching for [first-class seats with SAS EuroBonus](https://awardfares.com/search?..;c:first;z:eurobonus)!
 
 <img src="/assets/img/new-programs-and-features-apr-2023/new-features-4.webp" alt="New First-class Search Using SAS EuroBonus Points." />
 
