@@ -4,7 +4,7 @@ title: "Introducing New Frequent Flyer Programs, Area Searches & More Exciting F
 tags: [News]
 author: Philip
 image: /assets/img/new-programs-and-features-apr-2023/cover.webp
-hidden: true
+hidden: false
 hide_image_in_post: false
 ---
 
