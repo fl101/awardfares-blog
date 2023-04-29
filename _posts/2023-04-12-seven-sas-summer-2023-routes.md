@@ -15,7 +15,7 @@ Scandinavian Airlines has an ambitious ramp up plan for summer 2023, and it is w
 
 ### 1. [Copenhagen to Washington](https://awardfares.com/search?CPH.IAD.;a:SK;z:eurobonus) (SK925 A350-900)
 
-Washington, the vibrant capital of the United State, has plenty to offer. You can immerse yourself in the rich history and culture, explore iconic landmarks such as the White House, the Capitol, and the Washington Monument, while learning about the country's political heritage. 
+Washington, the vibrant capital of the United States, has plenty to offer. You can immerse yourself in the rich history and culture, explore iconic landmarks such as the White House, the Capitol, and the Washington Monument, while learning about the country's political heritage. 
 
 There's also the world-renowned Smithsonian Institution, which boasts numerous museums and galleries, including the National Air and Space Museum, the National Museum of Natural History, and the National Museum of American History. With its diverse neighborhoods, top-notch restaurants, and lively arts scene, Washington D.C. truly offers something for everyone.
 
