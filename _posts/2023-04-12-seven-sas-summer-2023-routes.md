@@ -13,13 +13,15 @@ Scandinavian Airlines has an ambitious ramp up plan for summer 2023, and it is w
 ## SAS Summer 2023 Flights (Top 7 Options)
 
 
-### 1. [Copenhagen to Houston](https://awardfares.com/search?CPH.IAD.;a:SK;z:eurobonus) (SK925 A350-900)
+### 1. [Copenhagen to Washington](https://awardfares.com/search?CPH.IAD.;a:SK;z:eurobonus) (SK925 A350-900)
 
-If you're a space enthusiast, Houston must be in your bucket list. Make sure to visit the Spce Center Houston, where you can experience simulations of spacewalks, tour the facility where astronauts train, and see real-life spacecraft up close. For those interested in history and science, the Houston Museum of Natural Science is a must-visit, with exhibitions on everything from dinosaurs to gems and minerals. It's culinary scene is also diverse and fun.
+Washington, the vibrant capital of the United State, has plenty to offer. You can immerse yourself in the rich history and culture, explore iconic landmarks such as the White House, the Capitol, and the Washington Monument, while learning about the country's political heritage. 
+
+There's also the world-renowned Smithsonian Institution, which boasts numerous museums and galleries, including the National Air and Space Museum, the National Museum of Natural History, and the National Museum of American History. With its diverse neighborhoods, top-notch restaurants, and lively arts scene, Washington D.C. truly offers something for everyone.
 
 It's convenient to have a direct flight from one of SAS hubs. There's plenty of availability in May and June on this route, scheduled on the A350-900.
 
-<img src="/assets/img/sas-summer-2023-routes/1-cph-iad.webp" alt="Copenhagen to Houston search on AwardFares" />
+<img src="/assets/img/sas-summer-2023-routes/1-cph-iad.webp" alt="Copenhagen to Washington D.C. search on AwardFares" />
 
 ### 2. [Aalborg to New York EWR](https://awardfares.com/search?AAL.EWR.;a:SK;z:eurobonus) (SK921 A321neo)
 
