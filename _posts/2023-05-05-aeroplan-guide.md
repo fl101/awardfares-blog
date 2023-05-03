@@ -42,27 +42,27 @@ Look for flights with low taxes and fees, such as those operated by Swiss or Tur
 
 #### 2. [North America to Deep South America](https://awardfares.com/search?continent:NA.country:AR,country:BR,country:CL.;z:aeroplan)
 
-Redeeming miles for flights to countries like Argentina, Brazil, and Chile can provide good value, particularly when flying in business class.
+Redeeming miles for flights to countries like Argentina, Brazil, and Chile can provide good value, especially when flying in Business Class.
 
 <img src="/assets/img/aeroplan-guide/2-aeroplan-na-to-sa.webp" alt="North America Deep South America on Aeroplan (using AwardFares)." />
 
 
 #### 3. [Intra-Asia flights](https://awardfares.com/search?continent:AS.continent:AS.;z:aeroplan)
 
-Redeeming miles for flights within Asia, particularly on carriers like EVA Air or ANA, can offer a great value for shorter routes in business or first class.
+Redeeming miles for flights within Asia, particularly on carriers like EVA Air or ANA, can offer a great value for shorter routes in Business or First class.
 
 <img src="/assets/img/aeroplan-guide/3-aeroplan-intra-asia.webp" alt="Intra Asia Flights on Aeroplan (using AwardFares)." />
 
 #### 4. [North America to Australia or New Zealand](https://awardfares.com/search?continent:NA.country:AU,country:NZ.;z:aeroplan)
 
-Finding availability can be challenging, but redeeming miles for business or first-class flights to Australia or New Zealand can yield excellent value.
+Finding availability can be challenging, but redeeming miles for Business or First-class flights to Australia or New Zealand can yield excellent value! Pro tip: Be specific in your searches and you might have a better chance of detecting awards. Remeber you can also set up alerts!
 
 <img src="/assets/img/aeroplan-guide/4-aeroplan-na-to-au.webp" alt="North America to Australia or New Zealand on Aeroplan (using AwardFares)." />
 
 
 #### 5. [North America to the Middle East or North Africa](https://awardfares.com/search?continent:NA.zone:North%20&%20Central%20Africa,%20Middle%20East.;c:business;z:aeroplan)
 
-Routes to destinations like the United Arab Emirates, Qatar, and Morocco can offer good value, particularly when flying with Star Alliance partners.
+Routes to destinations like the United Arab Emirates, Qatar, and Morocco can offer good value. There are multiple Star Alliance partners that oprate these routes, so availability is often decent.
 
 <img src="/assets/img/aeroplan-guide/5-aeroplan-na-to-mea.webp" alt="North America to Middle East or North Africa on Aeroplan (using AwardFares)." />
 
@@ -73,14 +73,14 @@ Aeroplan can provide good value on shorter domestic routes within Canada, especi
 
 #### 7. [Short-haul flights within Europe](https://awardfares.com/search?zone:Europe.zone:Europe.;o:price;so:asc;z:aeroplan)
 
-Redeeming miles for short-haul flights on Star Alliance partners within Europe can provide good value, particularly when compared to high cash fares. There are a lot of open spaces during Summer 2023!
+We typically don't recommend redeeming miles on short-haul flights, but in during some weeks or seasons the cash fares can be incredibly high, and miles can helpy you save a ton of money. For short-haul flights on Star Alliance partners within Europe, there are a lot of open spaces during Summer 2023!
 
 <img src="/assets/img/aeroplan-guide/7-aeroplan-intra-eu.webp" alt="Short-haul flights within Europe on Aeroplan (using AwardFares)." />
 
 
 #### 8. [Flights within North America](https://awardfares.com/search?continent:NA.continent:NA.;o:price;so:asc;z:aeroplan)
 
-The award chart for flights within North America is quite decent, and there’s always decent availability if prices are 
+The award chart for flights within North America is quite decent, and availability has been historically good if you need to get that last-minute seat!
 
 <img src="/assets/img/aeroplan-guide/1-aeroplan-na-to-europe.webp" alt="Intra North America Flights on Aeroplan (using AwardFares)." />
 
@@ -144,7 +144,7 @@ The award chart for flights within North America is quite decent, and there’s 
 
 #### 9. [North America to Asia](https://awardfares.com/search?continent:NA.continent:AS.;o:price;so:asc;z:aeroplan)
 
-Redeeming miles for flights to Asia, particularly on carriers like ANA or EVA Air, can offer exceptional value in both business and first class.
+Redeeming Aeroplan miles for flights to Asia on carriers like ANA or EVA Air can offer exceptional value in both Business and First Class. Try filtering out by cabin type when searching on AwardFares.
 
 
 <img src="/assets/img/aeroplan-guide/9-aeroplan-na-asia.webp" alt="North America to Asia on Aeroplan (using AwardFares)." />
@@ -166,7 +166,7 @@ AwardFares can help Aeroplan members quickly find available reward flights by sc
 
 ### Customized Alerts
 
-AwardFares allows Aeroplan members to set up alerts for specific destinations, travel dates, and cabin classes. This way, members receive notifications when reward seats become available, increasing their chances of securing the perfect flight.
+Aeroplan users will find it very simple to set up alerts on AwardFares, for specific destinations, travel dates, and cabin classes. This way, members receive notifications when reward seats become available, increasing their chances of securing the perfect flight.
 
 
 ### Advanced Search Options
