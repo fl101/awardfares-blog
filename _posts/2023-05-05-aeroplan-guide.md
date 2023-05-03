@@ -23,16 +23,16 @@ Aeroplan is Air Canada’s frequent flyer program (Canada’s largest airline). 
 If you are curious like us, Aeroplan was originally launched in 1984 as a division of Air Canada and later became a separate company. In 2020, Air Canada reacquired Aeroplan and integrated it back into the airline's operations.
 
 
-## How much are Aeroplan miles worth? {#how-much-are-aeroplan-miles-worth}
+### How much are Aeroplan miles worth? {#how-much-are-aeroplan-miles-worth}
 
 As with any other frequent flyer program, the value of Aeroplan miles varies greatly depending on how they are redeemed. As a general rule of thumb, Aeroplan miles are worth between 1.2 and 2.5 cents per mile when redeemed for flights, but this value is not fixed and can fluctuate based on various factors such as the route, cabin class, demand, and redemption type.
 
 When redeeming miles for business or first-class flights, you may get a higher value per mile compared to economy-class redemptions.
 
 
-## Aeroplan Award Chart Sweet spots {#aeroplan-award-chart-sweet-spots}
+### Aeroplan Award Chart Sweet spots {#aeroplan-award-chart-sweet-spots}
 
-1. [North America to Europe in Business Class](https://awardfares.com/search?continent:NA.zone:Europe.;c:business;z:aeroplan)
+#### 1. [North America to Europe in Business Class](https://awardfares.com/search?continent:NA.zone:Europe.;c:business;z:aeroplan)
 
 Look for flights with low taxes and fees, such as those operated by Swiss or Turkish Airlines. This can offer exceptional value for your miles, especially on longer routes.
 
@@ -40,45 +40,45 @@ Look for flights with low taxes and fees, such as those operated by Swiss or Tur
 <img src="/assets/img/aeroplan-guide/1-aeroplan-na-to-europe.webp" alt="North America to Europe in Business Class on Aeroplan (using AwardFares)." />
 
 
-2. [North America to Deep South America](https://awardfares.com/search?continent:NA.country:AR,country:BR,country:CL.;z:aeroplan)
+#### 2. [North America to Deep South America](https://awardfares.com/search?continent:NA.country:AR,country:BR,country:CL.;z:aeroplan)
 
 Redeeming miles for flights to countries like Argentina, Brazil, and Chile can provide good value, particularly when flying in business class.
 
 <img src="/assets/img/aeroplan-guide/2-aeroplan-na-to-sa.webp" alt="North America Deep South America on Aeroplan (using AwardFares)." />
 
 
-3. [Intra-Asia flights](https://awardfares.com/search?continent:AS.continent:AS.;z:aeroplan)
+#### 3. [Intra-Asia flights](https://awardfares.com/search?continent:AS.continent:AS.;z:aeroplan)
 
 Redeeming miles for flights within Asia, particularly on carriers like EVA Air or ANA, can offer a great value for shorter routes in business or first class.
 
 <img src="/assets/img/aeroplan-guide/3-aeroplan-intra-asia.webp" alt="Intra Asia Flights on Aeroplan (using AwardFares)." />
 
-4. [North America to Australia or New Zealand](https://awardfares.com/search?continent:NA.country:AU,country:NZ.;z:aeroplan)
+#### 4. [North America to Australia or New Zealand](https://awardfares.com/search?continent:NA.country:AU,country:NZ.;z:aeroplan)
 
 Finding availability can be challenging, but redeeming miles for business or first-class flights to Australia or New Zealand can yield excellent value.
 
 <img src="/assets/img/aeroplan-guide/4-aeroplan-na-to-au.webp" alt="North America to Australia or New Zealand on Aeroplan (using AwardFares)." />
 
 
-5. [North America to the Middle East or North Africa](https://awardfares.com/search?continent:NA.zone:North%20&%20Central%20Africa,%20Middle%20East.;c:business;z:aeroplan)
+#### 5. [North America to the Middle East or North Africa](https://awardfares.com/search?continent:NA.zone:North%20&%20Central%20Africa,%20Middle%20East.;c:business;z:aeroplan)
 
 Routes to destinations like the United Arab Emirates, Qatar, and Morocco can offer good value, particularly when flying with Star Alliance partners.
 
 <img src="/assets/img/aeroplan-guide/5-aeroplan-na-to-mea.webp" alt="North America to Middle East or North Africa on Aeroplan (using AwardFares)." />
 
 
-6. [Domestic short-haul flights within Canada](https://awardfares.com/search?country:CA.country:CA.;o:price;so:asc;z:aeroplan)
+#### 6. [Domestic short-haul flights within Canada](https://awardfares.com/search?country:CA.country:CA.;o:price;so:asc;z:aeroplan)
 
 Aeroplan can provide good value on shorter domestic routes within Canada, especially when cash fares are high.
 
-7. [Short-haul flights within Europe](https://awardfares.com/search?zone:Europe.zone:Europe.;o:price;so:asc;z:aeroplan)
+#### 7. [Short-haul flights within Europe](https://awardfares.com/search?zone:Europe.zone:Europe.;o:price;so:asc;z:aeroplan)
 
 Redeeming miles for short-haul flights on Star Alliance partners within Europe can provide good value, particularly when compared to high cash fares. There are a lot of open spaces during Summer 2023!
 
 <img src="/assets/img/aeroplan-guide/7-aeroplan-intra-eu.webp" alt="Short-haul flights within Europe on Aeroplan (using AwardFares)." />
 
 
-8. [Flights within North America](https://awardfares.com/search?continent:NA.continent:NA.;o:price;so:asc;z:aeroplan)
+#### 8. [Flights within North America](https://awardfares.com/search?continent:NA.continent:NA.;o:price;so:asc;z:aeroplan)
 
 The award chart for flights within North America is quite decent, and there’s always decent availability if prices are 
 
@@ -142,7 +142,7 @@ The award chart for flights within North America is quite decent, and there’s 
 </table>
 
 
-9. [North America to Asia](https://awardfares.com/search?continent:NA.continent:AS.;o:price;so:asc;z:aeroplan)
+#### 9. [North America to Asia](https://awardfares.com/search?continent:NA.continent:AS.;o:price;so:asc;z:aeroplan)
 
 Redeeming miles for flights to Asia, particularly on carriers like ANA or EVA Air, can offer exceptional value in both business and first class.
 
@@ -151,8 +151,7 @@ Redeeming miles for flights to Asia, particularly on carriers like ANA or EVA Ai
 
 
 
-
-## When does Aeroplan release award seats? {#when-does-aeroplan-release-award-seats}
+### When does Aeroplan release award seats? {#when-does-aeroplan-release-award-seats}
 
 Air Canada Aeroplan releases award seats a year in advance (365 days). Read more about when different programs open award space [in our ultimate guide here](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/).
 
