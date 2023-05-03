@@ -32,6 +32,11 @@ When redeeming miles for business or first-class flights, you may get a higher v
 
 ### Aeroplan Award Chart Sweet spots {#aeroplan-award-chart-sweet-spots}
 
+In 2021, Aeroplan has moved to a dynamic pricing model for its reward flights, which means that there isn't a fixed award chart with set redemption rates. This makes it more difficul to find good redemptions. However, there are still some sweet spots where you can get great value from your Aeroplan miles.
+
+Here are ten examples of such routes:
+
+
 #### 1. [North America to Europe in Business Class](https://awardfares.com/search?continent:NA.zone:Europe.;c:business;z:aeroplan)
 
 Look for flights with low taxes and fees, such as those operated by Swiss or Turkish Airlines. This can offer exceptional value for your miles, especially on longer routes.
