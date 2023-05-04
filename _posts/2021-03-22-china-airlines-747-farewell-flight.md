@@ -9,7 +9,7 @@ hide_image_in_post: true
 
 Today's journey started months ago when I read that Taiwan's flag carrier, China Airlines, would be arranging a special 747 farewell flight as they would be retiring their 747 fleet. Furthermore, this wasn't just a regular "flight to nowhere". The goal was to fly to Japan, passing the iconic Mt. Fuji, and then return to Taiwan. Since I'm currently living in Taiwan I thought I would try to get a ticket on this special flight.
 
-<img src="/assets/img/china-airlines-747-farewell/kkday.png" />
+<img src="/assets/img/china-airlines-747-farewell/kkday.webp" />
 
 I knew there would be a lot of competition getting tickets for this flight. My first attempt was to book business class. However, that failed and I made another attempt and luckily was able to get an economy ticket instead. Apparently they sold out within a couple of minutes!
 
@@ -17,7 +17,7 @@ I knew there would be a lot of competition getting tickets for this flight. My f
 
 Today's flight departed from Taoyuan Interntional Airport (TPE), heading north-east towards Japan, flying past Mt. Fuji, and then returning back to Taiwan. With a scheduled flight time of just over 5 hours, this would definitely be the longest flight I've taken in a long time!
 
-<img src="/assets/img/china-airlines-747-farewell/flight-map1.png" />
+<img src="/assets/img/china-airlines-747-farewell/flight-map1.webp" />
 
 The assigned flight number was appropriately chosen to be CI-2747.
 
@@ -116,7 +116,7 @@ As we approached Mt. Fuji, competition for window views was getting quite fierce
 
 Our flight made two passes by Mt. Fuji.
 
-<img src="/assets/img/china-airlines-747-farewell/flight-map2.png" class="half" />
+<img src="/assets/img/china-airlines-747-farewell/flight-map2.webp" class="half" />
 
 The first on the left-hand side at 27,000 ft.
 

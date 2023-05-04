@@ -31,7 +31,7 @@ After having recently acquired my SkyTeam Elite Plus status, through the Delta S
 </tr>
 </table>
 
-<img src="/assets/img/china-airlines-ams-tpe-economy-review/0-map.png" />
+<img src="/assets/img/china-airlines-ams-tpe-economy-review/0-map.webp" />
 
 ## Booking & Seat Selection
 
