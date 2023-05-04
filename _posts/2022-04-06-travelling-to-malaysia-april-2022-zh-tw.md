@@ -4,7 +4,7 @@ title: 2022年4月—馬來西亞解除入境管制，2022年馬來西亞入境�
 tags: [Guide]
 author: Philip
 image: /assets/img/malaysia-border-april-2022/mysafetravel.png
-lang: zh_TW
+lang: zh-TW
 ---
 
 馬來西亞在2022年4月1日起重開邊境，解除所有針對外國人的入境管制，旅客只要完整接種過疫苗就不用再進行入境隔離。不過整個大馬入境過程用說的可能比做的容易，旅客需要準備以下事項：

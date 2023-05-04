@@ -5,7 +5,7 @@ tags: [EVA, Guide]
 author: Philip
 image: /assets/img/eva-air-redemption/search-zh-tw.png
 hide_image_in_post: true
-lang: zh_TW
+lang: zh-TW
 ---
 
 不得不說，長榮航空的哩程兌換方式是有點特殊。我最近才剛有機會用長榮的飛行常客計劃（哩程獎勵計劃）兌換哩程，流程不是很簡單，尤其是這次我還需要用哩程幫我自己和同行夥伴訂兩張機票，過程更是複雜。

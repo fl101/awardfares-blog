@@ -4,7 +4,7 @@ title: AwardFares 101 - 開始使用
 tags: [Guide]
 author: Philip
 image: /assets/img/awardfares-101-zh-tw/overview.png
-lang: zh_TW
+lang: zh-TW
 ---
 
 在 AwardFares 網站上，你可以輕鬆查詢和追蹤哩程艙位，以下是AwardFares 提供的服務：
