@@ -4,16 +4,22 @@ title: "How To Find The Best Aeroplan Award Flights (9 Sweet Spots)"
 tags: [Guide]
 author: Germán
 image: /assets/img/aeroplan-guide/cover.webp
-hidden: true
+hidden: false
 hide_image_in_post: false
 ---
 
-As an Aeroplan member, you have access to a world of travel possibilities through Air Canada and its Star Alliance partners. However, navigating the program to find the most valuable redemptions and sweet spots can be a daunting task. Don’t worry, we’ve got you covered!
+As an Aeroplan member, you have access to a world of travel possibilities through Air Canada and its partners. However, navigating the program to find the most valuable redemptions and sweet spots can be a daunting task. Don’t worry, we’ve got you covered!
 
 In this guide, we'll show you how AwardFares simplifies this process, and share expert tips on how to search for and book award flights that offer the best value for your hard-earned miles. Start turning your Aeroplan miles into unforgettable travel experiences!
 
 
-[TOC]
+### In this post
+
+- [What is Aeroplan?](#what-is-aeroplan)
+- [Aeroplan Miles Value](#how-much-are-aeroplan-miles-worth)
+- [Aeroplan Award Chart: Sweet Spots](#aeroplan-award-chart-sweet-spots)
+- [Using AwardFares to find Aeroplan Awards](#find-the-best-aeroplan-redemptions-using-awardfares)
+- [Finding Emirates Awards](#bonus-find-emirates-awards)
 
 
 ## What is Aeroplan? {#what-is-aeroplan}
@@ -25,7 +31,7 @@ If you are curious like us, Aeroplan was originally launched in 1984 as a divisi
 
 ### How much are Aeroplan miles worth? {#how-much-are-aeroplan-miles-worth}
 
-As with any other frequent flyer program, the value of Aeroplan miles varies greatly depending on how they are redeemed. As a general rule of thumb, Aeroplan miles are worth between 1.2 and 2.5 cents per mile when redeemed for flights, but this value is not fixed and can fluctuate based on various factors such as the route, cabin class, demand, and redemption type.
+As with any other frequent flyer program, the value of Aeroplan miles varies greatly depending on how they are redeemed. As a general rule of thumb, Aeroplan miles are worth between 1.2 and 2.5 USD cents per mile when redeemed for flights, but this value is not fixed and can fluctuate based on various factors such as the route, cabin class, demand, and redemption type.
 
 When redeeming miles for business or first-class flights, you may get a higher value per mile compared to economy-class redemptions.
 
@@ -78,7 +84,7 @@ Aeroplan can provide good value on shorter domestic routes within Canada, especi
 
 #### 7. [Short-haul flights within Europe](https://awardfares.com/search?zone:Europe.zone:Europe.;o:price;so:asc;z:aeroplan)
 
-We typically don't recommend redeeming miles on short-haul flights, but in during some weeks or seasons the cash fares can be incredibly high, and miles can helpy you save a ton of money. For short-haul flights on Star Alliance partners within Europe, there are a lot of open spaces during Summer 2023!
+We typically don't recommend redeeming miles on short-haul flights, but during some weeks or seasons the cash fares can be incredibly high, and miles can helpy you save a ton of money. For short-haul flights on Star Alliance partners within Europe, there are a lot of open spaces during Summer 2023!
 
 <img src="/assets/img/aeroplan-guide/7-aeroplan-intra-eu.webp" alt="Short-haul flights within Europe on Aeroplan (using AwardFares)." />
 
@@ -87,7 +93,7 @@ We typically don't recommend redeeming miles on short-haul flights, but in durin
 
 The award chart for flights within North America is quite decent, and availability has been historically good if you need to get that last-minute seat!
 
-<img src="/assets/img/aeroplan-guide/1-aeroplan-na-to-europe.webp" alt="Intra North America Flights on Aeroplan (using AwardFares)." />
+<img src="/assets/img/aeroplan-guide/8-aeroplan-na.webp" alt="Intra North America Flights on Aeroplan (using AwardFares)." />
 
 
 **Aeroplan Chart Within North America [Air Canada (Partners)]**
@@ -184,7 +190,6 @@ With the [recently introduced features](https://blog.awardfares.com/new-programs
 <img src="/assets/img/aeroplan-guide/10-aeroplan-advanced-search.webp" alt="AwardFares Advanced Search Features with Aeroplan." />
 
 
-
 ### Route Suggestions
 
 AwardFares can suggest alternative routes or layover cities, helping Aeroplan members find more availability or better redemption rates. This feature is particularly helpful when searching for complex itineraries or during high-demand travel periods.
@@ -198,7 +203,7 @@ AwardFares can suggest alternative routes or layover cities, helping Aeroplan me
 AwardFares provides an award calendar feature that displays availability for a range of dates, making it easier for Aeroplan members to plan their trips and identify periods with better award flight options.
 
 
-## Bonus: Find Emirates Redemptions {#bonus-find-emirates-redemptions}
+## Bonus: Find Emirates Awards {#bonus-find-emirates-awards}
 
 Emirates [recently became a partner airline of Aeroplan](https://www.aircanada.com/ca/en/aco/home/aeroplan/news/emirates.html#/) (December 2022), and even though redemption rates can be all over the place, there are also some sweet spots in their award chart, such as Chicago to Dubai in Business or First Class, and other routes to Asia.
 
