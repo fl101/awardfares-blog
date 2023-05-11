@@ -168,6 +168,9 @@ We are rolling out new features and improvements regularly, so sign up for our n
     var endpoint = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';
     fetch(endpoint + '/api/stats/' + chart + '.json').then(resp => {
       resp.json().then(data => {
+        while (data.length < 10) {
+          data.push({ route: '', total: 0 });
+        }
         new Chart(document.getElementById(chart), {
           type: 'bar',
           data: {
@@ -175,12 +178,22 @@ We are rolling out new features and improvements regularly, so sign up for our n
             datasets: [
               {
                 label: 'Award seats available per route',
-                data: data.map(row => row.total)
+                data: data.map(row => row.total),
+                maxBarThickness: 16,
               }
             ]
           },
           options: {
             indexAxis: 'y',
+            scales: {
+              x: {
+                ticks: {
+                  min: 0, // it is for ignoring negative step.
+                  beginAtZero: true,
+                  precision: 0,
+                }
+              }
+            }
           }
         });
       });
