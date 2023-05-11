@@ -113,24 +113,15 @@ The lists below are updated in real time and show you the available award seats 
 
 ### First-class on Lufthansa
 
-<figure>
-<img src="/assets/img/aeroplan-first-class/bonus-1-lh.webp" alt="a" />
-</figure>
-
+<canvas id="aeroplan-first-lh"></canvas>
 
 ### First-class on Emirates
 
-<figure>
-<img src="/assets/img/aeroplan-first-class/bonus-2-emirates.webp" alt="a" />
-</figure>
-
+<canvas id="aeroplan-first-ek"></canvas>
 
 ### First-class on ANA
 
-<figure>
-<img src="/assets/img/aeroplan-first-class/bonus-3-ana.webp" alt="a" />
-</figure>
-
+<canvas id="aeroplan-first-nh"></canvas>
 
 ### Why AwardFares is Your Go-To Tool for First-Class Award Searches
 
@@ -165,3 +156,47 @@ AwardFares continuously monitors award availability across multiple airlines, en
 Make sure to also [check this post out with the best Aeroplan award chart sweet spots](https://blog.awardfares.com/aeroplan-guide/) and how to find them.
 
 We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips.
+
+<!-- ChartJS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.3.0/chart.umd.min.js" integrity="sha512-TJ7U6JRJx5IpyvvO9atNnBzwJIoZDaQnQhb0Wmw32Rj5BQHAmJG16WzaJbDns2Wk5VG6gMt4MytZApZG47rCdg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+  createStatsChart('aeroplan-first-lh');
+  createStatsChart('aeroplan-first-ek');
+  createStatsChart('aeroplan-first-nh');
+  function createStatsChart(chart) {
+    var endpoint = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';
+    fetch(endpoint + '/api/stats/' + chart + '.json').then(resp => {
+      resp.json().then(data => {
+        while (data.length < 10) {
+          data.push({ route: '', total: 0 });
+        }
+        new Chart(document.getElementById(chart), {
+          type: 'bar',
+          data: {
+            labels: data.map(row => row.route),
+            datasets: [
+              {
+                label: 'Award seats available per route',
+                data: data.map(row => row.total),
+                maxBarThickness: 16,
+              }
+            ]
+          },
+          options: {
+            indexAxis: 'y',
+            scales: {
+              x: {
+                ticks: {
+                  min: 0, // it is for ignoring negative step.
+                  beginAtZero: true,
+                  precision: 0,
+                }
+              }
+            }
+          }
+        });
+      });
+    });
+  }
+</script>
