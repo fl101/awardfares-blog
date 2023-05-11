@@ -4,11 +4,11 @@ title: "SAS Opens New Route To Morocco (And You Can Book It With Points)"
 tags: [News]
 author: Germán
 image: /assets/img/sas-opens-route-to-morocco/cover.webp
-hidden: true
+hidden: false
 hide_image_in_post: false
 ---
 
-SAS Scandinavian Airlines is gearing up to launch its service to Morocco this November, marking its grand return to Africa after a break of many, many years.
+SAS Scandinavian Airlines is gearing up to [launch its service to Morocco](https://www.sasgroup.net/newsroom/press-releases/2023/sas-returns-to-africa-by-flying-to-agadir-this-upcoming-winter/) this November, marking its grand return to Africa after a break of many, many years.
 
 They've got their sights set on Agadir-Al Massira Airport, with flights taking off from both Copenhagen Airport and Stockholm Arlanda Airport starting November 4th. These flights will run once a week, seasonally, until March 2024.
 
@@ -41,7 +41,7 @@ You can already see the available seats using AwardFares,try clicking the routes
 
 ## Stay tuned.
 
-We are rolling out new features and improvements regularly, so make sure to create an account and sign up for our newsletter to stay on top of the latest news, announcements, and pro tips.
+We are rolling out new features and improvements regularly, so make sure to [create a free account](https://awardfares.com/signup) and sign up for our newsletter to stay on top of the latest news, announcements, and pro tips.
 
 ## Related Posts.
 
