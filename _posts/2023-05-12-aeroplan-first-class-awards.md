@@ -25,13 +25,13 @@ In this guide, we cover a step-by-step guide on how to find good first-class red
 Go to AwardFares’ sign-up page and create an account. You’ll need to enter an email address and a password.
 
 <figure>
-<img src="/assets/img/aeroplan-first-class/1a-aeroplan-signup.webp" alt="Create a new AwardFares account." />
+<img src="/assets/img/aeroplan-first-class/1a-awardfares-signup.webp" alt="Create a new AwardFares account." />
 </figure>
 
 After completing the form, you will receive an email with a link to activate your account. Once the account is activated, you are ready to start searching!
 
 <figure>
-<img src="/assets/img/aeroplan-first-class/1b-aeroplan-activate.webp" alt="Activate your AwardFares account after creation." />
+<img src="/assets/img/aeroplan-first-class/1b-awardfares-activate.webp" alt="Activate your AwardFares account after creation." />
 </figure>
 
 
