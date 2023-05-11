@@ -18,12 +18,12 @@ Agadir, according to SAS, is the perfect place to escape the chilly Scandinavian
 
 This announcement follows on the heels of SAS's recent reveal that they'll resume their service to Bangkok Suvarnabhumi Airport from Copenhagen, starting Oct. 30. It's been nearly ten years since they last flew that route, making this a pretty big deal!
 
+
+## Book the new SAS route to Agadir using EuroBonus Points
+
 **Now, the great news**: you can already book this flight using SAS EuroBonus points! And they are priced as a European route, which means that you can book the route for 30k points round trip on SAS Go, and 50k points round trip on SAS Plus.
 
 You can already see the available seats using AwardFares,try clicking the routes and exploring the results yourself!
-
-
-## Book the new SAS route to Agadir using EuroBonus Points
 
 
 ### [Stockholm to Agadir (ARN-AGA)](https://awardfares.com/search?ARN.AGA.2023-11-04;o:price;so:asc;x:0;z:eurobonus)
