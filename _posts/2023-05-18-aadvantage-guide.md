@@ -17,7 +17,7 @@ Let’s get started!
 ### In this post
 
 - [What is AAdvantage?](#what-is-aadvantage)
-- [How to find AAdvantage Awards using AwardFares](#how-to-find-aadvantage-awards-using-awardfares)
+- [How to find AAdvantage Awards using AwardFares](#find-aadvantage-awards-using-awardfares)
 - [AAdvantage Award Chart 2023](#aadvantage-award-chart)
 
 ## What is [AAdvantage](https://awardfares.com/search?..;z:aadvantage)?
@@ -38,7 +38,7 @@ Here are a few of the most important ones. **Spoiler alert:** the [AAdvantage sh
 * **A good customer service reputation**. AAdvantage has a good reputation for customer service.
 
 
-## How to find AAdvantage Awards using AwardFares (Step-by-step)
+## How to find AAdvantage Awards using AwardFares (Step-by-step) {#find-aadvantage-awards-using-awardfares}
 
 
 ### 1. Go to the AwardFares website and [create an account](https://awardfares.com/signup).
@@ -91,7 +91,7 @@ Here’s why you should try AwardFares
 4. **It is up-to-date**. AwardFares updates its database of award availability regularly. This means that you can be sure that the information you see is accurate. 
 
 
-## AAdvantage Award Chart (Updated)
+## AAdvantage Award Chart (Updated) {#aadvantage-award-chart}
 
 
 ### On American Airlines
