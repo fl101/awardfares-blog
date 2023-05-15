@@ -4,6 +4,10 @@ header {
   margin: 0 auto;
   box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
   font-family: 'Barlow';
+  z-index: 10;
+  position: sticky;
+  background-color: white;
+  top: 0;
   
   section {
     max-width: 700px;
@@ -19,6 +23,31 @@ header {
     img {
       max-height: 40px;
       display: block;
+    }
+  }
+
+  .menu {
+    display: flex;
+    flex-grow: 1;
+    font-size: 0.75em;
+    font-weight: 400;
+    line-height: 1.6;
+    font-family: 'Barlow', sans-serif;
+
+    .item {
+      position: relative;
+
+      a {
+        white-space: nowrap;
+        text-transform: uppercase;
+        text-decoration: none;
+        display: block;
+        padding: 7px 15px;
+      }
+    }
+
+    .spacer {
+      flex-grow: 1;
     }
   }
 
