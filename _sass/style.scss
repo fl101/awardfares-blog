@@ -54,6 +54,11 @@ a.primary {
   text-decoration: none;
   display: block;
   padding: 7px 15px;
+
+  &:hover {
+    color: #fff;
+    background: #254a6e
+  }
 }
 
 a:hover {
