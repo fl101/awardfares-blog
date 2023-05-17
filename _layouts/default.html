@@ -1,15 +1,25 @@
 <!DOCTYPE html>
-<html class="no-js"{% if page.lang %} lang="{{ page.lang }}"{% endif %}>
+<html class="no-js {{page.layout}}-html"{% if page.lang %} lang="{{ page.lang }}" {% else %} lang="en" {% endif %}>
   {% include head.html %}
   <body>
-    <header>
+    <header class="floating-header">
       <section>
         <a href="https://awardfares.com/" target="_blank" class="brand">
           <img src="/assets/img/logo.png" alt="AwardFares Logo" />
         </a>
-        <a href="{{ "/feed.xml" | relative_url }}" title="Follow RSS Feed">
-          <i class="fa fa-fw fa-rss"></i>
-        </a>
+        <div class="menu">
+          <div class="spacer">
+          </div>
+          <div class="item">
+            <a href="https://www.facebook.com/awardfares" target="_blank"><i class="fa fa-facebook"></i></a>
+          </div>
+          <div class="item">
+            <a href="https://www.instagram.com/awardfares" target="_blank"><i class="fa fa-instagram"></i></a>
+          </div>
+          <div class="item">
+            <a class="primary" href="https://awardfares.com/signup?utm_source=blog&utm_medium=blog&utm_content=header" target="_blank">Try for free</a>
+          </div>
+        </div>
       </section>
     </header>
     <div class="wrap">

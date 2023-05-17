@@ -18,8 +18,9 @@ select, input, textarea {
   }
 }
 
-html, body {
+html {
   height: 100%;
+  scroll-padding-top: 5.2em;
 }
 
 body {
@@ -39,6 +40,25 @@ p {
 a {
   color: inherit;
   cursor: pointer;
+}
+
+a.primary {
+  background: #2e5c8a;
+  color: #fff;
+  border-radius: 4px;
+  margin-left: 10px;
+  transition: background .2s cubic-bezier(.455, .03, .515, .955);
+  display: inline-block;
+  white-space: nowrap;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+  padding: 7px 15px;
+
+  &:hover {
+    color: #fff;
+    background: #254a6e
+  }
 }
 
 a:hover {
@@ -61,8 +81,6 @@ img {
 }
 
 .nav-back {
-  margin-top: 30px;
-  
   a {
     text-decoration: none;
     color: $accent;
