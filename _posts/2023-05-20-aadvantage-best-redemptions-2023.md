@@ -15,7 +15,7 @@ In this post, we collect our favorite routes and top picks, so that you can get 
 ### In this post
 
 - [How to find good AAdvantage award flights What is AAdvantage?](#how-to-find-good-aadvantage-award-flights)
-- [Best AAdvantage Redemptions in 2023](#best-aadvantage-redemptions-in-2023-top-10-picks)
+- [Best AAdvantage Redemptions in 2023](#best-aadvantage-redemptions-in-2023-top-9-picks)
 - [American Airlines Cabin Classes](#american-airlines-cabin-classes)
 
 
@@ -45,53 +45,53 @@ American Airlines offers email alerts that will notify you when award availabili
 
 New York (JFK) to London Heathrow (LHR), United Kingdom. Plenty of available seats May through July 2023 already.
 
-<img src="../assets/img/aadvantage-best-redemptions-2023/jfk-lhr.webp" alt="New York (JFK) to London Heathrow (LHR) in Business Class for 50k AAdvantage Miles" />
+<img src="/assets/img/aadvantage-best-redemptions-2023/jfk-lhr.webp" alt="New York (JFK) to London Heathrow (LHR) in Business Class for 50k AAdvantage Miles" />
 
 
 ### 2. [Miami to San Juan in Economy](https://awardfares.com/search?MIA.SJU.;c:economy;o:price;so:asc;z:aadvantage) (25,000 miles)
 
 Miami (MIA) to San Juan (SJU), Puerto Rico. Most seats available in June.
 
-<img src="../assets/img/aadvantage-best-redemptions-2023/mia-sju.webp" alt="Miami (MIA) to San Juan (SJU), Puerto Rico in Economy Class for 25k AAdvantage Miles" />
+<img src="/assets/img/aadvantage-best-redemptions-2023/mia-sju.webp" alt="Miami (MIA) to San Juan (SJU), Puerto Rico in Economy Class for 25k AAdvantage Miles" />
 
 ### 3. [Dallas to Honolulu in Economy](https://awardfares.com/search?DFW.HNL.;c:economy;o:price;so:asc;z:aadvantage) (40,000 miles)
 
 Dallas (DFW) to Honolulu (HNL), Hawaii. One of our favorite routes! Just 40k miles and plenty of seats available during next summer.
 
-<img src="../assets/img/aadvantage-best-redemptions-2023/dfw-hnl.webp" alt="Dallas (DFW) to Honolulu (HNL), Hawaii in Economy Class for 40k AAdvantage Miles" />
+<img src="/assets/img/aadvantage-best-redemptions-2023/dfw-hnl.webp" alt="Dallas (DFW) to Honolulu (HNL), Hawaii in Economy Class for 40k AAdvantage Miles" />
 
 ### 4. [Chicago to Paris in Business Class](https://awardfares.com/search?ORD.CDG.;c:business;o:price;so:asc;z:aadvantage) (50,000 miles)
 
 Chicago (ORD) to Paris (CDG), France.
 
-<img src="../assets/img/aadvantage-best-redemptions-2023/ord-cdg.webp" alt="Chicago (ORD) to Paris (CDG), France in Business Class for 50k AAdvantage Miles" />
+<img src="/assets/img/aadvantage-best-redemptions-2023/ord-cdg.webp" alt="Chicago (ORD) to Paris (CDG), France in Business Class for 50k AAdvantage Miles" />
 
 
 ### 5. [Washington, D.C. to Rome in Business Class](https://awardfares.com/search?DCA.FCO.;c:business;o:price;so:asc;z:aadvantage) (50,000 miles)
 
 Washington, D.C. (DCA) to Rome (FCO), Italy.
 
-<img src="../assets/img/aadvantage-best-redemptions-2023/dca-fco.webp" alt="Washington, D.C. (DCA) to Rome (FCO), Italy in Business Class for 50k AAdvantage Miles" />
+<img src="/assets/img/aadvantage-best-redemptions-2023/dca-fco.webp" alt="Washington, D.C. (DCA) to Rome (FCO), Italy in Business Class for 50k AAdvantage Miles" />
 
 
 ### 6. [Boston to Barcelona in Business Class](https://awardfares.com/search?BOS.BCN.;c:business;o:price;so:asc;z:aadvantage) (50,000 miles)
 
 Boston (BOS) to Barcelona (BCN), Spain. Hurry up! Fewer available seats than other routes.
 
-<img src="../assets/img/aadvantage-best-redemptions-2023/bos-bcn.webp" alt="Boston (BOS) to Barcelona (BCN), Spain in Business Class for 50k AAdvantage Miles" />
+<img src="/assets/img/aadvantage-best-redemptions-2023/bos-bcn.webp" alt="Boston (BOS) to Barcelona (BCN), Spain in Business Class for 50k AAdvantage Miles" />
 
 ### 7. [Los Angeles to Auckland in Business Class](https://awardfares.com/search?LAX.AKL.;c:business;o:price;so:asc;z:aadvantage) (70,000 miles)
 
 Los Angeles (LAX) to Auckland (AKL), New Zealand. This is a looooong route, and you can get good value from your miles if you score a Business Class ticket! 
 
-<img src="../assets/img/aadvantage-best-redemptions-2023/lax-akl.webp" alt="Los Angeles (LAX) to Auckland (AKL), New Zealand in Business Class for 57k AAdvantage Miles" />
+<img src="/assets/img/aadvantage-best-redemptions-2023/lax-akl.webp" alt="Los Angeles (LAX) to Auckland (AKL), New Zealand in Business Class for 57k AAdvantage Miles" />
 
 
 ### 8. [Los Angeles to Sydney in Business Class](https://awardfares.com/search?LAX.SYD.;c:business;o:price;so:asc;z:aadvantage) (70,000 miles)
 
 Los Angeles (LAX) to Sydney (SYD), Australia. There's even some seats in First Class available! Make sure to check those out too.
 
-<img src="../assets/img/aadvantage-best-redemptions-2023/lax-syd.webp" alt="Los Angeles (LAX) to Sydney (SYD), Australia in Business Class for 70k AAdvantage Miles" />
+<img src="/assets/img/aadvantage-best-redemptions-2023/lax-syd.webp" alt="Los Angeles (LAX) to Sydney (SYD), Australia in Business Class for 70k AAdvantage Miles" />
 
 
 

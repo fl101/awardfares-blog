@@ -44,7 +44,7 @@ Here are a few of the most important ones. **Spoiler alert:** the [AAdvantage sh
 ### 1. Go to the AwardFares website and [create an account](https://awardfares.com/signup).
 
 <figure>
-<img src="/assets/img/aadvantage-guide/1a-awardfares-signup.webp" alt="Create a new AwardFares account." />
+<img src="/assets/img/aadvantage-guide/awardfares-signup.webp" alt="Create a new AwardFares account." />
 </figure>
 
 You will receive an activation link via email.
@@ -54,7 +54,7 @@ You will receive an activation link via email.
 In the **Frequent Flyer Program** picker, select **AAdvantage**.
 
 <figure>
-<img src="/assets/img/aadvantage-guide/2-aadvantage-ffp.webp" alt="Select AAdvantage in AwardFares Frequent Flyer Program Picker." />
+<img src="/assets/img/aadvantage-guide/aadvantage-ffp.webp" alt="Select AAdvantage in AwardFares Frequent Flyer Program Picker." />
 </figure>
 
 ### 3. Select the route(s)
@@ -63,14 +63,37 @@ In the  **From** and **To** fields, enter your departure and arrival airports.
 
 Optional: you can also perform broad searches from an entire area, region, or metropolitan area (like a city, NYC)
 
+<figure>
+<img src="/assets/img/aadvantage-guide/select-route.webp" alt="Select the origin and destination city in AwardFares." />
+</figure>
 
 ### 4. Add travel dates (optional)
 
 If you know your travel dates, try adding them to the search field. You can also use the Timeline view to see flights available on different dates.
 
+<figure>
+<img src="/assets/img/aadvantage-guide/select-date.webp" alt="Select the desired date in AwardFares." />
+</figure>
+
+Alternatively, you can use the **Timeline View** (as in Step 3) to see availability for multiple days, and explore several months at a time.
+
 ### 5. Add more filters (optional)
 
 Try filtering out by cabin class (e.g. Business Class, First Class) or number of stops (e.g. nonstop)
+
+Here's an example of adding a cabin filter to only display Business Class flights:
+
+<figure>
+<img src="/assets/img/aadvantage-guide/filter-cabin.webp" alt="Filtering results by cabin type in AwardFares." />
+</figure>
+
+And here's another example of adding a filter by airline to only displays flights operated by American Airlines.
+
+<figure>
+<img src="/assets/img/aadvantage-guide/filter-airline-american.webp" alt="Select the origin and destination city in AwardFares." />
+</figure>
+
+Similarly, you can filter by number of stops, aircraft equipment, flight number, minimum number of passengers, and more!
 
 ### 6. That's it!
 
