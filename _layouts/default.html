@@ -17,7 +17,15 @@
             <a href="https://www.instagram.com/awardfares" target="_blank"><i class="fa fa-instagram"></i></a>
           </div>
           <div class="item">
-            <a class="primary" href="https://awardfares.com/signup?utm_source=blog&utm_medium=blog&utm_content=header" target="_blank">Try for free</a>
+            {% assign utm_source = page.url %}
+            {% if page.url == '/' %}
+              {% assign utm_source = 'home' %}
+            {% else %}
+              {% assign size = utm_source | size %}
+              {% assign end = size | minus: 2 %}
+              {% assign utm_source = utm_source | slice: 1,end %}
+            {% endif %}
+              <a class="primary" href="https://awardfares.com/signup?utm_medium=blog&utm_source={{ utm_source }}&utm_content=header" target="_blank">Try for free</a>
           </div>
         </div>
       </section>

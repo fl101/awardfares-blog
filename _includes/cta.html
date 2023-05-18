@@ -7,5 +7,8 @@
     <li>Setup alerts to monitor award availability</li>
     <li>Lookup seat maps and flight schedules</li>
   </ul>
-  <a class="button plausible-event-name=Get+Started+Free" href="https://awardfares.com/signup?utm_source=blog&utm_medium=blog&utm_content=cta" target="_blank">Get Started Free</a>
+  {% assign size = page.url | size %}
+  {% assign end = size | minus: 2 %}
+  {% assign utm_source = page.url | slice: 1,end %}
+  <a class="button plausible-event-name=Get+Started+Free" href="https://awardfares.com/signup?utm_medium=blog&utm_source={{ utm_source }}&utm_content=cta" target="_blank">Get Started Free</a>
 </div>
