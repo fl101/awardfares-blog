@@ -7,8 +7,12 @@
     <li>Setup alerts to monitor award availability</li>
     <li>Lookup seat maps and flight schedules</li>
   </ul>
-  {% assign size = page.url | size %}
-  {% assign end = size | minus: 2 %}
-  {% assign utm_source = page.url | slice: 1,end %}
+  {% assign utm_source = page.id %}
+    {% if utm_source == nil %}
+    {% assign utm_source = 'home' %}
+  {% else %}
+    {% assign size = utm_source | size %}
+    {% assign utm_source = utm_source | slice: 1,size %}
+  {% endif %}
   <a class="button plausible-event-name=Get+Started+Free" href="https://awardfares.com/signup?utm_medium=blog&utm_source={{ utm_source }}&utm_content=cta" target="_blank">Get Started Free</a>
 </div>
