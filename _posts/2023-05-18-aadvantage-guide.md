@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "How To Find AAdvantage Awards in 2023"
+title: "How To Find AAdvantage Awards In 2023"
 tags: [Guide]
 author: Germán
 image: /assets/img/aadvantage-guide/cover.webp
-hidden: true
+hidden: false
 hide_image_in_post: false
 ---
 
-AAdvantage is one of the world’s largest, most reputable frequent flyer programs. In April 2023, the AAdvantage Award Chart was simplified, reducing the number of award zones reduced from 10 to just 4!
+AAdvantage is one of the world’s largest, most reputable frequent flyer programs. In April 2023, the AAdvantage Award Chart was simplified, reducing the number of award zones from 10 to just 4!
 
-In addition, the new award chart is dynamic, making it harder to find **good award redemptions**, but hey, were are here to help. In this post, we’ll show you how to find AAdvantage award flights in no time using AwarFares, the world’s fastest award flight search engine.
+In addition, the new award chart is dynamic, making it harder to find **good award redemptions**, but hey, we are here to help. In this post, we’ll show you how to find AAdvantage award flights in no time using AwarFares, the world’s fastest award flight search engine.
 
 Let’s get started!
 
@@ -75,7 +75,18 @@ If you know your travel dates, try adding them to the search field. You can also
 <img src="/assets/img/aadvantage-guide/select-date.webp" alt="Select the desired date in AwardFares." />
 </figure>
 
-Alternatively, you can use the **Timeline View** (as in Step 3) to see availability for multiple days, and explore several months at a time.
+Once selecter, AwardFares will start searching for available flights for that date, and will display them in a list below.
+
+<figure>
+<img src="/assets/img/aadvantage-guide/list-view.webp" alt="Search results for award flights on AwardFares (List View)." />
+</figure>
+
+Alternatively, if you don't have a set travel date, you can select the **Timeline View** to explore the availability for multiple days simultaneously. The bars show different classes in different colors.
+
+<figure>
+<img src="/assets/img/aadvantage-guide/timeline-view.webp" alt="Search results for award flights on AwardFares (Timeline View)." />
+</figure>
+
 
 ### 5. Add more filters (optional)
 
@@ -147,7 +158,7 @@ Award prices can also vary depending on the time of year. For example, awards to
 
 ### On Partner Airlines
 
-We briefly mentioned the wide range of AAdvantage partner airlines above, it’s crazy! But the number of miles required to book an award flight on a partner airline will vary depending on the airline, the cabin of service, and the distance of the flight.
+We briefly mentioned the wide range of AAdvantage partner airlines above, but the number of miles required to book an award flight on a partner airline will vary depending on the airline, the cabin of service, and the distance of the flight.
 
 Here is a summary of the number of miles required to book an award flight on some of American Airlines' partner airlines:
 
@@ -202,3 +213,47 @@ Here is a summary of the number of miles required to book an award flight on som
 Check out this post with the [**Best AAdvantage Redemptions in 2023**](https://blog.awardfares.com/aadvantage-best-redemptions-2023/).
 
 You can [create an account](https://awardfares.com/signup) and try AwardFares for free. We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "HowTo", 
+  "name": "How to find American Airlines Award Availability",
+  "description": "Step-by-step guide on how to find American Airlines award availability using AwardFares.",
+  "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/cover.webp",
+  "totalTime": "PT7M",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "0"
+  },
+  "step": [{
+    "@type": "HowToStep",
+    "text": "Create an account on AwardFares and log in.",
+    "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/awardfares-signup.webp"
+  },{
+    "@type": "HowToStep",
+    "text": "Select AAdvantage in the Frequent Flyer Program picker.",
+    "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/aadvantage-ffp.webp"
+  },{
+    "@type": "HowToStep",
+    "text": "Select the route in the From and To fields (e.g. JFK to LHR)",
+    "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/select-route.webp"
+  },{
+    "@type": "HowToStep",
+    "text": "Add travel dates",
+    "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/select-date.webp"
+  },{
+    "@type": "HowToStep",
+    "text": "Add filters by cabin type, airline, number of stops, or aircraft type (optional)",
+    "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/filter-cabin.webp"
+  },{
+    "@type": "HowToStep",
+    "text": "Done. AwardFares will show you the available AAdvantage award flights",
+    "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/list-view.webp"
+  }]    
+}
+</script>
