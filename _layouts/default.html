@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html class="no-js {{page.layout}}-html"{% if page.lang %} lang="{{ page.lang }}" {% else %} lang="en" {% endif %}>
+  {% assign utm_source = page.id %}
+  {% if utm_source == nil %}
+  {% assign utm_source = 'home' %}
+  {% else %}
+  {% assign size = utm_source | size %}
+  {% assign utm_source = utm_source | slice: 1,size %}
+  {% endif %}
+  <script>window.utm_source = '{{utm_source}}'</script>
   {% include head.html %}
   <body>
     <header class="floating-header">
       <section>
-        <a href="https://awardfares.com/" target="_blank" class="brand">
+        <a href="https://awardfares.com?utm_medium=blog&utm_source={{utm_source}}&utm_content=logo" target="_blank" class="brand">
           <img src="/assets/img/logo.png" alt="AwardFares Logo" />
         </a>
         <div class="menu">
@@ -22,13 +30,7 @@
             </a>
           </div>
           <div class="item">
-            {% assign utm_source = page.id %}
-            {% if utm_source == nil %}
-              {% assign utm_source = 'home' %}
-            {% else %}
-              {% assign size = utm_source | size %}
-              {% assign utm_source = utm_source | slice: 1,size %}
-            {% endif %}
+            
               <a class="primary" href="https://awardfares.com/signup?utm_medium=blog&utm_source={{ utm_source }}&utm_content=header" target="_blank">Try for free</a>
           </div>
         </div>
@@ -47,7 +49,7 @@
         </a>
       </div>
       <p class="text">
-        <a href="https://awardfares.com">&copy; {{ 'now' | date: "%Y" }} — AwardFares</a>
+        <a href="https://awardfares.com?utm_medium=blog&utm_source={{utm_source}}&utm_content=footer">&copy; {{ 'now' | date: "%Y" }} — AwardFares</a>
       </p>
     </footer>    
   </body>
