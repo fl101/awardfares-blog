@@ -186,7 +186,7 @@ We are rolling out new features and improvements regularly, so sign up for our n
             </tr>`;
         });
         if (rows.length > 0) {
-          table.innerHTML = rows.join();
+          table.innerHTML = rows.join('');
         } else {
           table.innerHTML = 'No seats available';
         }
