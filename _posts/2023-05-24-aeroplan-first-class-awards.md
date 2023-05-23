@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Search For First Class Awards Using Aeroplan Miles (With Realtime Updates)"
+title: "How To Find First-class Award Flights Using Aeroplan Miles (With Realtime Updates)"
 tags: [Guide]
 author: Germán
 image: /assets/img/aeroplan-first-class/cover.webp
@@ -8,33 +8,36 @@ hidden: true
 sitemap: false
 ---
 
-
-Aeroplan has more airline partners than any other program, and that’s good news for flyers trying to score a flight in first class. Getting a first-class award ticket is a great way to live the full experience without spending tens of thousands of dollars on the full-fare ticket. Aeroplan, then, with so many partners onboard, comes across as one of the best ways to get a first-class award ticket in 2023.
+Aeroplan has more airline partners than any other program, and that’s good news for flyers trying to score a flight in First Class. Getting a first-class award ticket is a great way to live the full experience without spending tens of thousands of dollars on the full-fare ticket. Aeroplan, then, with so many partners onboard, comes across as one of the best ways to get a first-class award ticket in 2023.
 
 But searching for those tickets is generally hard and tricky: only a few seats are available, and many are released last minute. In addition, even if you see space available, how do you know it is a good redemption for your miles? How can you search for **good awards** without spending hours doing so?
 
 In this guide, we cover a step-by-step guide on how to find good first-class redemption for your Aeroplan miles using our tool AwardFares.
 
+<h2 id="live">Available First-class Award Tickets using Aeroplan Miles - Right Now!</h2>
+
+The lists below are updated in real time and show you the available award seats for the next 30 days on some of the major partner airlines using your Aeroplan miles.
+
+### Aeroplan redemptions on Lufthansa First-class
+
+<table id="aeroplan-first-lh"></table>
+
+### Aeroplan redemptions on ANA First-class 
+
+<table id="aeroplan-first-nh"></table>
+
+### Aeroplan redemptions on Emirates First-class
+
+<table id="aeroplan-first-ek"></table>
 
 
-## How To Search For First Class Awards Using Aeroplan Miles
-
+## How To Find First-class Award Flights Using Aeroplan Miles
 
 ### 1. Create an AwardFares account and log-in
 
 Go to AwardFares’ sign-up page and create an account. You’ll need to enter an email address and a password.
 
-<figure>
-<img src="/assets/img/aeroplan-first-class/1a-awardfares-signup.webp" alt="Create a new AwardFares account." />
-</figure>
-
 After completing the form, you will receive an email with a link to activate your account. Once the account is activated, you are ready to start searching!
-
-<figure>
-<img src="/assets/img/aeroplan-first-class/1b-awardfares-activate.webp" alt="Activate your AwardFares account after creation." />
-</figure>
-
-
 
 
 ### 2. Select Aeroplan as your Frequent Flyer Program
@@ -47,12 +50,12 @@ On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap 
 
 
 
-### 3. Filter out by First Class cabin
+### 3. Filter out by First-class cabin
 
-Now, under **Cabin**, select **First Class** **Only**. This will remove all other cabins, such as Economy, Premium Economy, and Business, and just show you seats available in First Class.
+Now, under **Cabin**, select **First Class** **Only**. This will remove all other cabins, such as Economy, Premium Economy, and Business, and just show you seats available in First-class.
 
 <figure>
-<img src="/assets/img/aeroplan-first-class/3-select-first-class-cabin.gif" alt="Filter Aeroplan awards on First Class Cabin" />
+<img src="/assets/img/aeroplan-first-class/3-select-first-class-cabin.gif" alt="Filter Aeroplan awards on First-class Cabin" />
 </figure>
 
 ### 4. Select Origin and Destination
@@ -60,7 +63,7 @@ Now, under **Cabin**, select **First Class** **Only**. This will remove all othe
 If you already have your departure and destination city, you can add those under the "**Where from?**" and “**Where to?**" fields. Once you do so, you will be able to see the Timeline view with all available awards per day.
 
 <figure>
-<img src="/assets/img/aeroplan-first-class/4-timeline-view.webp" alt="Aeroplan First Class Award Seats (Timeline View) on AwardFares" />
+<img src="/assets/img/aeroplan-first-class/4-timeline-view.webp" alt="Aeroplan First-class Award Seats (Timeline View) on AwardFares" />
 </figure>
 
 ### 5. Perform a broad search.
@@ -95,7 +98,7 @@ AwardFares has an alert feature that monitors the flights you want and notifies 
 To set up an Alert, just tap on **Alerts** > **Add Alert** > and fill out the required information such as route, dates, passengers, cabin.
 
 <figure>
-<img src="/assets/img/aeroplan-first-class/8-aeroplan-alerts.webp" alt="Set up Aeroplan First Class Alerts on AwardFares." />
+<img src="/assets/img/aeroplan-first-class/8-aeroplan-alerts.webp" alt="Set up Aeroplan First-class Alerts on AwardFares." />
 </figure>
 
 
@@ -105,21 +108,6 @@ Pretty easy, right? AwardFares, lets you see all the available flights in first-
 
 Remember that some of the features and limits are improved if you upgrade to a Gold or Diamond package. **Right now you can use the code AEROPLAN to get 5% off your annual plan**
 
-<h2 id="live">Examples Of Available First-Class Award Tickets on Aeroplan (RIGHT NOW)</h2>
-
-The lists below are updated in real time and show you the available award seats for the next 30 days on some of the major partner airlines using your Aeroplan miles.
-
-### First-class on Lufthansa
-
-<table id="aeroplan-first-lh"></table>
-
-### First-class on ANA
-
-<table id="aeroplan-first-nh"></table>
-
-### First-class on Emirates
-
-<table id="aeroplan-first-ek"></table>
 
 ### Why AwardFares is Your Go-To Tool for First-Class Award Searches
 
@@ -143,13 +131,12 @@ Searching for first-class awards can be time-consuming, especially if you're fle
 Never miss out on a first-class award opportunity again! AwardFares lets you set up customizable alerts for specific routes, airlines, and travel dates. When availability opens up, you'll receive a notification, allowing you to book your dream flight before it's gone.
 
 
-
 #### Continuous Monitoring
 
 AwardFares continuously monitors award availability across multiple airlines, ensuring you have access to the most up-to-date information. This is particularly helpful when booking with partner airlines, as availability can change frequently.
 
 
-## Read more and stay tuned.
+## Also read.
 
 Make sure to also [check this post out with the best Aeroplan award chart sweet spots](https://blog.awardfares.com/aeroplan-guide/) and how to find them.
 
@@ -205,4 +192,47 @@ We are rolling out new features and improvements regularly, so sign up for our n
       }
     }
   })();
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "HowTo", 
+  "name": "How To Find First-class Award Flights Using Aeroplan Miles",
+  "description": "Step-by-step tutorial on how to find first-class award tickets using Aeroplan miles, including seats on Lufthansa First Class, ANA First Class, and Emirates First Class",
+  "image": "https://blog.awardfares.com/assets/img/aeroplan-first-class/cover.webp",
+  "totalTime": "PT5M",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "0"
+  },
+  "step": [{
+    "@type": "HowToStep",
+    "text": "Create an AwardFares account and log-in.",
+    "url": "https://awardfares.com/signup"
+  },{
+    "@type": "HowToStep",
+    "text": "Select Aeroplan in the Frequent Flyer Program picker."
+  },{
+    "@type": "HowToStep",
+    "text": "Filter out by First Class cabin."
+  },{
+    "@type": "HowToStep",
+    "text": "Select Origin and Destination."
+  },{
+    "@type": "HowToStep",
+    "text": "Perform a broad search (optional)."
+  },{
+    "@type": "HowToStep",
+    "text": "Filter out by Airline."
+  },{
+    "@type": "HowToStep",
+    "text": "Confirm availability on Aeroplan’s website."
+  },{
+    "@type": "HowToStep",
+    "text": "Set up award alerts (optional)."
+  }]    
+}
 </script>
