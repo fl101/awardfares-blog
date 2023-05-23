@@ -168,7 +168,17 @@ We are rolling out new features and improvements regularly, so sign up for our n
       try {
         const resp = await fetch(host + endpoint);
         const data = await resp.json();
-        const rows = data.slice(0, 10).map(route => {
+        /*
+        // Test data:
+        if (carrier == 'lh') {
+          data = [{"route":"EZE-FRA","total":15},{"route":"FRA-EZE","total":11},{"route":"FRA-GRU","total":7},{"route":"FRA-EWR","total":5},{"route":"FRA-MEX","total":4},{"route":"MUC-BOS","total":4},{"route":"FRA-SFO","total":3},{"route":"FRA-ORD","total":3},{"route":"FRA-IAD","total":3},{"route":"FRA-IAH","total":3},{"route":"BOS-MUC","total":2},{"route":"GRU-FRA","total":2},{"route":"FRA-HND","total":1},{"route":"FRA-JFK","total":1},{"route":"FRA-HKG","total":1},{"route":"MUC-ORD","total":1},{"route":"MUC-IAD","total":1},{"route":"HND-FRA","total":1}];
+        } else {
+          data = [];
+        }
+        */
+        const moreLink = `https://awardfares.com/search?..;c:first;a:${carrier.toUpperCase()};z:aeroplan`;
+        const rowLimit = 10;
+        const rows = data.slice(0, rowLimit).map(route => {
           const limit = 20;
           const displayCount = route.total > limit ? `${limit}+` : route.total;
           const searchLink = `https://awardfares.com/search?${route.route.replace('-', '.')}.;c:first;a:${carrier.toUpperCase()};z:aeroplan`;
@@ -184,13 +194,14 @@ We are rolling out new features and improvements regularly, so sign up for our n
             </tr>`;
         });
         if (rows.length > 0) {
+          rows.push(`<tr><td colspan="3" align="center"><a href="${moreLink}">See all available seats</center></td></tr>`);
           table.innerHTML = rows.join('');
         } else {
-          table.innerHTML = 'No seats available';
+          table.innerHTML = 'No seats available right now';
         }
       } catch (err) {
         console.error(err);
-        table.innerHTML = 'Not available right now...';
+        table.innerHTML = 'Data not available right now';
       }
     }
   })();
