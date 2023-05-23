@@ -4,8 +4,6 @@ title: "SAS Opens New Route To Morocco (And You Can Book It With Points)"
 tags: [News]
 author: Germán
 image: /assets/img/sas-opens-route-to-morocco/cover.webp
-hidden: false
-hide_image_in_post: false
 ---
 
 SAS Scandinavian Airlines is gearing up to [launch its service to Morocco](https://www.sasgroup.net/newsroom/press-releases/2023/sas-returns-to-africa-by-flying-to-agadir-this-upcoming-winter/) this November, marking its grand return to Africa after a break of many, many years.

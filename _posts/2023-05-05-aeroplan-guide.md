@@ -4,8 +4,6 @@ title: "How To Find The Best Aeroplan Award Flights (9 Sweet Spots)"
 tags: [Guide]
 author: Germán
 image: /assets/img/aeroplan-guide/cover.webp
-hidden: false
-hide_image_in_post: false
 ---
 
 As an Aeroplan member, you have access to a world of travel possibilities through Air Canada and its partners. However, navigating the program to find the most valuable redemptions and sweet spots can be a daunting task. Don’t worry, we’ve got you covered!

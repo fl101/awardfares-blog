@@ -4,8 +4,6 @@ title: "How To Find AAdvantage Awards In 2023"
 tags: [Guide]
 author: Germán
 image: /assets/img/aadvantage-guide/cover.webp
-hidden: false
-hide_image_in_post: false
 ---
 
 AAdvantage is one of the world’s largest, most reputable frequent flyer programs. In April 2023, the AAdvantage Award Chart was simplified, reducing the number of award zones from 10 to just 4!
