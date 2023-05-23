@@ -5,7 +5,6 @@ tags: [Guide]
 author: Germán
 image: /assets/img/aadvantage-best-redemptions-2023/cover.webp
 hidden: false
-sitemap: true
 ---
 
 With the recent introduction of the new dynamic AAdvantage award chart last April 2023, the game changed, and identifying good redemptions can be tricky. But no worries, we’ve done the work for you!
@@ -14,8 +13,8 @@ In this post, we collect our favorite routes and top picks, so that you can get 
 
 ### In This Post
 
-- [How to find good AAdvantage award flights What is AAdvantage?](#how-to-find-good-aadvantage-redemptions)
-- [Best AAdvantage Redemptions in 2023](#best-aadvantage-redemptions-in-2023-top-8-picks)
+- [How To Find Good AAdvantage Redemptions?](#how-to-find-good-aadvantage-redemptions)
+- [Best AAdvantage Redemptions In 2023](#best-aadvantage-redemptions-in-2023-top-8-picks)
 - [American Airlines Cabin Classes](#american-airlines-cabin-classes)
 
 
