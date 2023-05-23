@@ -113,15 +113,15 @@ The lists below are updated in real time and show you the available award seats 
 
 ### First-class on Lufthansa
 
-<canvas id="aeroplan-first-lh"></canvas>
-
-### First-class on Emirates
-
-<canvas id="aeroplan-first-ek"></canvas>
+<table id="aeroplan-first-lh"></table>
 
 ### First-class on ANA
 
-<canvas id="aeroplan-first-nh"></canvas>
+<table id="aeroplan-first-nh"></table>
+
+### First-class on Emirates
+
+<table id="aeroplan-first-ek"></table>
 
 ### Why AwardFares is Your Go-To Tool for First-Class Award Searches
 
@@ -157,46 +157,43 @@ Make sure to also [check this post out with the best Aeroplan award chart sweet 
 
 We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips.
 
-<!-- ChartJS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.3.0/chart.umd.min.js" integrity="sha512-TJ7U6JRJx5IpyvvO9atNnBzwJIoZDaQnQhb0Wmw32Rj5BQHAmJG16WzaJbDns2Wk5VG6gMt4MytZApZG47rCdg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
 <script>
-  createStatsChart('aeroplan-first-lh');
-  createStatsChart('aeroplan-first-ek');
-  createStatsChart('aeroplan-first-nh');
-  function createStatsChart(chart) {
-    var endpoint = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';
-    fetch(endpoint + '/api/stats/' + chart + '.json').then(resp => {
-      resp.json().then(data => {
-        while (data.length < 10) {
-          data.push({ route: '', total: 0 });
-        }
-        new Chart(document.getElementById(chart), {
-          type: 'bar',
-          data: {
-            labels: data.map(row => row.route),
-            datasets: [
-              {
-                label: 'Award seats available per route',
-                data: data.map(row => row.total),
-                maxBarThickness: 16,
-              }
-            ]
-          },
-          options: {
-            indexAxis: 'y',
-            scales: {
-              x: {
-                ticks: {
-                  min: 0, // it is for ignoring negative step.
-                  beginAtZero: true,
-                  precision: 0,
-                }
-              }
-            }
-          }
+  (function () {
+    createStatsTable('lh');
+    createStatsTable('nh');
+    createStatsTable('ek');
+    async function createStatsTable(carrier) {
+      const host = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';
+      const endpoint = '/api/stats/' + `aeroplan-first-${carrier}` + '.json'
+      const table = document.getElementById(`aeroplan-first-${carrier}`);
+      table.innerHTML = 'Loading...';
+      try {
+        const resp = await fetch(host + endpoint);
+        const data = await resp.json();
+        const rows = data.slice(0, 10).map(route => {
+          const limit = 20;
+          const displayCount = route.total > limit ? `${limit}+` : route.total;
+          const searchLink = `https://awardfares.com/search?${route.route.replace('-', '.')}.;c:first;a:${carrier};z:aeroplan`;
+          return `<tr>
+            <td>
+              ${route.route}
+            </td>
+            <td>
+              <div style="width: ${Math.min(route.total, limit) * 20}px; height: 20px; background-image: url(https://awardfares.com/img/seat.png); background-size: contain; background-repeat: repeat-x"></div>
+            </td>
+            <td>
+              <a href="${searchLink}">${displayCount} seat${route.total > 1 ? 's' : ''}</a></td>
+            </tr>`;
         });
-      });
-    });
-  }
+        if (rows.length > 0) {
+          table.innerHTML = rows.join();
+        } else {
+          table.innerHTML = 'No seats available';
+        }
+      } catch (err) {
+        console.error(err);
+        table.innerHTML = 'Not available right now...';
+      }
+    }
+  })();
 </script>
