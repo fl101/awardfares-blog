@@ -5,7 +5,7 @@ tags: [Guide]
 author: Germán
 image: /assets/img/aeroplan-first-class/cover.webp
 hidden: true
-hide_image_in_post: false
+sitemap: false
 ---
 
 

@@ -5,7 +5,7 @@ tags: [Guide]
 author: Germán
 image: /assets/img/aadvantage-best-redemptions-2023/cover.webp
 hidden: true
-hide_image_in_post: false
+sitemap: false
 ---
 
 With the recent introduction of the new dynamic AAdvantage award chart last April 2023, the game changed, and identifying good redemptions can be tricky. But no worries, we’ve done the work for you!

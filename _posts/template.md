@@ -5,10 +5,8 @@ tags: [Guide]
 author: Germán
 image: /assets/img/folder/cover.webp
 hidden: true
-hide_image_in_post: false
+sitemap: false
 ---
-
-
 
 ## Get started, and stay tuned.
 

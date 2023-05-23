@@ -5,6 +5,7 @@ tags: [Review, Business, Copa]
 image: /assets/img/married-segments/search-vie.png
 hide_image_in_post: true
 hidden: true
+sitemap: false
 ---
 
 Let's try to find an award flight from Amsterdam (AMS) to Tokyo (NRT/HND). Our first attempt searching AMS-HND/NRT unfortunately doesn't yield any results.
