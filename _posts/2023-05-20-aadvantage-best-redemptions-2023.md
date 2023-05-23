@@ -12,14 +12,14 @@ With the recent introduction of the new dynamic AAdvantage award chart last Apri
 
 In this post, we collect our favorite routes and top picks, so that you can get the most out of your miles at great redemption rates. Let’s get started.
 
-### In this post
+### In This Post
 
-- [How to find good AAdvantage award flights What is AAdvantage?](#how-to-find-good-aadvantage-award-flights)
-- [Best AAdvantage Redemptions in 2023](#best-aadvantage-redemptions-in-2023-top-9-picks)
+- [How to find good AAdvantage award flights What is AAdvantage?](#how-to-find-good-aadvantage-redemptions)
+- [Best AAdvantage Redemptions in 2023](#best-aadvantage-redemptions-in-2023-top-8-picks)
 - [American Airlines Cabin Classes](#american-airlines-cabin-classes)
 
 
-## How to find good AAdvantage redemptions?
+## How To Find Good AAdvantage Redemptions?
 
 **Be flexible with your travel dates**. 
 
@@ -38,7 +38,7 @@ AwardFares is a website that allows you to search for award availability on mult
 American Airlines offers email alerts that will notify you when award availability opens up on specific routes. This is a great way to be the first to know about new award opportunities.
 
 
-## Best AAdvantage Redemptions in 2023 (Top 8 Picks)
+## Best AAdvantage Redemptions In 2023 (Top 8 Picks)
 
 ### 1. [New York to London in Business Class](https://awardfares.com/search?JFK.LHR.;c:business;o:price;so:asc;z:aadvantage) (50,000 miles)
 
@@ -127,7 +127,7 @@ When searching on AwardFares, both Main Cabin (Basic Economy) and Main Cabin Ext
 If you are flying on partner airlines, then the cabin classes are different and you might need to check the partner airline's website. When booking an AAdvantage award on partner airlines (British Airways, Iberia, Cathay Pacific, etc.) the cabins will be First, Business and Economy.
 
 
-## Also read.
+## Also Read.
 
 Check out our ultimate guide on [**How To Find AAdvantage Awards Using AwardFares**](https://blog.awardfares.com/aadvantage-guide/).
 
