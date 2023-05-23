@@ -171,7 +171,7 @@ We are rolling out new features and improvements regularly, so sign up for our n
         const rows = data.slice(0, 10).map(route => {
           const limit = 20;
           const displayCount = route.total > limit ? `${limit}+` : route.total;
-          const searchLink = `https://awardfares.com/search?${route.route.replace('-', '.')}.;c:first;a:${carrier};z:aeroplan`;
+          const searchLink = `https://awardfares.com/search?${route.route.replace('-', '.')}.;c:first;a:${carrier.toUpperCase()};z:aeroplan`;
           return `<tr>
             <td>
               ${route.route}
