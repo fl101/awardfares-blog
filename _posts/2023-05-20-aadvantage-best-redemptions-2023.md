@@ -4,8 +4,8 @@ title: "Best AAdvantage Redemptions in 2023 (And How To Find Them)"
 tags: [Guide]
 author: Germán
 image: /assets/img/aadvantage-best-redemptions-2023/cover.webp
-hidden: true
-sitemap: false
+hidden: false
+sitemap: true
 ---
 
 With the recent introduction of the new dynamic AAdvantage award chart last April 2023, the game changed, and identifying good redemptions can be tricky. But no worries, we’ve done the work for you!
@@ -19,7 +19,7 @@ In this post, we collect our favorite routes and top picks, so that you can get 
 - [American Airlines Cabin Classes](#american-airlines-cabin-classes)
 
 
-## How to find good AAdvantage award flights?
+## How to find good AAdvantage redemptions?
 
 **Be flexible with your travel dates**. 
 
@@ -39,7 +39,6 @@ American Airlines offers email alerts that will notify you when award availabili
 
 
 ## Best AAdvantage Redemptions in 2023 (Top 8 Picks)
-
 
 ### 1. [New York to London in Business Class](https://awardfares.com/search?JFK.LHR.;c:business;o:price;so:asc;z:aadvantage) (50,000 miles)
 
@@ -99,7 +98,7 @@ Los Angeles (LAX) to Sydney (SYD), Australia. There's even some seats in First C
 
 Cabin classes on American Airlines can be a bit confusing, especially when booking awards seats. Their Flagship First can feel like Business Class, and they have Main Cabin Extra (Economy), which is **NOT THE SAME** as Basic Economy.
 
-Here’s a quick summary of what you get on each class:
+Here’s a quick summary of what you get on each class when booking a pure AAdvantage award on American Airlines:
 
 * [First-class](https://awardfares.com/search?..;c:first;o:price;so:asc;z:aadvantage) (a.k.a Flagship First):
     * Lie-flat seats
@@ -123,7 +122,10 @@ Here’s a quick summary of what you get on each class:
     * Free snacks and drinks
     * Priority boarding
 
-When searching on AwardFares, both Main Cabin (Basic Economy) and Main Cabin Extra are displayed as **Economy**, so make sure to check the award ticket detailed condition on American Airlines' website before confirming the booking. If you are flying on partner airlines, then the cabin classes are different and you might need to check the partner airline's website.
+When searching on AwardFares, both Main Cabin (Basic Economy) and Main Cabin Extra are displayed as **Economy**, so make sure to check the award ticket detailed condition on American Airlines' website before confirming the booking. 
+
+If you are flying on partner airlines, then the cabin classes are different and you might need to check the partner airline's website. When booking an AAdvantage award on partner airlines (British Airways, Iberia, Cathay Pacific, etc.) the cabins will be First, Business and Economy.
+
 
 ## Also read.
 
