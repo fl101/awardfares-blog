@@ -101,7 +101,7 @@ Short flights within Europe are generally not that special, but you don't need m
     "reviewBody": "This was my first time trying Austrian’s short-haul intra-Europe business class. Honestly, I had no particular expectations - especially since the flight from Vienna to Frankfurt is barely 1 hour. Short flights within Europe are generally not that special, but you don’t need much to deliver a great experience, and I’m glad to see that some airlines still do that. For me, it’s mostly just about providing good service and a nice meal, and offering local products is always a nice touch as well. Austrian provides a solid business class experience with great service onboard on short-haul flights.",
     "reviewRating": {
       "@type": "Rating",
-      "ratingValue": "4.8",
+      "ratingValue": "4.2",
       "bestRating": "5",
       "worstRating": "1"
     },
