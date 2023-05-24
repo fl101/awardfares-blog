@@ -4,8 +4,6 @@ title: "How To Find First-class Award Flights Using Aeroplan Miles (With Realtim
 tags: [Guide]
 author: Germán
 image: /assets/img/aeroplan-first-class/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Aeroplan has more airline partners than any other program, and that’s good news for flyers trying to score a flight in First Class. Getting a first-class award ticket is a great way to live the full experience without spending tens of thousands of dollars on the full-fare ticket. Aeroplan, then, with so many partners onboard, comes across as one of the best ways to get a first-class award ticket in 2023.
