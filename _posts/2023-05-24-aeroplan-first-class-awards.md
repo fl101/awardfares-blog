@@ -20,14 +20,13 @@ The lists below are updated in real time and show you the available award seats 
 
 <table id="aeroplan-first-lh"></table>
 
-### Aeroplan redemptions on ANA First-class 
+### Aeroplan redemptions on ANA First-class
 
 <table id="aeroplan-first-nh"></table>
 
 ### Aeroplan redemptions on Emirates First-class
 
 <table id="aeroplan-first-ek"></table>
-
 
 ## How To Find First-class Award Flights Using Aeroplan Miles
 
@@ -37,7 +36,6 @@ Go to AwardFares’ sign-up page and create an account. You’ll need to enter a
 
 After completing the form, you will receive an email with a link to activate your account. Once the account is activated, you are ready to start searching!
 
-
 ### 2. Select Aeroplan as your Frequent Flyer Program
 
 On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap on it and select **Aeroplan**. This will only perform searches and show you award seats available using Aeroplan miles.
@@ -45,8 +43,6 @@ On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap 
 <figure>
 <img src="/assets/img/aeroplan-first-class/2-select-ffp.gif" alt="Show only Aeroplan results in AwardFares" />
 </figure>
-
-
 
 ### 3. Filter out by First-class cabin
 
@@ -68,7 +64,6 @@ If you already have your departure and destination city, you can add those under
 
 If you have flexibility on the routes, AwardFares is powerful as Google Flights. It lets you explore options available by performing what we call **broad searches**. You can see available flights by selecting only departure, arrival city, or regions. For example, you can explore all flights from [**Europe** to the **United States**](https://awardfares.com/search?zone:Europe.country:US.;c:first;z:aeroplan) by simply typing those regions.
 
-
 ### 6. Filter out by Airline
 
 If you are interested in a particular airline, you can tap the **Airline** filter and select it. This allows you to see only flights on, for example, Lufthansa, Emirates, Singapore Airlines, ANA, or others.
@@ -76,7 +71,6 @@ If you are interested in a particular airline, you can tap the **Airline** filte
 <figure>
 <img src="/assets/img/aeroplan-first-class/6-select-airline.gif" alt="Filter AwardFares results by airline." />
 </figure>
-
 
 ### 7. Confirm availability on Aeroplan’s website
 
@@ -86,10 +80,9 @@ You can compare the mileage requirements and fees for different flights and airl
 
 **Pro tip:** Keep in mind that off-peak pricing and lower fuel surcharges can save you both miles and money.
 
-
 ### 8. Optional: Set up alerts
 
-If you don’t see available seats on a given flight and date you are interested, don’t worry. Seat availability changes daily, as airlines release those seats on short notice. 
+If you don’t see available seats on a given flight and date you are interested, don’t worry. Seat availability changes daily, as airlines release those seats on short notice.
 
 AwardFares has an alert feature that monitors the flights you want and notifies you via email once/if they become available.
 
@@ -99,40 +92,31 @@ To set up an Alert, just tap on **Alerts** > **Add Alert** > and fill out the re
 <img src="/assets/img/aeroplan-first-class/8-aeroplan-alerts.webp" alt="Set up Aeroplan First-class Alerts on AwardFares." />
 </figure>
 
-
 ### 9. That’s it!
 
 Pretty easy, right? AwardFares, lets you see all the available flights in first-class cabins ready to be booked using Aeroplan miles in just a few clicks. It saves you hours of searches on Aeroplan’s website by showing you broad results you can filter out in an intuitive and easy-to-use interface.
 
 Remember that some of the features and limits are improved if you upgrade to a Gold or Diamond package. **Right now you can use the code AEROPLAN to get 5% off your annual plan**
 
-
 ### Why AwardFares is Your Go-To Tool for First-Class Award Searches
 
 AwardFares is the world’s fastest search engine for award tickets. It searches across frequent flyer programs in just seconds and lets you filter results and monitor alerts easily and intuitively. The best part is that you **don’t need** to connect your Aeroplan account to it.
-
 
 #### Comprehensive Search Tool
 
 AwardFares scans availability across multiple loyalty programs, including Aeroplan, allowing you to see a more comprehensive range of options. This means you'll have access to a broader selection of first-class awards, increasing your chances of finding the perfect flight.
 
-
-
 #### Time-Saving and Efficient
 
 Searching for first-class awards can be time-consuming, especially if you're flexible with your travel dates or considering multiple destinations. AwardFares simplifies the process by providing an intuitive interface that lets you quickly identify award availability and compare options.
-
-
 
 #### Customizable Alerts
 
 Never miss out on a first-class award opportunity again! AwardFares lets you set up customizable alerts for specific routes, airlines, and travel dates. When availability opens up, you'll receive a notification, allowing you to book your dream flight before it's gone.
 
-
 #### Continuous Monitoring
 
 AwardFares continuously monitors award availability across multiple airlines, ensuring you have access to the most up-to-date information. This is particularly helpful when booking with partner airlines, as availability can change frequently.
-
 
 ## Also read.
 
@@ -192,7 +176,6 @@ We are rolling out new features and improvements regularly, so sign up for our n
   })();
 </script>
 
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/", 
@@ -206,30 +189,53 @@ We are rolling out new features and improvements regularly, so sign up for our n
     "currency": "USD",
     "value": "0"
   },
+  "tool":[
+    "@type": "HowToTool",
+    "name": "AwardFares",
+  ],
+  "supply":[
+    "@type": "HowToSupply",
+    "name": "AwardFares",
+  ],
   "step": [{
     "@type": "HowToStep",
+    "name": "Create account",
     "text": "Create an AwardFares account and log-in.",
     "url": "https://awardfares.com/signup"
   },{
     "@type": "HowToStep",
+    "name": "Select Aeroplan",
+    "url": "https://awardfares.com/search?..;z:aeroplan"
     "text": "Select Aeroplan in the Frequent Flyer Program picker."
   },{
     "@type": "HowToStep",
+    "name": "Filter First Class",
+    "url": "https://awardfares.com/search?..;c:first;z:aeroplan"
     "text": "Filter out by First Class cabin."
   },{
     "@type": "HowToStep",
+    "name": "Select route",
+    "url": "https://awardfares.com/search?..;c:first;z:aeroplan"
     "text": "Select Origin and Destination."
   },{
     "@type": "HowToStep",
+    "name": "Perform search",
+    "url": "https://awardfares.com/search?..;c:first;z:aeroplan"
     "text": "Perform a broad search (optional)."
   },{
     "@type": "HowToStep",
+    "name": "Filter by airline",
+    "url": "https://awardfares.com/search?..;c:first;a:LH;z:aeroplan"
     "text": "Filter out by Airline."
   },{
     "@type": "HowToStep",
+    "name": "Book",
+    "url": "https://awardfares.com/search?..;c:first;a:LH;z:aeroplan"
     "text": "Confirm availability on Aeroplan’s website."
   },{
     "@type": "HowToStep",
+    "name": "Set up alerts",
+    "url": "https://awardfares.com/alerts"
     "text": "Set up award alerts (optional)."
   }]    
 }
