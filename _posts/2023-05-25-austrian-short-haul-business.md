@@ -4,8 +4,6 @@ title: Austrian's Impressive Intra-Europe Business Class (VIE-FRA)
 tags: [Review, Business, Austrian]
 author: Philip
 image: /assets/img/austrian-short-haul-business/cover.webp
-hidden: true
-sitemap: false
 ---
 
 I recently had a very long journey back to Europe from Taipei. Due to lack of any better award availability, I ended up booking a route taking me from Taipei to Barcelona via Vienna and Frankfurt. While definitely not the quickest route, it at least gave me a chance to try a nice variety of airlines (EVA Air, Austrian, and Lufthansa).
