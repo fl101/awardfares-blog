@@ -216,14 +216,14 @@ You can [create an account](https://awardfares.com/signup) and try AwardFares fo
     "currency": "USD",
     "value": "0"
   },
-  "tool":[
+  "tool":[{
     "@type": "HowToTool",
     "name": "AwardFares"
-  ],
-  "supply":[
+  }],
+  "supply":[{
     "@type": "HowToSupply",
     "name": "AwardFares"
-  ],
+  }],
   "step": [{
     "@type": "HowToStep",
     "name": "Create account",

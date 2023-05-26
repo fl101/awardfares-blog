@@ -189,14 +189,14 @@ We are rolling out new features and improvements regularly, so sign up for our n
     "currency": "USD",
     "value": "0"
   },
-  "tool":[
+  "tool":[{
     "@type": "HowToTool",
     "name": "AwardFares"
-  ],
-  "supply":[
+  }],
+  "supply":[{
     "@type": "HowToSupply",
     "name": "AwardFares"
-  ],
+  }],
   "step": [{
     "@type": "HowToStep",
     "name": "Create account",
