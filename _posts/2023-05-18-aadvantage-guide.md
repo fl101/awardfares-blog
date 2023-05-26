@@ -218,11 +218,11 @@ You can [create an account](https://awardfares.com/signup) and try AwardFares fo
   },
   "tool":[
     "@type": "HowToTool",
-    "name": "AwardFares",
+    "name": "AwardFares"
   ],
   "supply":[
     "@type": "HowToSupply",
-    "name": "AwardFares",
+    "name": "AwardFares"
   ],
   "step": [{
     "@type": "HowToStep",

@@ -191,11 +191,11 @@ We are rolling out new features and improvements regularly, so sign up for our n
   },
   "tool":[
     "@type": "HowToTool",
-    "name": "AwardFares",
+    "name": "AwardFares"
   ],
   "supply":[
     "@type": "HowToSupply",
-    "name": "AwardFares",
+    "name": "AwardFares"
   ],
   "step": [{
     "@type": "HowToStep",
