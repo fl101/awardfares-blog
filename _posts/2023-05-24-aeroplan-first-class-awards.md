@@ -205,32 +205,32 @@ We are rolling out new features and improvements regularly, so sign up for our n
   },{
     "@type": "HowToStep",
     "name": "Select Aeroplan",
-    "url": "https://awardfares.com/search?..;z:aeroplan"
+    "url": "https://awardfares.com/search?..;z:aeroplan",
     "text": "Select Aeroplan in the Frequent Flyer Program picker."
   },{
     "@type": "HowToStep",
     "name": "Filter First Class",
-    "url": "https://awardfares.com/search?..;c:first;z:aeroplan"
+    "url": "https://awardfares.com/search?..;c:first;z:aeroplan",
     "text": "Filter out by First Class cabin."
   },{
     "@type": "HowToStep",
     "name": "Select route",
-    "url": "https://awardfares.com/search?..;c:first;z:aeroplan"
+    "url": "https://awardfares.com/search?..;c:first;z:aeroplan",
     "text": "Select Origin and Destination."
   },{
     "@type": "HowToStep",
     "name": "Perform search",
-    "url": "https://awardfares.com/search?..;c:first;z:aeroplan"
+    "url": "https://awardfares.com/search?..;c:first;z:aeroplan",
     "text": "Perform a broad search (optional)."
   },{
     "@type": "HowToStep",
     "name": "Filter by airline",
-    "url": "https://awardfares.com/search?..;c:first;a:LH;z:aeroplan"
+    "url": "https://awardfares.com/search?..;c:first;a:LH;z:aeroplan",
     "text": "Filter out by Airline."
   },{
     "@type": "HowToStep",
     "name": "Book",
-    "url": "https://awardfares.com/search?..;c:first;a:LH;z:aeroplan"
+    "url": "https://awardfares.com/search?..;c:first;a:LH;z:aeroplan",
     "text": "Confirm availability on Aeroplan’s website."
   },{
     "@type": "HowToStep",

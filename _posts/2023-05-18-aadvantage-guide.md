@@ -228,35 +228,35 @@ You can [create an account](https://awardfares.com/signup) and try AwardFares fo
     "@type": "HowToStep",
     "name": "Create account",
     "text": "Create an account on AwardFares and log in.",
-    "url": "https://awardfares.com/signup"
+    "url": "https://awardfares.com/signup",
     "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/awardfares-signup.webp"
   },{
     "@type": "HowToStep",
     "name": "Select AAdvantage",
     "text": "Select AAdvantage in the Frequent Flyer Program picker.",
-    "url": "https://awardfares.com/search?..;z:aadvantage"
+    "url": "https://awardfares.com/search?..;z:aadvantage",
     "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/aadvantage-ffp.webp"
   },{
     "@type": "HowToStep",
     "name": "Select route",
     "text": "Select the route in the From and To fields (e.g. JFK to LHR)",
-    "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage"
+    "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage",
     "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/select-route.webp"
   },{
     "@type": "HowToStep",
     "name": "Add dates",
     "text": "Add travel dates",
-    "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage"
+    "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage",
     "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/select-date.webp"
   },{
     "@type": "HowToStep",
     "text": "Add filters by cabin type, airline, number of stops, or aircraft type (optional)",
-    "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage;c:business"
+    "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage;c:business",
     "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/filter-cabin.webp"
   },{
     "@type": "HowToStep",
     "text": "Done. AwardFares will show you the available AAdvantage award flights",
-    "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage;c:business"
+    "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage;c:business",
     "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/list-view.webp"
   }]    
 }
