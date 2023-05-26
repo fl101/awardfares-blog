@@ -235,7 +235,7 @@ We are rolling out new features and improvements regularly, so sign up for our n
   },{
     "@type": "HowToStep",
     "name": "Set up alerts",
-    "url": "https://awardfares.com/alerts"
+    "url": "https://awardfares.com/alerts",
     "text": "Set up award alerts (optional)."
   }]    
 }
