@@ -250,11 +250,13 @@ You can [create an account](https://awardfares.com/signup) and try AwardFares fo
     "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/select-date.webp"
   },{
     "@type": "HowToStep",
+    "name": "Add filters",
     "text": "Add filters by cabin type, airline, number of stops, or aircraft type (optional)",
     "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage;c:business",
     "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/filter-cabin.webp"
   },{
     "@type": "HowToStep",
+    "name": "Done",
     "text": "Done. AwardFares will show you the available AAdvantage award flights",
     "url": "https://awardfares.com/search?JFK.LHR.;z:aadvantage;c:business",
     "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/list-view.webp"
