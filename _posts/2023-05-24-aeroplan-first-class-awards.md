@@ -96,7 +96,7 @@ To set up an Alert, just tap on **Alerts** > **Add Alert** > and fill out the re
 
 Pretty easy, right? AwardFares, lets you see all the available flights in first-class cabins ready to be booked using Aeroplan miles in just a few clicks. It saves you hours of searches on Aeroplan’s website by showing you broad results you can filter out in an intuitive and easy-to-use interface.
 
-Remember that some of the features and limits are improved if you upgrade to a Gold or Diamond package. **Right now you can use the code AEROPLAN to get 5% off your annual plan**
+Remember that some of the features and limits are improved if you upgrade to a Gold or Diamond package.
 
 ### Why AwardFares is Your Go-To Tool for First-Class Award Searches
 
