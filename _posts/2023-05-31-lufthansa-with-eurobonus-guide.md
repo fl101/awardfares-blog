@@ -22,17 +22,15 @@ The lists below are updated in real time and show you the available award seats 
 
 ### Lufthansa First Class With SAS EuroBonus Points (Top Routes)
 
-<>
-
+<table id="lh-first"></table>
 
 ### Lufthansa Business Class With SAS EuroBonus Points (Top Routes)
 
-<>
-
+<table id="lh-business"></table>
 
 ### Lufthansa Economy Class With SAS EuroBonus Points (Top Routes)
 
-<>
+<table id="lh-economy"></table>
 
 ---
 
@@ -143,3 +141,46 @@ Make sure to also check these posts
 * [Lufthansa New Routes In 2023](https://blog.awardfares.com/lh-routes-2023/)
 * [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
 
+<script>
+  (function () {
+    createStatsTable('economy');
+    createStatsTable('business');
+    createStatsTable('first');
+    async function createStatsTable(cabin) {
+      const host = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';
+      const endpoint = `/api/stats/lufthansa-top-routes.json?cabin=${cabin}`;
+      const table = document.getElementById(`lh-${cabin}`);
+      table.innerHTML = 'Loading...';
+      try {
+        const resp = await fetch(host + endpoint);
+        const data = await resp.json();
+        const moreLink = `https://awardfares.com/search?..;c:${cabin};a:LH;z:eurobonus`;
+        const rowLimit = 10;
+        const rows = data.slice(0, rowLimit).map(route => {
+          const limit = 20;
+          const displayCount = route.total;
+          const searchLink = `https://awardfares.com/search?${route.route.replace('-', '.')}.;c:${cabin};a:LH;z:eurobonus`;
+          return `<tr>
+            <td>
+              ${route.route}
+            </td>
+            <td>
+              <div style="width: ${Math.ceil(route.total / 10) * 20}px; height: 20px; background-image: url(https://awardfares.com/img/seat.png); background-size: contain; background-repeat: repeat-x"></div>
+            </td>
+            <td>
+              <a href="${searchLink}">${displayCount} seat${route.total > 1 ? 's' : ''}</a></td>
+            </tr>`;
+        });
+        if (rows.length > 0) {
+          rows.push(`<tr><td colspan="3" align="center"><a href="${moreLink}">See all available seats</center></td></tr>`);
+          table.innerHTML = rows.join('');
+        } else {
+          table.innerHTML = 'No seats available right now';
+        }
+      } catch (err) {
+        console.error(err);
+        table.innerHTML = 'Data not available right now';
+      }
+    }
+  })();
+</script>
