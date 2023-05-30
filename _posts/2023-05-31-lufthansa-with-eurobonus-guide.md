@@ -17,18 +17,18 @@ In this post, we cover why SAS EuroBonus is still a great program when redeeming
 
 ## Example Lufthansa Award Flights - Right Now!
 
-The lists below are updated in real time and show you the available award seats for the next 30 days on some of the major partner airlines using your Aeroplan miles.
+The lists below are updated in real time and show you the available award seats for the next 30 days on some of the major partner airlines using your EuroBonus points.
 
 
-### Lufthansa First Class With SAS EuroBonus Points (Top Routes)
+### Lufthansa First Class With SAS EuroBonus Points (Top Long-haul Routes)
 
 <table id="lh-first"></table>
 
-### Lufthansa Business Class With SAS EuroBonus Points (Top Routes)
+### Lufthansa Business Class With SAS EuroBonus Points (Top Long-haul Routes)
 
 <table id="lh-business"></table>
 
-### Lufthansa Economy Class With SAS EuroBonus Points (Top Routes)
+### Lufthansa Economy Class With SAS EuroBonus Points (Top Lonh-haul Routes)
 
 <table id="lh-economy"></table>
 
@@ -58,7 +58,7 @@ Go to AwardFares’ sign-up page and create an account. You’ll need to enter a
 On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap on it and select **EuroBonus**. This will only perform searches and show you award seats available using EuronBonus points.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus/select-eurobonus.webm" alt="Filter award flights on SAS EuroBonus in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus/select-eurobonus.gif" alt="Filter award flights on SAS EuroBonus in AwardFares" />
 </figure>
 
 ### 3. Filter out by Airline
@@ -66,15 +66,15 @@ On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap 
 Tap the **Airline** filter and select **Lufthansa** to avoid seeing results from other airlines.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus/select-lufthansa.webm" alt="Filter Lufthansa award flights in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus/select-lufthansa.gif" alt="Filter Lufthansa award flights in AwardFares" />
 </figure>
 
-### 4. Select Origin and Destination
+### 4. Select the Route
 
-If you already have your departure and destination city, you can add those under the “**Where from”** and “**Where to” **fields. Once you do so, you will be able to see a Timeline.
+If you already have your departure and destination city, you can add those under the **Where From** and **Where To** fields. Once you do so, you will be able to see a Timeline.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus/select-destination.webm" alt="Select destination in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus/select-destination.gif" alt="Select destination in AwardFares" />
 </figure>
 
 ### 5. Perform a broad search
@@ -90,8 +90,12 @@ If you have flexibility on the routes, AwardFares is powerful as Google Flights.
 Using the **Cabin** filter you can select **First Class** **Only**. This will remove all other cabins, such as Economy, Premium Economy, and Business, and just show you seats available in First Class.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus/select-cabin.webm" alt="Filter award flights by cabin in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus/select-cabin.gif" alt="Filter award flights by cabin in AwardFares" />
 </figure>
+
+
+**Note**: Lufthansa partner redemptions are restricted to 14 days in advance for First class and 85 days for long-haul business. If you are curious about how early Lufthansa releases award seats, check our [guide here](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/).
+
 
 ### 7. Confirm availability on SAS website
 
@@ -104,13 +108,24 @@ If you don’t see available seats on a given flight and date you are interested
 
 To set up an Alert, just tap on **Alerts** > **Add Alert** > and fill out the required information, such as route, dates, passengers, cabin.
 
-If you are curious about how early Lufthansa releases award seats, check our [guide here](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/).
 
 ### 9. Done!
 
 Simple, huh? AwardFares, lets you see all the available flights on Lufthansa ready to be booked with SAS EuroBonus points. Keep in mind that most flights you can book directly on SAS website through the Star Alliance award portal. To book certain cabins, such as First Class or Premium economy, you need to call the service center.
 
 Remember that some of the features and limits are improved if you upgrade to a Gold or Diamond package.
+
+## What we love and don't about Lufthansa
+
+Here are some of our pros and cons of flying with Lufthansa
+
+| Pros | Cons |
+|---|---|
+| **Consistent on-time performance** | **Long-haul Business Class seats are still 2-2-2 instead of 1-2-1**|
+| **Wide network of destinations** | **Inconsistent service quality** |
+| **Modern fleet** | **Long flight times** |
+| **Still flying 747 and A380** | **Can be crowded** |
+| **Frankfurt and Munich are easy to connect** | **High cash fares** |
 
 
 ## Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2023
@@ -184,4 +199,63 @@ Make sure to also check these posts
       }
     }
   })();
+</script>
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "HowTo", 
+  "name": "How To Find Lufthansa Flights Using SAS EuroBonus Points",
+  "description": "Step-by-step guide on how to find Lufthansa award flights with EuroBonus points using AwardFares.",
+  "image": "https://blog.awardfares.com/assets/img/lufthansa-with-eurobonus-guide/cover.webp",
+  "totalTime": "PT5M",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "0"
+  },
+  "tool": {
+    "@type": "HowToTool",
+    "name": "AwardFares"
+  },
+  "step": [{
+    "@type": "HowToStep",
+    "text": "Create an account on AwardFares and log in.",
+    "name": "Create account",
+    "url": "https://awardfares.com/signup"
+  },{
+    "@type": "HowToStep",
+    "text": "Select SAS EuroBonus in the Frequent Flyer Program picker.",
+    "name": "Select SAS EuroBonus",
+    "url": "https://awardfares.com/search?..;z:eurobonus"
+  },{
+    "@type": "HowToStep",
+    "text": "Under Airline, select Lufthansa only.",
+    "name": "Select Lufthansa",
+    "url": "https://awardfares.com/search?..;a:LH;z:eurobonus"
+  },{
+    "@type": "HowToStep",
+    "text": "Select the route in the From and To fields (e.g., ARN to JFK)",
+    "name": "Select Route",
+    "url": "https://awardfares.com/search?ARN.JFK.;a:LH;z:eurobonus"
+  },{
+    "@type": "HowToStep",
+    "text": "Add travel dates",
+    "name": "Add Dates",
+    "url": "https://awardfares.com/search?ARN.JFK.2023-09-01;a:LH;o:duration;so:asc;z:eurobonus"
+  },{
+    "@type": "HowToStep",
+    "text": "Add filters by cabin type, airline, number of stops, or aircraft type.",
+    "name": "Add Filters (Optional)",
+    "url": "https://awardfares.com/search?ARN.JFK.2023-09-01;c:business;a:LH;o:duration;so:asc;z:eurobonus"
+  },{
+    "@type": "HowToStep",
+    "text": "Done. AwardFares will show you the available Lufthansa award flights that are available to book using SAS EuroBonus points.",
+    "name": "Done",
+    "url": "https://awardfares.com/search?..;c:business;a:LH;o:price;so:asc;z:eurobonus"
+  }]    
+}
 </script>

@@ -207,7 +207,7 @@ You can [create an account](https://awardfares.com/signup) and try AwardFares fo
 {
   "@context": "https://schema.org/", 
   "@type": "HowTo", 
-  "name": "How to find American Airlines Award Availability",
+  "name": "How To Find American Airlines Award Availability",
   "description": "Step-by-step guide on how to find American Airlines award availability using AwardFares.",
   "image": "https://blog.awardfares.com/assets/img/aadvantage-guide/cover.webp",
   "totalTime": "PT7M",
