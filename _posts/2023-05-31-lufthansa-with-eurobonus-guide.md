@@ -14,8 +14,17 @@ Historically, there have been many EuroBonus sweet spots on Lufthansa, including
 
 In this post, we cover why SAS EuroBonus is still a great program when redeeming award flights on Lufthansa, and a step-by-step guide to finding and booking Lufthansa flights with EuroBonus points using AwardFares.
 
+### In this post
 
-## Example Lufthansa Award Flights - Right Now!
+- [Available Long-haul Awards (In Realtime)](#realtime-awards)
+- [Why is SAS EuroBonus great for redeeming awards on Lufthansa?](#why-sas-for-lufthansa)
+- [How To Find Lufthansa Flights With EuroBonus Points](#how-to)
+- [Pros and Cons of Flying Lufthansa](#pros-and-cons)
+- [Best Frequent Flyer Programs to Redeem Lufthansa Awards](#best-ffqtv)
+- [Read More](#read-more)
+
+
+## Example Lufthansa Award Flights - Right Now! {#realtime-awards}
 
 The lists below are updated in real time and show you the available award seats for the next 30 days on some of the major partner airlines using your EuroBonus points.
 
@@ -34,7 +43,7 @@ The lists below are updated in real time and show you the available award seats 
 
 ---
 
-## Why is SAS EuroBonus great for redeeming awards on Lufthansa?
+## Why is SAS EuroBonus great for redeeming awards on Lufthansa? {#why-sas-for-lufthansa}
 
 There may be several reasons why you might find SAS EuroBonus to be more beneficial for redeeming awards on Lufthansa flights.
 
@@ -45,8 +54,7 @@ There may be several reasons why you might find SAS EuroBonus to be more benefic
 5. **Flexible Points Earned:** EuroBonus points can be earned in a variety of ways, not just from flying. You can earn points from hotel stays, car rentals, and everyday purchases if you have a co-branded credit card.
 
 
-## How To Find Lufthansa Flights With EuroBonus Points
-
+## How To Find Lufthansa Flights With EuroBonus Points {#how-to}
 
 ### 1. Create an AwardFares account and log-in
 
@@ -115,7 +123,7 @@ Simple, huh? AwardFares, lets you see all the available flights on Lufthansa rea
 
 Remember that some of the features and limits are improved if you upgrade to a Gold or Diamond package.
 
-## What we love and don't about Lufthansa
+## What we love and don't about Lufthansa {#pros-and-cons}
 
 Here are some of our pros and cons of flying with Lufthansa
 
@@ -128,7 +136,7 @@ Here are some of our pros and cons of flying with Lufthansa
 | **Frankfurt and Munich are easy to connect** | **High cash fares** |
 
 
-## Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2023
+## Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2023 {#best-ffqtv}
 
 At [AwardFares](https://awardfares.com/signup) we love all frequent flyer programs, but we also need to stay on top of the game, understanding how award charts change over time and identifying the best redemptions so you can make the most out of your points. 
 
