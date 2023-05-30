@@ -143,11 +143,11 @@ Make sure to also check these posts
 
 <script>
   (function () {
-    createStatsTable('economy');
-    createStatsTable('business');
     createStatsTable('first');
-    async function createStatsTable(cabin) {
-      const host = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';
+    createStatsTable('business');
+    createStatsTable('economy');
+    async function createStatsTable(cabin, limit) {
+      const host = /*window.location.hostname == 'localhost' ? 'http://localhost:3000' :*/ 'https://awardfares.com';
       const endpoint = `/api/stats/lufthansa-top-routes.json?cabin=${cabin}`;
       const table = document.getElementById(`lh-${cabin}`);
       table.innerHTML = 'Loading...';
@@ -156,8 +156,9 @@ Make sure to also check these posts
         const data = await resp.json();
         const moreLink = `https://awardfares.com/search?..;c:${cabin};a:LH;z:eurobonus`;
         const rowLimit = 10;
+        const seatsPerIcon = data[0]?.total / rowLimit;
         const rows = data.slice(0, rowLimit).map(route => {
-          const limit = 20;
+          const seatLimit = 10;
           const displayCount = route.total;
           const searchLink = `https://awardfares.com/search?${route.route.replace('-', '.')}.;c:${cabin};a:LH;z:eurobonus`;
           return `<tr>
@@ -165,7 +166,7 @@ Make sure to also check these posts
               ${route.route}
             </td>
             <td>
-              <div style="width: ${Math.ceil(route.total / 10) * 20}px; height: 20px; background-image: url(https://awardfares.com/img/seat.png); background-size: contain; background-repeat: repeat-x"></div>
+              <div style="width: ${Math.ceil(route.total / seatsPerIcon) * 20}px; height: 20px; background-image: url(https://awardfares.com/img/seat.png); background-size: contain; background-repeat: repeat-x"></div>
             </td>
             <td>
               <a href="${searchLink}">${displayCount} seat${route.total > 1 ? 's' : ''}</a></td>
