@@ -98,7 +98,7 @@ If you have flexibility on the routes, AwardFares is powerful as Google Flights.
 Using the **Cabin** filter you can select **First Class** **Only**. This will remove all other cabins, such as Economy, Premium Economy, and Business, and just show you seats available in First Class.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus-guide/select-cabin.gif" alt="Filter award flights by cabin in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus-guide/filter-cabin.gif" alt="Filter award flights by cabin in AwardFares" />
 </figure>
 
 
