@@ -59,3 +59,39 @@ Sleeping in the SAS business seats is easy, apart from my minor gripe that I had
 SAS business class continues to be a great product, albeit with a few minor details that hold it back from being a truly excellent premium offering. The food is always good, however the service is inconsistent, the hardware is great, seats are comfortable and the cabins are fresh and modern, but the choice of terminals at outstation airports are consistently poor, often more similar to low cost carriers.
 
 I think the biggest point of contention when it comes to this route will not be the airport (SAS also flies to EWR from a few different Scandinavian airports) but rather the departure times. The west bound flight departs at 18:25 and arrives at 21:30. If you stay awake the entire flight (As I did) you will arrive extremely tired and hopefully get a good first night's sleep, aiding with minimizing the jet lag. This might be great if you have a meeting in the morning the day after for instance, or want to do a shorter vacation in New York. The return leg however is more awkward as a result, it departs at 23:00 and arrives at 12:55. This means it's departing too late for a dinner and around the time where most people would go to bed local time, additionally it arrives not in the morning as many other eastbound transatlantic flights often do, the result being that even if you get a good night's sleep your're not in Copenhagen early enough to get a full work day in. To me this is the worst of both worlds, compared to the SAS flight to Newark which departs at 17:30, perfect dinner time after take-off and climb, and arrives at 07:05, giving you a full day to work with.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "SAS A321LR Business Class",
+  "image": "https://blog.awardfares.com/assets/img/sas-business-jfk/speech.jpeg",
+  "description": "Review of the business class cabin and service on Scandinavian Airlines A321LR (Copenhagen to New York JFK)",
+  "brand": {
+    "@type": "Brand",
+    "name": "Scandinavian Airlines SAS"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "1",
+    "reviewCount": "1"
+  },
+  "review": {
+    "@type": "Review",
+    "name": "Solid service with challenging schedule",
+    "reviewBody": "SAS business class continues to be a great product, albeit with minor details holding it back from being a truly excellent premium offering. The food is always good. However, the service is inconsistent, the hardware is great, the seats are comfortable, and the cabins are fresh and modern. Still, the choice of terminals at outstation airports is consistently poor, often more similar to low-cost carriers. I think the biggest point of contention regarding this route will not be the airport (SAS also flies to EWR from a few different Scandinavian airports) but rather the departure times. The westbound flight departs at 18:25 and arrives at 21:30. If you stay awake the entire flight (As I did), you will arrive extremely tired and hopefully get a good first night’s sleep, aiding with minimizing the jet lag. This might be great if you have a meeting in the morning the day after, for instance, or want to do a shorter vacation in New York. The return leg, however, is more awkward as a result; it departs at 23:00 and arrives at 12:55. This means it’s departing too late for dinner and around the time when most people would go to bed local time. Additionally, it arrives not in the morning as many other eastbound transatlantic flights often do, the result being that even if you get a good night’s sleep, you’re not in Copenhagen early enough to get a full work day in. To me, this is the worst of both worlds, compared to the SAS flight to Newark, which departs at 17:30, perfect dinner time after take-off and climb, and arrives at 07:05, giving you a full day to work with.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4.3",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "datePublished": "2023-02-17",
+    "author": {"@type": "Person", "name": "Philip Bergqvist"},
+    "publisher": {"@type": "Organization", "name": "AwardFares"}
+  }
+}
+</script>

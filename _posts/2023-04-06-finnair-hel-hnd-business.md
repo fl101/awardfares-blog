@@ -90,3 +90,40 @@ This was actually my first time flying Finnair long-haul and I have to say it wa
 <img src="/assets/img/finnair-hel-hnd-business/8-arrival1.webp" class="half" />
 <img src="/assets/img/finnair-hel-hnd-business/8-arrival2.webp" class="half" />
 </figure>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Finnair New A350 Business Class",
+  "image": "https://blog.awardfares.com/assets/img/finnair-hel-hnd-business/overview.webp",
+  "description": "Finnair New Business Class cabin on their A350-900 (long-haul)",
+  "brand": {
+    "@type": "Brand",
+    "name": "Finnair"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "1",
+    "reviewCount": "1"
+  },
+  "review": {
+    "@type": "Review",
+    "name": "Fantastic experience on a non-recline seat.",
+    "reviewBody": "This was actually my first time flying Finnair long-haul, and I have to say it was an absolutely fantastic experience. Great lounge, a beautiful A350 cabin, the new non-reclining business seat was super comfortable, and the crew and service were fantastic. The only weak part, in my opinion, was the meal service. Due to the closed airspace over Russia, Finnair either flies the polar route over the north pole, or a southern route (depending on the winds). Unfortunately, my flight to Japan flew the south route, however, my return flight did end up going the northern route. I slept most of that flight as well, but did wake up to a “Northern Route” diploma that the crew had handed out!",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "datePublished": "2023-04-06",
+    "author": {"@type": "Person", "name": "Philip Bergqvist"},
+    "publisher": {"@type": "Organization", "name": "AwardFares"}
+  }
+}
+</script>

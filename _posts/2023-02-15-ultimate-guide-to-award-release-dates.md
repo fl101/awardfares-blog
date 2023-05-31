@@ -86,7 +86,6 @@ Notes:
   
 })();
 
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -98,15 +97,55 @@ Notes:
       "@type": "Answer",
       "text": "Lufthansa typically releases award seats 360 days in advance. Lufthansa long-haul Business partner redemptions are currently released 85 days in advance. Lufthansa long-haul First partner redemptions are released 30 days in advance. Members of Miles & More can book up to 180 days in advance."
     }
-  },
-  {
+  },{
     "@type": "Question",
     "name": "When does Singapore Airlines release award seats?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "Singapore Airlines typically releases award seats 355 days in advance both to their own frequent flyer program as well as partners."
     }
-  }
-  ]
+  },{
+    "@type": "Question",
+    "name": "When does Air Canada release award seats?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Air Canada typically releases award seats 360 days in advance both to their own frequent flyer program as well as partners."
+    }
+  },{
+    "@type": "Question",
+    "name": "How early in advance can I book a flight with SAS EuroBonus points?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The first SAS Bonus tickets are released 11 months before departure. SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days."
+    }
+  },{
+    "@type": "Question",
+    "name": "When does Air China release award seats?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Air China typically releases award seats 361 days in advance both to their own frequent flyer program as well as partners."
+    }
+  },{
+    "@type": "Question",
+    "name": "When does EVA Air release award seats?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "EVA Air releases award seats 361 days in advance both to their own frequent flyer program as well as partners."
+    }
+  },{
+    "@type": "Question",
+    "name": "When does United Airlines release award seats?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "United Airlines releases award seats 337 days in advance both to their own frequent flyer program as well as partners."
+    }
+  },{
+    "@type": "Question",
+    "name": "When does Swiss release award seats?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Swiss releases award seats 300 days in advance both to their own frequent flyer program and partners."
+    }
+  }]
 }
 </script>
