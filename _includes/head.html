@@ -1,4 +1,12 @@
 <head>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="preload"
+    as="style">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0"
+    rel="preload" as="font" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,600&display=fallback" rel="preload" as="style">
+  <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600&display=fallback" rel="preload" as="style">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="preload" as="style">
+  <link href="/assets/css/main.css" rel="preload" as="style">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if page.sitemap == false %}
@@ -15,36 +23,17 @@
 
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | relative_url }}" />
 
+  
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,600" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,600&display=fallback" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600&display=fallback" rel="stylesheet" type="text/css">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/css/main.css">
+  <link href="/assets/css/main.css" rel="stylesheet">
 
   {% if jekyll.environment == "production" %}
-  <script async defer data-website-id="4f2f3c51-02c8-466f-b555-0f11b8a3fb7c" src="https://umami.fl101.tech/umami.js"></script>
   <script defer data-domain="blog.awardfares.com" src="https://plausible.io/js/script.tagged-events.js"></script>
   {% endif %}
 
   {% seo %}
-
-  <!-- Facebook Pixel Code -->
-  <script>
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-    n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];
-    s.parentNode.insertBefore(t,s)}(window, document,'script',
-    'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('set', 'autoConfig', false, '463591527535506')
-    fbq('init', '463591527535506');
-    fbq('track', 'PageView');
-  </script>
-  <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=463591527535506&ev=PageView&noscript=1"
-  /></noscript>
-  <!-- End Facebook Pixel Code -->
 
 </head>
