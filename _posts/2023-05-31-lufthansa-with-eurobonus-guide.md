@@ -4,8 +4,6 @@ title: "Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points"
 tags: [Guide]
 author: Germán
 image: /assets/img/lufthansa-with-eurobonus-guide/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Lufthansa is one of the world's leading carriers, with access to nearly 1,300 destinations worldwide, an extensive global network, and high-quality service. It is a very reliable alternative, especially when you are flying premium cabins such as Business and First Class. As a founding member of Star Alliance, it’s possible to book Lufthansa flights from other frequent flyer programs, such as SAS EuroBonus.
