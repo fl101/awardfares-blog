@@ -3,7 +3,7 @@ layout: post
 title: "5 Essential Tools Every Aeroplan Member Needs"
 tags: [Guide]
 author: Germán
-image: /assets/img/folder/cover.webp
+image: /assets/img/aeroplan-tools/cover.webp
 hidden: true
 sitemap: false
 ---
