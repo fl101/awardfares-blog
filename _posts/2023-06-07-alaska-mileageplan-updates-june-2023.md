@@ -39,7 +39,7 @@ Air Tahiti Nui upgraded its fleet to Boeing 787-9 Dreamliners in 2018, which are
 <img src="/assets/img/alaska-mileageplan-updates-june-2023/sea-cdg.webp" alt="Seattle to Paris on Air Tahiti Nui using Alaska Mileage Plan miles." />
 </figure>
 
-## [Seattle to Helsinki](https://blog.awardfares.com/finnair-hel-hnd-business/) on Finnair {#finnair}
+## [Seattle to Helsinki](https://awardfares.com/search?SEA.HEL.;a:AY;z:alaska#) on Finnair {#finnair}
 
 Connect in Seattle and fly direct to Helsinki with Finnair this summer and find yourself within easy reach of your favorite European destinations. Some of Finnair’s A350s aircrafts are equipped with the new Business Class seats, [check out our review here](https://blog.awardfares.com/finnair-hel-hnd-business/).
 
