@@ -24,7 +24,7 @@ The Aeroplan mobile app is a must-have for any member. It's a one-stop shop wher
 
 ### 2. [AwardFares](https://awardfares.com/search?..;z:aeroplan)
 
-Finding award availability can sometimes be a challenge, and that's where AwardFares comes in. This powerful tool scans multiple loyalty programs, including Aeroplan, for award availability and lets you set up customizable alerts for specific routes, airlines, or travel dates. With continuous monitoring and timely notifications, AwardFares can help you secure your dream flight before the availability disappears.
+Finding award availability can sometimes be a challenge, and that's where AwardFares comes in. Our powerful tool is the world's fastest search engine for award flights, scanning all available seats on Aeroplan in seconds. It also lets set up customizable alerts for specific routes, airlines, or travel dates. With continuous monitoring and timely notifications, AwardFares can help you secure your dream flight before the availability disappears.
 
 <figure>
 <img src="/assets/img/aeroplan-tools/awardfares.webp" alt="Aeroplan on AwardFares." />
