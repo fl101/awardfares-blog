@@ -8,7 +8,17 @@ hidden: true
 sitemap: false
 ---
 
-## New Partner STARLUX Airlines
+### In a nutshell
+
+- [New Partner STARLUX Airlines](#starlux)
+- [Seattle to Paris on Air Tahiti Nui](#air-tahiti)
+- [Seattle to Helsinki on Finnair](#finnair)
+- [San Francisco or Los Angeles to Madrid on Iberia](#iberia)
+- [San Francisco To Sydney On Qantas](#qantas)
+- [Bonus: Earn double miles on Qatar Airlines](#qatar)
+
+
+## New Partner STARLUX Airlines {#starlux}
 
 STARLUX Airlines just became a partner of the Alaska Mileage Plan program, which means you can now start earning and redeeming miles with their flights! 
 
@@ -19,7 +29,7 @@ Redemptions for award flights will be made available later this summer (July), m
 Note: when purchasing a flight marketed and operated by STARLUX Airlines, base miles and a class of service bonuses earned are based on the STARLUX Airlines earn chart below. Flights marketed by STARLUX Airlines and operated by another carrier are not eligible for mileage credit. 
 
 
-## [Seattle to Paris](https://awardfares.com/search?SEA.CDG.;a:TN;z:alaska#) on Air Tahiti Nui
+## [Seattle to Paris](https://awardfares.com/search?SEA.CDG.;a:TN;z:alaska#) on Air Tahiti Nui {#air-tahiti}
 
 Connect in Seattle and go straight to Paris via a direct flight on Air Tahiti Nui. Redemptions are already visible on AwardFares.
 
@@ -29,12 +39,12 @@ Air Tahiti Nui upgraded its fleet to Boeing 787-9 Dreamliners in 2018, which are
 <img src="/assets/img/alaska-mileageplan-updates-june-2023/sea-cdg.webp" alt="Seattle to Paris on Air Tahiti Nui using Alaska Mileage Plan miles." />
 </figure>
 
-## [Seattle to Helsinki](https://blog.awardfares.com/finnair-hel-hnd-business/) on Finnair
+## [Seattle to Helsinki](https://blog.awardfares.com/finnair-hel-hnd-business/) on Finnair {#finnair}
 
 Connect in Seattle and fly direct to Helsinki with Finnair this summer and find yourself within easy reach of your favorite European destinations. Some of Finnair’s A350s aircrafts are equipped with the new Business Class seats, [check out our review here](https://blog.awardfares.com/finnair-hel-hnd-business/).
 
 
-## [San Francisco or Los Angeles to Madrid](https://awardfares.com/search?LAX,SFO.MAD.2023-07-12;o:price;so:asc;z:alaska) on Iberia
+## [San Francisco or Los Angeles to Madrid](https://awardfares.com/search?LAX,SFO.MAD.2023-07-12;o:price;so:asc;z:alaska) on Iberia {#iberia}
 
 Book Iberia’s direct summer flights from either San Francisco or Los Angeles to Madrid. Plenty of seats available in Economy Class.
 
@@ -43,7 +53,7 @@ Book Iberia’s direct summer flights from either San Francisco or Los Angeles t
 </figure>
 
 
-## [San Francisco To Sydney](https://awardfares.com/search?SFO.SYD.2023-08-07;a:QF;o:price;so:asc;z:alaska) On Qantas
+## [San Francisco To Sydney](https://awardfares.com/search?SFO.SYD.2023-08-07;a:QF;o:price;so:asc;z:alaska) on Qantas {#qantas}
 
 Qantas has resumed its popular service from San Francisco to Sydney!
 
@@ -53,7 +63,7 @@ Qantas has resumed its popular service from San Francisco to Sydney!
 
 
 
-## Bonus: Earn double miles on Qatar Airlines
+## Bonus: Earn double miles on Qatar Airlines {#qatar}
 
 Earn 2X miles when you register and fly on Qatar Airways before June 30, 2023. Mileage Plan has great redemptions on Qatar Airways, especially on their Business Class/Qsuites products. It’s easy to quickly [display all available](https://awardfares.com/search?..;a:QR;z:alaska) seats with AwardFares. 
 
