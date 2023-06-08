@@ -6,6 +6,7 @@ layout: default
   
   <div class="posts">
     {% for post in paginator.posts %}
+      {% assign index = forloop.index0 %}
       {% unless post.lang == "zh_TW" %}
       {% unless post.hidden %}
         <div class="post-teaser">
@@ -21,7 +22,7 @@ layout: default
           {% if post.image %}
           <div class="excerpt">
             <a href="{{ post.url | relative_url }}">
-              <img src="{{ post.image }}" />
+              <img src="{{ post.image }}" {% if index > 0 %} loading="lazy"{% endif %} alt="Cover image for {{post.title}}"/>
             </a>
             <p>{{ post.excerpt | strip_html | strip_newlines | truncatewords: 30 }}</p>
           </div>

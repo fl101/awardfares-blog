@@ -9,6 +9,7 @@ image: /assets/img/sas-business/plane.jpeg
 On a trip back in March I was able to upgrade from their premium economy (SAS Plus) for a relatively low cost (About 20 000 Eurobonus points). I've flown SAS Business a number of times before and as a result this review will be a mix of my different experiences, however with focus on the latest flight.
 
 ## Seat & Cabin
+
 <img src="/assets/img/sas-business/seat.jpeg" class="full"/>
 
 The seat is a fully lie flat business class seat with an air mattress. It comes with bedding and a pillow in case you want to sleep and can be set to any position between lying down and fully upright. Since it's an air mattress it also comes with a massage function, however I've never really seen the use for this as one can barely feel it. You can also configure the firmness of the seat which is a nice touch as of course different people have different preferences, especially when it comes to beds. This means the seat can be adjusted to be perfectly comfortable, however it also comes with a big drawback - It can puncture! While I've never had this happen to me personally I've heard many stories of seats being punctured and since the air mattress is the only cushioning the seat provides, at that point you will be spending the flight on a plastic bench unless there are other seats available for you to switch to, which is hardly the experience you would want in business class. In SAS' defense they do usually compensate these passengers when it happens and it is a fairly rare occurrence.
@@ -20,6 +21,7 @@ The seat has some neat storage options and depending on what row you choose thes
 The business class cabin on the A330 which I flew consists of one large cabin with 8 rows of seats. The cabin features two toilets in the back, one on the starboard side which is large and spacious and one on the port side which is about as small as a normal economy class toilet (However it does feature a window). I'm not particularly tall yet I struggle to stand up without hitting my head. Taller passengers will want to stick to the starboard side toilet, worth keeping in mind when picking your seat!
 
 ## Amenity Kit
+
 <figure>
 <a href="/assets/img/sas-business/amenity-kit.jpeg"><img src="/assets/img/sas-business/amenity-kit.jpeg" class="half"/></a>
 <a href="/assets/img/sas-business/amenity-kit2.jpeg"><img src="/assets/img/sas-business/amenity-kit2.jpeg" class="half"/></a>
@@ -29,6 +31,7 @@ The amenity kit is really interesting! SAS has recently updated this and it's cl
 This rebranding and focus could easily had been just a gimmick and fancy marketing, however I think SAS has done a great job - The products are of excellent quality and I would say rival those distributed in many First Class cabins. The face mask is among the most comfortable I've tried (Tied with Lufthansa's First Class face mask), especially compared to the older one which SAS had previously. The socks were comfortable, although my pet peeve about these types of socks is that due to the high amount of synthetic materials they feel like putting on a pair of plastic bags and after a few minutes your feet get very sweaty. This is nothing unique for SAS though but has been true for all airline socks I've tried.
 
 ## Food & Drink Service
+
 <figure>
 <a href="/assets/img/sas-business/drinks.jpeg"><img src="/assets/img/sas-business/drinks.jpeg" class="half"/></a>
 <a href="/assets/img/sas-business/drinks2.jpeg"><img src="/assets/img/sas-business/drinks2.jpeg" class="half"/></a>
@@ -48,7 +51,7 @@ The food on the other hand has always been consistently good in SAS Business. Th
 
 <a href="/assets/img/sas-business/main.jpeg"><img src="/assets/img/sas-business/main.jpeg" class="half"/></a>
 
-For main course I picked the chicken with chanterelle sauce and root vegetable croquettes. Also a great dish, I consider chicken to be a generally safe bet on airplanes as it's often served with a lot of sauce meaning it's rarely dry. However in this case it was also served with skin which was crispy with the rest of the chicken being moist and tender, very impressive! 
+For main course I picked the chicken with chanterelle sauce and root vegetable croquettes. Also a great dish, I consider chicken to be a generally safe bet on airplanes as it's often served with a lot of sauce meaning it's rarely dry. However in this case it was also served with skin which was crispy with the rest of the chicken being moist and tender, very impressive!
 
 <a href="/assets/img/sas-business/dessert.jpeg"><img src="/assets/img/sas-business/dessert.jpeg" class="half"/></a>
 
@@ -75,4 +78,40 @@ SAS Business is the premium product I've flown the most over the years, it was a
 <a href="/assets/img/sas-business/norway2.jpeg"><img src="/assets/img/sas-business/norway2.jpeg" class="half"/></a>
 </figure>
 
-And finally, a great perk for flying from Norway is the beautiful wintery landscapes you get to see right after take off and the Norwegian fiords. 
+And finally, a great perk for flying from Norway is the beautiful wintery landscapes you get to see right after take off and the Norwegian fiords.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Scandinavian Airlines (SAS) A330 Long Haul Business Class",
+  "image": "https://blog.awardfares.com/assets/img/sas-business/plane.jpeg",
+  "description": "Review of SAS Business Class Oslo to Miami",
+  "brand": {
+    "@type": "Brand",
+    "name": "SAS"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.0",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "1",
+    "reviewCount": "1"
+  },
+  "review": {
+    "@type": "Review",
+    "name": "Great hardware, good food, inconsistent service",
+    "reviewBody": "SAS Business is the premium product I've flown the most over the years, it was also my first experience in business class, so I will most likely always see it with slightly rose tinted glasses. I think that it's overall a great business class product apart from some minor details. The chair is great - probably among the best - the cabins look fresh and are always well-cleaned, the food is great, and the drink selection is hard to beat! However sometimes the service can also be a bit... Scandinavian. In this case everyone in the crew was very friendly and welcoming but both myself and others have experienced flights where the crew have been anything but, even sometimes as far as being rude. This is something SAS struggles with as a company in my opinion and is not exclusive to SAS Business so if you're expecting special treatment due to the price of the ticket or your frequent flyer status, this is not the airline for you. That said, I want to reiterate that this specific flight was great with very friendly staff.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4.0",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "datePublished": "2020-06-16",
+    "author": {"@type": "Person", "name": "Richard Simko"},
+    "publisher": {"@type": "Organization", "name": "AwardFares"}
+  }
+}
+</script>

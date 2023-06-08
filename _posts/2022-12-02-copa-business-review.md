@@ -86,3 +86,39 @@ The short ride in Business Class from Miami to Panama with Copa Airlines was exc
 ## About the Author
 
 Germán is the main editor at [AirLapse](https://airlapse.net/), a travel blog based in Sweden. Logging well over 560 flights and 1.5 million kilometers around the world (38x around the Earth), he writes about tips and tricks for flying, travel industry news, and narrates his adventures onboard. Germán has [been using AwardFares since first released](https://airlapse.net/blog/awardfares-best-tool-to-find-star-alliance-award-ticket-availability-in-2020) and made over 30 award redemptions identified using the tool.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Copa 737-800 Business Class",
+  "image": "https://blog.awardfares.com/assets/img/copa-review/aircraft1.jpeg",
+  "description": "Review of the business class cabin and service on Copa Airlines 737-800 from Miami to Panama (short-haul)",
+  "brand": {
+    "@type": "Brand",
+    "name": "Copa Airlines"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "1",
+    "reviewCount": "1"
+  },
+  "review": {
+    "@type": "Review",
+    "name": "Good food, old seat, no IFE.",
+    "reviewBody": "The short ride in Business Class from Miami to Panama with Copa Airlines was excellent. Departure was on time, and the aircraft felt modern, despite its age. The crew was very attentive, and the service was delicious. The lack of IFE could be a downside, but they only use these planes without IFE on short routes. Copa plans on replacing their 737-800 and 737-900 with more 737max with their newer cabin, fully-flat seats, and a better IFE. I wouldn’t hesitate to fly Copa again or to recommend their service. Their award availability and rates are often worth it compared to other airlines.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "datePublished": "2022-12-02",
+    "author": {"@type": "Person", "name": "Germán Ceballos"},
+    "publisher": {"@type": "Organization", "name": "AwardFares"}
+  }
+}
+</script>

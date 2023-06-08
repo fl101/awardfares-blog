@@ -126,3 +126,39 @@ Although I did book one the cheapest options available at the time for this rout
 Overall, I would say that Taiwan's state-owned carrier offers a solid hard product. I appreciate that their economy cabin is quite spacious, with 3-3-3 seating with comfortable seats. Service was good, cabin crew was polite, but nothing really extra. The food service was definitely the biggest issue.
 
 If I'm looking for the quickest way to get between Amsterdam and Taipei, I think it's an option definitely worth considering (as long as you remember to pack some extra provisions). But, if your travel plans will include a connection in Europe or Asia, then I'd probably consider a different option instead.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "China Airlines A350-900 Economy Class",
+  "image": "https://blog.awardfares.com/assets/img/china-airlines-ams-tpe-economy-review/overview.webp",
+  "description": "Review of the economy class cabin and service on China Airlines A350-900 (Amsterdam to Taipei)",
+  "brand": {
+    "@type": "Brand",
+    "name": "China Airlines"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "1",
+    "reviewCount": "1"
+  },
+  "review": {
+    "@type": "Review",
+    "name": "Pricey for what you get, but does the job.",
+    "reviewBody": "Although I did book one of the cheapest options available at the time for this route, I still had to pay nearly $700 for this one-way economy itinerary (AMS-TPE-NRT), which is pricey, and given the price, I think I expected a bit more. I would say Taiwan’s state-owned carrier offers a solid hard product. I appreciate that their economy cabin is spacious, with 3-3-3 seats and comfortable seats. Service was good, cabin crew was polite, but nothing extra. The food service was definitely the biggest issue. If I’m looking for the quickest way to get between Amsterdam and Taipei, I think it’s definitely worth considering (as long as you remember to pack some extra provisions). But, if your travel plans include a connection in Europe or Asia, then I’d probably consider a different option instead.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "3.9",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "datePublished": "2023-01-18",
+    "author": {"@type": "Person", "name": "Philip Bergqvist"},
+    "publisher": {"@type": "Organization", "name": "AwardFares"}
+  }
+}
+</script>
