@@ -17,10 +17,9 @@ Alaska Airlines just announced new partners, routes and redemptions starting in 
 - [San Francisco To Sydney On Qantas](#qantas)
 - [Bonus: Earn double miles on Qatar Airlines](#qatar)
 
-
 ## New Partner STARLUX Airlines {#starlux}
 
-STARLUX Airlines just became a partner of the Alaska Mileage Plan program, which means you can now start earning and redeeming miles with their flights! 
+STARLUX Airlines just became a partner of the Alaska Mileage Plan program, which means you can now start earning and redeeming miles with their flights!
 
 Fly with STARLUX Airlines from Los Angeles (LAX) to popular destinations in Southeast Asia, including Bangkok ([BKK](https://awardfares.com/search?LAX.BKK.;z:alaska)), Danang ([DAD](https://awardfares.com/search?LAX.DAD.;z:alaska)), and Hanoi ([HAN](https://awardfares.com/search?LAX.HAN.;z:alaska)), via Taipei ([TPE](https://awardfares.com/search?LAX.TPE.;z:alaska)). Enjoy Asian’s busy city life, beautiful beaches, and breathtaking natural settings, all while earning miles as part of your trip.
 
@@ -28,8 +27,7 @@ Redemptions for award flights will be made available later this summer (July), m
 
 Note: Flights marketed by STARLUX Airlines and operated by another carrier are not eligible for mileage credit, so keep that in mind!
 
-
-## [Seattle to Paris](https://awardfares.com/search?SEA.CDG.;a:TN;z:alaska#) on Air Tahiti Nui {#air-tahiti}
+## [Seattle to Paris](https://awardfares.com/search?SEA.CDG.;a:TN;z:alaska) on Air Tahiti Nui {#air-tahiti}
 
 Connect in Seattle and go straight to Paris via a direct flight on Air Tahiti Nui. Redemptions are already visible on AwardFares.
 
@@ -39,10 +37,9 @@ Air Tahiti Nui upgraded its fleet to Boeing 787-9 Dreamliners in 2018, which are
 <img src="/assets/img/alaska-mileageplan-updates-june-2023/sea-cdg.webp" alt="Seattle to Paris on Air Tahiti Nui using Alaska Mileage Plan miles." />
 </figure>
 
-## [Seattle to Helsinki](https://awardfares.com/search?SEA.HEL.;a:AY;z:alaska#) on Finnair {#finnair}
+## [Seattle to Helsinki](https://awardfares.com/search?SEA.HEL.;a:AY;z:alaska) on Finnair {#finnair}
 
 Connect in Seattle and fly direct to Helsinki with Finnair this summer and find yourself within easy reach of your favorite European destinations. Some of Finnair’s A350s aircrafts are equipped with the new Business Class seats, [check out our review here](https://blog.awardfares.com/finnair-hel-hnd-business/).
-
 
 ## [San Francisco or Los Angeles to Madrid](https://awardfares.com/search?LAX,SFO.MAD.2023-07-12;o:price;so:asc;z:alaska) on Iberia {#iberia}
 
@@ -52,7 +49,6 @@ Book Iberia’s direct summer flights from either San Francisco or Los Angeles t
 <img src="/assets/img/alaska-mileageplan-updates-june-2023/lax-sfo-mad.webp" alt="San Francisco to Madrid on Iberia using Mileage Plan miles." />
 </figure>
 
-
 ## [San Francisco To Sydney](https://awardfares.com/search?SFO.SYD.2023-08-07;a:QF;o:price;so:asc;z:alaska) on Qantas {#qantas}
 
 Qantas has resumed its popular service from San Francisco to Sydney!
@@ -61,13 +57,11 @@ Qantas has resumed its popular service from San Francisco to Sydney!
 <img src="/assets/img/alaska-mileageplan-updates-june-2023/sfo-syd.webp" alt="San Francisco to Sydney on Quantas using Alaska Mileage Plan miles." />
 </figure>
 
-
-
 ## Bonus: Earn double miles on Qatar Airlines {#qatar}
 
-Earn 2X miles when you register and fly on Qatar Airways before June 30, 2023. Mileage Plan has great redemptions on Qatar Airways, especially on their Business Class/Qsuites products. It’s easy to quickly [display all available](https://awardfares.com/search?..;a:QR;z:alaska) seats with AwardFares. 
+Earn 2X miles when you register and fly on Qatar Airways before June 30, 2023. Mileage Plan has great redemptions on Qatar Airways, especially on their Business Class/Qsuites products. It’s easy to quickly [display all available](https://awardfares.com/search?..;a:QR;z:alaska) seats with AwardFares.
 
-Just 
+Just
 
 1. [Log in to your account](https://awardfares.com/signup)
 2. Select Alaska Milage Plan in the Frequent Flyer Program picker
@@ -78,11 +72,10 @@ Just
 <img src="/assets/img/alaska-mileageplan-updates-june-2023/ax-qatar.webp" alt="Qatar Airways Award Flights using Alaska Mileage Plan miles." />
 </figure>
 
-
 ## Read More
 
 Make sure to also check these posts out
 
-* [Introducing New Frequent Flyer Programs, Area Searches & More Exciting Features
-](https://blog.awardfares.com/new-programs-and-features/)
-* [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
+- [Introducing New Frequent Flyer Programs, Area Searches & More Exciting Features
+  ](https://blog.awardfares.com/new-programs-and-features/)
+- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
