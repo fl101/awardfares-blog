@@ -6,6 +6,8 @@ author: Germán
 image: /assets/img/alaska-mileageplan-updates-june-2023/cover.webp
 ---
 
+Alaska Airlines just announced new partners, routes and redemptions starting in June. Let's have a look at the news and see which award flights are already available with AwardFares.
+
 ### In a nutshell
 
 - [New Partner STARLUX Airlines](#starlux)
