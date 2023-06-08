@@ -27,7 +27,7 @@ Redemptions for award flights will be made available later this summer (July), m
 
 Note: Flights marketed by STARLUX Airlines and operated by another carrier are not eligible for mileage credit, so keep that in mind!
 
-## [Seattle to Paris](https://awardfares.com/search?SEA.CDG.;a:TN;z:alaska) on Air Tahiti Nui {#air-tahiti}
+## [Seattle to Paris](https://awardfares.com/search?SEA.CDG.;a:TN;z:alaska#) on Air Tahiti Nui {#air-tahiti}
 
 Connect in Seattle and go straight to Paris via a direct flight on Air Tahiti Nui. Redemptions are already visible on AwardFares.
 
