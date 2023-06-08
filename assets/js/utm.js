@@ -3,7 +3,9 @@ const findAndReplaceUrls = () => {
     if (
       el.href.includes("utm_") ||
       (!el.href.startsWith("https://awardfares.com") &&
-        !el.href.startsWith("http://www.awardfares.com"))
+        !el.href.startsWith("http://www.awardfares.com")) ||
+      el.href.includes("mailto:") ||
+      el.href.includes("awardfares.com/search")
     ) {
       return;
     }
