@@ -4,8 +4,6 @@ title: "5 Essential Tools Every Aeroplan Member Needs"
 tags: [Guide]
 author: Germán
 image: /assets/img/aeroplan-tools/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Being an Aeroplan member can open up a world of travel opportunities. However, to truly make the most of this program, there are several tools you might consider using. These tools can help you both earn and redeem Aeroplan miles more efficiently, find award availability, and plan your dream trips. 
