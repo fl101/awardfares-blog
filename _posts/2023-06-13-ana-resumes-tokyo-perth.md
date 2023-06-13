@@ -22,12 +22,13 @@ AwardFares already shows availability for those flights starting in late October
 </figure>
 
 
-### How to find NRT-PER availability
+### How to find [NRT-PER](https://awardfares.com/search?NRT.PER.2023-10-29;o:duration;so:asc) availability
 
-1. Log-in to AwardFares
-2. Select your Frequent Flyer Program
-3. On **Origin** select Tokyo Narita (NRT)
-4. On **Destination**, type Perth (PER)
+1. Open [AwardFares](https://awardfares.com/search).
+2. Select your Frequent Flyer Program.
+3. On **Origin** select Tokyo Narita (NRT).
+4. On **Destination**, type Perth (PER).
+5. Select the travel date.
 5. Done! 
 
 You'll see the list of available flights below. You can also search for reverse route Perth to Tokyo.
