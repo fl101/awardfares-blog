@@ -22,7 +22,7 @@ Flights from YVR will depart on Mondays, Wednesdays, Fridays, and Saturdays, whi
 ## Book with Aeroplan.
 
 
-### How to book YVR-SIN using Aeroplan miles
+### How to find and book YVR-SIN using Aeroplan miles
 
 1. Open [AwardFares](https://awardfares.com/search).
 2. Under **Frequent Flyer Program** choose **Aeroplan**.
