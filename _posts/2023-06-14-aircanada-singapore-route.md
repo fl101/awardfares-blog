@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Air Canada Announces Route From Vancouver To Singapore"
-tags: [Guide]
+tags: [News]
 author: Germán
 image: /assets/img/aircanada-singapore-route/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Air Canada announced its plan to reintroduce nonstop flights between Vancouver International Airport (YVR) and Singapore's Changi International Airport (SIN), marking a return to the Singapore market after **over 30 years**! The service will start on April 3, 2024, and operate four times weekly using the Boeing 787 fleet.
