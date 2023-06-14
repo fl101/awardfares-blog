@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Anonymous Search And 24h Free Frial"
+title: "Introducing Anonymous Search And 24h Free Trial"
 tags: [News]
 author: Germán
 image: /assets/img/new-features-june-2023/cover.webp
@@ -17,7 +17,7 @@ The search is limited to one frequent flyer program and displays results as a li
 In addition, we added a 24h free trial period of our premium tiers, which is a great way to get familiar with all the features before committing. 
  
 
-## How To Try AwardFares Without An Account
+## How to try AwardFares without an account
 
 1. Go to [AwardFares Search](https://awardfares.com/search).
 2. Select your Frequent Flyer Program.
@@ -58,11 +58,11 @@ In addition to the free-trial mode, we've rolled out the following updates:
 * 24h free trial period.
 
 
-## Get started, and stay tuned.
+## Get started, and stay tuned
 
 You can [create an account](https://awardfares.com/signup) and start using AwardFares today. Even upgrade for free for 24hs. We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
-## Read More
+## Read more
 
 Make sure to also check these posts out
 
