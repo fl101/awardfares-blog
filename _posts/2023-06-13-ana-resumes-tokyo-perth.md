@@ -27,7 +27,7 @@ AwardFares already shows availability for those flights starting in late October
 3. On **Origin** select Tokyo Narita (NRT).
 4. On **Destination**, type Perth (PER).
 5. Select the travel date.
-5. Done! 
+6. Done! 
 
 You'll see the list of available flights below. You can also search for reverse route Perth to Tokyo.
 
