@@ -6,7 +6,7 @@ author: Germán
 image: /assets/img/ana-resumes-tokyo-perth/cover.webp
 ---
 
-Star Alliance member ANA announced that they will be resuming their route from Tokyo Narita (HND) to Perth (PER), and gradually opened reservations today. Based on the available data, the airline schedules 3 weekly flights with Boeing 787-9 Dreamliner aircraft. The first flight is scheduled for October 29th, 2023. 
+Star Alliance member ANA announced that they will be resuming their route from Tokyo Narita (NRT) to Perth (PER), and gradually opened reservations today. Based on the available data, the airline schedules 3 weekly flights with Boeing 787-9 Dreamliner aircraft. The first flight is scheduled for October 29th, 2023. 
 
 ANA’s Perth-Tokyo route first launched in 2019 and was previously popular for both outbound and inbound travellers until the 2020 pandemic hit in. 
 
