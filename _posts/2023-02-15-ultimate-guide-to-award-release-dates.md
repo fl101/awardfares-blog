@@ -53,6 +53,7 @@ So, how many days in advance do Star Alliance airlines release award availabilit
 | Singapore Airlines                          | 355                     | <span></span>   |
 | South African Airways                       | 358                     | <span></span>   |
 | SWISS                                       | 300                     | <span></span>   |
+| Southwest                                   | 180 - 240               | <span></span>   |
 | TAP                                         | 361                     | <span></span>   |
 | Thai <sup>4</sup>                           | 339                     | <span></span>   |
 | Turkish                                     | 354                     | <span></span>   |
@@ -138,6 +139,13 @@ Notes:
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "United Airlines releases award seats 337 days in advance both to their own frequent flyer program as well as partners."
+    }
+  },{
+    "@type": "Question",
+    "name": "When does Southwest release flights?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Unlike other airilnes, Southwest releases flights in smaller chunks, typically between 6 and 8 months before the flight date. They update their availability every 3-4 weeks."
     }
   },{
     "@type": "Question",
