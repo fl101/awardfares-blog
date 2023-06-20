@@ -86,6 +86,7 @@ Notes:
   });
   
 })();
+</script>
 
 <script type="application/ld+json">
 {
