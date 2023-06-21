@@ -8,11 +8,30 @@ hidden: true
 sitemap: false
 ---
 
-## Singapore Airlines: Best Routes To Book With Points
+The results for the [2023 Skytrax Awards](https://www.worldairlineawards.com/) were announced, and Singapore Airlines was selected as World's Best Airline. Even though Skytrax is just one of the awards given in the aviation industry, it's great to see they recognize Singapore Airlines as the one offering a top-notch service on a modern fleet. Definitely one of our favorites at AwardFares.
+
+In this post, we use AwardFares to look at some of the best routes you can book right now on Singapore Airlines. Let's dive in!
+
+<figure>
+<img src="/assets/img/singapore-skytrax-2023/skytrax-2023.webp" alt="Skytrax 2023 Awards)." />
+</figure>
+
+## In this post
+
+* [Best Singapore Airlines Routes](#1)
+* [Program Availability Status](#2)
+* [Booking SQ in First Class](#3)
+* [SQ and EuroBonus](#4)
+* [Singapore Airlines is World's Best Airline](#5)
+* [Read More](#6)
+
+
+
+## Singapore Airlines: Best Routes To Book With Points {#1}
 
 Click on the route to search!
 
-### 1. [Singapore to London](https://awardfares.com/search?SIN.area:LON.;a:SQ;z:aeroplan,lifemiles) (A380-800) {#1}
+### 1. [Singapore to London](https://awardfares.com/search?SIN.area:LON.;a:SQ;z:aeroplan,lifemiles) (A380-800)
 
 Seats available on Economy and Business Class. Book using **Aeroplan** miles.
 
@@ -21,7 +40,7 @@ Seats available on Economy and Business Class. Book using **Aeroplan** miles.
 </figure>
 
 
-### 2.[Frankfurt to New York](https://awardfares.com/search?FRA.area:NYC.;a:SQ;z:aeroplan,lifemiles) (777-300ER) {#2}
+### 2.[Frankfurt to New York](https://awardfares.com/search?FRA.area:NYC.;a:SQ;z:aeroplan,lifemiles) (777-300ER)
 
 This fifth-freedom flight is great for travelers based in Europe. It's available in both Economy and Business Class during June and July. Book using **Aeroplan** or **Lifemiles** miles.
 
@@ -35,7 +54,7 @@ This fifth-freedom flight is great for travelers based in Europe. It's available
 
 
 
-### 3. [Hong Kong to Singapore](https://awardfares.com/search?HKG.SIN.;a:SQ;o:duration;so:a;z:lifemiles,united) (A350-900) {#3}
+### 3. [Hong Kong to Singapore](https://awardfares.com/search?HKG.SIN.;a:SQ;o:duration;so:a;z:lifemiles,united) (A350-900)
 
 Great availability in Business Class using **Lifemiles** and **United MileagePlus** miles
 
@@ -45,7 +64,7 @@ Great availability in Business Class using **Lifemiles** and **United MileagePlu
 
 
 
-### 4. [Singapore to Tokyo](https://awardfares.com/search?SIN.area:TYO.;a:SQ;o:duration;so:a;z:aeroplan,lifemiles) (A350 and 787) {#4}
+### 4. [Singapore to Tokyo](https://awardfares.com/search?SIN.area:TYO.;a:SQ;o:duration;so:a;z:aeroplan,lifemiles) (A350 and 787)
 
 Singapore Airlines flies to both Haneda and Narita using the A350-900 and the 787 Dreamliners. This 7h flight is great to taste Singapore Airlines' quality of service. There's great availability in Economy Class using **Aeroplan**, **Lifemiles** and **MileagePlus** miles.
 
@@ -54,7 +73,7 @@ Singapore Airlines flies to both Haneda and Narita using the A350-900 and the 78
 </figure>
 
 
-### 5. [Singapore to Bangkok](https://awardfares.com/search?SIN.BKK.;a:SQ;o:duration;so:a;z:lifemiles,united) (A350 and 787) {#5}
+### 5. [Singapore to Bangkok](https://awardfares.com/search?SIN.BKK.;a:SQ;o:duration;so:a;z:lifemiles,united) (A350 and 787)
 
 Plenty of seats in Economy Class using **United MileagePlus** and **Avianca Lifemiles**.
 
@@ -63,7 +82,31 @@ Plenty of seats in Economy Class using **United MileagePlus** and **Avianca Life
 </figure>
 
 
-## Singapore Airlines is World's Best Airline (2023)
+## Availability Status Update (2023) {#2}
+
+Here's a full list of the current state of Singapore Airlines redemptions across the different frequent flyer programs that AwardFares supports:
+
+Frequent Flyer Program | Short-haul | Long-haul
+--|--|--
+American Airlines<br>*AAdvantage* | ❌ | ❌
+Air Canada<br>*Aeroplan* | Economy<br>Business | Economy<br>Business
+Alaska Airlines<br>*MileagePlan* | Economy<br>Business | Economy<br>Business
+Avianca<br>*LifeMiles* | Economy<br>Business<br>First | Economy<br>Business
+SAS<br>*EuroBonus* | ❌ | ❌
+United<br>*MileagePlus* | Economy<br>Business | Economy
+
+
+### Booking in First Class {#3}
+
+To book a first class seat on Singapore Airlines using points, you'll have to use the airline's own frequent flyer program, KrisFlyer. Unfortunately, it is not possible to book Suites or first class with any other award programs.
+
+### Singapore Airlines and SAS EuroBonus {#4}
+
+Singapore Airlines is an SAS EuroBonus partner, but it was never really possible to book seats on SQ using EuroBonus points. During a brief moment in 2022, it was possible to search for awards on SAS website, but after a few days, they disabled it.
+
+As of 2023, SAS has removed the text mentioning "technical issues" from its website. However, it is still not possible to book Singapore Airlines awards using EuroBonus points.
+
+## Singapore Airlines is World's Best Airline (2023){#5}
 
 Here's why Singapore Airlines won as Skytrax's 2023 World's Best Airline.
 
@@ -78,7 +121,7 @@ Here's why Singapore Airlines won as Skytrax's 2023 World's Best Airline.
 
 You can try searching for award flights on Singapore Airlines [using AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
-## Read more
+## Read more {#6}
 
 Make sure to also check these posts out
 
