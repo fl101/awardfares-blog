@@ -4,8 +4,6 @@ title: "Singapore Airlines Is Skytrax World's Best Airline In 2023. Here Are Our
 tags: [Guide]
 author: Germán
 image: /assets/img/singapore-skytrax-2023/cover.webp
-hidden: true
-sitemap: false
 ---
 
 The results for the [2023 Skytrax Awards](https://www.worldairlineawards.com/) were announced, and Singapore Airlines was selected as World's Best Airline. Even though Skytrax is just one of the awards given in the aviation industry, it's great to see they recognize Singapore Airlines as the one offering a top-notch service on a modern fleet. Definitely one of our favorites at AwardFares.
