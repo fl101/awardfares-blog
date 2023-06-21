@@ -106,7 +106,7 @@ Singapore Airlines is an SAS EuroBonus partner, but it was never really possible
 
 As of 2023, SAS has removed the text mentioning "technical issues" from its website. However, it is still not possible to book Singapore Airlines awards using EuroBonus points.
 
-## Singapore Airlines is World's Best Airline (2023) {#skytrax}
+## Singapore Airlines is Best Airline in 2023 {#skytrax}
 
 Here's why Singapore Airlines won as Skytrax's 2023 World's Best Airline.
 
