@@ -22,7 +22,7 @@ In this post, we use AwardFares to look at some of the best routes you can book 
 * [Program Availability Status](#availability)
 * [Booking SQ in First Class](#first)
 * [SQ and EuroBonus](#eurobonus)
-* [Singapore Airlines is World's Best Airline](#skytax)
+* [Singapore Airlines is World's Best Airline](#skytrax)
 * [Read More](#read-more)
 
 
