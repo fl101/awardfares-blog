@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Introducing Anonymous Search And 24h Free Trial"
+title: "New Anonymous Search And 24h Free Trial"
 tags: [News]
 author: Germán
 image: /assets/img/new-features-june-2023/cover.webp
-hidden: true
-sitemap: false
 ---
 
 We are happy to announce that now it is possible to perform searches with AwardFares **without** and account! Previously, users needed to register to the platform to be able use the tool.
