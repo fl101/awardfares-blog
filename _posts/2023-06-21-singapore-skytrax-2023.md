@@ -18,16 +18,16 @@ In this post, we use AwardFares to look at some of the best routes you can book 
 
 ## In this post
 
-* [Best Singapore Airlines Routes](#1)
-* [Program Availability Status](#2)
-* [Booking SQ in First Class](#3)
-* [SQ and EuroBonus](#4)
-* [Singapore Airlines is World's Best Airline](#5)
-* [Read More](#6)
+* [Best Singapore Airlines Routes](#routes)
+* [Program Availability Status](#availability)
+* [Booking SQ in First Class](#first)
+* [SQ and EuroBonus](#eurobonus)
+* [Singapore Airlines is World's Best Airline](#skytax)
+* [Read More](#read-more)
 
 
 
-## Singapore Airlines: Best Routes To Book With Points {#1}
+## Singapore Airlines: Best Routes To Book With Points {#routes}
 
 Click on the route to search!
 
@@ -82,7 +82,7 @@ Plenty of seats in Economy Class using **United MileagePlus** and **Avianca Life
 </figure>
 
 
-## Availability Status Update (2023) {#2}
+## Availability Status Update (2023) {#availability}
 
 Here's a full list of the current state of Singapore Airlines redemptions across the different frequent flyer programs that AwardFares supports:
 
@@ -96,17 +96,17 @@ SAS<br>*EuroBonus* | ❌ | ❌
 United<br>*MileagePlus* | Economy<br>Business | Economy
 
 
-### Booking in First Class {#3}
+### Booking in First Class {#first}
 
 To book a first class seat on Singapore Airlines using points, you'll have to use the airline's own frequent flyer program, KrisFlyer. Unfortunately, it is not possible to book Suites or first class with any other award programs.
 
-### Singapore Airlines and SAS EuroBonus {#4}
+### Singapore Airlines and SAS EuroBonus {#eurobonus}
 
 Singapore Airlines is an SAS EuroBonus partner, but it was never really possible to book seats on SQ using EuroBonus points. During a brief moment in 2022, it was possible to search for awards on SAS website, but after a few days, they disabled it.
 
 As of 2023, SAS has removed the text mentioning "technical issues" from its website. However, it is still not possible to book Singapore Airlines awards using EuroBonus points.
 
-## Singapore Airlines is World's Best Airline (2023){#5}
+## Singapore Airlines is World's Best Airline (2023){#skytrax}
 
 Here's why Singapore Airlines won as Skytrax's 2023 World's Best Airline.
 
@@ -121,7 +121,7 @@ Here's why Singapore Airlines won as Skytrax's 2023 World's Best Airline.
 
 You can try searching for award flights on Singapore Airlines [using AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
-## Read more {#6}
+## Read more {#read-more}
 
 Make sure to also check these posts out
 
