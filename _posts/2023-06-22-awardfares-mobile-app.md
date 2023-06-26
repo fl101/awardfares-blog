@@ -4,8 +4,6 @@ title: "How To Install AwardFares On Your Phone "
 tags: [Guide]
 author: Germán
 image: /assets/img/awardfares-mobile-app/cover.webp
-hidden: true
-sitemap: false
 ---
 
 AwardFares looks great on mobile, and it doesn't sacrifice any of the features compared its the desktop version. You can use AwardFares on-the-go to easily set up alerts, perform broad searches and check seat maps.
