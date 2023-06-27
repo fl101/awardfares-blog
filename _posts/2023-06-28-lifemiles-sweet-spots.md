@@ -80,7 +80,7 @@ Similarly, there are plenty of flights from Santiago and Buenos Aires to New Yor
 
 ### 8. [Los Angeles to Taipei](https://awardfares.com/search?LAX.TPE.;z:lifemiles)
 
-At 40,000 miles in Economy and 70,000 miles in Business Class, these are great options to explore Asia with EVA Air, Asiana or Thai Airways. Note that for the same price, you can find options to other destinations such as Bangkok, Hong Kong, or 
+At 40,000 miles in Economy and 70,000 miles in Business Class, these are great options to explore Asia with EVA Air, Asiana or even ANA. Note that for the same price, you can find options to other destinations such as Tokyo, Bangkok, or Hong Kong. 
 
 <img src="/assets/img/lifemiles-sweet-spots/lax-tpe.webp" alt="LifeMiles Sweet Spots: Los Angeles to Taipei (AwardFares)." />
 
@@ -149,7 +149,7 @@ There are many more filters you can explore adding, such as number of passengers
 That’s it! Pretty easy, huh? With only a few clicks, you can see LifeMiles inventory on both Avianca Airlines as well as partners.
 
 
-## Upgrade for more features.
+## Upgrade for more features
 
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when a certain route or flight gets opened, as well as check seat maps, flight schedules, and more.
 
