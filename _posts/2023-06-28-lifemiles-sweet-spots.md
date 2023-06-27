@@ -12,7 +12,7 @@ The LifeMiles award chart can be one of the most lucrative ones for frequent fly
 
 The value of Avianca LifeMiles has remained quite stable over the past few years, and redemptions in premium cabins (Business Class and First) is slightly cheaper compared to other programs.
 
-**But can you find available seats?** In this post, we cover the best Avianca LifeMiles awards with real availability, including our favorite picks.
+**But can you find seats available?** In this post, we cover the best Avianca LifeMiles awards with real availability, including our favorite picks.
 
 ## Avianca LifeMiles Sweet Spots (Our Top Picks) {#sweet-spots}
 
@@ -102,7 +102,7 @@ There's plenty of available seats on both Economy and Business Class from many c
 In the **Frequent Flyer Program** picker, select **Avianca LifeMiles**.
 
 <figure>
-<img src="/assets/img/lifemiles-sweet-spot/1-lifemiles-ffqtv.gif" alt="Select LifeMiles in AwardFares Frequent Flyer Program Picker." />
+<img src="/assets/img/lifemiles-sweet-spots/1-lifemiles-ffqtv.gif" alt="Select LifeMiles in AwardFares Frequent Flyer Program Picker." />
 </figure>
 
 ### 3. Select the route(s)
@@ -112,7 +112,7 @@ In the **From** and **To** fields, enter your departure and arrival airports.
 Optional: you can also perform broad searches from an entire area, region, or metropolitan area (like a city, Tokyo TYO)
 
 <figure>
-<img src="/assets/img/lifemiles-sweet-spot/2-route.gif" alt="Select the route." />
+<img src="/assets/img/lifemiles-sweet-spots/2-route.gif" alt="Select the route." />
 </figure>
 
 
@@ -121,7 +121,7 @@ Optional: you can also perform broad searches from an entire area, region, or me
 If you know your travel dates, try adding them to the search field. Once selected, AwardFares will start searching for available flights for that date, and will display them in a list below.
 
 <figure>
-<img src="/assets/img/lifemiles-sweet-spot/3-date.gif" alt="Select the travel dates." />
+<img src="/assets/img/lifemiles-sweet-spots/3-date.gif" alt="Select the travel dates." />
 </figure>
 
 Alternatively, if you don't have a set travel date, you can select the **Timeline View** to explore the availability for multiple days simultaneously. The bars show different classes in different colors.
@@ -132,13 +132,13 @@ Alternatively, if you don't have a set travel date, you can select the **Timelin
 Try filtering out by cabin class (e.g. Business Class, First Class) or number of stops (e.g. nonstop). In this example, we filter results to only show Economy Class seats.
 
 <figure>
-<img src="/assets/img/lifemiles-sweet-spot/4-class.gif" alt="Filter results by cabin class." />
+<img src="/assets/img/lifemiles-sweet-spots/4-class.gif" alt="Filter results by cabin class." />
 </figure>
 
 And here's another example of filtering results by airline, to only show flights on EVA Air.
 
 <figure>
-<img src="/assets/img/lifemiles-sweet-spot/5-airline.gif" alt="Filter results by airline." />
+<img src="/assets/img/lifemiles-sweet-spots/5-airline.gif" alt="Filter results by airline." />
 </figure>
 
 
