@@ -30,11 +30,11 @@ You can fly this route on many Star Alliance partners including Lufthansa, Austr
 
 
 
-### 2. [London to Tokyo on ANA First Class](https://awardfares.com/search?area:LON.area:TYO.;c:first;z:lifemiles)
+### 2. [Europe to Tokyo on ANA Business Class](https://awardfares.com/search?area:LON.area:TYO.;c:first;z:lifemiles)
 
 This flight is a rare find, with only a few seats released close to the date, but it is on the top of LifeMiles redemptions if you can score one. Try setting an alert using AwardFares to get notified via email when seats open.
 
-<img src="/assets/img/lifemiles-sweet-spots/lhr-hnd-first.webp" alt="London Heathrow to Tokyo Haneda on ANA First Class using LifeMiles (AwardFares)." />
+<img src="/assets/img/lifemiles-sweet-spots/europe-tyo.webp" alt="Europe to Tokyo Haneda on ANA Business Class using LifeMiles (AwardFares)." />
 
 
 ### 3. [Intra-Europe Flights](https://awardfares.com/search?zone:Europe.zone:Europe.;z:lifemiles)
