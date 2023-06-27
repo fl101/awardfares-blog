@@ -10,13 +10,13 @@ sitemap: false
 
 The LifeMiles award chart can be one of the most lucrative ones for frequent flyers, so much, that it has increasingly gained popularity among Europeans and residents of the United States.
 
-The value of Avianca LifeMiles has remained quite stable over the past few years, and redemptions in premium cabins (Business Class and First) is slightly cheaper compared to other programs.
+The value of Avianca LifeMiles has remained quite stable over the past few years, and redemptions in premium cabins (Business Class and First) are slightly cheaper compared to other programs.
 
-**But can you find seats available?** In this post, we cover the best Avianca LifeMiles awards with real availability, including our favorite picks.
+**But can you find seats available?** In this post, we cover the best Avianca LifeMiles awards with *real* availability, including our favorite picks.
 
 ## Avianca LifeMiles Sweet Spots (Our Top Picks) {#sweet-spots}
 
-Here are examples of our top picks and what we consider the best LifeMiles redemptions, and how to find them using AwardFares (click to search)
+Here are our top Avianca LifeMiles redemptions, and how to find them using AwardFares (click to search).
 
 
 ### 1. [New York to Europe in Business Class](https://awardfares.com/search?area:NYC.zone:Europe.;c:business;z:lifemiles)
@@ -97,7 +97,7 @@ There's plenty of available seats on both Economy and Business Class from many c
 
 ### 1. Log in to [AwardFares](https://awardfares.com).
 
-### 2. Select Frequent Flyer Program
+### 2. Select Frequent Flyer Program.
 
 In the **Frequent Flyer Program** picker, select **Avianca LifeMiles**.
 
@@ -105,7 +105,7 @@ In the **Frequent Flyer Program** picker, select **Avianca LifeMiles**.
 <img src="/assets/img/lifemiles-sweet-spots/1-lifemiles-ffqtv.gif" alt="Select LifeMiles in AwardFares Frequent Flyer Program Picker." />
 </figure>
 
-### 3. Select the route(s)
+### 3. Choose the route.
 
 In the **From** and **To** fields, enter your departure and arrival airports.
 
@@ -116,7 +116,7 @@ Optional: you can also perform broad searches from an entire area, region, or me
 </figure>
 
 
-### 4. Add travel dates (optional)
+### 4. Add travel dates (optional).
 
 If you know your travel dates, try adding them to the search field. Once selected, AwardFares will start searching for available flights for that date, and will display them in a list below.
 
@@ -127,7 +127,7 @@ If you know your travel dates, try adding them to the search field. Once selecte
 Alternatively, if you don't have a set travel date, you can select the **Timeline View** to explore the availability for multiple days simultaneously. The bars show different classes in different colors.
 
 
-### 5. Add more filters (optional)
+### 5. Add more filters (optional).
 
 Try filtering out by cabin class (e.g. Business Class, First Class) or number of stops (e.g. nonstop). In this example, we filter results to only show Economy Class seats.
 
@@ -144,7 +144,7 @@ And here's another example of filtering results by airline, to only show flights
 
 There are many more filters you can explore adding, such as number of passengers, aircraft type, number of stops and even flight number!
 
-### 6. Done
+### 6. Done.
 
 That’s it! Pretty easy, huh? With only a few clicks, you can see LifeMiles inventory on both Avianca Airlines as well as partners.
 
