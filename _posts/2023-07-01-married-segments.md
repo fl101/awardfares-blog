@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Booking Trips with Married Segments
-tags: [Review, Business, Copa]
-image: /assets/img/married-segments/search-vie.png
-hide_image_in_post: true
+title: Married Segments
+tags: [Guide]
+image: /assets/img/married-segments/cover.webp
 hidden: true
 sitemap: false
 ---
+
+
+## What are Married Segments?
+
+
 
 Let's try to find an award flight from Amsterdam (AMS) to Tokyo (NRT/HND). Our first attempt searching AMS-HND/NRT unfortunately doesn't yield any results.
 
@@ -62,3 +66,4 @@ You could for example start by asking for a flight from VIE to NRT on Jan 26th, 
 Assuming the customer support agent is willing to do this, and there are no other restrictions for this particular routing, it should be possible to book. If the agent isn't willing to do this, then HUACA (hang up and call again)!
 
 I hope that helps clarify some of the details around married segments, and how to work with them. Good luck!
+
