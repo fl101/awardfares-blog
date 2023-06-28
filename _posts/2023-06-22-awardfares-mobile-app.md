@@ -19,7 +19,7 @@ Here's a step-by-step guide on how to add it to your home screen for quick acces
 </figure>
 
 
-#### 2. Tap the Share button in the bottom-left corner of the screen. It looks like a square with an arrow coming out of it.
+#### 2. Tap the Share button in the bottom-center of the screen. It looks like a square with an arrow coming out of it.
 
 <figure>
 <img src="../assets/img/awardfares-mobile-app/iphone-2.webp" alt="Install AwardFares on iPhone (Step 2)." />
