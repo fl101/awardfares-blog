@@ -4,8 +4,6 @@ title: "Avianca LifeMiles Sweet Spots And How To Find Them (2023)"
 tags: [Guide]
 author: Germán
 image: /assets/img/lifemiles-sweet-spots/cover.webp
-hidden: true
-sitemap: false
 ---
 
 The LifeMiles award chart can be one of the most lucrative ones for frequent flyers, so much, that it has increasingly gained popularity among Europeans and residents of the United States.
@@ -30,9 +28,11 @@ You can fly this route on many Star Alliance partners including Lufthansa, Austr
 
 
 
-### 2. [Europe to Tokyo on ANA Business Class](https://awardfares.com/search?area:LON.area:TYO.;c:first;z:lifemiles)
+### 2. [Europe to Tokyo on ANA Business Class](https://awardfares.com/search?area:LON.area:TYO.;c:business;z:lifemiles)
 
 This flight is a rare find, with only a few seats released close to the date, but it is on the top of LifeMiles redemptions if you can score one. Try setting an alert using AwardFares to get notified via email when seats open.
+
+**Note**: Some ANA flights feature the new Business Class cabin with enclosed compartments, which AwardFares highlights. Try filtering by flight number (e.g. NH211 and NH212).
 
 <img src="/assets/img/lifemiles-sweet-spots/europe-tyo.webp" alt="Europe to Tokyo Haneda on ANA Business Class using LifeMiles (AwardFares)." />
 
