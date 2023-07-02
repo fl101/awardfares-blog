@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "AwardFares vs. ExpertFlyer"
+title: "AwardFares vs. Cowtool"
 tags: [Guide]
 author: Germán
-hidden: false
-image: /assets/img/awardfares-vs-expertflyer/cover.webp
+image: /assets/img/awardfares-vs-cowtool/cover.webp
+hidden: true
+sitemap: false
 ---
 
 AwardFares is a modern and fast platform to search award availability across multiple frequent flyer programs. Among other things, it lets you search flights to find available award seats, setup alerts to monitor award availability, and lookup seat maps and flight schedules.
