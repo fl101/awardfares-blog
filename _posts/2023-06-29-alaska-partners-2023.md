@@ -4,17 +4,15 @@ title: "Alaska Airlines Mileage Plan Partner Redemptions Made Easy (2023)"
 tags: [Guide]
 author: Germán
 image: /assets/img/alaska-partners-2023/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Alaska Airlines has been rolling out a new search UI for Mileage Plan which currently does not support searching Business and First Class redemptions with partner airlines: it only works for Alaska Airlines. There are no known date or official statement from the airline for when this features will be back.
 
 That's a significant setback. Mileage Plan can be one of the most convenient programs for booking premium cabins, as they have a great number of partner airlines beyond alliances. Recently [they added STARLUX airlines](https://blog.awardfares.com/alaska-mileageplan-updates-june-2023/), and they keep expanding. 
 
-<img src="/assets/img/alaska-partners-2023/new-ui.webp" alt="Alaska Mileage Plan New Search UI for Award Flights." />
-
 **But hey**, we have a solution! Our tool AwardFares is the easiest and quickest way to display available seats on Mileage Plan, and it is very intuitive to apply filters to only display partner airlines. Here's a step-by-step guide.
+
+<img src="/assets/img/alaska-partners-2023/new-ui.webp" alt="Alaska Mileage Plan New Search UI for Award Flights." />
 
 
 ## The Easiest Way To Find Mileage Plan Partner Awards (Guide)
