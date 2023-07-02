@@ -36,24 +36,10 @@ The tool includes a feature known as "R space", which is represented as a boolea
 The tool also uses codes to denote different cabin classes, such as "J" for business class, "PY" for premium economy, and "Y" for economy class. For example, users might see "9+ for Y" and "6 for J" indicating the number of seats that the airline is willing to sell in economy and business class respectively​1.
 
 
-<img src="../assets/img/awardfares-vs-cowtool/cowtool-home.webp" alt="Cowtool Home Page (2023)" />
+<img src="/assets/img/awardfares-vs-cowtool/cowtool-home.webp" alt="Cowtool Home Page (2023)" />
 
 
 ## AwardFares vs. Cowtool: What are the differences? {#key-differences}
-
-
-### In a nutshell
-
-| Features       | AwardFares    | Cowtool     |
-|----------------|--------------|--------------|
-| Interface | User-friendly, visually appealing, easy to navigate. Suitable for beginners and experienced travelers. | Data-centric, more complex. Assumes users are frequent flyers comfortable with detailed information. |
-| Functionality | Real-time updates on available award seats across a wide range of airlines, focusing on business and first-class awards. | Offers a comprehensive database of airlines and their award seat availability. Provides detailed breakdowns of redemption rates, transfer partners, and stopover rules. |
-| Frequent Flyer Programs | A total of 6 frequent flyer programs including Air Canada Aeroplan | Air Canada Aeroplan only |
-| Mobile version | Yes | No |
-| Alerts via email | Yes | No |
-| Ticket price information / Miles calculator | Coming soon | Yes |
-| Pricing | Subscription-based model with a free limited version and paid plans that offer more features. | Subscription-based model, no free version, much higher entry price point. |
-| Customer Support | Well-received customer support offering help and guidance to users. | Offers extensive guides and FAQs, but some users have reported slower response times. |
 
 
 ### 1. User Interface: AwardFares has a modern UI and beautiful charts {#user-interface}
@@ -63,7 +49,7 @@ With a visually appealing and easy-to-understand interface, AwardFares is access
 Search results on AwardFares are presented in stunning timeline and map views, with color-coded availability indicators and easy-to-read tables. This simplification makes it easy for users to assess award seat availability and make informed decisions quickly.
 
 
-<img src="../assets/img/awardfares-vs-cowtool/af-home.webp" alt="AwardFares Home Page (2023)" />
+<img src="/assets/img/awardfares-vs-cowtool/af-home.webp" alt="AwardFares Home Page (2023)" />
 
 
 Cowtool, on the other hand, offers a more data-centric interface that is assumes users to be frequent flyers who are comfortable navigating complex information. Its highly detailed information makes it a comprehensive tool for seasoned award travelers, but the steep learning curve makes it hard for beginners.
@@ -77,11 +63,11 @@ AwardFares excels in its ability to provide real-time updates on available award
 
 The search results on AwardFares are presented clearly, making it easy to compare options and identify the best opportunities for booking award flights.
 
-<img src="../assets/img/awardfares-vs-cowtool/af-timeline.webp" alt="AwardFares Timeline Feature" />
+<img src="/assets/img/awardfares-vs-cowtool/af-timeline.webp" alt="AwardFares Timeline Feature" />
 
 One of the biggest advantages of AwardFares is the possibility to search across entire regions, like whole countries or continents. In a matter of seconds, search results pop up with available award flights to different destinations within that region.
 
-<img src="../assets/img/awardfares-vs-cowtool/af-map.webp" alt="AwardFares Map Feature" />
+<img src="/assets/img/awardfares-vs-cowtool/af-map.webp" alt="AwardFares Map Feature" />
 
 Unlike Cowtool, where filtering down the options require new searches, filters on AwardFares are also one click away. From the dropdown menus, it’s possible to trim down results based on frequent flyer program, airline, number of passengers, number of stops, or equipment type.
 
@@ -106,16 +92,14 @@ While Cowtool is mainly targeted to Air Canada Aeroplan members, AwardFares cove
 
 ### 4. Mobile Experience {#mobile}
 
-AwardFares is meant for mobile, with a UI designed as a web app, that you can even [install on your phone](https://blog.awardfares.com/awardfares-mobile-app/).
-
 AwardFares has been meant for mobile from day one. It doesn’t compromise the intuitive searches nor the beautiful user interface when going mobile, and you can even [install on your phone](https://blog.awardfares.com/awardfares-mobile-app/).
 
 <figure>
-<img src="/assets/img/awardfares-vs-expertflyer/af-mobile-2.webp" alt="AwardFares Mobile App" class="half" />
+<img src="/assets/img/awardfares-vs-cowtool/af-mobile.webp" alt="AwardFares Mobile App"/>
 </figure>
 
 
-Cowtool, on the other hand, doesn't provide a mobile version.
+Cowtool, on the other hand, doesn't offer a dedicated mobile version.
 
 ### 5. Customer Support: One tap to reach AwardFares’ support {#customer-support}
 
@@ -127,7 +111,7 @@ Customer support is at the core of AwardFares’ principles. That’s why some o
 
 ### 6. Pricing {#pricing}
 
-Both ExpertFlyer and AwardFares are subscription-based and have free and paid tiers. While ExpertFlyer provides a range of comprehensive features, their packages focus on general flight searches and alerts, mainly for users willing to pay for flights or upgrade using cash.
+Both Cowtool and AwardFares are subscription-based and have free and paid tiers.
 
 AwardFares packages and features are tailored to award searches and aim at showing real seat availability from different frequent flyer programs with just a few clicks and with the help of intuitive and clear exploration tools to help make more informed decisions.
 
@@ -146,6 +130,18 @@ Cowtool Pricing Tiers:
 2. **Standard**: The Standard tier includes access to all of the products and features offered by Cowtool.com, as well as a few additional features such as priority customer support and access to exclusive content. The Standard tier costs $19.99 per month or $199.99 per year.
 3. **Premium**: The Premium tier is the most expensive option and includes all of the features offered by the Standard tier, as well as a few additional features such as unlimited access to Cowtool.com's library of resources and discounts on products and services. The Premium tier costs $29.99 per month or $299.99 per year.
 
+## In a nutshell
+
+| Features       | AwardFares    | Cowtool     |
+|----------------|--------------|--------------|
+| Interface | User-friendly, visually appealing, easy to navigate. Suitable for beginners and experienced travelers. | Data-centric, more complex. Assumes users are frequent flyers comfortable with detailed information. |
+| Functionality | Real-time updates on available award seats across a wide range of airlines, focusing on business and first-class awards. | Offers a comprehensive database of airlines and their award seat availability. Provides detailed breakdowns of redemption rates, transfer partners, and stopover rules. |
+| Frequent Flyer Programs | A total of 6 frequent flyer programs including Air Canada Aeroplan | Air Canada Aeroplan only |
+| Mobile version | Yes | No |
+| Alerts via email | Yes | No |
+| Ticket price information / Miles calculator | Coming soon | Yes |
+| Pricing | Subscription-based model with a free limited version and paid plans that offer more features. | Subscription-based model, no free version, much higher entry price point. |
+| Customer Support | Well-received customer support offering help and guidance to users. | Offers extensive guides and FAQs, but some users have reported slower response times. |
 
 ## Conclusion
 
@@ -153,7 +149,7 @@ Cowtool has long been a prime tool for experienced Aeroplan members that want to
 
 On the other hand, AwardFares provides a stunning, **modern user interface**, meant for quickly **searching and filtering** award space. The results are up-to-date and **accurate**, sourced directly from Air Canada Aeroplan (and all the other programs. It's **simple to use**, and planned for **mobile devices**. Users can get started for **free**, in addition to **accessible** paid tiers for both casual and hardcore flyers.
 
-Overall, AwardFares can be a great upgrade for Aeroplan members looking for a more powerful and intuitive way of searching available seats.
+Overall, AwardFares can be a great upgrade for both beginners and advanced Aeroplan members looking for a more powerful and intuitive way of leverating their miles.
 
 ## Get started
 
