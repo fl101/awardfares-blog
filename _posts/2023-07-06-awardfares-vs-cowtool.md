@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AwardFares vs. Cowtool"
+title: "AwardFares vs. Cowtool: Best Tool To Search Aeroplan Award Flights?"
 tags: [Guide]
 author: Germán
 image: /assets/img/awardfares-vs-cowtool/cover.webp
@@ -16,8 +16,8 @@ This guide closely examines the key differences between AwardFares and ExpertFly
 
 ### Contents
 
-- [What is ExpertFlyer?](#what-is-expertflyer)
-- [AwardFares vs. ExpertFlyer: Key Differences](#awardfares-vs-expertflyer-what-are-the-differences)
+- [What is Cowtool?](#what-is-cowtool)
+- [AwardFares vs. Cowtool: Key Differences](#key-differences)
 	- [User Interface](#1-user-interface-awardfares-has-a-modern-UI-and-beautiful-charts)
 	- [Award Searches](#2-award-searches-easy-views-and-filters)
 	- [Availability Data](#3-availability-data-real-availability-for-each-program)
@@ -28,15 +28,26 @@ This guide closely examines the key differences between AwardFares and ExpertFly
 - [Conclusion](#conclusion)
 
 
-## What is ExpertFlyer?
+## What is Cowtool?
 
-[ExpertFlyer](https://www.expertflyer.com/) is a comprehensive online travel tool designed for frequent flyers, travel enthusiasts, and aviation professionals. It offers many features and services, such as flight availability and schedules, fare class availability, seat maps and alerts, award seat search, and flight alerts.
+[Cowtool](https://cowtool.com) is a comprehensive online travel tool designed for frequent flyers, travel enthusiasts, and aviation professionals. It offers many features and services, such as flight availability and schedules, fare class availability, seat maps and alerts, award seat search, and flight alerts.
 
 <img src="/assets/img/awardfares-vs-expertflyer/1-awardfares-vs-expertflyer-ef-home.webp" alt="ExpertFlyer Home Page (2023)" />
 
 
 
-## AwardFares vs. ExpertFlyer: What are the differences?
+## AwardFares vs. Cowtool: What are the differences?
+
+
+### In a nutshell
+
+| Features       | AwardFares    | Cowtool     |
+|----------------|--------------|--------------|
+| Interface | User-friendly, visually appealing, easy to navigate. Suitable for beginners and experienced travelers. | Data-centric, more complex. Assumes users are frequent flyers comfortable with detailed information. |
+| Functionality | Real-time updates on available award seats across a wide range of airlines, focusing on business and first-class awards. | Offers a comprehensive database of airlines and their award seat availability. Provides detailed breakdowns of redemption rates, transfer partners, and stopover rules. |
+| Frequent Flyer Programs | A total of 6 frequent flyer programs including Air Canada Aeroplan | Air Canada Aeroplan only |
+| Pricing | Subscription-based model with a free limited version and paid plans that offer more features. | Subscription-based model, no free version, much higher entry price point. |
+| Customer Support | Well-received customer support offering help and guidance to users. | Offers extensive guides and FAQs, but some users have reported slower response times. |
 
 
 ### 1. User Interface: AwardFares has a modern UI and beautiful charts
