@@ -3,7 +3,7 @@ layout: post
 title: "5 New SAS Routes You Can Book Using EuroBonus Points (July 2023) "
 tags: [Guide]
 author: Germán
-image: assets/img/eurobonus-july-2023/cover.webp
+image: /assets/img/eurobonus-july-2023/cover.webp
 hidden: true
 sitemap: false
 ---
@@ -20,9 +20,9 @@ Here are our top 5 SAS routes to book using EuroBonus points during this July.
 
 Awards available on multiple cabins from Copenhagen and Oslo.
 
-<img src="assets/img/eurobonus-july-2023/florence-2.webp" alt="Book award flights to Florence with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/florence-2.webp" alt="Book award flights to Florence with SAS EuroBonus points (AwardFares)." />
 
-<img src="assets/img/eurobonus-july-2023/florence-1.webp" alt="Book award flights to Florence with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/florence-1.webp" alt="Book award flights to Florence with SAS EuroBonus points (AwardFares)." />
 
 
 
@@ -30,18 +30,18 @@ Awards available on multiple cabins from Copenhagen and Oslo.
 
 SAS has increased its frequency to Catania and Palermo since June 2023. Search for non-stop flight from Copenhagen. Plenty of seats available during August.
 
-<img src="assets/img/eurobonus-july-2023/catania-2.webp" alt="Book award flights to Catania with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/catania-2.webp" alt="Book award flights to Catania with SAS EuroBonus points (AwardFares)." />
 
-<img src="assets/img/eurobonus-july-2023/catania-1.webp" alt="Book award flights to Catania with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/catania-1.webp" alt="Book award flights to Catania with SAS EuroBonus points (AwardFares)." />
 
 
 ### 3. [Palma de Mallorca, Spain](https://awardfares.com/search?zone:Scandinavia.SPU.;a:SK;o:duration;so:asc;z:eurobonus)
 
 See how crazy the availability is towards the first week of August! Over 200 seats in economy form Oslo, Stockholm and Copenhagen.
 
-<img src="assets/img/eurobonus-july-2023/palma-2.webp" alt="Book award flights to Palma de Mallorca with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/palma-2.webp" alt="Book award flights to Palma de Mallorca with SAS EuroBonus points (AwardFares)." />
 
-<img src="assets/img/eurobonus-july-2023/palma-1.webp" alt="Book award flights to Palma de Mallorca with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/palma-1.webp" alt="Book award flights to Palma de Mallorca with SAS EuroBonus points (AwardFares)." />
 
 
 
@@ -51,18 +51,18 @@ Split has become a significantly popular destination in the past few years. It's
 
 Towards August, the open space increase considerably. 
 
-<img src="assets/img/eurobonus-july-2023/split-2.webp" alt="Book award flights to Split with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/split-2.webp" alt="Book award flights to Split with SAS EuroBonus points (AwardFares)." />
 
-<img src="assets/img/eurobonus-july-2023/split-1.webp" alt="Book award flights to Split with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/split-1.webp" alt="Book award flights to Split with SAS EuroBonus points (AwardFares)." />
 
 
 ### 5. [Manchester, UK](https://awardfares.com/search?BGO.MAN.;a:SK;z:eurobonus)
 
 This new route from Bergen (BGO) has been very popular among UK travelers, but also great for Nordic travellers willing to explore the United Kingdom. There's plenty of open space on SAS Plus throghout July and August.
 
-<img src="assets/img/eurobonus-july-2023/manchester-2.webp" alt="Book award flights to Manchester with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/manchester-2.webp" alt="Book award flights to Manchester with SAS EuroBonus points (AwardFares)." />
 
-<img src="assets/img/eurobonus-july-2023/manchester-1.webp" alt="Book award flights to Manchester with SAS EuroBonus points (AwardFares)." />
+<img src="/assets/img/eurobonus-july-2023/manchester-1.webp" alt="Book award flights to Manchester with SAS EuroBonus points (AwardFares)." />
 
 
 ## How To Find SAS EuroBonus Awards With AwardFares
@@ -70,19 +70,19 @@ This new route from Bergen (BGO) has been very popular among UK travelers, but a
 1. Go to [AwardFares](https://awardfares.com/search).
 
 2. Under FFPs, select **SAS EuroBonus Only**.
-<img src="assets/img/eurobonus-july-2023/ffp-sas.webp" alt="AwardFares filter by frequent flyer program." />
+<img src="/assets/img/eurobonus-july-2023/ffp-sas.webp" alt="AwardFares filter by frequent flyer program." />
 
 3. Under Airlines, select **SAS Only**.
-<img src="assets/img/eurobonus-july-2023/airline-sas.webp" alt="AwardFares filter by airline." />
+<img src="/assets/img/eurobonus-july-2023/airline-sas.webp" alt="AwardFares filter by airline." />
 
 4. Select your destination City or Region (e.g. Florence).
-<img src="assets/img/eurobonus-july-2023/route.webp" alt="AwardFares select route." />
+<img src="/assets/img/eurobonus-july-2023/route.webp" alt="AwardFares select route." />
 
 5. Select the potential dates or browse in the Timline View.
-<img src="assets/img/eurobonus-july-2023/florence-2.webp" alt="SAS EuroBonus award seats on AwardFares Timeline View." />
+<img src="/assets/img/eurobonus-july-2023/florence-2.webp" alt="SAS EuroBonus award seats on AwardFares Timeline View." />
 
 6. Done! You'll see the available seats in the result list.
-<img src="assets/img/eurobonus-july-2023/florence-1.webp" alt="SAS EuroBonus award seats on AwardFares." />
+<img src="/assets/img/eurobonus-july-2023/florence-1.webp" alt="SAS EuroBonus award seats on AwardFares." />
 
 
 ## Upgrade for more features
