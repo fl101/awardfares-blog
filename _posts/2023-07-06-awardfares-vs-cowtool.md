@@ -144,18 +144,15 @@ AwardFares Pricing Tiers:
 2. **Gold** (USD 9.99): award search, award calendar, award map, journey planner, hourly availability on award seats, 5 seat alerts, 100 custom searches per day, max 7 searches at once, award availability count, search with stops, per-program availability, cabin annotations, seat maps, award release dates, and flight schedules tool.
 3. **Diamond** (USD 19.99): award search, award calendar, award map, journey planner, **real-time availability** on award seats, **unlimited seat alerts**, **unlimited custom searches per day**, max 30 searches at once, award availability count, search with stops, per-program availability, cabin annotations, seat maps, award release dates, and flight schedules tool.
 
-<img src="/assets/img/awardfares-vs-expertflyer/7a-awardfares-vs-expertflyer-af-pricing.webp" alt="AwardFares Pricing" />
+<img src="/assets/img/awardfares-vs-cowtool/af-pricing.webp" alt="AwardFares Pricing" />
 
 
-ExpertFlyer Pricing Tiers:
+Cowtool Pricing Tiers:
 
 
-
-1. **Free**: access to flight schedules and availability, ability to search for specific fare classes, 4 seat alerts.
-2. **Pro Basic** (USD 4.99): 250 queries per month, data from 400 airlines, search for awards and upgrades, seat maps, flight availability, status, timetables, 200 seat alerts.
-3. **Pro Premium** (USD 9.99): all features in Pro Basic + flight availability alerts, flight schedule alerts, aircraft change alerts, published fare pricing, wide search +-3 days, save queries, mobile edition, annual discount.
-
-<img src="/assets/img/awardfares-vs-expertflyer/7b-awardfares-vs-expertflyer-ef-pricing.webp" alt="ExpertFlyer Pricing" />
+1. **Basic**: The Basic tier is the most affordable option and includes access to a limited number of products and features. The Basic tier costs $9.99 per month or $99.99 per year.
+2. **Standard**: The Standard tier includes access to all of the products and features offered by Cowtool.com, as well as a few additional features such as priority customer support and access to exclusive content. The Standard tier costs $19.99 per month or $199.99 per year.
+3. **Premium**: The Premium tier is the most expensive option and includes all of the features offered by the Standard tier, as well as a few additional features such as unlimited access to Cowtool.com's library of resources and discounts on products and services. The Premium tier costs $29.99 per month or $299.99 per year.
 
 
 ## Conclusion
@@ -171,3 +168,7 @@ On the other hand, ExpertFlyer targets experienced frequent flyers that need pow
 If you want to experience AwardFares, you can join and try it out by creating a free account. [Read more here](https://awardfares.com).
 
 
+
+## Get started, and stay tuned
+
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
