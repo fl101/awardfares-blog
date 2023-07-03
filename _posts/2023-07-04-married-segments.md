@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Married Segments: Working Out Your Perfect Award Trip (Guide)
+title: "Married Segments: Working Out Your Perfect Award Trip (Guide)"
 tags: [Guide]
 image: /assets/img/married-segments/cover.webp
 hidden: true
