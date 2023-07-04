@@ -4,15 +4,13 @@ title: "5 New SAS Routes You Can Book Using EuroBonus Points (July 2023) "
 tags: [Guide]
 author: Germán
 image: /assets/img/eurobonus-july-2023/cover.webp
-hidden: true
-sitemap: false
 ---
 
-Whether you haven't booked your summer holidays yet, or you are looking for cool places for a quick trip, this post is for you. SAS has announced over 5000 new routes and frequency increases for this summer, and there are still plenty of seats left to book using EuroBonus points.
+Whether you haven't booked your summer holidays yet, or you are looking for cool places for a quick trip, this post is for you. Earlier this year, SAS has announced over 5000 new routes and frequency increases for this summer, and there are still plenty of seats left to book using EuroBonus points.
 
 Some of these destinations start during July or August until September, which is easy to see using AwardFares' Timeline View.
 
-Here are our top 5 SAS routes to book using EuroBonus points during this July.
+Here are our top 5 SAS routes to book using EuroBonus points right now.
 
 ## New SAS Routes With EuroBonus Points
 
@@ -69,10 +67,10 @@ This new route from Bergen (BGO) has been very popular among UK travelers, but a
 
 1. Go to [AwardFares](https://awardfares.com/search).
 
-2. Under FFPs, select **SAS EuroBonus Only**.
+2. Under FFPs, select **SAS EuroBonus only**.
 <img src="/assets/img/eurobonus-july-2023/ffp-sas.webp" alt="AwardFares filter by frequent flyer program." />
 
-3. Under Airlines, select **SAS Only**.
+3. Under Airlines, select **SAS only**.
 <img src="/assets/img/eurobonus-july-2023/airline-sas.webp" alt="AwardFares filter by airline." />
 
 4. Select your destination City or Region (e.g. Florence).
