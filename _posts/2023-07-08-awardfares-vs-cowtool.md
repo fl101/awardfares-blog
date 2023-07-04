@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AwardFares vs. Cowtool: Superpowers For Aeroplan Members."
+title: "The Cowtool Alternative With Superpowers (2023)"
 tags: [Guide]
 author: Germán
 image: /assets/img/awardfares-vs-cowtool/cover.webp
