@@ -17,9 +17,11 @@ These segments can sometimes create a mess for frequent travelers trying to maxi
 
 ### What are Married Segments?
 
-Married segments are used by airlines to control their inventory or offer  For example, an airline may only release a certain number of married segments for sale, even if there are more individual seats available. This can help the airline to ensure that it fills all of the seats on a flight, even if some passengers only want to book a one-way ticket.
+Married segments are used by airlines to control their inventory or offer more aggresive deals and discounts while filling up flights. For example, an airline may only release a certain number of married segments for sale, even if there are more individual seats available. This can help the airline to ensure that it fills all of the seats on a flight, even if some passengers only want to book a one-way ticket.
 
 Married segments can also be used by airlines to offer different pricing options for different types of travel. For example, an airline may offer a lower price for a married segment that includes a connecting flight, than for two separate flights that would also connect. This can help the airline to attract passengers who are willing to make a connection in order to save money.
+
+<img src="../assets/img/married-segments/diagram.webp" alt="Married Segments Diagram." />
 
 ### Why married segments can be a pain for award travel
 
@@ -31,7 +33,6 @@ There are a number of reasons why these segments can be a pain and cause issues 
 4. **Difficulty in finding routes**: Married segments can make it harder to find and book award travel. Since airlines don't always make it clear which segments are married, you might have to spend a lot of time searching for different combinations of flights to find an itinerary that works for them.
 
 ## Example
-
 
 Let's try to find an award flight from Amsterdam (AMS) to Tokyo (NRT or HND). Our first attempt searching AMS-HND/NRT unfortunately doesn't yield any results.
 
@@ -91,6 +92,9 @@ Assuming the customer support agent is willing to do this, and there are no othe
 
 I hope that helps clarify some of the details around married segments, and how to work with them. Good luck!
 
+### Extra tip
+
+**Agents can help!**. In some cases, customer support agents are able to *divorce* segments. Another option is to first book the married segment, and then ask to change one of the segments, which might be possible due to the ticket's rules.
 
 ## Get started, and stay tuned.
 
