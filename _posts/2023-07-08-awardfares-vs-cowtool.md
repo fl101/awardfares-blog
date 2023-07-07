@@ -8,9 +8,9 @@ hidden: true
 sitemap: false
 ---
 
-AwardFares is a modern and fast platform to search award availability across multiple frequent flyer programs. Among other things, it lets you search flights to find available award seats, setup alerts to monitor award availability, and lookup seat maps and flight schedules.
+AwardFares lets you search flights to find available award seats in a quick way with modern user interface. In just a few clicks, you can search award availability across multiple frequent flyer programs, setup alerts, lookup seat maps and flight schedules.
 
-Some other tools, like ExpertFlyer, provide similar functionalities for frequent flyers, travel enthusiasts, and aviation professionals when it comes to getting the most out of their airline miles, points, and benefits.
+Similarly, Cowtool, aims to make things easier for Air Canada Aeroplan frequent flyers when it comes to getting the most out of their airline miles, points, and benefits.
 
 This guide closely examines the key differences between AwardFares and Cowtool.
 
@@ -33,7 +33,7 @@ This guide closely examines the key differences between AwardFares and Cowtool.
 
 The tool includes a feature known as "R space", which is represented as a boolean value (true/false). The term "R space" typically refers to a fare class that represents upgrade availability from economy to a higher class of service using miles or points.
 
-The tool also uses codes to denote different cabin classes, such as "J" for business class, "PY" for premium economy, and "Y" for economy class. For example, users might see "9+ for Y" and "6 for J" indicating the number of seats that the airline is willing to sell in economy and business class respectively​1.
+The tool also uses codes to denote different cabin classes, such as "J" for business class, "PY" for premium economy, and "Y" for economy class. For example, users might see "9+ for Y" and "6 for J" indicating the number of seats that the airline is willing to sell in economy and business class respectively​.
 
 
 <img src="/assets/img/awardfares-vs-cowtool/cowtool-home.webp" alt="Cowtool Home Page (2023)" />
@@ -124,11 +124,7 @@ AwardFares Pricing Tiers:
 <img src="/assets/img/awardfares-vs-cowtool/af-pricing.webp" alt="AwardFares Pricing" />
 
 
-Cowtool Pricing Tiers:
-
-1. **Basic**: The Basic tier is the most affordable option and includes access to a limited number of products and features. The Basic tier costs $9.99 per month or $99.99 per year.
-2. **Standard**: The Standard tier includes access to all of the products and features offered by Cowtool.com, as well as a few additional features such as priority customer support and access to exclusive content. The Standard tier costs $19.99 per month or $199.99 per year.
-3. **Premium**: The Premium tier is the most expensive option and includes all of the features offered by the Standard tier, as well as a few additional features such as unlimited access to Cowtool.com's library of resources and discounts on products and services. The Premium tier costs $29.99 per month or $299.99 per year.
+On the other hand, Cowtool has a "pay what you want" pricing model, where the default is $0. If you choose to pay for cowtool, you will not be granted access to any tools, features, or betas, that you do not otherwise have access to. This is just to help support the time and cost involved in developing and running cowtool. Nothing extra will be provided in exchange for any payment.
 
 ## In a nutshell
 
@@ -140,7 +136,7 @@ Cowtool Pricing Tiers:
 | Mobile version | Yes | No |
 | Alerts via email | Yes | No |
 | Ticket price information / Miles calculator | Coming soon | Yes |
-| Pricing | Subscription-based model with a free limited version and paid plans that offer more features. | Subscription-based model, no free version, much higher entry price point. |
+| Pricing | Subscription-based model with a free limited version and paid plans that offer more features. | Pay what you want. |
 | Customer Support | Well-received customer support offering help and guidance to users. | Offers extensive guides and FAQs, but some users have reported slower response times. |
 
 ## Conclusion
