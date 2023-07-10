@@ -4,8 +4,6 @@ title: "The Cowtool Alternative With Superpowers (2023)"
 tags: [Guide]
 author: Germán
 image: /assets/img/awardfares-vs-cowtool/cover.webp
-hidden: true
-sitemap: false
 ---
 
 AwardFares lets you search flights to find available award seats in a quick way with modern user interface. In just a few clicks, you can search award availability across multiple frequent flyer programs, setup alerts, lookup seat maps and flight schedules.
