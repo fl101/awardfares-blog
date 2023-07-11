@@ -117,7 +117,7 @@ WiFi was available for purchase on the flight, but I didn't use it and instead s
 
 ## Summary
 
-Overall, I'm always appreciate flying business class when the option is available, and I always enjoy trying new products (in this case it was my first time flying Lufthansa long-haul business class). I definitely wouldn't choose Lufthansa again, unless I really had no other choice. If I had to, I would at least try to find seats on one of Lufthansa's 747-8 routes instead, which at least has business class on the upper deck!
+Overall, I always appreciate flying business class when the option is available, and I always enjoy trying new products (in this case it was my first time flying Lufthansa long-haul business class). I definitely wouldn't choose Lufthansa again, unless I really had no other choice. If I had to, I would at least try to find seats on one of Lufthansa's 747-8 routes instead, which at least has business class on the upper deck!
 
 
 <script type="application/ld+json">
