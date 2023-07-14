@@ -52,7 +52,7 @@ It's a great tool for travelers trying to get the most out of their miles, wheth
 
 You try the tool for free without an account, and access more premium features and unlimited searches [upgrading to our Gold or Diamond tiers](https://awardfares.com/pricing). 
 
-<img src="/assets/img/award-trip-tips/pricing.webp" alt="AwardFares Best Award Ticket Finder (2023)" />
+<img src="/assets/img/award-trip-tips/select-ffp.gif" alt="AwardFares Best Award Ticket Finder (2023)" />
 
 
 ### 4. Be Flexible with Dates and Destinations
@@ -152,6 +152,7 @@ Despite your best efforts, you might not be able to find an award seat on your i
 ## Get started
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+
 
 
 ## Read more
