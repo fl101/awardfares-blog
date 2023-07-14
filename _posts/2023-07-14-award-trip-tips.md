@@ -140,7 +140,7 @@ Once you've set up an alert, AwardFares will check for award availability on you
 
 Optionally, you can set up more filters such as airlines, aircraft or even a specific flight number.
 
-<img src="/assets/img/award-trip-tips/alerts.webp" alt="AwardFares Alerts (2023)" />
+<img src="/assets/img/award-trip-tips/alert.webp" alt="AwardFares Alerts (2023)" />
 
 
 ### BONUS: Have a Backup Plan
