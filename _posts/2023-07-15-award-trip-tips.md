@@ -4,8 +4,6 @@ title: "10 Tips For Booking An Award Trip In 2023"
 tags: [Guide]
 author: Germán
 image: /assets/img/award-trip-tips/cover.webp
-hidden: true
-sitemap: false
 ---
 
 If you're dreaming of your next adventure and looking to get the most out of your frequent flyer program, you've come to the right place. 
