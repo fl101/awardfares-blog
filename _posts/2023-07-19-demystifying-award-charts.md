@@ -16,13 +16,21 @@ However, understanding these award charts was never straightforward due to their
 
 In this comprehensive guide, we aim to unravel the mysteries of the different types of award charts in frequent flyer programs, and what can you do today to leverage your miles to the maximum.
 
+### In this post
 
-## What are Award Charts?
+- [What are Award Charts?](#basics)
+- [Different Types of Award Charts](#types)
+- [What are Good Redemptions?](#beat)
+- [Why are Airlines Shifting to Dynamic Pricing Award Charts?](#shift)
+- [AwardFares: The Secret Tool To Beat Any Award Chart](#awardfares)
+- [Read more](#read-more)
+
+
+## What are Award Charts? {#basics}
 
 Award charts are essentially tables that outline how many miles or points you'll need to redeem for a free flight (an award flight) in a frequent flyer program. They form the basis of any airline loyalty program, detailing the cost in miles from one region to another, often further divided by cabin class (economy, business, or first).
 
-## Different Types of Award Charts
-
+## Different Types of Award Charts {#types}
 
 Award charts can be of different types, depending on what criteria they use to determine the price (in miles or points) of the award tickets. Here are the most common ones.
 
@@ -71,7 +79,7 @@ Dynamic pricing strays away from the concept of a fixed chart, instead adjusting
 | Dynamic pricing | The number of miles required to redeem an award varies depending on the demand for the flight. |  Greater availability of award seats | Unpredictability of costs, especially during peak periods |
 
 
-## Understanding Your Program's Award Chart
+## Understanding Your Program's Award Chart {#beat}
 
 Regardless of the type of award chart your frequent flyer program uses, understanding it is crucial to maximize your miles' value. Research the sweet spots, keep up to-date with changes (airlines often devalue their charts), and use tools like [AwardFares](https://awardfares.com/search) to help plan redemptions.
 
@@ -97,7 +105,7 @@ Some examples of classic good redemptions are :
 
 Stay tuned [to our posts](https://blog.awardfares.com/), we regularly publish guides and articles on how to find and book the best sweet spots on each program.
 
-## Why are Airlines Shifting to Dynamic Pricing Award Charts?
+## Why are Airlines Shifting to Dynamic Pricing Award Charts? {#shift}
 
 Initially, frequent flyer programs started as a way for airlines to give away empty seats while encouraging customers to stay loyal. With time, and as award charts evolved, many travelers managed to exploit loopholes to get very expensive seats for a few miles. Particularly when you consider high sign-up bonuses from credit cards and multipliers of revenue-based programs.
 
@@ -137,7 +145,7 @@ It is a trend that's likely to continue as airlines seek to maximize revenue, ma
 
 But don't worry, we are here to help :)
 
-## AwardFares: The Secret Tool To Beat Any Award Chart
+## AwardFares: The Secret Tool To Beat Any Award Chart {#awardfares}
 
 AwardFares offers a variety of features that enable users to uncover sweet spots across different types of award charts.
 
@@ -170,7 +178,7 @@ Here are some additional tips for finding sweet spots in award charts using Awar
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
-## Read more
+## Read more {#read-more}
 
 Make sure to also check these posts out
 
