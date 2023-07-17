@@ -12,7 +12,7 @@ United MileagePlus is one of the most popular airline loyalty programs in the wo
 
 Here are just a few reasons why we love MileagePlus. With a little planning, you can use your miles to book some amazing travel experiences.
 
-* **The Excursionist Perk**: This perk allows you to add a free stopover on any award ticket that includes two or more flights. This is a great way to see more of a destination or to connect with a connecting flight on a partner airline.
+* **The Excursionist Perk**: This perk allows you to add a free stopover on any award ticket that includes two or more flights. This is a great way to see more of a destination or to connect with a connecting flight on a partner airlines.
 * **Transcontinental flights**: United offers some great deals on transcontinental flights, with economy class awards starting at just 15,000 miles and business class awards starting at 30,000 miles.
 * **Flights to Northern South America**: United charges just 20,000 miles for economy class awards and 35,000 miles for business class awards from the U.S. to Northern South America, including destinations like Lima, Peru, Quito, Ecuador, and Bogotá, Colombia.
 * **Flights to Oceania**: United charges just 35,000 miles for economy class awards and 70,000 miles for business class awards to Oceania, including destinations like Sydney, Australia, Auckland, New Zealand, and Honolulu, Hawaii.
