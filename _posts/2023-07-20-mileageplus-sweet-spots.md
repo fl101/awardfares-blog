@@ -4,8 +4,6 @@ title: "United MileagePlus Sweet Spots In 2023"
 tags: [Guide]
 author: Germán
 image: /assets/img/mileageplus-sweet-spots/cover.webp
-hidden: true
-sitemap: false
 ---
 
 United MileagePlus is one of the most popular airline loyalty programs in the world, and for good reason. The program offers a variety of ways to earn and redeem miles, and there are some great sweet spots that can save you a lot of money on flights.
@@ -147,4 +145,5 @@ You can [try AwardFares for free](https://awardfares.com/). We are rolling out n
 
 Make sure to also check out these posts
 
-- 
+- [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
+- [Married Segments: Working Out Your Perfect Award Trip (Guide)](https://blog.awardfares.com/married-segments/)
