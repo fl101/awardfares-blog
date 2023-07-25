@@ -19,7 +19,7 @@ Booking class codes are alpha-numeric codes used by airlines to categorize and s
 
 Each airline has its own specific booking codes, and they might not mean the same thing between airlines. However, there are some general trends and commonly used codes across most airlines. Here are a few of the most common ones:
 
-* F or P: These are typically the codes used for First Class seats. These seats are the most expensive and offer the most amenities.
+* **F or P**: These are typically the codes used for First Class seats. These seats are the most expensive and offer the most amenities.
 
 * **J, C, or D**: These codes usually represent Business Class seats. They are less expensive than First Class but offer more amenities than Economy.
 
@@ -52,37 +52,51 @@ When it comes to frequent flyer status, Star Alliance recognizes different level
 
 ### 2. Under **Tools**, select **[Flight Schedules](https://awardfares.com/schedule)**.
 
+<figure>
 <img src="../assets/img/flight-schedules-how-to/flight-schedules-menu.webp" alt="AwardFares Flight Schedules Tool." />
+</figure>
 
 
 ### 3. Enter **Origin**, **Destination** and **Date**, and hit **Search**.
 
 For this advanced tool, it's important to be specific and use the three-letter airport code for both origin and destination (e.g. FRA for Frankfurt, BOS for Boston, etc.)
 
+<figure>
 <img src="../assets/img/flight-schedules-how-to/origin-destination.webp" alt="Search using the Flight Schedules Tool." />
+</figure>
+
 
 ### 4. Check the results on the right
 
 On the right side of the screen (Desktop) or below (mobile) you'll see a list with all the flights for that date, with and without stops.
 
+<figure>
 <img src="../assets/img/flight-schedules-how-to/flight-schedules-results.webp" alt="AwardFares Flight Schedules Results." />
+</figure>
+
 
 ### 5. Tap on **Availability**.
 
 For more details, click on the Availability link. A new pane will expand below and show you all the availability for each booking class code.
 
+<figure>
 <img src="../assets/img/flight-schedules-how-to/availability-pane.webp" alt="Flight Schedules Availability Pane." />
+</figure>
 
 
 ### 6. Tap on **Seats** to view the seat map (optional).
 
 You will be redirected to our **Seat Map Tool**, and the flight you selected will be pre-populated for you.
 
+<figure>
 <img src="../assets/img/flight-schedules-how-to/seatmap-tool.webp" alt="AwardFares Seat Map Tool." />
+</figure>
 
 You can hit Search to see the actual seat map for that specific flight.
 
+<figure>
 <img src="../assets/img/flight-schedules-how-to/seatmap-tool-results.webp" alt="AwardFares Seat Map Tool Results." />
+</figure>
 
 
 
