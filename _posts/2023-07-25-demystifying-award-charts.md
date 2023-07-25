@@ -59,6 +59,10 @@ Similar to zone-based charts, region-based award charts group countries into reg
 
 For instance, Lufthansa's Miles & More and [SAS EuroBonus](https://awardfares.com/search?..;z:sas) programs uses this kind of award chart. The benefit of region-based charts is that they can offer more accurate pricing reflective of the flight's actual length. However, they can be more complex to navigate due to the multitude of variables involved.
 
+
+<img src="/assets/img/demystifying-award-charts/sas-award-chart.webp" alt="SAS EuroBonus Award Chart." />
+
+
 ### Hybrid Award Charts
 
 Hybrid award charts combine elements from multiple types of award charts. For instance, Delta Air Lines has an undisclosed award chart that appears to mix zone, distance, and revenue elements. Although this lack of transparency can be frustrating, savvy travelers who spend time understanding the program's nuances can still find good redemption opportunities.
@@ -66,6 +70,8 @@ Hybrid award charts combine elements from multiple types of award charts. For in
 ### Dynamic Pricing
 
 Dynamic pricing strays away from the concept of a fixed chart, instead adjusting the mileage cost based on demand and other factors. It's a model that more airlines are moving towards, such as [American Airlines AAdvantage](https://awardfares.com/search?..;z:aadvantage) and [United MileagePlus](https://awardfares.com/search?..;z:united). The main advantage is greater availability of award seats since there are no fixed award inventory limits. However, the unpredictability of costs and potential for very high mileage prices, especially during peak periods, is a significant drawback.
+
+<img src="/assets/img/demystifying-award-charts/aadvantage-award-chart.webp" alt="AAdvantage Award Chart." />
 
 
 ### Summary of Award Chart Types
@@ -159,6 +165,8 @@ AwardFares' interface is modern, user-friendly and meant for mobile, which allow
 
 Lastly, by keeping track of historical data, AwardFares can give users insights into trends and patterns, further aiding in the identification of award chart sweet spots.
 
+<img src="/assets/img/demystifying-award-charts/af-home.webp" alt="AwardFares Home." />
+
 
 ### How to beat your award chart with AwardFares
 
@@ -173,6 +181,7 @@ Here are some additional tips for finding sweet spots in award charts using Awar
 * **Consider flying economy class.** In some cases, you can find better redemption rates for economy class flights than for business or first class flights.
 * **Use your loyalty status.** If you have status with a frequent flyer program, you may be able to get access to award seats that are not available to the general public.
 
+<img src="/assets/img/demystifying-award-charts/af-map.webp" alt="AwardFares Map View." />
 
 ## Get started
 
