@@ -43,7 +43,9 @@ When it comes to earning miles, each airline within the alliance determines how 
 
 The alliance also determines which booking classes are eligible for upgrades using miles or upgrade certificates. This varies significantly by airline and by specific fare class within each booking code.
 
-When it comes to frequent flyer status, Star Alliance recognizes different levels (Star Alliance Silver and Star Alliance Gold), but each individual airline in the alliance determines which booking classes will earn which level of status. This is often based on the amount of miles flown and the fare class of the ticket.
+A great resource to double check where to credit your miles is [WhereToCredit](https://www.wheretocredit.com/). Give it a shot *before* flying. It's particularly useful to determine in which program you'll earn the most miles, in case you use multiple of them.
+
+Regarding frequent flyer status, Star Alliance recognizes different levels (Star Alliance Silver and Star Alliance Gold), but each individual airline in the alliance determines which booking classes will earn which level of status. This is often based on the amount of miles flown and the fare class of the ticket.
 
 
 ## Using the Flight Schedules tool
