@@ -43,8 +43,7 @@ Alternatively, you can also perform broad searches from an entire area, region, 
 <img src="/assets/img/alaska-mileageplan-starlux/3-route.gif" alt="Taiwan to Los Angeles with STARLUX Airlines (AwardFares)." />
 
 
-
-### 4. Add travel dates.
+### 5. Add travel dates.
 
 Try adding specific dates to refine your search results. Once selected, AwardFares will start searching for available flights for that date, and will display them in a list below. 
 
@@ -55,7 +54,7 @@ To search for different dates using the timeline view, simply click on the arrow
 <img src="/assets/img/alaska-mileageplan-starlux/4-timeline.gif" alt="STARLUX Airilines using Mileage Plan Miles (AwardFares Timeline View)." />
 
 
-### 5. Add more filters (optional).
+### 6. Add more filters (optional).
 
 Try filtering out by cabin class (e.g. Business Class, First Class) or number of stops (e.g. nonstop). In this example, we filter results to only show Business Class seats.
 
@@ -63,7 +62,7 @@ Try filtering out by cabin class (e.g. Business Class, First Class) or number of
 
 There are many more filters you can explore adding, such as number of passengers, aircraft type, number of stops and even flight number.
 
-### 6. Done.
+### 7. Done.
 
 Pretty easy, right? In just a few clicks, you can see Mileage Plan inventory on STARLUX airlines.
 
@@ -106,4 +105,5 @@ You can [try AwardFares for free](https://awardfares.com/). We are rolling out n
 Make sure to also check these posts out
 
 - [Demystifying Award Charts: All You Need To Know](https://blog.awardfares.com/demystifying-award-charts/)
+- [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 - [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
