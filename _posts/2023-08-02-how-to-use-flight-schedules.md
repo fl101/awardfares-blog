@@ -4,8 +4,6 @@ title: "How To Use The Flight Schedules Tool"
 tags: [Guide]
 author: Germán
 image: /assets/img/flight-schedules-how-to/cover.webp
-hidden: true
-sitemap: false
 ---
 
 AwardFares Flight Schedules is part of our advanced toolkit. It allows you quickly to search flight timetables and see availability by booking class code.
