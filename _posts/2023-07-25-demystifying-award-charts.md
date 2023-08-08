@@ -6,7 +6,7 @@ author: Germán
 image: /assets/img/demystifying-award-charts/cover.webp
 ---
 
-For frequent travelers, airline loyalty programs offer a myriad of benefits that not only enhance the travel experience but also make it more cost-effective. Since American Airlines introduced the very firt frequent flyer program in the 80s, it became clear that staying loyal to one airline could reward customers a long way.
+For frequent travelers, airline loyalty programs offer a myriad of benefits that not only enhance the travel experience but also make it more cost-effective. Since American Airlines introduced the very first frequent flyer program in the 80s, it became clear that staying loyal to one airline could reward customers a long way.
 
 The core of these programs are the award charts, as it is how travellers can use their hard-earned miles for free travel, hotel nights, products or experiences. 
 
@@ -113,7 +113,7 @@ Stay tuned [to our posts](https://blog.awardfares.com/), we regularly publish gu
 
 Initially, frequent flyer programs started as a way for airlines to give away empty seats while encouraging customers to stay loyal. With time, and as award charts evolved, many travelers managed to exploit loopholes to get very expensive seats for a few miles. Particularly when you consider high sign-up bonuses from credit cards and multipliers of revenue-based programs.
 
-Now, as the industry chnages, airlines also have more resources to detect sweet spots and maximize their yield, and that's why most of them are changing the rules in their award charts. While traditional award charts offered a fixed, predictable structure for redeeming miles, more and more airlines are moving towards dynamic pricing models. 
+Now, as the industry changes, airlines also have more resources to detect sweet spots and maximize their yield, and that's why most of them are changing the rules in their award charts. While traditional award charts offered a fixed, predictable structure for redeeming miles, more and more airlines are moving towards dynamic pricing models. 
 
 Here are some of the factors why airlines are doing this.
 
