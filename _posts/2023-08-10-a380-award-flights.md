@@ -4,15 +4,13 @@ title: "Award Flights On The A380: Airlines and Routes"
 tags: [Guide]
 author: Germán
 image: /assets/img/a380-awards/cover.webp
-hidden: true
-sitemap: false
 ---
 
 As a frequent flyer, scoring a flight on the A380 might be one of the most rewarding achievements.
 
 The Airbus A380 is just massive, and offers a unique (and sometimes luxurious) flying experience. It is the only commercial aircraft that offers a full double-deck, with a number of amenities that are not usually available on other aircraft: suites, showers, onboard bars, private bedrooms, dedicated lounges, and duty-free shops are just some of the extravagant additions that exquisite flyers look after. 
 
-However, in recent years, a number of airlines have announced plans to phase out their A380 fleets. The aircraft is simply too big for some airports, and it can be difficult to fill all of the seats on a long-haul flight. The COVID-19 pandemic has accelerated this process, as airlines have been forced to cut costs and focus on more fuel-efficient aircraft.
+However, in recent years, a number of airlines have announced [plans to phase out their A380 fleets](https://aviationweek.com/air-transport/airports-networks/where-does-airbus-a380-fly-august-2023-update). The aircraft is simply too big for some airports, and it can be difficult to fill all of the seats on a long-haul flight. The COVID-19 pandemic has accelerated this process, as airlines have been forced to cut costs and focus on more fuel-efficient aircraft.
 
 As of 2023, only a few airlines still operate the A380, with just a subset of them offering available award seats in our favorite frequent flyer programs.
 
