@@ -74,8 +74,7 @@ Book using AAdvantage miles.
 Emirates is still the largest operator of A380s since their first delivery in 2008. It accounts for 68.6% of the seats available in August, with over 2.4 million seats across 4,649 flights. 
 
 
-#### Top Pick: [Frankfurt (FRA) to Seoul (ICN) via Dubai (DXB)
-](https://awardfares.com/search?FRA.ICN.;a:EK;e:388#)
+#### Top Pick: [Frankfurt (FRA) to Seoul (ICN) via Dubai (DXB)](https://awardfares.com/search?FRA.ICN.;a:EK;e:388#)
 
 Book using Aeroplan miles. Great availability in First Class!
 
@@ -88,7 +87,7 @@ In March 2022, Asiana Airlines announced that it would be resuming A380 flights 
 
 As of August 2023, Asiana Airlines has 4 A380s in its fleet and currently serves Bangkok, Frankfurt, Hong Kong, Los Angeles and Sydney.
 
-#### Top Pick[: Los Angeles (LAX) to Bangkok (BKK) via Seoul](https://awardfares.com/search?LAX.BKK.;a:OZ;e:388#)
+#### Top Pick: [Los Angeles (LAX) to Bangkok (BKK) via Seoul](https://awardfares.com/search?LAX.BKK.;a:OZ;e:388#)
 
 Book using Aeroplan miles. All in A380s!
 
@@ -105,8 +104,7 @@ The premium cabins on Singapore's A380s are some of the best in the market, with
 As of August 2023, Singapore still flies the A380 to Hong Kong, Delhi, London, Melbourne, Shanghai and, Sydney.
 
 
-#### Top Pick: [Singapore (SIN) to London Heathrow (LHR)
-](https://awardfares.com/search?SIN.LHR.;a:SQ;e:388)
+#### Top Pick: [Singapore (SIN) to London Heathrow (LHR)](https://awardfares.com/search?SIN.LHR.;a:SQ;e:388)
 
 Book using Aeroplan miles. Great availability both in Business Class and Economy Class.
 
