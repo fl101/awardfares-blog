@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "American Airlines Major Expansion In 2024"
+title: "American Airlines Expansion Plans For 2024"
 tags: [Guide]
 author: Germán
 image: /assets/img/american-airlines-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
 American Airlines [has announced](https://news.aa.com/news/news-details/2023/More-for-2024-American-Airlines-adds-new-routes-and-destinations-to-see-the-world-next-summer-NET-RTS-08/default.aspx) its most significant trans-Atlantic expansion since 2019. As part of this expansion:
@@ -80,10 +78,9 @@ Make sure to check out our complete guide on [How To Find AAdvantage Awards in 2
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when a certain route or flight gets opened, as well as check seat maps, flight schedules, and more.
 
 
-## Score Awesome Flights with Alerts
+## Stay on top with Alerts
 
 With the Alerts feature, you can create alerts for specific routes and dates and let AwardFares do the extra work. When award availability opens up, you'll receive an email notification. This way, you can be sure to never miss out on a great deal.
-
 
 Make sure to check our [**video tutorial** on how to use the Alerts feature](https://blog.awardfares.com/alerts/) in AwardFares.
 
