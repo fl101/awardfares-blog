@@ -4,8 +4,6 @@ title: "Journey Planner: Building Perfect Award Trips To Difficult Destinations"
 tags: [Guide]
 author: Germán
 image: /assets/img/journey-planner/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Booking flights with points or miles is fun, but finding the perfect trip to your desired destination can be tricky, especially when the journey involves multiple segments, or across different airlines. 
