@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 Mistakes When Searching Avianca LifeMiles Award Flights (And How to Fix Them)"
+title: "7 Mistakes When Searching Avianca LifeMiles Award Flights (And How To Fix Them)"
 tags: [Guide]
 author: Germán
 image: /assets/img/lifemiles-mistakes/cover.webp
