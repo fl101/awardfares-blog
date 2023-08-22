@@ -41,7 +41,7 @@ As we can see, there's no availability on the surrounding dates in any cabin cla
 
 However, flying through the United States is one way of going to Perú. There are many flights from Sweden to the US daily, and tons of options to find available seats.
 
-> *Pro tip: If you don't know which airlines fly to your dream destination, you can use tools like [Google Flights](https://www.google.com/travel/flights) or [FlightConnections](https://www.flightconnections.com/) to find out routes and options.*
+> *Pro tip: If you lack inspiration on which routes you can explore or use, try searching with other Frequent Flyer Programs (like United or Aeroplan), since different programs might be more flexible at finding complicated routes. In addition, you can get help from tools such as [Google Flights](https://www.google.com/travel/flights) or [FlightConnections](https://www.flightconnections.com/) to find out more routes and options.*
 
 
 Let's try splitting the trip and connect in a major US city, for example, **New York**. So, we change our search first from Stockholm to New York (NYC, metro area).
@@ -98,7 +98,7 @@ If we go to the top, we can tap the **Map** button to view the full itinerary.
 <img src="../assets/img/journey-planner/journey-map.webp" />
 </figure>
 
-### Copy Journey
+### Copy and Paste Journey
 
 You can leverage the **Copy journey** button to copy the itinerary information to your clipboard.
 
@@ -106,11 +106,14 @@ You can leverage the **Copy journey** button to copy the itinerary information t
 <img src="../assets/img/journey-planner/copy-journey.webp" />
 </figure>
 
-You can paste this information on a note or document to keep them at hand and compare different alternatives when building your dream trip.
+If you **Clear** your journey, you can simply **Paste** this information in AwardFares back again to recover your journey!
+
+To keep this information safe, make sure to paste this information on a note or document on the side. You can also have this note at hand to compare different alternatives when building your dream trip, and when booking your flight.
 
 <figure>
 <img src="../assets/img/journey-planner/notes.webp" />
 </figure>
+
 
 
 ### All set. Now, how do I book?
@@ -133,7 +136,9 @@ If, by any chance, you add the wrong leg to your journey, AwardFares will detect
 
 ### Can I build multiple journeys at once?
 
-You can build **one** journey at a time. You can use the **Clear** button to start from scratch. To save the journey, paste the **Copy** function results in a note on the side.
+You can build **one** journey at a time. To save the journey you have been working on, use the **Copy** and **Paste** functions. It's possible to copy each journey on a note or document. Then, to recover your journey, simply paste it back on an AwardFares tab in your browser (it also works on the phone!).
+
+You can use the **Clear** button to start from scratch. 
 
 ### Can I mix cabin classes?
 
