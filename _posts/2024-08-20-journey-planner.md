@@ -108,7 +108,7 @@ You can leverage the **Copy journey** button to copy the itinerary information t
 
 If you **Clear** your journey, you can simply **Paste** this information in AwardFares back again to recover your journey!
 
-To keep this information safe, make sure to paste this information on a note or document on the side. You can also have this note at hand to compare different alternatives when building your dream trip, and when booking your flight.
+To keep this information safe, make sure to paste it on a note or document on the side. You can also have this note at hand to compare different alternatives when building your dream trip, and when booking your flight.
 
 <figure>
 <img src="../assets/img/journey-planner/notes.webp" />
