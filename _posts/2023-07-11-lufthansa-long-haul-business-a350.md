@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lufthansa's A350 Long-Haul Business Class (Avoid)
+categories: [Trip Report]
 tags: [Review, Business, Lufthansa]
 author: Philip
 image: /assets/img/lufthansa-long-haul-business-a350/cover.webp

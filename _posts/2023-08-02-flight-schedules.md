@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Flight Schedules Tool: Timetables and Availability by Booking Class Code"
-tags: [Guide]
+categories: [Guide]
+tags: [Flight Schedules, Booking Class]
 author: Germán
 image: /assets/img/flight-schedules-how-to/cover.webp
 ---

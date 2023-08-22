@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "American Airlines Expansion Plans For 2024"
-tags: [Guide]
+categories: [News]
+tags: [American Airlines]
 author: Germán
 image: /assets/img/american-airlines-2024/cover.webp
 ---

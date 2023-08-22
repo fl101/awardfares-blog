@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Award Flights On The A380: Airlines and Routes"
-tags: [Guide]
+categories: [Guide]
+tags: [A380, Lufthansa, ANA, British Airways, Emirates, Singapore Airlines, Qantas, Qatar Airways]
 author: Germán
 image: /assets/img/a380-awards/cover.webp
 ---

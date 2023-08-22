@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Find And Book STARLUX Airlines Flights Using Alaska Mileage Plan Miles (Step-by-step)"
-tags: [Guide]
+categories: [Alaska Mileage Plan]
+tags: [STARLUX, Alaska]
 author: Germán
 image: /assets/img/alaska-mileageplan-starlux/cover.webp
 ---
