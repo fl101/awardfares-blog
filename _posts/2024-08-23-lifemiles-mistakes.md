@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 Mistakes When Searching Avianca LifeMiles Award Flights (And How To Fix Them)"
+title: "5 Mistakes When Searching Avianca LifeMiles Award Flights (And How To Fix Them)"
 tags: [Guide]
 author: Germán
 image: /assets/img/lifemiles-mistakes/cover.webp
@@ -10,7 +10,7 @@ sitemap: false
 
 While Avianca's LifeMiles is a treasure chest for travelers, effectively getting the most out of them requires know-how and the right tools. Many adventurers make typical mistakes when searching on Avianca's site, but there's a secret sauce to streamline the process: AwardFares.
 
-In this post, we dive into seven common errors LifeMiles enthusiasts encounter and discover how AwardFares emerges as the game-changer you've been looking for.
+In this post, we dive into five common errors LifeMiles enthusiasts encounter and discover how AwardFares emerges as the game-changer you've been looking for.
 
 
 ### In this post
