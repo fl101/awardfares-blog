@@ -70,15 +70,15 @@ Here's an example of setting an alert for LifeMiles availability.
 
 ### 5. Ignoring Mixed Cabin Opportunities
 
-Mistake: While searching for business or first-class awards, many travelers miss out on opportunities where part of the journey could be in a premium cabin, and another segment in economy.
+**Mistake**: While searching for business or first-class awards, many travelers miss out on opportunities where part of the journey could be in a premium cabin, and another segment in economy.
 
-Fix: AwardFares' robust search algorithm highlights these mixed cabin options, ensuring you get maximum luxury and value from your LifeMiles.
+**Fix**: AwardFares' robust search algorithm highlights these mixed cabin options, ensuring you get maximum luxury and value from your LifeMiles.
 
 
 
 ### BONUS. Not Comparing with Other Loyalty Programs
 
-Mistake: Avianca's website naturally focuses on LifeMiles redemptions. However, often travelers fail to compare these with other loyalty programs to ensure they're getting the best bang for their buck.
+**Mistake**: Avianca's website naturally focuses on LifeMiles redemptions. However, often travelers fail to compare these with other loyalty programs to ensure they're getting the best bang for their buck.
 
 **Fix**: AwardFares is not just limited to LifeMiles. It's extremely simple to compare availability with other programs such as SAS EuroBonus, Alaska Mileage Plan, United MileagePlus, Air Canada Aeroplan, etc. Just tap on the arrow icon to see details for different programs.
 
