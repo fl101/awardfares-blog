@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "5 Mistakes When Searching EVA Air Award Flights (And How To Fix Them)"
-tags: [Guide]
+category: [Guide]
+tags: [EVA Air]
 author: Germán
 image: /assets/img/eva-air-mistakes/cover.webp
-hidden: true
-sitemap: false
 ---
 
 
