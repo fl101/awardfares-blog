@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Title"
+title: "Best EVA Air Redem"
 tags: [Guide]
 author: Germán
 image: /assets/img/folder/cover.webp
