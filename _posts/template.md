@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best EVA Air Redem"
+title: "Template"
 category: [Guide]
 tags: []
 author: Germán
