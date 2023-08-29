@@ -125,7 +125,6 @@ That’s it! Pretty easy, huh? With only a few clicks, you can see EVA Air inven
 
 ## Upgrade for more.
 
-
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
 
@@ -133,4 +132,7 @@ You can [try AwardFares for free](https://awardfares.com/). We are rolling out n
 
 Make sure to also check these posts out
 
+- [Best EVA Air Award Flights In 2023](https://blog.awardfares.com/eva-air-best-redemptions-2023/)
+- [EVA Air Award Redemption Guide](https://blog.awardfares.com/eva-air-award-redemption/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
+- [5 Mistakes When Searching EVA Air Award Flights (And How To Fix Them)](https://blog.awardfares.com/eva-air-mistakes/)
