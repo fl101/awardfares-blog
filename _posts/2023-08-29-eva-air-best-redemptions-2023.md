@@ -5,8 +5,6 @@ category: [Guide]
 tags: [EVA Air]
 author: Germán
 image: /assets/img/eva-air-best-redemptions-2023/cover.webp
-hidden: true
-sitemap: false
 ---
 
 [EVA Air](https://www.evaair.com/), a member of the Star Alliance, offers world-renowned service and has a stellar reputation in the aviation industry. Whether you're traveling for leisure or business, there are some routes that stand out for the exceptional in-flight experience they offer. 
@@ -32,12 +30,11 @@ This long-haul flight showcases the best of EVA Air's Royal Laurel Class, their 
 
 A significant transcontinental route, passengers are treated to EVA's exceptional service, delectable meals inspired by both Western and Eastern cuisine, and a comfortable seating arrangement.
 
+**How to redeem**: Most availability using Aeroplan miles or SAS EuroBonus points.
+
 <figure>
 <img src="../assets/img/eva-air-best-redemptions-2023/tpe-lhr-timeline.webp" alt="Taipei to London on EVA Air (AwardFares)" />
 </figure>
-
-
-**How to redeem**: Most availability using Aeroplan miles or SAS EuroBonus points.
 
 ### 3. [Taipei (TPE) to Bangkok (BKK)](https://awardfares.com/search?TPE.BKK.;a:BR)
 
