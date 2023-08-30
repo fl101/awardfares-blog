@@ -11,9 +11,55 @@ image: /assets/img/eva-air-best-redemptions-2023/cover.webp
 
 In this post, we dive into the top EVA Air routes you should consider trying, how to search them using AwardFares, and how to book those award flights.
 
-## Best Award Flights On EVA Air (2023)
+### In This Post
 
-> Click on the route to trigger a search in AwardFares
+- [Business Class Differences on EVA Air](#biz)
+- [Best Award Flights Redemptions On EVA Air](#list)
+- [How To Search EVA Air Award Flights Availability (Across Programs)](#how-to)
+
+## EVA Air Business Class Differences By Aircraft {#biz}
+
+EVA Air offers two types of business class cabins: *Royal Laurel Class* and *Premium Laurel Class/Business Class*. Depending on the aircraft type, the cabin, seat, and configurations are different. For example, The Royal Laurel Class on the 787s are much newer and more private than on the 777-300. Here's a quick recap.
+
+### Boeing 777-300ER
+
+Royal Laurel Class: EVA's primary long-haul Business Class product is found on the majority of its 777-300ERs.
+
+* Seat Configuration: Reverse herringbone, 1-2-1, ensuring direct aisle access for all seats.
+* Seats recline to a fully-flat bed.
+* Each seat features a large entertainment screen, ample storage, and USB/power outlets.
+
+<figure>
+<img src="../assets/img/eva-air-best-redemptions-2023/royal-777.webp" alt="EVA Air Royal Laurel Business Class on the Boeing 777-300ER." />
+</figure>
+
+
+### Boeing 787 Dreamliner (787-9 and 787-10)
+
+A newer addition to EVA's fleet, the Dreamliners feature updated Royal Laurel Class seats.
+
+* Seat Configuration: Reverse herringbone, 1-2-1 layout similar to the 777-300ER.
+* The design, however, is slightly more modern and has enhancements based on the newer aircraft’s features. 
+* Features a fully-flat bed, large entertainment screens, and ample storage.
+
+<figure>
+<img src="../assets/img/eva-air-best-redemptions-2023/royal-787.webp" alt="EVA Air Royal Laurel Business Class on the Boeing 787." />
+</figure>
+
+### Airbus A330-200/300
+
+Premium Laurel Class: Before the introduction of Royal Laurel on the 777-300ER, Premium Laurel was EVA's top business class product.
+
+* Seat Configuration: 2-2-2, meaning not all seats have direct aisle access.
+* These seats are angle-flat, not fully flat, making them less ideal for long-haul travel.
+* The entertainment system and other amenities might seem slightly dated compared to the newer Royal Laurel seats on the 777 and 787.
+
+<figure>
+<img src="../assets/img/eva-air-best-redemptions-2023/premium-a330.webp" alt="EVA Air Royal Laurel Business Class on the Airbus A330." />
+</figure>
+
+
+## Best Award Flights On EVA Air (2023) {#list}
 
 ### 1. [Taipei (TPE) to New York (JFK)](https://awardfares.com/search?TPE.JFK.;a:BR)
 
