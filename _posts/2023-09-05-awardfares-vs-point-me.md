@@ -31,6 +31,7 @@ In this guide, we delve into the 5 key differences between AwardFares and Point.
 
 [Point.me](https://www.point.me/) is an online search tool designed to assist users in finding the best use for their travel reward points or miles. It aims to simplify the process of award travel booking by showing users how they can leverage their points across various frequent flyer programs. Point.me also offers a forum and a concierge service that can help book award flights and hotels.
 
+The New York-based startup was founded in 2019 by their CEO Adam Morvitz and president Tiffany Funk. In September 2023, [Point.me has raised $10 million in Series A funding](https://techcrunch.com/2023/09/05/real-time-flight-rewards-search-engine-point-me-raises-10m/) led by Thayer Ventures.
 
 ## AwardFares vs. Point.me: Key Differences {#differences}
 
