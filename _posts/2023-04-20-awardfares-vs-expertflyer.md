@@ -160,3 +160,12 @@ On the other hand, ExpertFlyer targets experienced frequent flyers that need pow
 ## Get started, and stay tuned
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+
+## Read more {#read-more}
+
+Make sure to also check these posts out
+
+- [AwardFares vs. Cowtool](https://blog.awardfares.com/awarfares-vs-cowtool/)
+- [AwardFares vs. Point.me](https://blog.awardfares.com/awardfares-vs-point-me/)
+- [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
+
