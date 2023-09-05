@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "AwarFares vs. Point.me"
+title: "AwarFares vs. Point.me: 5 Key Differences"
 category: [Guide]
 tags: [Point.me]
 author: Germán
 image: /assets/img/awardfares-vs-point-me/cover.webp
-hidden: true
-sitemap: false
 ---
 
 AwardFares is the easiest way to search and find your next free flight using points or miles. In just a few clicks and with a modern user interface, you can search award availability across multiple frequent flyer programs, setup alerts, lookup seat maps and flight schedules.
@@ -17,8 +15,8 @@ In this guide, we delve into the 5 key differences between AwardFares and Point.
 
 ### In this post
 
-- [What is Point.me](#point-me)
-- [AwardFares vs. Point.me: Key Differences](#key-differences)
+- [What is Point.me?](#point-me)
+- [AwardFares vs. Point.me: Key Differences](#differences)
 	- [Simplified User Interface](#one)
 	- [Top-Notch Alert System](#two)
 	- [Simple Pricing](#three)
@@ -27,7 +25,7 @@ In this guide, we delve into the 5 key differences between AwardFares and Point.
 - [Conclusion](#conclusion)
 
 
-## What is Point.me {#point-me}
+## What is Point.me? {#point-me}
 
 [Point.me](https://www.point.me/) is an online search tool designed to assist users in finding the best use for their travel reward points or miles. It aims to simplify the process of award travel booking by showing users how they can leverage their points across various frequent flyer programs. Point.me also offers a forum and a concierge service that can help book award flights and hotels.
 
