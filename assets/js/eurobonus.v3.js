@@ -94,7 +94,7 @@
       let description = row[1].split('\n').join('; ');
       const pointsType = row[3];
       let extraPoints = pointsType == 'Extra Points' ? safeNumber(row[2]) : 0;
-      const basePoints = (pointsType == 'Status Points' || pointsType == 'Basic Points') ? safeNumber(row[2]) : 0;
+      const basePoints = (pointsType == 'Status Points' || pointsType == 'Basic Points' || pointsType == 'Mastercard Status Points') ? safeNumber(row[2]) : 0;
       const isRefund = description.includes('Refund');
       const isStatus = description.includes('Status');
       const isTransfer = description.includes('Transfer');
