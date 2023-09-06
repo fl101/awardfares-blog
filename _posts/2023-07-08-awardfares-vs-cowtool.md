@@ -153,6 +153,8 @@ You can try searching for award flights on Singapore Airlines [using AwardFares 
 
 Make sure to also check these posts out
 
+- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awarfares-vs-expertflyer/)
+- [AwardFares vs. Point.me](https://blog.awardfares.com/awardfares-vs-point-me/)
 - [How To Find The Best Aeroplan Award Flights](https://blog.awardfares.com/aeroplan-guide/)
 - [5 Essential Tools Every Aeroplan Member Needs](https://blog.awardfares.com/aeroplan-tools/)
 - [How To Find First-class Award Flights Using Aeroplan Miles (With Realtime Updates)](https://blog.awardfares.com/aeroplan-first-class-awards/)

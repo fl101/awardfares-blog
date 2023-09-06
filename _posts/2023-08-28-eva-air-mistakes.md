@@ -51,7 +51,7 @@ But don't worry, we're here to guide you. In this post, we dive into the top fiv
 
 ### 4. Not Setting Up Alerts for Award Availability
 
-**Mistake**: EVA Air award chart is complicated, plus the availability is esporadic: what's not available today might be open tomorrow. Continually checking EVA Air's website isn't just time-consuming; it's also inefficient.
+**Mistake**: EVA Air award chart is complicated, plus the availability is sporadic: what's not available today might be open tomorrow. Continually checking EVA Air's website isn't just time-consuming; it's also inefficient.
 
 **Fix**: Our [Alerts feature](https://blog.awardfares.com/alerts/) is a must-have for proactive travelers. Specify your criteria and get real-time notifications as soon as a matching award seat emerges.
 
@@ -62,7 +62,6 @@ Here's an example of setting an alert for availability on EVA Air flights.
 </figure>
 
 
-
 ### 5. Dealing With Cumbersome User Interfaces
 
 **Mistake**: EVA Air's website can be tricky. Whether it's slow loading times, confusing navigation, or sudden errors, the search can get cumbersome.
@@ -71,6 +70,16 @@ Here's an example of setting an alert for availability on EVA Air flights.
 
 <figure>
 <img src="../assets/img/eva-air-mistakes/mobile.webp" alt="AwardFares Mobile User Interface" />
+</figure>
+
+### BONUS. Not Searching Via Bangkok (BKK)
+
+**Mistake**: EVA Air operates a lot of their flights TPE-BKK-Europe. Sometimes, there are seats available on Europe-BKK, or vice versa, while that same flight doesn’t have availability to/from TPE.
+
+**Fix** Include both TPE and BKK in searches when finding availabilty in AwardFares
+
+<figure>
+<img src="../assets/img/eva-air-mistakes/add-bkk.webp" alt="EVA Air Searching for availability to Taipei and Bangkok with AwardFares" />
 </figure>
 
 
