@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AwarFares vs. Point.me: 5 Key Differences"
+title: "AwardFares vs. Point.me: 5 Key Differences"
 category: [Guide]
 tags: [Point.me]
 author: Germán
