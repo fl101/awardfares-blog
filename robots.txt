@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://awardfares.com/sitemap.xml
+Sitemap: https://blog.awardfares.com/sitemap.xml
