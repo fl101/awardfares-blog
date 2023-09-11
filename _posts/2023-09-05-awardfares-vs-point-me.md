@@ -24,7 +24,6 @@ In this guide, we delve into the 5 key differences between AwardFares and Point.
 	- [Journey Planner](#five)
 - [Conclusion](#conclusion)
 
-
 ## What is Point.me? {#point-me}
 
 [Point.me](https://www.point.me/) is an online search tool designed to assist users in finding the best use for their travel reward points or miles. It aims to simplify the process of award travel booking by showing users how they can leverage their points across various frequent flyer programs. Point.me also offers a forum and a concierge service that can help book award flights and hotels.
@@ -41,9 +40,7 @@ AwardFares is all about simplicity. The platform has been designed with a user-f
 
 In addition, AwardFares has been meant for mobile from day one. It doesn’t compromise the intuitive searches nor the beautiful user interface when going mobile, and you can even [install on your phone](https://blog.awardfares.com/awardfares-mobile-app/).
 
-<figure>
-<img src="../assets/img/awardfares-vs-point-me/af-mobile.webp" alt="AwardFares Mobile App"/>
-</figure>
+<img src="../assets/img/awardfares-vs-point-me/af-mobile.webp" alt="AwardFares Mobile App" class="noborder" />
 
 
 ### 2. Top-Notch Alert System {#two}

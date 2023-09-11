@@ -5,6 +5,7 @@ category: [Guide]
 tags: [Journey Planner]
 author: Germán
 image: /assets/img/journey-planner/cover.webp
+video: https://www.youtube.com/embed/zJIOeHatqQg
 ---
 
 Booking flights with points or miles is fun, but finding the perfect trip to your desired destination can be tricky, especially when the journey involves multiple segments, or across different airlines.
@@ -12,12 +13,6 @@ Booking flights with points or miles is fun, but finding the perfect trip to you
 Each airline has its own unique set of rules, blackout dates, and seat availability constraints. Furthermore, partner airlines, despite being part of the same alliance, might not synchronize their award seat inventories, leading to gaps in available routes. Additionally, some segments might have restrictions on the types of fares that can be redeemed further complicating the process (for example, [married segments we described here](https://blog.awardfares.com/married-segments/)).
 
 That's why we've built the **Journey Planner**. This powerful feature lets you **unlock itineraries to your dream destination**, by planning multiple segments in a quick and convenient way. In just a few clicks, users can select add or remove legs, find connections within 24 hours, duplicate journeys, and see the itinerary on a map.
-
-## Video Tutorial
-
-<p class="youtube-container">
-<iframe src="https://www.youtube.com/embed/zJIOeHatqQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="youtube"></iframe>
-</p>
 
 ## How To Use The Journey Planner: Build An Award Trip With A Complex Itinerary
 

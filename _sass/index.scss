@@ -1,54 +1,27 @@
 
+.caption {
+  text-align: center;
+  font-family: 'Barlow';
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: $theme;
+  letter-spacing: 0.03rem;
+  display: none;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.pagination {
+  text-align: center;
+  a {
+    margin: 0 1px;
+  }
+}
+
 .posts {
   margin-top: 20px;
-
-  .post-teaser {
-    padding: 40px 0 60px 0;
-    border-bottom: 3px solid rgba(0, 0, 0, 0.07);
-    margin-bottom: 30px;
-
-    h1 {
-      margin: 0;
-      font-size: 1.8em;
-      letter-spacing: -0.5px;
-    }
-
-    .meta {
-      margin: 5px 0 20px 0;
-      font-size: 0.9em;
-    }
-
-    .tag {
-      text-decoration: underline;
-    }
-
-    a {
-      text-decoration: none;
-    }
-
-    a.button {
-      color: $accent;
-    }
-
-    a.button:hover {
-      text-decoration: underline;
-    }
-
-    img {
-      object-fit: cover;
-      width: 100%;
-      max-height: 300px;
-      object-position: 50% 25%;
-      border: solid 1px #ddd;
-      border-radius: 8px;
-      //box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
-    }
-
-    p {
-      margin-top: 10px;
-    }
-
-  }
 }
 
 @media screen and (max-width: 500px) {
@@ -59,5 +32,90 @@
       padding: 30px 0;
       margin-bottom: 10px;
     }
+  }
+}
+
+.category {
+  padding: 50px 0;
+}
+
+.category + .category {
+  border-top: solid 1px #eee;
+}
+
+.category h2 {
+  margin-top: 0;
+}
+
+.category-posts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px 20px;
+}
+
+.category-posts a {
+  text-decoration: none;
+}
+
+.category-posts img {
+  border-radius: 10px;
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  border: solid 1px #eee;
+  aspect-ratio: 40 / 21;
+  max-height: 300px;
+  margin-bottom: 10px;
+}
+
+.category-posts h3 {
+  margin: 10px 0 0 0;
+}
+
+.category-posts p {
+  margin: 10px 0 0 0;
+  line-height: 1.4;
+  opacity: 0.7;
+}
+
+.latest-post {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 40px;
+  padding: 30px 0 50px 0;
+  border-bottom: solid 1px #eee;
+}
+
+.latest-post img {
+  border-radius: 10px;
+  max-height: 550px;
+  width: 100%;
+  border: solid 1px #eee;
+}
+
+.latest-post h2 {
+  margin: 10px 0;
+}
+
+.latest-post p {
+  margin: 0;
+}
+
+.latest-post a {
+  text-decoration: none;
+}
+
+.latest-post .date {
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 1050px) {
+  .latest-post {
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+  }
+  .category-posts {
+    grid-template-columns: 1fr;
+    grid-gap: 50px;
   }
 }

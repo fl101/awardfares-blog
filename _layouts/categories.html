@@ -7,14 +7,14 @@ layout: default
 </div>
 
 <div class="tags">
-  <h1>Tags</h1>
+  <h1>Categories</h1>
 
-  {% for tag in site.tags %}
-    {% if tag[1].size > 0 %}
-    <h2 id="{{ tag[0] }}">
-      <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
+  {% for category in site.categories %}
+    {% if category[1].size > 0 %}
+    <h2 id="{{ category[0] }}">
+      <a href="#{{ category[0] }}">{{ category[0] }}</a>
     </h2>
-    {% for post in tag[1] %}
+    {% for post in category[1] %}
     {% unless post.hidden %}
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
