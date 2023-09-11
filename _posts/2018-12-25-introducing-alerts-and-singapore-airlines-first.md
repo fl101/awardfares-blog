@@ -3,7 +3,6 @@ layout: post
 title: Introducing Alerts and Singapore Airlines First
 tags: [News]
 author: Philip
-hidden: false
 image: /assets/img/alerts.png
 ---
 

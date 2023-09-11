@@ -3,7 +3,6 @@ layout: post
 title: ANA A380 Awards Now Available
 tags: [News]
 author: Philip
-hidden: false
 image: /assets/img/ana-a380-availability.jpg
 ---
 

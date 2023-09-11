@@ -3,7 +3,6 @@ layout: post
 title: Introducing Trips and Black Friday Offer
 tags: [News]
 author: Philip
-hidden: false
 image: /assets/img/trips.jpg
 ---
 
