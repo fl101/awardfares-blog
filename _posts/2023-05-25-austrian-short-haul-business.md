@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Austrian's Impressive Intra-Europe Business Class (VIE-FRA)
+category: [Trip Report]
 tags: [Review, Business, Austrian]
 author: Philip
 image: /assets/img/austrian-short-haul-business/cover.webp

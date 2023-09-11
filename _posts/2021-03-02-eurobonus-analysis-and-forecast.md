@@ -1,13 +1,12 @@
 ---
 layout: post
 title: SAS EuroBonus Analysis and Forecast
+category: [Tools, SAS EuroBonus]
 tags: [Tools, EuroBonus]
 author: Philip
 image: /assets/img/eurobonus-analysis-and-forecast/overview.png
 hide_image_in_post: true
 ---
-
-**Update: We've updated the tool to work with the latest format of the export file.**
 
 A simple tool that helps you analyze and forecast your SAS EuroBonus activity. Simply import your point activity from your EuroBonus profile. All calculations are performed directly in your browser. Your data is kept private and is not uploaded/processed by our servers.
 

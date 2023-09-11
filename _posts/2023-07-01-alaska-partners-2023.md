@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alaska Airlines Mileage Plan Partner Redemptions Made Easy (2023)"
-tags: [Guide]
+category: [Alaska Mileage Plan, Guide]
 author: Germán
 image: /assets/img/alaska-partners-2023/cover.webp
 ---

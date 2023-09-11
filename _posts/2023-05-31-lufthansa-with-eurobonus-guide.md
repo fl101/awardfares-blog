@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points"
+category: [SAS EuroBonus, Guide]
 tags: [Guide]
 author: Germán
 image: /assets/img/lufthansa-with-eurobonus-guide/cover.webp

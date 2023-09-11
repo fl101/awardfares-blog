@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Find The Best Aeroplan Award Flights (9 Sweet Spots)"
-tags: [Guide]
+category: [Air Canada Aeroplan, Guide]
 author: Germán
 image: /assets/img/aeroplan-guide/cover.webp
 ---

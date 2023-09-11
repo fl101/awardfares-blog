@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Find First-class Award Flights Using Aeroplan Miles (With Realtime Updates)"
-tags: [Guide]
+category: [Air Canada Aeroplan, Guide]
 author: Germán
 image: /assets/img/aeroplan-first-class/cover.webp
 ---

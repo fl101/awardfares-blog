@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alaska Mileage Plan Updates (June 2023)"
-tags: [Guide]
+category: [Alaska Mileage Plan, Guide]
 author: Germán
 image: /assets/img/alaska-mileageplan-updates-june-2023/cover.webp
 ---

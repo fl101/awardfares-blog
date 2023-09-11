@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Finnair's New A350 Business Class (HEL-HND)
+category: [Trip Report]
 tags: [Review, Business, Finnair]
 author: Philip
 image: /assets/img/finnair-hel-hnd-business/overview.webp
