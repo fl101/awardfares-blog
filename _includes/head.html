@@ -6,7 +6,7 @@
   <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,600&display=fallback" rel="preload" as="style">
   <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600&display=fallback" rel="preload" as="style">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="preload" as="style">
-  <link href="/assets/css/main.css" rel="preload" as="style">
+  <link href="/assets/css/main.css?v={{ 'now' | date: '%s' }}" rel="preload" as="style">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if page.sitemap == false %}
@@ -28,7 +28,7 @@
   <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,600&display=fallback" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600&display=fallback" rel="stylesheet" type="text/css">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet">
-  <link href="/assets/css/main.css" rel="stylesheet">
+  <link href="/assets/css/main.css?v={{ 'now' | date: '%s' }}" rel="stylesheet">
 
   {% if jekyll.environment == "production" %}
   <script defer data-domain="blog.awardfares.com" src="https://plausible.io/js/script.tagged-events.js"></script>
