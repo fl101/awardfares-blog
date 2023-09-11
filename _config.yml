@@ -6,7 +6,7 @@ description: News, Tips, Reviews, and Trip Reports
 
 search: false
 
-paginate: 10
+paginate: 12
 paginate_path: "blog/page:num"
 
 markdown: kramdown
