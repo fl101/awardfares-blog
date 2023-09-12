@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Cabin Annotations
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/cabin-types/overview.png

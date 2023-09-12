@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing New Frequent Flyer Programs, Area Searches & More Exciting Features"
-tags: [News]
+category: [Tutorial]
 author: Philip
 image: /assets/img/new-programs-and-features-apr-2023/cover.webp
 ---

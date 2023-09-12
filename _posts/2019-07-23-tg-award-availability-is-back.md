@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Thai Airways Award Availability is Back
-tags: [News]
+category: [News]
+tags: [Thai, Routes]
 author: Philip
 image: /assets/img/tg-award-availability-is-back/overview.png
 ---

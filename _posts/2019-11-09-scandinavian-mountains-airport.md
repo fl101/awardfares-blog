@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Scandinavian Mountains Airport
-tags: [News]
+category: [News]
+tags: [SAS, Routes]
 author: Philip
 image: /assets/img/scandinavian-mountains-airport/overview.png
 hide_image_in_post: true

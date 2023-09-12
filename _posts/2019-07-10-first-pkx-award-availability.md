@@ -1,7 +1,8 @@
 ---
 layout: post
 title: First Award Availability to Beijing Daxing (PKX)
-tags: [News]
+category: [News]
+tags: [Routes]
 author: Philip
 image: /assets/img/pkx/map.png
 ---

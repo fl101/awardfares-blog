@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Cowtool Alternative With Superpowers (2023)"
-tags: [Guide]
+category: [Guide]
+tags: [Cowtool]
 author: Germán
 image: /assets/img/awardfares-vs-cowtool/cover.webp
 ---

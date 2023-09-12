@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Book Star Alliance Awards with EuroBonus (Partially Resumed)
+category: [SAS EuroBonus, News]
 tags: [SAS, News]
 author: Philip
 image: /assets/img/eurobonus-star-alliance-awards-partially-resumed/overview.png

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: China Airlines 747 Farewell Flight
+category: [Trip Report]
 tags: [Review, Economy, China Airlines]
 author: Richard
 image: /assets/img/china-airlines-747-farewell/overview.webp

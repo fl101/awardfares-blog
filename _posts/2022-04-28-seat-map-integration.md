@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New Tools: Seat Map Integration & Flight Availability"
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/seatmap-integration/seatmap-integration.webp

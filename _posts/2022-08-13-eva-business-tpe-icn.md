@@ -1,6 +1,7 @@
 ---
 layout: post
 title: EVA Business 787-9 Dreamliner TPE-ICN Trip Report
+category: [Trip Report]
 tags: [Review, EVA, Business]
 author: Philip
 image: /assets/img/eva-biz-tpe-icn/plane.jpg

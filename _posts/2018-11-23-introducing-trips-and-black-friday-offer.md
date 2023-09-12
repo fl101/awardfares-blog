@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Trips and Black Friday Offer
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/trips.jpg

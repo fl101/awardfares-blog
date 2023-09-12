@@ -1,7 +1,8 @@
 ---
 layout: post
 title: ANA Award Availability from Stockholm (ARN) to Tokyo Haneda (HND)
-tags: [News, ANA]
+category: [News]
+tags: [News, ANA, Routes]
 author: Philip
 image: /assets/img/ana-arn-hnd/overview.png
 ---

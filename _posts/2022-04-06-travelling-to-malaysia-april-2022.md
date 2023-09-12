@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Travelling to Malaysia from April 2022
+category: [Guide, COVID-19]
 tags: [Guide]
 author: Philip
 image: /assets/img/malaysia-border-april-2022/mysafetravel.png

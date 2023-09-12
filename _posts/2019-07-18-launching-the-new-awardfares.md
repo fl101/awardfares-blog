@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Launching the New AwardFares
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/new-awardfares/scene.png

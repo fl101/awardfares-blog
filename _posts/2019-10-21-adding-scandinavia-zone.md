@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adding a Scandinavia Zone
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/scandinavia.png

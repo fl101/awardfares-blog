@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Journey Planner: Building Perfect Award Trips To Difficult Destinations"
-category: [Guide]
+category: [Tutorial]
 tags: [Journey Planner]
 author: Germán
 image: /assets/img/journey-planner/cover.webp

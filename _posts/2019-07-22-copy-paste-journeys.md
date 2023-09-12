@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adding Ability to "Import" Journeys
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/copy-paste/overview.png

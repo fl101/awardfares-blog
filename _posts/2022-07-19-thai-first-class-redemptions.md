@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THAI First Class Award Redemption Guide 2022"
+category: [Guide]
 tags: [Thai, Guide]
 author: Philip
 image: /assets/img/tg-redemption-guide-2022/tg-first.jpg

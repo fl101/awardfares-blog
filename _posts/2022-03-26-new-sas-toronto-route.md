@@ -1,7 +1,8 @@
 ---
 layout: post
 title: New SAS Route between Scandinavia and Toronto
-tags: News
+category: [News]
+tags: [SAS, Routes]
 author: Philip
 image: /assets/img/sas-toronto/flight.png
 ---

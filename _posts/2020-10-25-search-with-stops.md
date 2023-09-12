@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Search With Stops
+category: [Tutorial]
 tags: [News]
 image: /assets/img/multistop/search2.png
 hide_image_in_post: true

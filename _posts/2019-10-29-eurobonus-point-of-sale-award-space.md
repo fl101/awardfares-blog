@@ -1,6 +1,7 @@
 ---
 layout: post
 title: EuroBonus Point of Sale Award Space
+category: [SAS EuroBonus]
 tags: [Guide]
 author: Philip
 image: /assets/img/eurobonus-pos/comparison.png

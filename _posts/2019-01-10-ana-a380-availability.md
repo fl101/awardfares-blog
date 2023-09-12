@@ -1,7 +1,8 @@
 ---
 layout: post
 title: ANA A380 Awards Now Available
-tags: [News]
+category: [News]
+tags: [News, ANA, Routes]
 author: Philip
 image: /assets/img/ana-a380-availability.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Improving the Journey Builder
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/improving-journey-builder/overview.png

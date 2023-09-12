@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Alerts and Singapore Airlines First
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/alerts.png

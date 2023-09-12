@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "AwardFares vs. ExpertFlyer"
-tags: [Guide]
+category: [Guide]
+tags: [ExpertFlyer]
 author: Germán
 image: /assets/img/awardfares-vs-expertflyer/cover.webp
 ---

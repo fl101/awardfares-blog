@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Review of Copa Airlines Business Class Miami to Panama
+category: [Trip Report]
 tags: [Review, Business, Copa]
 author: Germán
 image: /assets/img/copa-review/aircraft1.jpeg

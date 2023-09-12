@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Anonymous Search And 24h Free Trial"
-tags: [News]
+category: [Tutorial]
 author: Germán
 image: /assets/img/new-features-june-2023/cover.webp
 ---

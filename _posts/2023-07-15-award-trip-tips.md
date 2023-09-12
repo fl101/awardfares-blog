@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 Tips For Booking An Award Trip In 2023"
-tags: [Guide]
+category: [Guide]
 author: Germán
 image: /assets/img/award-trip-tips/cover.webp
 ---

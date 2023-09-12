@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Wide-Open Award Space on CPH-JFK SAS Route
-tags: [Business, SAS]
+category: [SAS EuroBonus, News]
+tags: [Business, SAS, Routes]
 image: /assets/img/sas-cph-jfk-wide-open/overview.png
 ---
 

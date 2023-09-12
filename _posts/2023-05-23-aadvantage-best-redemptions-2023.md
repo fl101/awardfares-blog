@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best AAdvantage Redemptions In 2023 (And How To Find Them)"
-tags: [Guide]
+category: [American AAdvantage]
 author: Germán
 image: /assets/img/aadvantage-best-redemptions-2023/cover.webp
 ---

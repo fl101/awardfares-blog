@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Install AwardFares On Your Phone "
-tags: [Guide]
+category: [Tutorial]
 author: Germán
 image: /assets/img/awardfares-mobile-app/cover.webp
 ---

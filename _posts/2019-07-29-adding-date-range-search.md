@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adding Date Range Search
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/date-ranges/overview.png

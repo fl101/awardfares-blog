@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Singapore Airlines Is Skytrax World's Best Airline In 2023. Here Are Our Favorite Routes."
-tags: [Guide]
+category: [Guide]
+tags: [Singapore Airlines, Skytrax]
 author: Germán
 image: /assets/img/singapore-skytrax-2023/cover.webp
 ---

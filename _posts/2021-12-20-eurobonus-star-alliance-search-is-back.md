@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Search EuroBonus Star Alliance Award Availability (Finally Back!)
-tags: News
+category: [SAS EuroBonus, News]
+tags: [SAS, News]
 author: Philip
 image: /assets/img/eurobonus-star-alliance-back/book.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Find AAdvantage Awards In 2023"
-tags: [Guide]
+category: [American AAdvantage]
 author: Germán
 image: /assets/img/aadvantage-guide/cover.webp
 ---

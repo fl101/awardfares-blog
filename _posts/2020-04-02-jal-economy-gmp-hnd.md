@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JAL Economy 777-200 GMP-HND Review
+category: [Trip Report]
 tags: [Review, JAL, Economy]
 author: Philip
 image: /assets/img/jal-economy-gmp-hnd/overview.jpg

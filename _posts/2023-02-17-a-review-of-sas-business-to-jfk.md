@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A review of SAS A321LR in Business Class on their new route from CPH to JFK
-tags: [Review, Business, SAS, JFK]
+category: [Trip Report]
+tags: [Review, Business, SAS]
 author: Richard
 image: /assets/img/sas-business-jfk/speech.jpeg
 ---

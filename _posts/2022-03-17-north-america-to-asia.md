@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lots of Awards: North America to Asia"
+category: [News]
 tags: News
 author: Philip
 image: /assets/img/north-america-to-asia/flights.png

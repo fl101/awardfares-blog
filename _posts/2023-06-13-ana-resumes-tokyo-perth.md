@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "ANA Resumes Route Tokyo To Perth"
-tags: [News]
+category: [News]
+tags: [ANA, Routes]
 author: Germán
 image: /assets/img/ana-resumes-tokyo-perth/cover.webp
 ---

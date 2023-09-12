@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Review of Lufthansa Premium Eco to Hong Kong
+category: [Trip Report]
 tags: [Review, Lufthansa, Premium Economy]
 author: Richard
 image: /assets/img/lh-premeco-review/map.jpg

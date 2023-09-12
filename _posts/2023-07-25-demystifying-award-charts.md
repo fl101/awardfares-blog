@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demystifying Award Charts: All You Need To Know (2023)"
-tags: [Guide]
+category: [Guide]
 author: Germán
 image: /assets/img/demystifying-award-charts/cover.webp
 ---

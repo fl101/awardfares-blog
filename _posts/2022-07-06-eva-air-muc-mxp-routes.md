@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Wide-Open Award Space on EVA's New Munich and Milano Routes
-tags: [News]
+category: [News]
+tags: [EVA, Routes]
 author: Philip
 image: /assets/img/evaair-muc-mxp/tpe-muc.png
 ---

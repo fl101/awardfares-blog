@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Air Canada Business 737 MAX 8 YVR-SFO Trip Report
+category: [Trip Report]
 tags: [Review, Air Canada, Business]
 author: Philip
 image: /assets/img/air-canada-yvr-sfo/plane.jpg

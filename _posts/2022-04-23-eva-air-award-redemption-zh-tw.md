@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "怎麼兌換哩程？最清楚的長榮航空哩程兌換方法"
+category: [Guide]
 tags: [EVA, Guide]
 author: Philip
 image: /assets/img/eva-air-redemption/search-zh-tw.png

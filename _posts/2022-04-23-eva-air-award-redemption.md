@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "EVA Air Award Redemption Guide"
+category: [Guide]
 tags: [EVA, Guide]
 author: Philip
 image: /assets/img/eva-air-redemption/search.png

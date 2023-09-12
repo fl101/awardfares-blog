@@ -2,7 +2,7 @@
 layout: post
 title: SAS EuroBonus Analysis and Forecast
 category: [Tools, SAS EuroBonus]
-tags: [Tools, EuroBonus]
+tags: [Tools]
 author: Philip
 image: /assets/img/eurobonus-analysis-and-forecast/overview.png
 hide_image_in_post: true

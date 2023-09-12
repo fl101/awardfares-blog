@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JAL First Class Lounge Haneda
+category: [Trip Report]
 tags: [Review, JAL, Lounge]
 author: Philip
 image: /assets/img/jal-first-class-lounge-haneda/1-entrance.jpg

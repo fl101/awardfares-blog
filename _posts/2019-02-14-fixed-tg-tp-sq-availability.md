@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thai, Singapore, and TAP Awards are Back!
+category: [Tutorial]
 tags: [News]
 author: Philip
 image: /assets/img/fixed-tg-tp-sq-availability.png

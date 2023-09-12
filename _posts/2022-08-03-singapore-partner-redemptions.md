@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Airlines Partner Award Redemption Guide 2022"
+category: [Guide]
 tags: [Singapore Airlines, Star Alliance, Guide]
 author: Philip
 image: /assets/img/sq-redemptions/map.png

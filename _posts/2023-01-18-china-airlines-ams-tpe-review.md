@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Review of China Airlines Economy A350-900 Amsterdam to Taipei
+category: [Trip Report]
 tags: [Review, China Airlines, Economy]
 author: Philip
 image: /assets/img/china-airlines-ams-tpe-economy-review/overview.webp
