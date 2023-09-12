@@ -27,7 +27,7 @@ layout: default
   </div>
 
   {% assign categories = site.categories %}
-  {% for category in categories %}
+  {% for category in categories reversed %}
   {% assign posts = category[1] | where_exp:"item","item.hidden!=true" %}
   {% if posts.size > 2 %}
   <div class="category">
