@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "STARLUX"
-category: [Guide]
-tags: []
+title: "STARLUX Announces New Route To San Francisco (Award Seats Available)"
+category: [News, Alaska Mileage Plan]
+tags: [STARLUX]
 author: Germán
 image: /assets/img/starlux-tpe-sfo/cover.webp
-hidden: true
-sitemap: false
 ---
 
 STARLUX Airlinesis, the rising Taiwanese career, is moving full-speed-ahed with their ambitious plans to strengthen its foothold in the U.S. market. After launching extremly successfus flights from [Taipei to Los Angele](https://awardfares.com/search?TPE.LAX.;a:JX;x:0;z:alaska)s earlier this year, today the airline announced they are expanding to San Francisco. 
@@ -36,16 +34,13 @@ As you can see below, the new route to San Francisco is already bookable through
 </figure>
 
 
-
 ## How To Search STARLUX Award Flights Using Alaska Mileage Plan
 
 If you are curious on how to make the most out of your Alaska Mileage Plan miles, and how to find available seats on STARLUX flights, make sure to check out our [full step-by-step guide here](https://blog.awardfares.com/alaska-mileageplan-starlux).
 
-<figure>
 <a href="https://blog.awardfares.com/alaska-mileageplan-starlux">
 <img src="../assets/img/alaska-mileageplan-starlux/cover.webp" alt="Find STARLUX award flights using AwardFares." />
 </a>
-</figure>
 
 ## Upgrade for more features
 
