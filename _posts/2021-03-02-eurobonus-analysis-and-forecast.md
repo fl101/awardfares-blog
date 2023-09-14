@@ -1,10 +1,10 @@
 ---
 layout: post
-title: SAS EuroBonus Analysis and Forecast
+title: SAS EuroBonus Analysis and Forecast (Free Tool)
 category: [Tools, SAS EuroBonus]
-tags: [Tools]
+tags: []
 author: Philip
-image: /assets/img/eurobonus-analysis-and-forecast/overview.png
+image: /assets/img/eurobonus-analysis-and-forecast/cover.webp
 hide_image_in_post: true
 ---
 
@@ -74,3 +74,8 @@ Your current FlyPremium forecast: <b><span id="flypremiumForecast"></span> per m
     text-align: left;
   }
 </style>
+
+## More Free Tools
+
+* [Seat Maps Checker](https://blog.awardfares.com/seatmaps/)
+* [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

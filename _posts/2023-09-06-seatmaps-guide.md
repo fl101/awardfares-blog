@@ -4,7 +4,7 @@ title: "Seat Maps: Getting The Perfect Seat Even Before Booking"
 category: [Tutorial]
 tags: [Seat Map]
 author: Germán
-image: /assets/img/seat-maps/cover.webp
+image: /assets/img/seatmaps/cover.webp
 ---
 
 For frequent travelers and point maximizers, AwardFares has consolidated as one of the most reliable and feature-rich tools to search for award availability. However, our **Seat Maps** feature is an often-overlooked gem. 
@@ -65,7 +65,7 @@ There are two ways to trigger the Seat Map view while you are using AwardFares.
 Log-in to your AwardFares account, and [perform an award flight](https://awardfares.com/search) search by entering your favorite **Frequent Flyer Program(s)**, **Origin** and **Destination** airports, **Date**, and optional filters.
 
 <figure>
-<img src="../assets/img/seat-maps/award-search.webp" alt="Search for an award flight using points or miles with AwardFares"/>
+<img src="../assets/img/seatmaps/award-search.webp" alt="Search for an award flight using points or miles with AwardFares"/>
 </figure>
 
 #### 2. Select a flight and tap on **Seap Map**.
@@ -73,7 +73,7 @@ Log-in to your AwardFares account, and [perform an award flight](https://awardfa
 From the results list below, choose a flight and right below the flight number (center of the list), you will see a **Seat Map** icon. By tapping on it, it will open a new popup window and display the seat map for that exact flight and date, with realtime results. 
 
 <figure>
-<img src="../assets/img/seat-maps/search-results.webp" alt="Open the seat map view from AwardFares."/>
+<img src="../assets/img/seatmaps/search-results.webp" alt="Open the seat map view from AwardFares."/>
 </figure>
 
 #### 3. Explore the Seat Map
@@ -87,7 +87,7 @@ In the popup window, you will see the aircraft seat map with different icons and
 On the top, you will also see summarized data such as the aircraft type and some statistics.
 
 <figure>
-<img src="../assets/img/seat-maps/seat-map-1.webp" alt="Seat Map View using AwardFares."/>
+<img src="../assets/img/seatmaps/seat-map-1.webp" alt="Seat Map View using AwardFares."/>
 </figure>
 
 Remember that the seat availability changes regularly, so make sure to redo the search regularly.
@@ -95,9 +95,20 @@ Remember that the seat availability changes regularly, so make sure to redo the 
 **Change cabin**. You can use the buttons on the top of the popup window to switch between cabin classes (Economy, Business, First) and display
 
 <figure>
-<img src="../assets/img/seat-maps/seat-map-2.webp" alt="Seat Map View using AwardFares"/>
+<img src="../assets/img/seatmaps/seat-map-2.webp" alt="Seat Map View using AwardFares"/>
 </figure>
 
+##### What is a blocked seat?
+
+If you see a blocked seat on an airline seat map, you will not be able to select it when you book your flight. A blocked seat on a seat map is a seat that is not available for selection by passengers. 
+
+There are many reasons why a seat might be blocked, here are some of the most common ones:
+
+* **Reserved for crew members or airline employees**: Airlines often reserve seats for their crew members and employees. This is especially common on international flights, where there may be a need for extra crew members in case of an emergency.
+* **Emergency exit row**: Seats in the emergency exit row have special requirements, so only passengers who meet certain criteria can sit there. These requirements typically include being able to lift and move heavy objects and being willing to help in an emergency.
+* **Weight and balance**: Airlines need to balance the weight of the aircraft evenly in order to fly safely. This means that they may block seats in certain areas of the aircraft to ensure that the weight is distributed correctly.
+* **Maintenance**: Sometimes, seats may be blocked for maintenance reasons. This could be because the seat is broken or because the airline is performing routine maintenance on the aircraft.
+* **Marketing**: Airlines sometimes block seats for marketing reasons. This could be to sell them as an upgrade or to reserve them for certain passengers, such as frequent flyers or members of a loyalty program.
 
 ### From the Tool Menu
 
@@ -106,7 +117,7 @@ Another way to access the Seat Map tool is using the standalone tool page. This 
 #### 1. On the top bar, tap on **Seat Maps**
 
 <figure>
-<img src="../assets/img/seat-maps/top-menu.webp" alt="Seat Map View using AwardFares"/>
+<img src="../assets/img/seatmaps/top-menu.webp" alt="Seat Map View using AwardFares"/>
 </figure>
 
 #### 2. Fill in your flight information.
@@ -121,7 +132,7 @@ Enter the following information:
 Once you are ready, hit *Search*.
 
 <figure>
-<img src="../assets/img/seat-maps/seat-map-tool.webp" alt="AwardFares Seat Map Tool"/>
+<img src="../assets/img/seatmaps/seat-map-tool.webp" alt="AwardFares Seat Map Tool"/>
 </figure>
 
 
@@ -130,25 +141,28 @@ Once you are ready, hit *Search*.
 On the right hand side of the screen, the seat map will show up, for the cabin class you selected earlier.
 
 <figure>
-<img src="../assets/img/seat-maps/seat-map-results.webp" alt="Seat Map View using AwardFares"/>
+<img src="../assets/img/seatmaps/seat-map-results.webp" alt="Seat Map View using AwardFares"/>
 </figure>
 
 You can also easily change the cabin class you selected earlier by using the **Cabin** field and hitting *Search* again.
 
 <figure>
-<img src="../assets/img/seat-maps/change-cabin.webp" alt="Seat Map View using AwardFares"/>
+<img src="../assets/img/seatmaps/change-cabin.webp" alt="Seat Map View using AwardFares"/>
 </figure>
-
 
 
 ## Upgrade for more
 
-The Seat Map feature is included in our [**Gold**](https://awardfares.com/pricing) and [**Diamond**](https://awardfares.com/pricing) packages. You can [try them for free for 24 hours](https://awardfares.com/). 
+The Seat Map feature is fully integrated in our [**Gold**](https://awardfares.com/pricing) and [**Diamond**](https://awardfares.com/pricing) packages. You can [try them for free for 24 hours](https://awardfares.com/). 
 
+We also offer a free standalon version of our Seat Map Checker [on this page](https://blog.awardfares.com/seatmaps/).
+
+* Check our [FREE Seat Map Checker](https://blog.awardfares.com/seatmaps/). Daily limits may apply compared to the full version.
 
 ## Read more
 
 We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips. Also make sure to also check out these posts:
+
 
 - [Journey Planner: Building Perfect Award Trips To Difficult Destinations](https://blog.awardfares.com/journey-planner/)
 - [Alerts: How To Score Amazing Award Flights](https://blog.awardfares.com/alerts/)
