@@ -2,7 +2,7 @@
 layout: post
 title: "SAS Opens New Route To Morocco (And You Can Book It With Points)"
 category: [SAS EuroBonus, News]
-tags: [SAS, News]
+tags: [SAS, News, Routes]
 author: Germán
 image: /assets/img/sas-opens-route-to-morocco/cover.webp
 ---
