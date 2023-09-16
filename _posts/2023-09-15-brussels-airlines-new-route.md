@@ -5,8 +5,6 @@ category: [News]
 tags: [Brussels Airlines, Routes]
 author: Germán
 image: /assets/img/brussels-airlines-new-route/cover.webp
-hidden: true
-sitemap: false
 ---
 
 From June 2024, Brussels Airlines has scheduled a new service between Brussels and Nairobi, pushing their destinations in sub-Saharan Africa to a total of 18. This isn't their first venture into the Kenyan capital; they previously operated there from 2002 to 2015. The service will feature a technical stopover in Kigali, thus bumping up the airline's Rwanda service to daily flights.
