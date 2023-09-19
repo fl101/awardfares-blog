@@ -184,6 +184,11 @@
       `);
     }
 
+    points.push({
+      x: currentDate.toDate(),
+      y: acc,
+    });
+
     const monthlyAverage = Math.round(flypremiumForecast / 6);
     
     const flypremiumBalance = flypremium[12];
