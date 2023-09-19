@@ -93,7 +93,6 @@ Brussels Airlines was one of the first ones to introduce new long-haul cabins, b
 
 
 
-
 ## Upgrade for more features
 
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when seats become available, as well as check seat maps, flight schedules, and more.
