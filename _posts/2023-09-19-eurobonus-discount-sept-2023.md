@@ -5,20 +5,18 @@ category: [News]
 tags: [SAS EuroBonus]
 author: Germán
 image: /assets/img/eurobonus-discount-sept-2023/cover.webp
-hidden: true
-sitemap: false
 ---
 
-Great news for EuroBonus lovers! The program just launched a new campaign with a 30% points discount on SAS Go Bonus trips (Economy class) from Scandinavia to destinations across North America and Asia.
+Great news for EuroBonus lovers! The program just launched a new campaign with a 30% points discount on [SAS Go](https://flysas.com/) Bonus trips (Economy class) from Scandinavia to destinations across North America and Asia.
 
-The offer applies to both one-way and return journeys in SAS Go Bonus. Children 2-11 years old get 50% of the point price, even on the already discounted price.
+Hurry up! Because there's only a few days left to book. The offer applies to both one-way and return journeys in SAS Go Bonus. Children 2-11 years old get 50% of the point price, even on the already discounted price.
 
-There are many seats available, as we show below using AwardFares.
+There are many seats available, particularly on their routes to the United States, as we show below using AwardFares.
 
 **Promotion details:**
 
 * Discount: 30% in SAS Go Bonus
-* Book by 25 September 2023
+* Book by **25 September 2023**
 * Travel period: 1 November – 15 December 2023
 * From/to: Scandinavia
 * To/from: Chicago, Washington, Boston, Shanghai, Tokyo
