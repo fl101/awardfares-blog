@@ -87,6 +87,8 @@ The [SAS Online Shopping Portal](https://onlineshopping.flysas.com/) is another 
 To earn points, simply visit the SAS Online Shopping Portal and click on the link to the shop where you want to shop. You will then be taken to the retailer's website, where you can shop as usual. Once you have made a purchase, you will receive EuroBonus points based on the amount you spent.
 
 
+<img src="/assets/img/eurobonus-tips-2023/eurobonus-shop.webp" alt="SAS Online Shopping Portal." />
+
 ### 9. Consider Point Multipliers And Special Deals
 
 Certain periods or promotions might offer point multipliers for specific activities. For instance, double points on hotel stays or car rentals, or the recent 10.000 EuroBonus Point bonus for signing up for home insurance. Always stay on the lookout for these opportunities.
