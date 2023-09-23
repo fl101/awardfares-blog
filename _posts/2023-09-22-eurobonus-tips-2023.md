@@ -72,7 +72,7 @@ The real value of the voucher depends on how you use it. Maximizing the benefit 
 
 Fly Premium is a benefit offered to holders of the SAS EuroBonus World Mastercard Premium credit card. It allows you to book bonus flights in SAS Plus or SAS Business class, but only pay for the SAS Go Bonus fare. This means that you can enjoy the benefits of a higher travel class, such as more legroom, better food and drinks, and access to Fast Track and SAS lounges, without paying the full price.
 
-To be eligible for Fly Premium, you must have earned at least 20,000 EuroBonus points in the previous 12 months. Your Fly Premium level is determined by the total number of EuroBonus points you have earned in the previous 12 months, excluding any points transferred from family members or friends, or any Status Points you have earned through the card.
+Your Fly Premium level is determined by the total number of EuroBonus points you have earned in the previous 12 months, excluding any points transferred from family members or friends, or any Status Points you have earned through the card.
 
 Once you have reached a Fly Premium level, you can book bonus flights at that level for the next 12 months. For each month that you maintain your Fly Premium level, your ability to book bonus flights at that level is extended by an additional month.
 
@@ -83,6 +83,7 @@ To book a Fly Premium bonus flight, simply log in to your EuroBonus account and 
 
 Before you book a hotel, check if they're a EuroBonus partner. Brands such as Radisson Blu and Best Western are often affiliated with airline loyalty programs, and staying with them can earn you points. This will accelerate how many points you get, letting you reach your award flight sooner.
 
+
 ### 8. Shop through the EuroBonus Online Portal
 
 The [SAS Online Shopping Portal](https://onlineshopping.flysas.com/) is another great way to accelerate your point earning. It's a special website where you can earn EuroBonus points when you shop at a variety of online retailers. There are over 1,000 different shops to choose from, including popular brands like H&M, Zalando, and AliExpress.
@@ -91,6 +92,7 @@ To earn points, simply visit the SAS Online Shopping Portal and click on the lin
 
 
 <img src="/assets/img/eurobonus-tips-2023/eurobonus-shop.webp" alt="SAS Online Shopping Portal." />
+
 
 ### 9. Consider Point Multipliers And Special Deals
 
@@ -105,7 +107,9 @@ You can check EuroBonus point chart [when redeeming flights on SAS](https://www.
 
 ## Get started, and stay tuned.
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+You can [try AwardFares for free](https://awardfares.com/) to search for your next SAS EuroBonus award.
+
+We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
 ## Read more
 
