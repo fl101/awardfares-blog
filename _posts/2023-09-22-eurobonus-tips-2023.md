@@ -17,7 +17,7 @@ In this post, we cover some of our favorites.
 
 ### 1. Plan ahead
 
-Since redeeming award flights can be a challengin game, the sooner you know about your trip, the better. If you have the flexibility to accomodate dates and destinations when it's most convenient, you'll have a higher chance of scoring an award trip at a good rate.
+Since redeeming award flights can be a challenging game, the sooner you know about your trip, the better. If you have the flexibility to accomodate dates and destinations when it's most convenient, you'll have a higher chance of scoring an award trip at a good rate.
 
 Most of the *poor redemptions* happen either at last minute, or during incredibly busy seasons where everyone else wants to travel too. The more you can anticipate to your travel, the more value you'll get from your points.
 
@@ -27,16 +27,16 @@ In addition, you can use [our free Forecasting and Analysis tool](https://blog.a
 <img src="../assets/img/eurobonus-tips-2023/eurobonus-forecast.webp" alt="SAS Online Shopping Portal." />
 </figure>
 
-### 2. Use AwardFares
+### 2. Use [AwardFares](https://awardfares.com/search)
 
-AwardFares is the world's fastest search engine for award flights. Instead of using EuroBonus website and spend hours trying to find good dates for your redemption, AwardFares can show you all available seats at once across multiple dates and destinations!
+**[AwardFares](https://awardfares.com/search)** is the world's fastest search engine for award flights. Instead of using EuroBonus website and spend hours trying to find good dates for your redemption, AwardFares can show you all available seats at once across multiple dates and destinations!
 
-AwardFares is the best swiss-army knife for EuroBonus members
+AwardFares is the best swiss-army knife for EuroBonus members. It includes:
 
-* **Comprehensive award search**: AwardFares allows you to search for award availability across multiple airlines and alliances, including Star Alliance, Oneworld, and SkyTeam. This gives you a much better chance of finding the awards you want, especially on popular routes and dates.
-* **Advanced search filters**: AwardFares offers a variety of advanced search filters that allow you to narrow down your search results. This can be helpful for finding awards that meet your specific needs, such as awards on a particular airline, in a particular cabin class, or with a particular number of stopovers.
+* **Comprehensive award search**: Search for award availability across multiple airlines and alliances. This gives you a much better chance of finding the awards you want, especially on popular routes and dates.
+* **Advanced search filters**: It's very straightforward to apply advanced search filters that allow you to narrow down your search results. This can be helpful for finding awards that meet your specific needs, such as awards on a particular airline, in a particular cabin class, or with a particular number of stopovers.
 * **Real-time award availability**: AwardFares provides real-time award availability, so you can be sure that the awards you see are still available when you book them.
-* **Alerts**: AwardFares allows you to set up alerts for specific awards. This way, you will be notified if/when seat availability changes, so you can book it right away.
+* **Alerts**: [Set up alerts for specific awards](https://blog.awardfares.com/alerts/). This way, you will be notified if/when seat availability changes, so you can book it right away.
 
 <img src="../assets/img/eurobonus-tips-2023/af-home.webp" alt="AwardFares is the best way to get find SAS EuroBonus Awards." />
 
