@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "10 Tips To Get The Most Out Of Your SAS EuroBonus Points"
+title: "10 Tips To Get The Most Out Of Your SAS EuroBonus Points (2023)"
 category: [SAS EuroBonus]
 tags: []
 author: Germán
 image: /assets/img/eurobonus-tips-2023/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Frequent flyer points have become the golden tickets to a realm of discounted adventures, luxurious upgrades, and unparalleled travel experiences. Yet, many jet-setters often find themselves puzzled, swimming in a sea of miles without fully understanding how to wield them. 
@@ -26,6 +24,10 @@ Most of the *poor redemptions* happen either at last minute, or during incredibl
 
 In addition, you can use [our free Forecasting and Analysis tool](https://blog.awardfares.com/eurobonus-analysis-and-forecast/) to understand your point's history and predict when you'll reach your next reward
 
+<figure>
+<img src="../assets/img/eurobonus-tips-2023/eurobonus-forecast.webp" alt="SAS Online Shopping Portal." />
+</figure>
+
 ### 2. Use AwardFares
 
 AwardFares is the world's fastest search engine for award flights. Instead of using EuroBonus website and spend hours trying to find good dates for your redemption, AwardFares can show you all available seats at once across multiple dates and destinations!
@@ -36,6 +38,8 @@ AwardFares is the best swiss-army knife for EuroBonus members
 * **Advanced search filters**: AwardFares offers a variety of advanced search filters that allow you to narrow down your search results. This can be helpful for finding awards that meet your specific needs, such as awards on a particular airline, in a particular cabin class, or with a particular number of stopovers.
 * **Real-time award availability**: AwardFares provides real-time award availability, so you can be sure that the awards you see are still available when you book them.
 * **Alerts**: AwardFares allows you to set up alerts for specific awards. This way, you will be notified if/when seat availability changes, so you can book it right away.
+
+<img src="../assets/img/eurobonus-tips-2023/af-home.webp" alt="AwardFares is the best way to get find SAS EuroBonus Awards." />
 
 
 ### 3. Keep an Eye Out for Special Promotions
@@ -111,3 +115,4 @@ Make sure to also check these posts out
 - [SAS EuroBonus Analysis and Forecast (Free Tool)](https://blog.awardfares.com/eurobonus-analysis-and-forecast/)
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
 - [5 New SAS Routes You Can Book Using EuroBonus Points](https://blog.awardfares.com/eurobonus-july-2023/)
+ 
