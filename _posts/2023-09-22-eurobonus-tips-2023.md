@@ -7,12 +7,11 @@ author: Germán
 image: /assets/img/eurobonus-tips-2023/cover.webp
 ---
 
-Frequent flyer points have become the golden tickets to a realm of discounted adventures, luxurious upgrades, and unparalleled travel experiences. Yet, many jet-setters often find themselves puzzled, swimming in a sea of miles without fully understanding how to wield them. 
+Frequent flyer points have become the golden tickets to incredible discounted adventures, luxurious upgrades, and unparalleled travel experiences. Yet, it is almost never straightforward to understand if you are getting good value from your points. Travelers end up swimming in a sea of miles and points without fully understanding how to redeem them. 
 
-Whether you're a business traveler accumulating points like clockwork or a leisure traveler with a modest mileage balance, unlocking the full potential of these points can open doors to value that goes beyond just free flights. 
+As we've covered many times in the blog, SAS EuroBonus can be one of the most rewarding programs in Europe. While it is still zone-based (fingers crossed they don't go revenue-based), and they have heavily simplified their website and user interface, there are still a bunch of tips and tricks you can get hold off to optimize your points value.
 
-Dive into this guide as we unravel the strategies to truly maximize the value of your frequent flyer points, ensuring every mile takes you further than ever before.
-
+In this post, we cover some of our favorites. 
 
 ## Tips To Maximize Your SAS EuroBonus Points In 2023
 
