@@ -101,9 +101,13 @@ Certain periods or promotions might offer point multipliers for specific activit
 
 ### 10. Travel Off-Peak
 
-While this doesn't necessarily earn you more points, you'll often find that redeeming points during off-peak seasons requires fewer points than peak seasons. Thus, you can get more value from your points by traveling when there's less demand.
+Avoiding busy seasons can help you get award flights in the cheapest fares such as SAS Go. During holidays and high season, those seats ran out fast, and it's particularly hard to book award travel for groups and families. It's also hard to find upgrades using the Fly Premium benefit.
 
-You can check EuroBonus point chart [when redeeming flights on SAS](https://www.flysas.com/en/eurobonus/points/fly-with-points/point-chart/) here, and when [redeeming on Star Alliance here](https://www.flysas.com/en/eurobonus/points/fly-with-points/star-alliance-point-chart/).
+During the peak season you might also see that SAS website suggests using the Points+Cash option, which lets you pay for part of the trip using your EuroBonus points as money. Most often, you will see that the prices are incredibly expensive.
+
+If you have the flexibility to accommodate your travels for the slow seasons, you'll find a ton of seats available at great prices.
+
+Check EuroBonus point chart [when redeeming flights on SAS](https://www.flysas.com/en/eurobonus/points/fly-with-points/point-chart/) here, and when [redeeming on Star Alliance here](https://www.flysas.com/en/eurobonus/points/fly-with-points/star-alliance-point-chart/).
 
 ## Get started, and stay tuned.
 
