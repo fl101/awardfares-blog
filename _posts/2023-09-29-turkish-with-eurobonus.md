@@ -10,13 +10,20 @@ sitemap: false
 ---
 
 
+Turkish Airlines, the flag carrier of Turkey and a member of the Star Alliance network, has steadily risen in the ranks to become one of the world's leading airlines, renowned for its expansive route network and impeccable service. With its main hub in Istanbul, this airline bridges the gap between the East and the West, making it a favored choice for travelers from around the globe. 
+
+For those holding SAS EuroBonus points, the good news is that these can be golden tickets to book award flights on Turkish Airlines at great rates, offering a fantastic opportunity to experience the airline's premium service while journeying to a multitude of destinations. 
+
+In this blog post, we'll guide you through the process of maximizing your EuroBonus points and securing your next trip with Turkish Airlines.
+
+
 ### In this post
 
 - [Why Use SAS EuroBonus Points on Turkish Airlines?](#why)
 - [Turkish Airlines Award Flights - Right Now!](#realtime-awards)
 - [Top Destinations](#destinations)
 - [How To Search Turkish Airlines Award Flights With EuroBonus Points](#how-to)
-- [Fleets and Cabins](#fleet)
+- [Fleet and Cabins](#fleet)
 
 ## Why Use SAS EuroBonus Points on Turkish Airlines? {#why}
 
@@ -197,7 +204,7 @@ Make sure to also check these posts out
     async function createStatsTable(cabin, limit) {
       const host = /*window.location.hostname == 'localhost' ? 'http://localhost:3000' :*/ 'https://awardfares.com';
       const endpoint = `/api/stats/turkish-top-routes.json?cabin=${cabin}`;
-      const table = document.getElementById(`lh-${cabin}`);
+      const table = document.getElementById(`tk-${cabin}`);
       table.innerHTML = 'Loading...';
       try {
         const resp = await fetch(host + endpoint);
