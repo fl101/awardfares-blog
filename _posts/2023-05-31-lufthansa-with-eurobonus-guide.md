@@ -25,8 +25,7 @@ In this post, we cover why SAS EuroBonus is still a great program when redeeming
 
 ## Example Lufthansa Award Flights - Right Now! {#realtime-awards}
 
-The lists below are updated in real time and show you the available award seats for the next 30 days on some of the major partner airlines using your EuroBonus points.
-
+The lists below are updated in real time and show you the available award seats for the next 30 days on Lufthansa using SAS EuroBonus points.
 
 ### Lufthansa First Class With SAS EuroBonus Points (Top Long-haul Routes)
 
@@ -62,7 +61,7 @@ Go to AwardFares’ sign-up page and create an account. You’ll need to enter a
 
 ### 2. Select SAS EuroBonus as your Frequent Flyer Program
 
-On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap on it and select **EuroBonus**. This will only perform searches and show you award seats available using EuronBonus points.
+On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap on it and select **EuroBonus**. This will only perform searches and show you award seats available using EuroBonus points.
 
 <figure>
 <img src="/assets/img/lufthansa-with-eurobonus-guide/select-eurobonus.gif" alt="Filter award flights on SAS EuroBonus in AwardFares" />
