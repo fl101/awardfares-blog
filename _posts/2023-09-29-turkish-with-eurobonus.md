@@ -215,7 +215,7 @@ Make sure to also check these posts out
         const rows = data.slice(0, rowLimit).map(route => {
           const seatLimit = 10;
           const displayCount = route.total;
-          const searchLink = `https://awardfares.com/search?${route.route.replace('-', '.')}.;c:${cabin};a:LH;z:eurobonus`;
+          const searchLink = `https://awardfares.com/search?${route.route.replace('-', '.')}.;c:${cabin};a:TK;z:eurobonus`;
           return `<tr>
             <td>
               ${route.route}
