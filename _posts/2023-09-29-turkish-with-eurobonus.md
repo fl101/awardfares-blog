@@ -32,12 +32,12 @@ The lists below are updated in real time and show you the available award seats 
 
 ### Turkish Airlines Business Class Seats (Top Long-haul Routes)
 
-**HERE**
+<table id="tk-business"></table>
 
 
 ### Turkish Airlines Economy Class Seats (Top Long-haul Routes)
 
-**HERE**
+<table id="tk-economy"></table>
 
 
 ## Top Turkish Airlines Destinations We Love {#destinations}
@@ -186,3 +186,50 @@ Make sure to also check these posts out
 - [10 Tips To Get The Most Out Of Your SAS EuroBonus Points](https://blog.awardfares.com/eurobonus-tips-2023/)
 - [SAS EuroBonus Analysis and Forecast (Free Tool)](https://blog.awardfares.com/eurobonus-analysis-and-forecast/)
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
+
+
+
+<script>
+  (function () {
+    createStatsTable('first');
+    createStatsTable('business');
+    createStatsTable('economy');
+    async function createStatsTable(cabin, limit) {
+      const host = /*window.location.hostname == 'localhost' ? 'http://localhost:3000' :*/ 'https://awardfares.com';
+      const endpoint = `/api/stats/turkish-top-routes.json?cabin=${cabin}`;
+      const table = document.getElementById(`lh-${cabin}`);
+      table.innerHTML = 'Loading...';
+      try {
+        const resp = await fetch(host + endpoint);
+        const data = await resp.json();
+        const moreLink = `https://awardfares.com/search?..;c:${cabin};a:TK;z:eurobonus`;
+        const rowLimit = 10;
+        const seatsPerIcon = data[0]?.total / rowLimit;
+        const rows = data.slice(0, rowLimit).map(route => {
+          const seatLimit = 10;
+          const displayCount = route.total;
+          const searchLink = `https://awardfares.com/search?${route.route.replace('-', '.')}.;c:${cabin};a:LH;z:eurobonus`;
+          return `<tr>
+            <td>
+              ${route.route}
+            </td>
+            <td>
+              <div style="width: ${Math.ceil(route.total / seatsPerIcon) * 20}px; height: 20px; background-image: url(https://awardfares.com/img/seat.png); background-size: contain; background-repeat: repeat-x"></div>
+            </td>
+            <td>
+              <a href="${searchLink}">${displayCount} seat${route.total > 1 ? 's' : ''}</a></td>
+            </tr>`;
+        });
+        if (rows.length > 0) {
+          rows.push(`<tr><td colspan="3" align="center"><a href="${moreLink}">See all available seats</center></td></tr>`);
+          table.innerHTML = rows.join('');
+        } else {
+          table.innerHTML = 'No seats available right now';
+        }
+      } catch (err) {
+        console.error(err);
+        table.innerHTML = 'Data not available right now';
+      }
+    }
+  })();
+</script>
