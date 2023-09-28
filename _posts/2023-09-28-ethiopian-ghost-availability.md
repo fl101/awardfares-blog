@@ -5,11 +5,9 @@ category: [SAS EuroBonus]
 tags: [Ethiopian Airlines]
 author: Germán
 image: /assets/img/ethiopian-ghost-availability/cover.webp
-hidden: true
-sitemap: false
 ---
 
-As a Star Alliance member and partner airline, it is possibe to book flights on Ethiopina Airlines using SAS EuroBonus points.
+As a Star Alliance member and partner airline, it is possibe to book flights on [Ethiopian Airlines](https://www.ethiopianairlines.com/) using SAS EuroBonus points.
 
 However, occasionally, SAS will show what we call *ghost availability*, which means that those seats aren't actually available for booking!
 
@@ -20,8 +18,8 @@ However, occasionally, SAS will show what we call *ghost availability*, which me
 
 ## The Problem
 
-1. You search for a given route on SAS' Website using the Star Alliance Award Search
-2. Results come back and they show show 9 seats available in Business Class. Great!
+1. You search for a given route on SAS' Website using the [Star Alliance Award Trip search](https://www.sas.se/eurobonus/star-alliance-award-trips/).
+2. Results come back and it shows 9 seats available in Business Class. Great!
 3. You go ahead, select the flight and continue all the steps to book them. Almost there.
 4. Once your passenger details are filled in, you hit *Next* to proceed to the payment screen, and the website fails.
 5. **Oh no!** You start again later, refreshing the search, but all the available seats disappeared.
