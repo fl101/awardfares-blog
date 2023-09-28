@@ -203,7 +203,7 @@ Make sure to also check these posts out
     createStatsTable('economy');
     async function createStatsTable(cabin, limit) {
       const host = /*window.location.hostname == 'localhost' ? 'http://localhost:3000' :*/ 'https://awardfares.com';
-      const endpoint = `/api/stats/turkish-top-routes.json?cabin=${cabin}`;
+      const endpoint = `/api/stats/lufthansa-top-routes.json?cabin=${cabin}`;
       const table = document.getElementById(`tk-${cabin}`);
       table.innerHTML = 'Loading...';
       try {
