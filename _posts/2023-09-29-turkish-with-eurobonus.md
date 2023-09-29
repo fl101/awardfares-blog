@@ -5,8 +5,6 @@ category: [SAS EuroBonus]
 tags: [Turkish Airlines]
 author: Germán
 image: /assets/img/turkish-with-eurobonus/cover.webp
-hidden: true
-sitemap: false
 ---
 
 
