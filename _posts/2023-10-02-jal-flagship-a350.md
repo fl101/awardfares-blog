@@ -5,8 +5,6 @@ category: [Guide]
 tags: [JAL]
 author: Germán
 image: /assets/img/jal-flagship-a350/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Japan Airlines (JAL) has unveiled the specifics of its latest Airbus A350-1000 aircraft and cabin design. This plane is set to be JAL's premier international service, after two decades. Passengers can look forward to unparalleled comfort inside the plane and a journey tailored to each individual. While the aircraft's initial launch on the Tokyo (Haneda) to New York (JFK) route was slated for late November 2023, supply chain setbacks have prompted a rescheduled debut expected by the end of 2023.
@@ -18,8 +16,8 @@ In this post, we guide you step-by-step on how to use AwardFares to search avail
 ### In this post
 
 - [How to Find Award Seats on JAL's Flagship A350-1000](#how-to)
-- [Setting up alerts](#alerts)
-- [The New International Flagship Airbus A350-1000](#whats-new)
+- [Setting Up Alerts](#alerts)
+- [The NEW International Flagship Airbus A350-1000](#whats-new)
 - [Best Frequent Flyer Programs to Redeem Flights on JAL](#programs)
 - [Read More](#read-more)
 
