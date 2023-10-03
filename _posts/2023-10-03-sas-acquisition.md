@@ -33,6 +33,9 @@ The airline has chosen a consortium led by Castlelake, L.P., Air France-KLM, Lin
 
 You can [read the full announcement here](https://www.sasgroup.net/newsroom/press-releases/2023/sas-reaches-major-milestone-in-sas-forward--announces-the-winning-consortium-including-details-of-the-transaction-structure/).
 
+<img src="../assets/img/sas-acquisition/sas-a350-se-rse.webp" alt="SAS got acquired by Air France-KLM and others." />
+
+
 ### Major investments in SAS
 
 The consortium will invest a whopping USD 1,175 million into SAS. Out of this, USD 475 million will be directed towards equity, while USD 700 million will be convertible debt. Not stopping at this, Castlelake is also stepping in to refinance SAS’s current loan, offering a new USD 500 million loan.
@@ -46,15 +49,13 @@ In a strategic move, SAS has decided to join the SkyTeam Alliance, which will re
 
 Beyond financial reshuffling, SAS has its eyes set on fortifying its commercial ties with Air France-KLM. This partnership aims to augment connectivity and service offerings for Scandinavian travelers.
 
-### Stakeholders' Shares
-
-Once the reorganization is complete, Castlelake will emerge as the holder of the majority of equity and debt. They will be followed by the Danish State, Air France-KLM, and Lind Invest in the stakeholder hierarchy. A portion of the equity will also be allocated to specific creditors.
 
 ### Are you a shareholder?
 
+Once the reorganization is complete, Castlelake will emerge as the holder of the majority of equity and debt. They will be followed by the Danish State, Air France-KLM, and Lind Invest in the stakeholder hierarchy. A portion of the equity will also be allocated to specific creditors.
+
 There are substantial changes on the horizon for 
 SAS AB’s stakeholders. By 2024, the company anticipates that all of its common shares and listed commercial hybrid bonds will be canceled and delisted. Current shareholders might not receive any value from this transition, whereas commercial hybrid bond holders could receive a nominal return.
-
 
 ### Leadership Insights
 
@@ -82,6 +83,10 @@ You can also subscribe to our newsletter to stay updated with the best SAS EuroB
 
 If there’s uncertainty about how EuroBonus points will be affected, and you already have trips in mind, it might be a good idea to redeem them sooner rather than later, especially on Star Alliance partner flights.
 
+[Sign-up to AwardFares (it's free)](https://awardfares.com/signup) to see available award flights using SAS EuroBonus points in just seconds. Plan dream trips on Star Alliance partners before it's no longer possible.
+
+<img src="../assets/img/sas-acquisition/af-home.webp" alt="Use AwardFares to search for SAS EuroBonus award flights before they leave SkyTeam." />
+
 
 ### 3. Re-evaluate Your Earning Strategy
 
@@ -93,6 +98,9 @@ If you've been amassing points through Star Alliance flights, hotel stays, or co
 If you've been eyeing a particular award trip with a Star Alliance partner, it may be a good idea to book it before SAS's exit. Once the departure is official, using EuroBonus points for Star Alliance flights might be limited or no longer possible.
 
 For example, if you are looking into flying [**Lufthansa First Class using EuroBonus points**](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/), this might be a good time to hit that milestone, before the transtion starts.
+
+<img src="../assets/img/sas-acquisition/sas-home.webp" alt="SAS Website before they join SkyTeam." />
+
 
 ### 5. Get Familiar With Air France, KLM, and SkyTeam
 
@@ -128,12 +136,14 @@ Many airline loyalty programs offer status matches to attract elite members from
 
 ### 10. Be Flexible and Patient
 
-Transitions of this scale are massive undertakings, and there might be hiccups along the way. It's crucial to be patient, flexible, and understanding during this period. Customer service lines might be busier than usual, and some processes might take longer. **Patience is the Key**
+Transitions of this scale are massive undertakings, and there might be hiccups along the way. It's crucial to be patient, flexible, and understanding during this period. Customer service lines might be busier than usual, and some processes might take longer. **Patience is key**.
 
 
 ## See The Bright Side {#af-kl}
 
 While these changes might upset members in the beginning, our advice is to stay positive and embrace change. There's usually a ton of new opportunities and good news during these transitions, including chances to visit new places, new earning opportunities, and unlock new award flights.
+
+<img src="../assets/img/sas-acquisition/klm-777.webp" alt="SAS got acquired by Air France-KLM and others." />
 
 ### About Air France/KLM
 
