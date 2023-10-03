@@ -5,8 +5,6 @@ category: [News, SAS EuroBonus]
 tags: [SAS, Star Alliance, SkyTeam, Air France, KLM]
 author: Germán
 image: /assets/img/sas-acquisition/cover.webp
-hidden: true
-sitemap: false
 ---
 
 SAS announced **major** news today during a press conference. The airline has been under restructuring since it filed for bankruptcy under the U.S. Chapter 11 process. After several months, they reached a significant milestone: it will be acquired by a new consortium that includes Air France-KLM, leaving behind Star Alliance and joining SkyTeam.
