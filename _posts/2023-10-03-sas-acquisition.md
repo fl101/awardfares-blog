@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAS Will Leave Star Alliance! Here's What To Do Next (2023)"
+title: "SAS Will Leave Star Alliance! Here’s What To Do Next (2023)"
 category: [News, SAS EuroBonus]
 tags: [SAS, Star Alliance, SkyTeam, Air France, KLM]
 author: Germán
