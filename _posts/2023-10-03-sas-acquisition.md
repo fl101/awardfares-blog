@@ -9,14 +9,11 @@ hidden: true
 sitemap: false
 ---
 
-SAS announced **major** news today during a press conference. The airline has been under restructuring since it filed for bankruptcy, under the U.S. chapter 11 process. After several months, they reached a significant milestone: it will be acquired by a new consortium that includes Air France-KLM, leaving behind Star Alliance and joining SkyTeam.
+SAS announced **major** news today during a press conference. The airline has been under restructuring since it filed for bankruptcy under the U.S. Chapter 11 process. After several months, they reached a significant milestone: it will be acquired by a new consortium that includes Air France-KLM, leaving behind Star Alliance and joining SkyTeam.
 
+But what does this mean for us, flyers, EuroBonus members, and SAS travelers? If you are worried about your pile of SAS EuroBonus points and what will happen to them, we are here to shed some light on the process and help you.
 
-But what does this mean for us, flyers, EuroBonus members, and SAS travellers? If you are worried about your pile of SAS EuroBonus points and what's going to happen to them, we are here to shed some light in the processs and help you.
-
-Even though it's too early to judge the details, speculation is usually an enemy that can hold you back and provoque bad decisions.
-
-In this post, we cover everything we know about the transition and next steps.
+Even though it’s too early to judge the details, speculation is usually an enemy that can hold you back and trigger bad decisions. This post covers everything we know about the transition and next steps.
 
 
 ### In This Post
@@ -69,9 +66,9 @@ Despite these changes, SAS assures that its operations will remain unaffected, p
 ## SAS Leaves Star Alliance: Tips For EuroBonus Members
 
 
-We don't know exactly when yet, but it's safe to assume that the SAS EuroBonus program is about to go through major changes soon, particularly after the airline's exit from Star Alliance.
+We don't know exactly when yet, but it's safe to assume that the SAS EuroBonus program is about to go through significant changes soon, particularly after the airline's exit from Star Alliance.
 
-In these transitions, it's normal for members have concerns. Here are some of our tips to navigate the upcoming transitions smoothly
+In these transitions, it's normal for members have concerns. Here are some of our tips to navigate the upcoming transition smoothly.
 
 ### 1. Stay Informed
 
@@ -81,7 +78,7 @@ You can also subscribe to our newsletter to stay updated with the best SAS EuroB
 
 ### 2. Consider Spending Your Points
 
-If there’s uncertainty about how EuroBonus points will be affected, and you already have trips in mind, it might be a good idea to redeem them sooner rather than later, especially on Star Alliance partner flights.
+There’s uncertainty about how EuroBonus points will be affected. If you already have trips in mind, it might be a good idea to redeem them sooner rather than later, especially on Star Alliance partner flights.
 
 [Sign-up to AwardFares (it's free)](https://awardfares.com/signup) to see available award flights using SAS EuroBonus points in just seconds. Plan dream trips on Star Alliance partners before it's no longer possible.
 
@@ -97,7 +94,7 @@ If you've been amassing points through Star Alliance flights, hotel stays, or co
 
 If you've been eyeing a particular award trip with a Star Alliance partner, it may be a good idea to book it before SAS's exit. Once the departure is official, using EuroBonus points for Star Alliance flights might be limited or no longer possible.
 
-For example, if you are looking into flying [**Lufthansa First Class using EuroBonus points**](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/), this might be a good time to hit that milestone, before the transtion starts.
+For example, if you are looking into flying [**Lufthansa First Class using EuroBonus points**](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/), this might be a good time to hit that milestone before the transition starts.
 
 <img src="../assets/img/sas-acquisition/sas-home.webp" alt="SAS Website before they join SkyTeam." />
 
@@ -141,7 +138,7 @@ Transitions of this scale are massive undertakings, and there might be hiccups a
 
 ## See The Bright Side {#af-kl}
 
-While these changes might upset members in the beginning, our advice is to stay positive and embrace change. There's usually a ton of new opportunities and good news during these transitions, including chances to visit new places, new earning opportunities, and unlock new award flights.
+While these changes might initially upset members, our advice is to stay positive and embrace change. There are usually many new opportunities and good news during these transitions, including chances to visit new places, new earning opportunities, and unlock new award flights.
 
 <img src="../assets/img/sas-acquisition/klm-777.webp" alt="SAS got acquired by Air France-KLM and others." />
 
