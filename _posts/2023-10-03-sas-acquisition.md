@@ -136,7 +136,9 @@ Transitions of this scale are massive undertakings, and there might be hiccups a
 
 ## See The Bright Side {#af-kl}
 
-While these changes might initially upset members, our advice is to stay positive and embrace change. There are usually many new opportunities and good news during these transitions, including chances to visit new places, new earning opportunities, and unlock new award flights.
+If you take a look online to what the community is discussing on Instagram, Facebook, Reddit and other platforms, it's clear that the news haven't been well received among EuroBonus members and loyal SAS customers. There are several concerns, for example, about what the Lifetime Gold benefits will mean going forward, if SAS will ditch EuroBonus for [FlyingBlue](https://www.flyingblue.com), and complaints that SkyTeam is not as good as other alliances.
+
+While these changes might initially upset people, our advice is to stay positive and embrace change. There are usually many new opportunities and good news during these transitions too, including chances to visit new places, new earning opportunities, and unlocking new award flights.
 
 <img src="../assets/img/sas-acquisition/klm-777.webp" alt="SAS got acquired by Air France-KLM and others." />
 
