@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAS Will Leave Star Alliance: What To Do Next (2023)"
+title: "SAS Will Leave Star Alliance! Here's What To Do Next (2023)"
 category: [News]
 tags: [SAS, Star Alliance, SkyTeam, Air France, KLM]
 author: Germán
