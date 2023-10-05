@@ -5,17 +5,13 @@ category: [SAS EuroBonus]
 tags: [Star Alliance, SkyTeam]
 author: Germán
 image: /assets/img/eurobonus-star-alliance-awards/cover.webp
-hidden: true
-sitemap: false
 ---
 
-In light of the recent [major announcent of SAS leaving Star Alliance](https://blog.awardfares.com/sas-acquisition/), we noticed an increase in traffic and EuroBonus searches at AwardFares. We are happy that our tool will help you find your next dream award flight!
+In light of the recent [announcent of SAS leaving Star Alliance](https://blog.awardfares.com/sas-acquisition/), we noticed an increase in traffic and EuroBonus searches at AwardFares. We are happy that our tool is helping you find your next dream award flight!
 
-In this magepost, we are compiling every single airline part of Star Alliance, together with its best airplanes, cabins, and routes you can book **right now** using SAS EuroBonus points. Note that we exclude some of the cabins that are not possible to book with EuroBonus. Plus we share all our tips, tricks, and comments from our experience as travellers.
-
-Make sure to check out the links to our detailed guides and resources under each section.
-
-Let's start!
+In this **megapost**, we are compiling every single airline part of Star Alliance, together with its best airplanes, cabins, and routes you can book **right now** using SAS EuroBonus points. Note that we exclude some of the cabins that are bookable with this program (such as Singapore Suites, Swiss First, etc.).
+ 
+In addition, we share all our tips, tricks, and comments from our experience as travelers. Make sure to check out the links to our detailed guides and resources under each section. Let's start!
 
 ### Quick Navigation
 
@@ -533,7 +529,7 @@ Singapore Airlines became one of the founding members of the Star Alliance when 
 
 
 
---
+---
 
 ### South African Airways {#saa}
 
