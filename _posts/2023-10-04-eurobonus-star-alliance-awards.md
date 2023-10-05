@@ -438,11 +438,11 @@ Lufthansa is set to introduce entirely new cabins in 2024, including Allegris Fi
 
 **Suggested Routes**:
 
-* Frankfurt (FRA) to New York (JFK): A major transatlantic route connecting one of Europe's primary hubs with the US East Coast.
-* Munich (MUC) to San Francisco (SFO): This route offers a connection from southern Germany to the US West Coast, a favorite among tech and business travelers.
-* Frankfurt (FRA) to Tokyo (HND/NRT): A key intercontinental link between Europe and Japan, popular for both leisure and business.
-* Frankfurt (FRA) to Cape Town (CPT): This route links Europe with one of South Africa's most iconic destinations.
-* Munich (MUC) to Bangkok (BKK): A gateway to Southeast Asia, this route connects travelers from Europe to the vibrant Thai capital.
+* [Frankfurt (FRA) to New York (JFK)](https://awardfares.com/search?FRA.JFK.;a:LH;z:sas): A major transatlantic route connecting one of Europe's primary hubs with the US East Coast.
+* [Munich (MUC) to San Francisco (SFO)](https://awardfares.com/search?MUC.SFO.;a:LH;z:sas): This route offers a connection from southern Germany to the US West Coast, a favorite among tech and business travelers.
+* [Frankfurt (FRA) to Tokyo (HND/NRT)](https://awardfares.com/search?FRA.area:TYO.;a:LH;z:sas): A key intercontinental link between Europe and Japan, popular for both leisure and business.
+* [Frankfurt (FRA) to Cape Town (CPT)](https://awardfares.com/search?FRA.CPT.;a:LH;z:sas): This route links Europe with one of South Africa's most iconic destinations.
+* [Munich (MUC) to Bangkok (BKK)](https://awardfares.com/search?MUC.BKK.;a:LH;z:sas): A gateway to Southeast Asia, this route connects travelers from Europe to the vibrant Thai capital.
 
 **Known Issues With EuroBonus**: Keep an eye on potential surcharges, which can sometimes be high. First-class availability is released just a few days before the flights.
 
@@ -464,11 +464,14 @@ Singapore Airlines became one of the founding members of the Star Alliance when 
 
 **Suggested Routes**:
 
-* Singapore (SIN) to Zurich (ZRH): A direct connection between Singapore and Switzerland, showcasing Singapore Airlines' high-standard long-haul experience.
-* Singapore (SIN) to New York (JFK): This ultra-long-haul route, one of the world's longest commercial flights, connects Southeast Asia directly with the US East Coast.
-* Singapore (SIN) to Sydney (SYD): This popular route links Singapore with Australia's iconic city, ideal for both business and leisure travelers.
-* Singapore (SIN) to Tokyo (NRT/HND): A major connection between Southeast Asia and Japan, offering a taste of two vibrant Asian cultures.
-* Singapore (SIN) to London (LHR): Another flagship long-haul route, this flight bridges Singapore with one of Europe's primary hubs.
+* [Singapore (SIN) to Zurich (ZRH)](https://awardfares.com/search?SIN.ZRH.;a:SQ;z:sas): A direct connection between Singapore and Switzerland, showcasing Singapore Airlines' high-standard long-haul experience.
+* [Singapore (SIN) to New York (JFK)](https://awardfares.com/search?SIN.JFK.;a:SQ;z:sas): This ultra-long-haul route, one of the world's longest commercial flights, connects Southeast Asia directly with the US East Coast.
+* [Singapore (SIN) to Sydney (SYD)](https://awardfares.com/search?SIN.SYD.;a:SQ;z:sas): This popular route links Singapore with Australia's iconic city, ideal for both business and leisure travelers.
+* [Singapore (SIN) to Tokyo (NRT/HND)](https://awardfares.com/search?SIN.area:TYO.;a:SQ;z:sas): A major connection between Southeast Asia and Japan, offering a taste of two vibrant Asian cultures.
+* [Singapore (SIN) to London (LHR)](https://awardfares.com/search?SIN.LHR.;a:SQ;z:sas): Another flagship long-haul route, this flight bridges Singapore with one of Europe's primary hubs.
+
+**Known Issues with EuroBonus**: These awards are not bookable online. Singapore Suites are also not bookable using EuroBonus points.
+
 
 --
 
@@ -488,12 +491,16 @@ South African Airways joined Star Alliance in April 2006, enhancing its global c
 
 **Suggested Routes**:
 
-* Johannesburg (JNB) to New York (JFK): This long-haul flight offers a direct connection between South Africa and the US East Coast.
-* Johannesburg (JNB) to London (LHR): A crucial route linking South Africa with one of Europe's primary hubs.
-* Johannesburg (JNB) to Perth (PER): This direct connection to Western Australia can be appealing for those venturing to the southern hemisphere.
-* Johannesburg (JNB) to São Paulo (GRU): Serving as a bridge between South Africa and South America, this is one of the unique routes offered by the airline.
-* Cape Town (CPT) to Johannesburg (JNB): A high-frequency domestic route, perfect for exploring two of South Africa's major cities.
+* [Johannesburg (JNB) to New York (JFK)](https://awardfares.com/search?JNB.JFK.;a:SA;z:sas): This long-haul flight offers a direct connection between South Africa and the US East Coast.
+* [Johannesburg (JNB) to London (LHR)](https://awardfares.com/search?JNB.LHR.;a:SA;z:sas): A crucial route linking South Africa with one of Europe's primary hubs.
+* [Johannesburg (JNB) to Perth (PER)](https://awardfares.com/search?JNB.PER.;a:SA;z:sas): This direct connection to Western Australia can be appealing for those venturing to the southern hemisphere.
+* [Johannesburg (JNB) to São Paulo (GRU)](https://awardfares.com/search?JNB.GRU.;a:SA;z:sas): Serving as a bridge between South Africa and South America, this is one of the unique routes offered by the airline.
+* [Cape Town (CPT) to Johannesburg (JNB)](https://awardfares.com/search?CPT.JNB.;a:SA;z:sas): A high-frequency domestic route, perfect for exploring two of South Africa's major cities.
 
+
+<img src="../assets/img/eurobonus-star-alliance-awards/saa-awards.webp" alt="Award Flights on South African Airlines using SAS EuroBonus Points (AwardFares)." />
+
+---
 
 ### Swiss International Air Lines (SWISS)
 
@@ -511,13 +518,15 @@ SWISS became a member of Star Alliance in April 2006.
 
 **Suggested Routes**:
 
-* Zurich (ZRH) to Los Angeles (LAX): A direct long-haul flight that connects Switzerland's main hub with the US West Coast, and it's especially pleasant in SWISS' renowned Business or First Class.
-* Zurich (ZRH) to Bangkok (BKK): An important route for those keen on exploring Southeast Asia, while enjoying SWISS's stellar in-flight service.
-* Zurich (ZRH) to New York (JFK): This transatlantic connection between Switzerland and the US East Coast is frequently sought after by both leisure and business travelers.
-* Geneva (GVA) to London (LCY): A popular European route, especially among business travelers due to the convenience of London City Airport.
-* Zurich (ZRH) to Tokyo (HND/NRT): Bridging Switzerland with Japan, this is one of SWISS's flagship routes in Asia.
+* [Zurich (ZRH) to Los Angeles (LAX)](https://awardfares.com/search?ZRH.LAX.;a:LX;z:sas): A direct long-haul flight that connects Switzerland's main hub with the US West Coast, and it's especially pleasant in SWISS' renowned Business or First Class.
+* [Zurich (ZRH) to Bangkok (BKK)](https://awardfares.com/search?ZRH.BKK.;a:LX;z:sas): An important route for those keen on exploring Southeast Asia, while enjoying SWISS's stellar in-flight service.
+* [Zurich (ZRH) to New York (JFK)](https://awardfares.com/search?ZRH.JFK.;a:LX;z:sas): This transatlantic connection between Switzerland and the US East Coast is frequently sought after by both leisure and business travelers.
+* [Geneva (GVA) to London (LCY)](https://awardfares.com/search?GVA.LCY.;a:LX;z:sas): A popular European route, especially among business travelers due to the convenience of London City Airport.
+* [Zurich (ZRH) to Tokyo (HND/NRT)](https://awardfares.com/search?ZRH.area:TYO.;a:LX;z:sas): Bridging Switzerland with Japan, this is one of SWISS's flagship routes in Asia.
 
-**Known Issues with EuroBonus**:
+**Known Issues with EuroBonus**: Swiss First Class is not bookable using SAS EuroBonus points. Swiss recently teased new Business and First Class cabins, but it's not clear if it will be possible to book them before SAS leaves Star Alliance.
+
+---
 
 
 ### TAP Air Portugal
@@ -536,11 +545,11 @@ TAP Air Portugal joined Star Alliance in March 2005, cementing its commitment to
 
 **Suggested Routes**:
 
-* Lisbon (LIS) to Rio de Janeiro (GIG): A major route that connects Portugal with one of Brazil's most vibrant cities, offering a gateway to South America.
-* Lisbon (LIS) to New York (JFK/EWR): Linking Portugal with the US East Coast, this route is popular among both leisure and business travelers.
-* Porto (OPO) to São Paulo (GRU): This provides a unique connection from Portugal's second-largest city to Brazil's economic heartland.
-* Lisbon (LIS) to Luanda (LAD): Serving as a crucial link between Portugal and Angola, this route has historical and economic significance.
-* Lisbon (LIS) to Toronto (YYZ): Connecting Portugal with Canada, this route is popular among the large Portuguese diaspora in Toronto and those connecting onwards.
+* [Lisbon (LIS) to Rio de Janeiro (GIG)](https://awardfares.com/search?LIS.GIG.;a:TP;z:sas): A major route that connects Portugal with one of Brazil's most vibrant cities, offering a gateway to South America.
+* [Lisbon (LIS) to New York (JFK/EWR)](https://awardfares.com/search?LIS.area:NYC.;a:TP;z:sas): Linking Portugal with the US East Coast, this route is popular among both leisure and business travelers.
+* [Porto (OPO) to São Paulo (GRU)](https://awardfares.com/search?OPO.GRU.;a:TP;z:sas): This provides a unique connection from Portugal's second-largest city to Brazil's economic heartland.
+* [Lisbon (LIS) to Luanda (LAD)](https://awardfares.com/search?LIS.LAD.;a:TP;z:sas): Serving as a crucial link between Portugal and Angola, this route has historical and economic significance.
+* [Lisbon (LIS) to Toronto (YYZ)](https://awardfares.com/search?LIS.YYZ.;a:TP;z:sas): Connecting Portugal with Canada, this route is popular among the large Portuguese diaspora in Toronto and those connecting onwards.
 
 
 ---
@@ -560,11 +569,15 @@ Thai Airways became one of the founding members of the Star Alliance when the al
 
 **Suggested Routes**:
 
-* Bangkok (BKK) to London (LHR): One of Thai Airways' flagship routes, this offers a direct connection between Thailand's capital and one of Europe's primary hubs.
-* Bangkok (BKK) to Sydney (SYD): A popular route for those wanting to venture to Australia while enjoying Thai hospitality.
-* Bangkok (BKK) to Tokyo (HND/NRT): Connecting two of Asia's major cities, this route is popular among both tourists and business travelers.
-* Bangkok (BKK) to Zurich (ZRH): Another popular European destination, this route connects Thailand directly with Switzerland.
-* Bangkok (BKK) to Frankfurt (FRA): This key European link is frequented by business travelers and tourists alike.
+* [Bangkok (BKK) to London (LHR)](https://awardfares.com/search?BKK.LHR.;a:TG;z:sas): One of Thai Airways' flagship routes, this offers a direct connection between Thailand's capital and one of Europe's primary hubs.
+* [Bangkok (BKK) to Sydney (SYD)](https://awardfares.com/search?BKK.SYD.;a:TG;z:sas): A popular route for those wanting to venture to Australia while enjoying Thai hospitality.
+* [Bangkok (BKK) to Tokyo (HND/NRT)](https://awardfares.com/search?BKK.area:TYO.;a:TG;z:sas): Connecting two of Asia's major cities, this route is popular among both tourists and business travelers.
+* [Bangkok (BKK) to Zurich (ZRH)](https://awardfares.com/search?BKK.ZRH.;a:TG;z:sas): Another popular European destination, this route connects Thailand directly with Switzerland.
+* [Bangkok (BKK) to Frankfurt (FRA)](https://awardfares.com/search?BKK.FRA.;a:TG;z:sas): This key European link is frequented by business travelers and tourists alike.
+
+
+<img src="../assets/img/eurobonus-star-alliance-awards/thai-awards.webp" alt="Thai Airways award flights using SAS EuroBonus Points ." />
+
 
 ---
 
@@ -584,11 +597,11 @@ Turkish Airlines became a member of the Star Alliance in April 2008.
 
 **Suggested Routes**:
 
-* Istanbul (IST) to New York (JFK): A prominent transatlantic connection, this route serves as a bridge between Turkey and the East Coast of the USA.
-* Istanbul (IST) to Bangkok (BKK): Connecting Europe and Asia, this route is popular among both tourists and business travelers looking to explore Southeast Asia.
-* Istanbul (IST) to São Paulo (GRU): Bridging the gap between Europe and South America, this is a unique route providing access to Brazil's major metropolis.
-* Istanbul (IST) to Tokyo (HND/NRT): Serving as a key link between Turkey and Japan, this route is frequented by many looking to traverse between Europe and the Far East.
-* Istanbul (IST) to Cape Town (CPT): A valuable connection for those keen on exploring the beauty of South Africa, leveraging Istanbul's position to connect Europe with the African continent.
+* [Istanbul (IST) to New York (JFK)](https://awardfares.com/search?IST.JFK.;a:TK;z:sas): A prominent transatlantic connection, this route serves as a bridge between Turkey and the East Coast of the USA.
+* [Istanbul (IST) to Bangkok (BKK](https://awardfares.com/search?IST.BKK.;a:TK;z:sas)): Connecting Europe and Asia, this route is popular among both tourists and business travelers looking to explore Southeast Asia.
+* [Istanbul (IST) to São Paulo (GRU)](https://awardfares.com/search?IST.GRU.;a:TK;z:sas): Bridging the gap between Europe and South America, this is a unique route providing access to Brazil's major metropolis.
+* [Istanbul (IST) to Tokyo (HND/NRT)](https://awardfares.com/search?IST.area:TYO.;a:TK;z:sas): Serving as a key link between Turkey and Japan, this route is frequented by many looking to traverse between Europe and the Far East.
+* [Istanbul (IST) to Cape Town (CPT)](https://awardfares.com/search?IST.CPTs.;a:TK;z:sas): A valuable connection for those keen on exploring the beauty of South Africa, leveraging Istanbul's position to connect Europe with the African continent.
 
 ---
 
@@ -606,11 +619,11 @@ United Airlines was one of the founding members of the Star Alliance when it was
 
 **Suggested Routes**:
 
-* San Francisco (SFO) to Sydney (SYD): This direct route connects the U.S. West Coast with Australia, offering travelers the opportunity to experience United's long-haul service over the Pacific.
-* Newark (EWR) to Tokyo (NRT): A key route linking the New York area with Japan, it's especially valuable for business travelers and those wanting to explore Asia.
-* Chicago (ORD) to London (LHR): Connecting two of the world's major cities, this route is always in demand and showcases United's transatlantic offering.
-* Houston (IAH) to Rio de Janeiro (GIG): This direct flight bridges North and South America, making it an intriguing option for those venturing to Brazil.
-* Washington D.C. (IAD) to Frankfurt (FRA): A critical connection between the U.S. capital and Germany's financial hub.
+* [San Francisco (SFO) to Sydney (SYD)](https://awardfares.com/search?SFO.SYD.;a:UA;z:sas): This direct route connects the U.S. West Coast with Australia, offering travelers the opportunity to experience United's long-haul service over the Pacific.
+* [Newark (EWR) to Tokyo (NRT)](https://awardfares.com/search?EWR.area:TYO.;a:UA;z:sas): A key route linking the New York area with Japan, it's especially valuable for business travelers and those wanting to explore Asia.
+* [Chicago (ORD) to London (LHR)](https://awardfares.com/search?ORD.LHR.;a:UA;z:sas): Connecting two of the world's major cities, this route is always in demand and showcases United's transatlantic offering.
+* [Houston (IAH) to Rio de Janeiro (GIG)](https://awardfares.com/search?IAH.GIG.;a:UA;z:sas): This direct flight bridges North and South America, making it an intriguing option for those venturing to Brazil.
+* [Washington D.C. (IAD) to Frankfurt (FRA)](https://awardfares.com/search?IAD.FRA.;a:UA;z:sas): A critical connection between the U.S. capital and Germany's financial hub.
 
 
 ## Get started, and stay tuned.
