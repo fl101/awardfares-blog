@@ -189,6 +189,12 @@ The airline cemented its global connectivity and outreach by joining the Star Al
 * [Tokyo (HND or NRT) to Los Angeles (LAX)](https://awardfares.com/search?area:TYO.LAX.;a:NH;z:sas): A popular transpacific route that links Japan with the US West Coast. Ideal for experiencing ANA's top cabins.
 * [Tokyo (HND) to Sydney (SYD)](https://awardfares.com/search?area:TYO.SYD.;a:NH;z:sas): One of ANA's significant routes to Oceania, offering a chance to experience their long-haul product on a diverse route.
 
+
+**More Posts**:
+
+* [ANA 777 Liveries: How To Fly The Pokémon Jets And Other Spectacular Planes](https://blog.awardfares.com/ana-777-fleet/)
+* [ANA Resumes Route Tokyo To Perth](https://blog.awardfares.com/ana-resumes-tokyo-perth/)
+
 ----
 
 ### Asiana Airlines
@@ -236,6 +242,12 @@ Austrian Airlines joined Star Alliance in March 2000.
 * [Vienna (VIE) to Beijing (PEK)](https://awardfares.com/search?VIE.PEK.;a:OS;z:sas): Another key route in Austrian's Asian network, offering a chance to try out their premium cabins.
 * [Vienna (VIE) to Chicago (ORD)](https://awardfares.com/search?VIE.ORD.;a:OS;z:sas): A major North American route, this can be an excellent option for EuroBonus redemption, especially if you're eyeing a premium cabin experience.
 
+**More Posts**:
+
+* [Review of Austrian Business Class Vienna to Montreal](https://blog.awardfares.com/austrian-business-review/)
+* [Austrian's Impressive Intra-Europe Business Class (VIE-FRA)](https://blog.awardfares.com/austrian-short-haul-business/)
+
+
 ---
 
 ### Avianca
@@ -260,8 +272,6 @@ Avianca joined Star Alliance in June 2012.
 * [Bogotá (BOG) to São Paulo (GRU)](https://awardfares.com/search?BOG.GRU.;a:AV,OS;z:sas): A major connection between two of South America's largest cities.
 * [San Salvador (SAL) to Los Angeles (LAX)](https://awardfares.com/search?SAL.LAX.;a:AV,OS;z:sas): An essential route linking Central America to the US West Coast.
 
-**More Guides**:
-
 
 ---
 
@@ -285,6 +295,9 @@ Brussels Airlines became a member of Star Alliance in December 2009.
 * [Brussels (BRU) to Washington D.C. (IAD)](https://awardfares.com/search?BRU.IAD.;a:SN;z:sas): A strategic route between the administrative capitals of both the European Union and the United States.
 * [Brussels (BRU) to Monrovia (ROB)](https://awardfares.com/search?BRU.ROB;a:SN;z:sas): An interesting connection to Liberia in West Africa.
 
+**More Posts**:
+
+* [Book Brussels Airlines New Route To Kenya With Points](https://blog.awardfares.com/brussels-airlines-new-route/)
 
 ---
 
@@ -310,6 +323,10 @@ Copa Airlines joined Star Alliance in June 2012.
 * [Panama City (PTY) to Los Angeles (LAX)](https://awardfares.com/search?PTY.LAX.;a:CM;z:sas): Another key route connecting Panama to the West Coast of the United States.
 * [Panama City (PTY) to Montevideo (MVD)](https://awardfares.com/search?PTY.MVD.;a:CM;z:sas): An attractive route for those looking to explore Uruguay.
 * [Panama City (PTY) to Sao Paulo (GRU)](https://awardfares.com/search?PTY.GR.;a:CM;z:sas): Linking Panama with Brazil's largest city and business hub.
+
+**More Posts**:
+
+* [Review of Copa Airlines Business Class Miami to Panama](https://blog.awardfares.com/copa-business-review/)
 
 ---
 
@@ -384,6 +401,11 @@ Ethiopian Airlines became a member of Star Alliance in December 2011, further en
 * [Addis Ababa (ADD) to Cape Town (CPT)](https://awardfares.com/search?ADD.CPT.;a:ET;z:sas): For those wanting to experience the wonders of South Africa, this route is an excellent choice.
 * [Addis Ababa (ADD) to Tokyo (NRT)](https://awardfares.com/search?ADD.TYO.;a:ET;z:sas): An important link between Africa and Japan, this route caters to business and leisure travelers alike. You can also use this route to connect Europe or Asia with Deep South America, for example [Buenos Aires to Tokyo](https://awardfares.com/search?EZE.TYO.;a:ET;z:sas), [Stockholm to Buenos Aires](https://awardfares.com/search?ARN.EZE.;a:ET;z:sas), etc.
 
+**More Posts**:
+
+* [SAS EuroBonus And Ethiopian Airlines Ghost Availability](https://blog.awardfares.com/ethiopian-ghost-availability/)
+
+
 ---
 
 ### EVA Air {#eva}
@@ -405,6 +427,15 @@ EVA Air joined Star Alliance in June 2013.
 * [Taipei (TPE) to San Francisco (SFO)](https://awardfares.com/search?TPE.SFO.;a:BR;z:sas): Another key route for travelers looking to journey between Taiwan and the US West Coast.
 * [Taipei (TPE) to London (LHR)](https://awardfares.com/search?TPE.LHR.;a:BR;z:sas): A long-haul route linking Taiwan with Europe's major transit and travel hub.
 * [Taipei (TPE) to Vancouver (YVR)](https://awardfares.com/search?TPE.YVR.;a:BR;z:sas): This route provides a direct connection between Taiwan and Canada's Pacific coast.
+
+
+**More Posts**:
+
+* [Best EVA Air Award Flights In 2023](https://blog.awardfares.com/eva-air-best-redemptions-2023/)
+* [EVA Air Award Redemption Guide](https://blog.awardfares.com/eva-air-award-redemption/)
+* [5 Mistakes When Searching EVA Air Award Flights (And How To Fix Them)](https://blog.awardfares.com/eva-air-mistakes/)
+* [EVA Business 787-9 Dreamliner TPE-ICN Trip Report](https://blog.awardfares.com/eva-business-tpe-icn/)
+
 
 ---
 
@@ -461,6 +492,14 @@ Lufthansa is set to introduce entirely new cabins in 2024, including Allegris Fi
 
 **Known Issues With EuroBonus**: Keep an eye on potential surcharges, which can sometimes be high. First-class availability is released just a few days before the flights.
 
+**More Posts**:
+
+* [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
+* [Lufthansa New Routes In 2023](https://blog.awardfares.com/lh-routes-2023/)
+* [Lufthansa's A350 Long-Haul Business Class (Avoid)](https://blog.awardfares.com/lufthansa-long-haul-business-a350/)
+
+
+
 ---
 
 ### Singapore Airlines {#singapore}
@@ -486,6 +525,12 @@ Singapore Airlines became one of the founding members of the Star Alliance when 
 * [Singapore (SIN) to London (LHR)](https://awardfares.com/search?SIN.LHR.;a:SQ;z:sas): Another flagship long-haul route, this flight bridges Singapore with one of Europe's primary hubs.
 
 **Known Issues with EuroBonus**: These awards are not bookable online. Singapore Suites are also not bookable using EuroBonus points.
+
+**More Posts**:
+
+* [Singapore Airlines Partner Award Redemption Guide 2022](https://blog.awardfares.com/singapore-partner-redemptions/)
+* [Singapore Airlines Is Skytrax World's Best Airline In 2023. Here Are Our Favorite Routes.](https://blog.awardfares.com/singapore-skytrax-2023/)
+
 
 
 --
@@ -593,6 +638,9 @@ Thai Airways became one of the founding members of the Star Alliance when the al
 
 <img src="../assets/img/eurobonus-star-alliance-awards/thai-awards.webp" alt="Thai Airways award flights using SAS EuroBonus Points ." />
 
+**More Posts**:
+
+* [THAI First Class Award Redemption Guide 2022](https://blog.awardfares.com/thai-first-class-redemptions/)
 
 ---
 
@@ -618,6 +666,10 @@ Turkish Airlines became a member of the Star Alliance in April 2008.
 * [Istanbul (IST) to Tokyo (HND/NRT)](https://awardfares.com/search?IST.area:TYO.;a:TK;z:sas): Serving as a key link between Turkey and Japan, this route is frequented by many looking to traverse between Europe and the Far East.
 * [Istanbul (IST) to Cape Town (CPT)](https://awardfares.com/search?IST.CPTs.;a:TK;z:sas): A valuable connection for those keen on exploring the beauty of South Africa, leveraging Istanbul's position to connect Europe with the African continent.
 
+**More Posts**
+
+* [Booking Turkish Airlines Flights With SAS EuroBonus Points (Guide)
+](https://blog.awardfares.com/turkish-with-eurobonus/)
 ---
 
 ### United Airlines {#united}
@@ -639,6 +691,9 @@ United Airlines was one of the founding members of the Star Alliance when it was
 * [Chicago (ORD) to London (LHR)](https://awardfares.com/search?ORD.LHR.;a:UA;z:sas): Connecting two of the world's major cities, this route is always in demand and showcases United's transatlantic offering.
 * [Houston (IAH) to Rio de Janeiro (GIG)](https://awardfares.com/search?IAH.GIG.;a:UA;z:sas): This direct flight bridges North and South America, making it an intriguing option for those venturing to Brazil.
 * [Washington D.C. (IAD) to Frankfurt (FRA)](https://awardfares.com/search?IAD.FRA.;a:UA;z:sas): A critical connection between the U.S. capital and Germany's financial hub.
+
+**Known Issues with EuroBonus**: It's not possible to book mixed-cabin awards online.
+
 
 
 ## Get started, and stay tuned.
