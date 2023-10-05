@@ -47,7 +47,7 @@ In addition, we share all our tips, tricks, and comments from our experience as 
 
 Aegean Airlines, founded in 1987, is Greece's largest airline and flag carrier. It primarily operates out of Athens International Airport and serves both domestic destinations within Greece and international routes across Europe and other parts of the world. Known for its consistent quality service, Aegean has received several awards over the years for its excellence in the European regional aviation sector. 
 
-The airline became a member of the Star Alliance, the world's largest global airline alliance, in June 2010.
+The airline became a member of Star Alliance, the world's largest global airline alliance, in June 2010.
 
 **Best Cabin**: Economy or Business on the A320neo.
 
@@ -99,7 +99,7 @@ As one of the founding members of Star Alliance, Air Canada has been a part of t
 
 Air China, founded in 1988, is the flag carrier and one of the major airlines of the People's Republic of China. With its hub at Beijing Capital International Airport, Air China operates a vast network of domestic and international routes, playing a pivotal role in connecting China with the rest of the world. The airline is known for its expanding fleet, commitment to service, and its role in supporting China's rapid growth in global aviation. 
 
-Air China became a member of the Star Alliance in December 2007.
+Air China became a member of Star Alliance in December 2007.
 
 **Best Cabins**: Boeing 747-8, Airbus A350
 
@@ -139,6 +139,7 @@ Air India became a member of Star Alliance in July 2014.
 * [Delhi (DEL) to Sydney (SYD)](https://awardfares.com/search?DEL.SYD.;a:AI;z:sas): Connecting the subcontinent with Australia, this is a popular route for both business and leisure travelers.
 
 
+---
 
 ### Air New Zealand {#air-new-zealand}
 
@@ -167,7 +168,7 @@ Air New Zealand proudly became a member of Star Alliance in March 1999, further 
 
 All Nippon Airways (ANA), established in 1952, is Japan's largest airline and a leading figure in the nation's aviation industry. With a commitment to safety, technological innovation, and impeccable customer service, ANA has built a stellar reputation for itself both domestically and on international routes. Offering a wide network that connects key global cities to various destinations within Japan, ANA consistently garners praise for its in-flight experiences and operational excellence. 
 
-The airline cemented its global connectivity and outreach by joining the Star Alliance consortium in October 1999.
+The airline cemented its global connectivity and outreach by joining Star Alliance consortium in October 1999.
 
 **Best Cabins**: ANA's new Business Class cabin on their 777-300ER ("The Room").
 
@@ -330,7 +331,7 @@ Copa Airlines joined Star Alliance in June 2012.
 
 Croatia Airlines, established in 1989, is the flag carrier of Croatia and has its headquarters in Zagreb. Serving as a gateway to the Adriatic nation, the airline plays a pivotal role in connecting Croatia's main cities with key destinations in Europe and beyond. With its commitment to safety, punctuality, and showcasing Croatian hospitality, the airline has been instrumental in boosting tourism and business ties for the country.
 
-Croatia Airlines became a member of the Star Alliance in November 2004, further strengthening its international connectivity and service offerings.
+Croatia Airlines became a member of Star Alliance in November 2004, further strengthening its international connectivity and service offerings.
 
 
 **Best Cabins**: Airbus A319 Business Class
@@ -465,7 +466,7 @@ LOT Polish Airlines joined Star Alliance in October 2003.
 
 Lufthansa, officially known as Deutsche Lufthansa AG, was founded in 1953 and is the largest airline in Germany, playing a central role in European and global aviation. Headquartered in Cologne, Lufthansa is celebrated for its commitment to precision, innovation, and stellar in-flight services, solidifying its reputation as a leader in the aviation industry. Operating primarily from its hubs in Frankfurt and Munich, Lufthansa connects Germany to a multitude of international destinations, championing both the country's business interests and its rich cultural heritage. 
 
-As a testament to its vision of global collaboration and network expansion, Lufthansa became one of the five founding members of the Star Alliance in May 1997, underscoring its dedication to enhancing the global travel experience for its passengers.
+As a testament to its vision of global collaboration and network expansion, Lufthansa became one of the five founding members of Star Alliance in May 1997, underscoring its dedication to enhancing the global travel experience for its passengers.
 
 
 **Best Cabins**: Lufthansa's First Class and Business Class are renowned for their service and comfort, especially on their flagship A380 and Boeing 747-8 aircraft.
@@ -502,12 +503,12 @@ Lufthansa is set to introduce entirely new cabins in 2024, including Allegris Fi
 
 Singapore Airlines, founded in 1972, is the flag carrier of Singapore and stands as one of the most esteemed airlines in the global aviation industry. Revered for its unparalleled service, innovative in-flight amenities, and commitment to excellence, the airline has consistently set benchmarks in luxury air travel. Operating from its hub at Singapore Changi Airport, Singapore Airlines has cultivated a vast network, connecting the island-nation to key destinations worldwide and showcasing the best of Singaporean hospitality.
 
-Singapore Airlines became one of the founding members of the Star Alliance when the alliance was formed in May 1997.
+Singapore Airlines became one of the founding members of Star Alliance when the alliance was formed in May 1997.
 
 
 **Best Cabins**:  Singapore Airlines' Suites and Business Class, especially on their A380s and B787s, are among the industry's best. If possible, aim to redeem for these premium cabins to maximize the value of your points and enjoy a world-class in-flight experience.
 
-<img src="../assets/img/eurobonus-star-alliance-awards/singapore-airlines-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Singapore Airlines." />
+<img src="../assets/img/eurobonus-star-alliance-awards/singapore-airlines-cabins.webp" alt="Best Cabin using SAS EuroBonus Points on Singapore Airlines." />
 
 *Image from Singapore Airlines website.*
 
@@ -614,7 +615,7 @@ TAP Air Portugal joined Star Alliance in March 2005, cementing its commitment to
 
 Thai Airways, established in 1960, stands as the flag carrier of Thailand, symbolizing the nation's warm hospitality and rich cultural heritage in the skies. Operating from its primary hub in Bangkok's Suvarnabhumi Airport, the airline is globally recognized for its exemplary service, refined in-flight experience, and the distinct Thai touch it brings to air travel. Over the years, Thai Airways has connected the Land of Smiles to numerous destinations worldwide, playing a crucial role in promoting tourism and trade. 
 
-Thai Airways became one of the founding members of the Star Alliance when the alliance was inaugurated in May 1997, marking its commitment to international cooperation and enhanced passenger experiences.
+Thai Airways became one of the founding members of Star Alliance when the alliance was inaugurated in May 1997, marking its commitment to international cooperation and enhanced passenger experiences.
 
 **Best Cabins**:  Thai Airways' Royal First Class and Royal Silk Business Class offer a luxurious experience, particularly on their Boeing 747 and A380 aircraft. Aim for these cabins on long-haul routes to maximize the value of your points and relish the world-renowned Thai service.
 
@@ -644,7 +645,7 @@ Thai Airways became one of the founding members of the Star Alliance when the al
 
 Turkish Airlines, established in 1933, is the national flag carrier of Turkey and operates from its hub at Istanbul Airport. Recognized for its vast network that spans continents, the airline seamlessly connects East and West, making it a central player in the global aviation landscape. Renowned for its exceptional in-flight service, diverse culinary offerings, and commitment to passenger comfort, Turkish Airlines has received numerous accolades over the years.
 
-Turkish Airlines became a member of the Star Alliance in April 2008.
+Turkish Airlines became a member of Star Alliance in April 2008.
 
 
 **Best Cabins**: Target the Business Class on their Airbus A350 or their Boeing 777. Turkish's Business Class is known for its spacious layout, delectable onboard cuisine, and remarkable in-flight service, making it an exceptional experience for long-haul journeys
@@ -672,7 +673,7 @@ Turkish Airlines became a member of the Star Alliance in April 2008.
 
 United Airlines, founded in 1926, is one of the major flag carriers of the United States with its headquarters in Chicago, Illinois. As one of the world's largest airlines, United plays a crucial role in connecting key domestic and international destinations, driven by its expansive fleet and comprehensive network. Over the decades, United has been at the forefront of numerous innovations in the aviation industry, consistently evolving to meet the changing needs of global travelers.
 
-United Airlines was one of the founding members of the Star Alliance when it was established in May 1997, signifying a commitment to enhanced connectivity and cooperative growth in the aviation sector.
+United Airlines was one of the founding members of Star Alliance when it was established in May 1997, signifying a commitment to enhanced connectivity and cooperative growth in the aviation sector.
 
 **Best Cabins**: It's worthwhile to target the airline's Polaris Business Class on their long-haul routes, particularly on their B777-300ER or B787 Dreamliner aircraft. The Polaris cabin provides a heightened level of comfort, privacy, and service, ensuring a premium experience across the skies.
 
