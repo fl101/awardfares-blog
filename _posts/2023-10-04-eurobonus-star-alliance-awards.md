@@ -4,12 +4,20 @@ title: "Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megap
 category: [SAS EuroBonus]
 tags: [Star Alliance, SkyTeam]
 author: Germán
-image: /assets/img/folder/cover.webp
+image: /assets/img/eurobonus-star-alliance-awards/cover.webp
 hidden: true
 sitemap: false
 ---
 
-### Jump to the Airline
+In light of the recent [major announcent of SAS leaving Star Alliance](https://blog.awardfares.com/sas-acquisition/), we noticed an increase in traffic and EuroBonus searches at AwardFares. We are happy that our tool will help you find your next dream award flight!
+
+In this magepost, we are compiling every single airline part of Star Alliance, together with its best airplanes, cabins, and routes you can book **right now** using SAS EuroBonus points. Note that we exclude some of the cabins that are not possible to book with EuroBonus. Plus we share all our tips, tricks, and comments from our experience as travellers.
+
+Make sure to check out the links to our detailed guides and resources under each section.
+
+Let's start!
+
+### Quick Navigation
 
 - [Aegean Airlines](#aegean)
 - [Air Canada](#air-canada)
@@ -30,7 +38,7 @@ sitemap: false
 - [Lufthansa](#lufthansa)
 - [Singapore Airlines](#singapore)
 - [South African Airways](#saa)
-- [Swiss International Air Lines (SWISS)](#swiss)
+- [SWISS](#swiss)
 - [TAP Air Portugal](#tap)
 - [Thai Airways International](#thai)
 - [Turkish Airlines](#turkish)
@@ -81,6 +89,13 @@ As one of the founding members of Star Alliance, Air Canada has been a part of t
 * [Toronto (YYZ) to Frankfurt (FRA)](https://awardfares.com/search?YYZ.area:FRA.;a:AC;z:sas): A key European route offering the chance to fly on Air Canada's flagship Boeing 787 Dreamliners.
 * [Montreal (YUL) to Paris (CDG)](https://awardfares.com/search?YUL.area:CDG.;a:AC;z:sas): A classic transatlantic route, which might provide good award availability and also features the Dreamliner on certain flights.
 * [Calgary (YYC) to London (LHR)](https://awardfares.com/search?YYC.area:LHR.;a:AC;z:sas): This route allows passengers to experience long-haul service from Canada's mountainous West to the UK.
+
+
+**More Posts**:
+
+* [Air Canada Business 737 MAX 8 YVR-SFO Trip Report](https://blog.awardfares.com/air-canada-business-yvr-sfo/)
+* [Air Canada Announces Route From Vancouver To Singapore](https://blog.awardfares.com/aircanada-singapore-route/)
+
 
 ---
 
@@ -245,7 +260,7 @@ Avianca joined Star Alliance in June 2012.
 * [Bogotá (BOG) to São Paulo (GRU)](https://awardfares.com/search?BOG.GRU.;a:AV,OS;z:sas): A major connection between two of South America's largest cities.
 * [San Salvador (SAL) to Los Angeles (LAX)](https://awardfares.com/search?SAL.LAX.;a:AV,OS;z:sas): An essential route linking Central America to the US West Coast.
 
-**Our Avianca Guides**:
+**More Guides**:
 
 
 ---
