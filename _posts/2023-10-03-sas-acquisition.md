@@ -13,6 +13,7 @@ But what does this mean for us, flyers, EuroBonus members, and SAS travelers? If
 
 Even though it’s too early to judge the details, speculation is usually an enemy that can hold you back and trigger bad decisions. This post covers everything we know about the transition and next steps.
 
+**Also Read Our Megapost**: [Book These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
 
 ### In This Post
 
@@ -87,12 +88,16 @@ There’s uncertainty about how EuroBonus points will be affected. If you alread
 
 If you've been amassing points through Star Alliance flights, hotel stays, or co-branded credit cards, reconsider your strategy in light of the imminent changes.
 
+You can use our **free** [EuroBonus Point Analysis and Forecast tool](https://blog.awardfares.com/eurobonus-analysis-and-forecast/) to predict your earnings based on your monthly historical data, and try to come up with a plan for your points.
+
 
 ### 4. Plan Your Star Alliance Redemptions
 
 If you've been eyeing a particular award trip with a Star Alliance partner, it may be a good idea to book it before SAS's exit. Once the departure is official, using EuroBonus points for Star Alliance flights might be limited or no longer possible.
 
 For example, if you are looking into flying [**Lufthansa First Class using EuroBonus points**](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/), this might be a good time to hit that milestone before the transition starts.
+
+We put together [a megapost with the best Star Alliance cabins you can book today](https://blog.awardfares.com/eurobonus-star-alliance-awards/) with SAS EuroBonus points, and how to find awards using AwardFares.
 
 <img src="../assets/img/sas-acquisition/sas-home.webp" alt="SAS Website before they join SkyTeam." />
 
