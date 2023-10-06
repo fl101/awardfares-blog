@@ -69,6 +69,8 @@ We don't know exactly when yet, but it's safe to assume that the SAS EuroBonus p
 
 In these transitions, it's normal for members have concerns. Here are some of our tips to navigate the upcoming transition smoothly.
 
+**UPDATE**: [Jump to this section](#impact) for the latest statement from SAS.
+
 ### 1. Stay Informed
 
 Subscribe to SAS newsletters, monitor their official website, and regularly check your EuroBonus account. Knowledge is your first line of defense against unexpected changes.
@@ -137,6 +139,26 @@ Many airline loyalty programs offer status matches to attract elite members from
 ### 10. Be Flexible and Patient
 
 Transitions of this scale are massive undertakings, and there might be hiccups along the way. It's crucial to be patient, flexible, and understanding during this period. Customer service lines might be busier than usual, and some processes might take longer. **Patience is key**.
+
+
+## Impact On EuroBonus (SAS FAQ) {#impact}
+
+On October 4th, SAS held a FAQ session covering questions regarding how the SAS EuroBonus program will be affected by SAS joining SkyTeam and leaving Star Alliance behind.
+
+So far, the conclusion is that for now the EuroBonus program remains unchanged. These are the questions covered.
+
+* **What will happen to EuroBonus?** No changes are being made to the program and EuroBonus will remain SAS's loyalty program. As a member, you will continue to earn and use points on SAS as today. Your status and benefits as a EuroBonus member when you fly with SAS will not be impacted. SAS intends to eventually leave Star Alliance and join SkyTeam, and adjustments to the program will be made accordingly. As long as SAS is a member of Star Alliance, EuroBonus members can continue to enjoy the same benefits as they do today when flying on a Star Alliance partner airline.
+* **What will happen to my EuroBonus points?** No changes are made to your EuroBonus points. You will keep all points earned until now and will continue to earn and use points just like today.
+* **What will happen to my EuroBonus tier status?** No changes are made to your EuroBonus tier status. You will retain your status and your progress made during your qualification period. Requirements to reach each tier level and benefits included in each tier remain the same.
+* **What will happen to my EuroBonus Lifetime Gold status?** No changes are made to the EuroBonus Lifetime Gold program. EuroBonus Lifetime Gold memberships will be honored even after SAS joins SkyTeam, and all progress made towards Lifetime Gold will be kept.
+* **Do I keep my status benefits when I travel on another Star Alliance partner airline?** While SAS remains part of Star Alliance, you will enjoy the same status benefits as you do today when you fly with a Star Alliance partner. When SAS eventually joins SkyTeam, you will also be able to enjoy similar status benefits across the extensive SkyTeam network.
+* **Can I still earn points when I fly on another Star Alliance carrier?** While SAS remains part of Star Alliance, you will be able to earn EuroBonus Basic points when flying on a Star Alliance airline partner flights.
+* **What will happen to my existing Star Alliance award bookings?** Existing bookings remain unchanged and will be honored even if you fly after SAS eventually leaves Star Alliance.
+* **Can I still use my points to redeem on other Star Alliance carriers?** While SAS remains part of Star Alliance, we will allow you to use EuroBonus points to book Star Alliance award trips.
+* **Can I still earn points on credits cards and other non-airline partners?** Yes.
+* Can I still use my EuroBonus points on non-airline partners such as rental cars or hotels? Yes.
+* **What about other Star Alliance partner members flying on SAS?** While SAS remains part of Star Alliance, members of other Star Alliance member programs will keep their status benefits while flying on SAS, and will be able to spend their miles/points on SAS flights.
+
 
 
 ## See The Bright Side {#af-kl}
