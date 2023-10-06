@@ -501,6 +501,8 @@ Lufthansa is set to introduce entirely new cabins in 2024, including Allegris Fi
 
 ### Singapore Airlines {#singapore}
 
+**Known Issues with EuroBonus**: To our latest knowledge, these awards are not bookable at the moment (online nor via contact center), given that SAS and Singapore Airlines haven't been able to reach an agreement on the redemption terms.
+
 Singapore Airlines, founded in 1972, is the flag carrier of Singapore and stands as one of the most esteemed airlines in the global aviation industry. Revered for its unparalleled service, innovative in-flight amenities, and commitment to excellence, the airline has consistently set benchmarks in luxury air travel. Operating from its hub at Singapore Changi Airport, Singapore Airlines has cultivated a vast network, connecting the island-nation to key destinations worldwide and showcasing the best of Singaporean hospitality.
 
 Singapore Airlines became one of the founding members of Star Alliance when the alliance was formed in May 1997.
@@ -520,8 +522,6 @@ Singapore Airlines became one of the founding members of Star Alliance when the 
 * [Singapore (SIN) to Sydney (SYD)](https://awardfares.com/search?SIN.SYD.;a:SQ;z:sas): This popular route links Singapore with Australia's iconic city, ideal for both business and leisure travelers.
 * [Singapore (SIN) to Tokyo (NRT/HND)](https://awardfares.com/search?SIN.area:TYO.;a:SQ;z:sas): A major connection between Southeast Asia and Japan, offering a taste of two vibrant Asian cultures.
 * [Singapore (SIN) to London (LHR)](https://awardfares.com/search?SIN.LHR.;a:SQ;z:sas): Another flagship long-haul route, this flight bridges Singapore with one of Europe's primary hubs.
-
-**Known Issues with EuroBonus**: These awards are not bookable online. Singapore Suites are also not bookable using EuroBonus points.
 
 **More Posts**:
 
