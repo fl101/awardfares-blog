@@ -6,3 +6,6 @@ _site
 Gemfile.lock
 node_modules
 .jekyll-metadata
+_posts/.vscode/settings.json
+.vscode/ltex.hiddenFalsePositives.en-US.txt
+.vscode/ltex.dictionary.en-US.txt
