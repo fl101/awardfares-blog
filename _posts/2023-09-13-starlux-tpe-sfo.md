@@ -7,7 +7,7 @@ author: Germán
 image: /assets/img/starlux-tpe-sfo/cover.webp
 ---
 
-STARLUX Airlinesis, the rising Taiwanese career, is moving full-speed-ahed with their ambitious plans to strengthen its foothold in the U.S. market. After launching extremly successfus flights from [Taipei to Los Angele](https://awardfares.com/search?TPE.LAX.;a:JX;x:0;z:alaska)s earlier this year, today the airline announced they are expanding to San Francisco. 
+STARLUX Airlines, the rising Taiwanese career, is moving full-speed-ahed with their ambitious plans to strengthen its foothold in the U.S. market. After launching extremly successfus flights from [Taipei to Los Angele](https://awardfares.com/search?TPE.LAX.;a:JX;x:0;z:alaska)s earlier this year, today the airline announced they are expanding to San Francisco. 
 
 Starting from December 16th, STARLUX will operate flights from [Taiwan Taoyuan International Airport to San Francisco International Airport (TPE-SFO)](https://awardfares.com/search?TPE.SFO.;a:JX;x:0;z:alaska). While these flights will initially operate three times a week using their state-of-the-art Airbus A350-900 aircraft, the frequency is set to increase, with daily flights expected by March 2024.
 
