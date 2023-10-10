@@ -175,14 +175,11 @@ Passengers are provided with a welcome drink, amenity kit, and hot meal service.
 * Business Class: Lie-flat or angled-flat seats in a 2-2-2 layout.
 * Economy Class: These are in a 2-4-2 configuration and come equipped with personal IFE screens and standard amenities.
 
-
-
 ## Get started, and stay tuned.
 
-You can [try AwardFares for free](https://awardfares.com/) to search for your next SAS EuroBonus award.
+With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can get access to premium features such unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
-
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up to our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
 ## Read more
 

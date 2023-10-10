@@ -4,7 +4,7 @@ title: "Introducing Award Prices And Mixed Cabin Flights (New Features)"
 category: [News]
 tags: [Features]
 author: Germán
-image: /assets/img/introducing-pricing/cover.webp
+image: /assets/img/prices-and-mixed-cabins/cover.webp
 hidden: true
 sitemap: false
 ---
@@ -26,7 +26,7 @@ We are committed to enhancing your travel experience and take your journey plann
 
 Once you log in to AwardFares, select a frequent flyer program and perform a search, you will notice new colored *pills* in the result list below.
 
-Inside, each pills shows the number of points or miles required to redeem the award flight. Below the pill, you will also see how many seats are available in that cabin.
+Inside, each pill shows the number of points or miles required to redeem the award flight. Below the pill, you will also see how many seats are available in that cabin.
 
 <img src="../assets/img/prices-and-mixed-cabins/af-home-pricing.webp" alt="AwardFares Award Flight Search Engine With Flight Prices." />
 
@@ -67,9 +67,9 @@ What's the difference between Saver and Non-saver?
 - **Lower Miles Cost**: These tickets typically require fewer frequent flyer miles or points to redeem compared to non-saver (or standard) award flights.
 - **Limited Availability**: Saver awards are limited in number. They might not be available on all flights or on all dates, especially during peak travel times or high-demand routes.
 - **Fewer Perks**: Saver awards may come with more restrictions, such as being non-refundable or having change fees.
-- **Popular with Savvy Travelers**: Because they offer a better "value" in terms of miles or points, frequent travelers often seek out saver award availability first.
+- **Popular with Savvy Travelers**: Because they offer a better “value” in terms of miles or points, frequent travelers often seek out saver award availability first.
 
-#### Non-Saver (Standard or Flexible) Award Flights:
+#### Non-Saver (Standard or Flexible) Award Flights
 
 - **Higher Miles Cost**: These tickets typically require a significantly higher number of frequent flyer miles or points to redeem when compared to saver awards.
 - **Greater Availability**: Non-saver awards are generally more readily available than saver awards. This means that if you're looking to travel on a specific date or time, especially during peak seasons, you might find it easier to book a non-saver award.
@@ -142,7 +142,7 @@ Alerts are also upgraded with our mixed cabin filter! This means you can get not
 
 ## New Search Results Header {#header}
 
-Another cool upgrade is a redesign of the header row in the search results table. This header is now interactive and you use it to sort the results. 
+Another cool upgrade is a redesign of the header row in the search results table. This header is now interactive, and you use it to sort the results.
 
 Now, it is much easier to sort and explore results by price and cabin.
 
@@ -158,7 +158,7 @@ In this example you will see how the result list changes after clicking in the *
 
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can get access to premium features such unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up to our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up to our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro-tips.
 
 ## Read more
 
