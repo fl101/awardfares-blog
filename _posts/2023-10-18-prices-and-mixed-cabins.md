@@ -96,7 +96,7 @@ With mixed-cabin awards, you have the flexibility to combine segments of your jo
 
 Ultimately, the pricing structure depends on the airline and program, but there are several reasons why booking a mixed-class award flights make sense. Sometimes it might be cheaper (and you save points/miles on short-haul segments where premium cabins are not worth it), and other times it's linked to availability.
 
-In this new AwardFares release, we represent Mixed Cabin by the fill inside each pill. For example, if the trip is 50% mixed (1 flight in economy + 1 flight in Business Class), then the pill is half filled.
+In this new AwardFares release, we represent Mixed Cabin by the fill inside each pill (based on flight time). For example, if the trip is 50% mixed, then the pill will be half filled, and it means that half of the travel time will be in one cabin, and the rest in a different one.
 
 <img src="../assets/img/prices-and-mixed-cabins/af-home-pricing.webp" alt="AwardFares Mixed-cabin award flights search." />
 
@@ -122,7 +122,7 @@ If you set the mixed cabin filter (for example to 15%), AwardFares will show all
 
 Note that you will also see tickets in just Economy, given that is considered a *0% mixed-cabin* award.
 
-<img src="../assets/img/prices-and-mixed-cabins/mixed-cabin-filter.webp" alt="AwardFares Mixed-cabin Filter." />
+<img src="../assets/img/prices-and-mixed-cabins/mixed-cabin-filter-percentage.webp" alt="AwardFares Mixed-cabin Filter." />
 
 #### With Filter
 
