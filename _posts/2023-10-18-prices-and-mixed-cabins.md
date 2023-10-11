@@ -44,8 +44,6 @@ The new expanded view now also reflects the award prices in more detail. For mos
 
 For SAS EuroBonus, the one-way price changes depending if it is a redemption on SAS (50% of round-trip price) or on a Star Alliance partner (60% of round-trip price, i.e. more expensive). Thus, in this case, AwardFares displays both prices.
 
-We'll continue to add support for more programs in the upcoming weeks, and adjust the pricing information depending on their award chart.
-
 ### Taxes
 
 Along with prices, AwardFares also shows taxes and fees for redeeming the award flights. This information is not accessible for SAS EuroBonus, so you'll see a message accordingly.
