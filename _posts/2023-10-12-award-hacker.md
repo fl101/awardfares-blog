@@ -23,7 +23,7 @@ Let's get started!
 
 ### What is Award Hacker?
 
-Award Hacker is a free online tool that helps users determine how many miles are required to fly from Point A to Point B with various frequent flyer programs. Instead of manually checking each airline's redemption chart, users can quickly get an overview of which programs offer the best value for a particular route.
+[Award Hacker](https://www.awardhacker.com/) is a free online tool that helps users determine how many miles are required to fly from Point A to Point B with various frequent flyer programs. Instead of manually checking each airline's redemption chart, users can quickly get an overview of which programs offer the best value for a particular route.
 
 ### Key Features of Award Hacker
 
@@ -59,7 +59,7 @@ While there's no shortage of tools and blogs dedicated to the art of maximizing 
 
 Award Hacker provides a broad overview of how many miles are needed across various frequent flyer programs for specific routes. It illuminates which program may offer the best bang for your buck.
 
-**How AwardFares Help**: While Award Hacker gives a theoretical perspective, AwardFares shows real-time seat availability. Together, they ensure you don’t just know the cost in miles, but also the probability of securing a seat.
+**How AwardFares Helps**: While Award Hacker gives a theoretical perspective, AwardFares shows real-time seat availability. Together, they ensure you don’t just know the cost in miles, but also the probability of securing a seat.
 
 <img src="../assets/img/award-hacker/award-hacker-results.webp" alt="Award Hacker and Award Fares." />
 
@@ -69,7 +69,7 @@ Award Hacker provides a broad overview of how many miles are needed across vario
 
 If you’re flexible with your destinations or are planning multi-city trips, Award Hacker can guide your route strategy by showcasing which programs are more favorable for each segment.
 
-**The AwardFares Advantage**: Once you have an idea of potential routes and programs, you can hop onto AwardFares to see if award seats for these routes are available. This sequential approach aids in robust travel planning.
+**The AwardFares Advantage**: Once you have an idea of potential routes and programs, you can hop onto AwardFares to see if award seats for these routes are available. You can also leverage AwardFares' [Journey Planner](https://blog.awardfares.com/journey-planner/), which is a powerful tool to break down a trip and work out award flights to difficult destinations.
 
 <img src="../assets/img/award-hacker/journey-planner.webp" alt="Plan flights and itineraries exploring routes and award flights with AwardFares and Award Hacker." />
 
@@ -80,7 +80,7 @@ If you’re flexible with your destinations or are planning multi-city trips, Aw
 
 For those with credit card points, Award Hacker’s overview allows users to see which frequent flyer programs might be the most beneficial to transfer their points to.
 
-**How AwardFares Help**: Before making a transfer, you can double-check on AwardFares if the seats are available, ensuring you don’t lock your points in a program without seat availability.
+**How AwardFares Helps**: Before making a transfer, you can double-check on AwardFares if the seats are available, ensuring you don’t lock your points in a program without seat availability.
 
 <img src="../assets/img/award-hacker/award-hacker-transfers.webp" alt="Use Award Hacker and AwardFares to make point transfer decisions from credit cards to frequent flyer programs." />
 
@@ -89,7 +89,7 @@ For those with credit card points, Award Hacker’s overview allows users to see
 
 Award Hacker displays the mileage requirements for economy, premium economy, business, and first-class. This feature can be useful for travelers who are flexible and want to decide which class offers the best value.
 
-**How AwardFares Help**: Once you've determined which class might be the best value for your miles, AwardFares can be used to check the availability of seats in that class for your chosen route. With the new features, you can also compare award prices and search for mixed cabin itineraries.
+**How AwardFares Helps**: Once you've determined which class might be the best value for your miles, AwardFares can be used to check the availability of seats in that class for your chosen route. With the new features, you can also compare award prices and search for mixed cabin itineraries.
 
 <img src="../assets/img/award-hacker/mixed-cabin-awards.webp" alt="See mixed cabin award flights with AwardFares." />
 
@@ -97,7 +97,7 @@ Award Hacker displays the mileage requirements for economy, premium economy, bus
 
 While Award Hacker doesn’t offer alerts, its comprehensive data can guide frequent flyers on which routes or programs to monitor, especially if they're aiming for a specific redemption in the future.
 
-**How AwardFares Help**: With this preemptive knowledge from Award Hacker, you can set up precise alerts on AwardFares, ensuring you’re notified as soon as seats become available on your desired routes and classes.
+**How AwardFares Helps**: With this preemptive knowledge from Award Hacker, you can set up precise alerts on AwardFares, ensuring you’re notified as soon as seats become available on your desired routes and classes.
 
 <img src="../assets/img/award-hacker/award-hacker-alert.webp" alt="Set up an alert in AwardFares for a route you saw using Award Hacker." />
 
