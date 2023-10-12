@@ -13,6 +13,8 @@ Similarly, Cowtool, aims to make things easier for Air Canada Aeroplan frequent 
 
 This guide closely examines the key differences between AwardFares and Cowtool.
 
+**IMPORTANT UPDATE**: *As of October 2023, Cowtool has shutdown completely and indefinitely. Try AwardFares as a Cowtool alternative to search for Aeroplan availability.*
+
 ### Contents
 
 - [What is Cowtool?](#what-is-cowtool)

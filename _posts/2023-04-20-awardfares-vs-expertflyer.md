@@ -13,6 +13,8 @@ Some other tools, like ExpertFlyer, provide similar functionalities for frequent
 
 This guide closely examines the key differences between AwardFares and ExpertFlyer.
 
+**IMPORTANT UPDATE**: *As of October 2023, ExpertFlyer stopped supporting searches on Star Alliance parners.*
+
 ### Contents
 
 - [What is ExpertFlyer?](#what-is-expertflyer)
