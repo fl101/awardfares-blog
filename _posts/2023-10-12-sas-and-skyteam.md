@@ -9,9 +9,9 @@ hidden: true
 sitemap: false
 ---
 
-With all the buzz around SAS joining SkyTeam after being acquired by Air France-KLM and others, we read a myriad of negative comments towards this transition. At AwardFares, we are focused at helping EuroBonus members navigate this new phase by bringing the latest tools and information we have at hand.
+With all the buzz around SAS joining SkyTeam [after being acquired by Air France-KLM](https://blog.awardfares.com/sas-acquisition/) and others, we read many negative comments about this transition. At AwardFares, we are focused on helping EuroBonus members navigate this new phase by bringing the latest tools and information we have at hand.
 
-We also strive for a positive mindset which is more resilient during unsettling phases, like this one. Sure, there are aspects we are going to miss from Star Alliance, but we are taking our first step towards embracing change. In this post, we look at the bright side, and cover some of the opportunities that will come once SAS is a member of SkyTeam.
+We also strive for a positive, more resilient mindset during unsettling times like this one. Sure, there are aspects we will miss from Star Alliance, but we are taking our first step towards embracing change. In this post, we look at the bright side and cover some opportunities that will come once SAS is a member of SkyTeam.
 
 ### In This Post
 
@@ -39,7 +39,7 @@ We also strive for a positive mindset which is more resilient during unsettling 
 
 ### Heavy investment from Air France-KLM
 
-As Air France-KLM is getting a stake of SAS, their invesment has the potential to provide a number of benefits to the Scandinavian airline, including increased financial stability, expanded network and connectivity, shared expertise and resources, and increased competitiveness. On top of that, Air France-KLM is known for its high-quality customer service, and excellent staff training.
+As Air France-KLM is getting a stake in SAS, their investment has the potential to provide several benefits to the Scandinavian airline, including increased financial stability, expanded network and connectivity, shared expertise and resources, and increased competitiveness. On top of that, Air France-KLM is known for its high-quality customer service and excellent staff training.
 
 ### SkyTeam is strong in North America, Europe, and Latin America
 
@@ -53,7 +53,7 @@ ITA Airways offers a range of fantastic long-haul routes connecting Italy to var
 
 ### An Open Door To Brazil
 
-GOL Airlines is not an SkyTeam partner but it's a valuable partner for SkyTeam travelers seeking to explore South America's largest country. Both Air France-KLM and Delta have a major stake in the company. With its extensive domestic network spanning over 60 destinations, GOL provides convenient connections to Brazil's iconic landmarks, from the bustling metropolis of São Paulo to the sun-kissed beaches of Rio de Janeiro and the lush rainforests of the Amazon.
+GOL Airlines is not a SkyTeam partner but a valuable partner for SkyTeam travelers seeking to explore South America's largest country. Both Air France-KLM and Delta have a significant stake in the company. With its extensive domestic network spanning over 60 destinations, GOL provides convenient connections to Brazil's iconic landmarks, from the bustling metropolis of São Paulo to the sun-kissed beaches of Rio de Janeiro and the lush rainforests of the Amazon.
 
 SkyTeam passengers can seamlessly integrate GOL flights into their itineraries, enjoying seamless connections and reciprocal benefits through the SkyTeam partnership (earning and redeeming miles on GOL flights too). GOL's modern fleet and commitment to on-time performance ensure a comfortable and reliable travel experience. Explore Brazil's diverse regions, from the vibrant cultural hub of Salvador to the breathtaking Iguazu Falls, all made accessible through GOL's extensive domestic connections.
 
@@ -63,7 +63,7 @@ Aerolíneas Argentinas, the flag carrier of Argentina, is a key partner for SkyT
 
 From the bustling urban center of Buenos Aires to the stunning landscapes of Patagonia, the Iguazu Falls in the northeast, or the wine regions of Mendoza, the airline ensures that the beauty and diversity of Argentina are accessible to everyone. 
 
-The airline also offers SkyTeam travelers an assurance of quality service, consistent with the standards they expect from the alliance. By flying with Aerolíneas Argentinas, SkyTeam travelers not only unlock the wonders of Argentina but also experience the warm hospitality and rich culture that the nation is renowned for.
+The airline also assures SkyTeam travelers of quality service, consistent with the standards they expect from the alliance. By flying with Aerolíneas Argentinas, SkyTeam travelers not only unlock the wonders of Argentina but also experience the warm hospitality and rich culture that the nation is renowned for.
 
 ### A Gateway to China
 
@@ -83,7 +83,7 @@ Together, these airlines provide travelers with a wide range of options for reac
 
 Virgin Atlantic is a unique and prominent British airline known for its innovative approach and customer-centric service. It joined SkyTeam in March 2023, being SkyTeam's first and only UK member airline.
 
-Operating primarily out of London's Heathrow and Gatwick airports, as well as Manchester Airport, Virgin Atlantic offers a diverse range of routes to destinations around the world, with a strong presence in North America and the Caribbean. The airline is known for its stylish and comfortable cabins, friendly service, and a commitment to sustainability, making it a popular choice for both leisure and business travelers seeking a distinctive and enjoyable flying experience.
+Operating primarily out of London's Heathrow and Gatwick airports, as well as Manchester Airport, Virgin Atlantic offers a diverse range of routes to destinations around the world, with a strong presence in North America and the Caribbean. The airline is known for its stylish and comfortable cabins, friendly service, and commitment to sustainability, making it a popular choice for both leisure and business travelers seeking a distinctive and enjoyable flying experience.
 
 Virgin Atlantic is on a mission to be carbon neutral by 2050, and has recently introduced new Business Class cabins on their A330neo aircraft.
 
@@ -133,7 +133,7 @@ China Airlines' Premium Business Class provides a refined business class experie
 
 ## Things We'll Miss About SAS In Star Alliance {#sas-star-alliance}
 
-We are all going to miss certain perks from SAS being an Star Alliance member. Here's our top list. What's in your list? Feel free to send us your suggestions!.
+We are all going to miss certain perks from SAS being a Star Alliance member. Here's our top list. What's on your list? Feel free to send us your suggestions!
 
 *Note: links are clickable. It'll open a new tab and perform a search in AwardFares.*
 
