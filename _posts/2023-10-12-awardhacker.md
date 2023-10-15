@@ -33,7 +33,9 @@ Let's get started!
 * Shows results for economy, premium economy, business, and first-class.
 * Direct links to the relevant frequent flyer program for booking.
 
-<img src="../assets/img/award-hacker/award-hacker-home.webp" alt="AwardHacker and Award Fares." /><figcaption>AwardHacker Homepage.</figcaption>
+<img src="../assets/img/award-hacker/award-hacker-home.webp" alt="AwardHacker and Award Fares." />
+
+*Image: AwardHacker Homepage.*
 
 ### What is AwardFares?
 
@@ -62,9 +64,9 @@ AwardHacker provides a broad overview of how many miles are needed across variou
 
 **How AwardFares Helps**: While AwardHacker gives a theoretical perspective, **AwardFares** shows real-time seat availability. Together, they ensure you don’t just know the cost in miles, but also the probability of securing a seat.
 
-<img src="../assets/img/award-hacker/award-hacker-results.webp" alt="AwardHacker Search Results." /><figcaption>AwardHacker Search Results.</figcaption>
+<img src="../assets/img/award-hacker/award-hacker-results.webp" alt="AwardHacker Search Results." />
 
-
+*Image: AwardHacker Search Results*
 
 ### 2. Route Planning and Strategy Formulation
 
@@ -72,7 +74,9 @@ If you’re flexible with your destinations or are planning multi-city trips, Aw
 
 **The AwardFares Advantage**: Once you have an idea of potential routes and programs, you can hop onto **AwardFares** to see if award seats for these routes are available. You can also leverage AwardFares' [Journey Planner](https://blog.awardfares.com/journey-planner/), which is a powerful tool to break down a trip and work out award flights to difficult destinations.
 
-<img src="../assets/img/award-hacker/journey-planner.webp" alt="Plan flights and itineraries exploring routes and award flights with AwardFares and AwardHacker." /><figcaption>AwardFares Jouney Planner and Map View.</figcaption>
+<img src="../assets/img/award-hacker/journey-planner.webp" alt="Plan flights and itineraries exploring routes and award flights with AwardFares and AwardHacker." />
+
+*Image: AwardFares Jouney Planner and Map View.*
 
 
 **Read more** about [AwardFares' Journey Planner feature here](https://blog.awardfares.com/journey-planner/).
@@ -83,8 +87,9 @@ For those with credit card points, AwardHacker’s overview allows users to see 
 
 **How AwardFares Helps**: Before making a transfer, you can double-check on **AwardFares** if the seats are available, ensuring you don’t lock your points in a program without seat availability.
 
-<img src="../assets/img/award-hacker/award-hacker-transfers.webp" alt="Use AwardHacker and AwardFares to make point transfer decisions from credit cards to frequent flyer programs." /><figcaption>AwardHacker Filter Searches By Loyalty Programs.</figcaption>
+<img src="../assets/img/award-hacker/award-hacker-transfers.webp" alt="Use AwardHacker and AwardFares to make point transfer decisions from credit cards to frequent flyer programs." />
 
+*Image: AwardHacker Filter Searches By Loyalty Programs.*
 
 ### 4. Flexibility with Class Preferences
 
@@ -92,7 +97,9 @@ AwardHacker displays the mileage requirements for economy, premium economy, busi
 
 **How AwardFares Helps**: Once you've determined which class might be the best value for your miles, **AwardFares** can be used to check the availability of seats in that class for your chosen route. With the new features, you can also compare award prices and search for mixed cabin itineraries.
 
-<img src="../assets/img/award-hacker/mixed-cabin-awards.webp" alt="See mixed cabin award flights with AwardFares." /><figcaption>AwardFares Pricing and Mixed Cabin Awards.</figcaption>
+<img src="../assets/img/award-hacker/mixed-cabin-awards.webp" alt="See mixed cabin award flights with AwardFares." />
+
+*Image: AwardFares Pricing and Mixed Cabin Awards.*
 
 ### 5. Alerts and Proactivity
 
@@ -100,7 +107,9 @@ While AwardHacker doesn’t offer alerts, its comprehensive data can guide frequ
 
 **How AwardFares Helps**: With this preemptive knowledge from AwardHacker, you can set up precise alerts on **AwardFares**, ensuring you’re notified as soon as seats become available on your desired routes and classes.
 
-<img src="../assets/img/award-hacker/award-hacker-alert.webp" alt="Set up an alert in AwardFares for a route you saw using AwardHacker." /><figcaption>Easily set up alerts in AwardFares.</figcaption>
+<img src="../assets/img/award-hacker/award-hacker-alert.webp" alt="Set up an alert in AwardFares for a route you saw using AwardHacker." />
+
+*Image: Easily set up alerts in AwardFares.*
 
 **Read more** about [AwardFares' Alerts feature here](https://blog.awardfares.com/alerts/).
 

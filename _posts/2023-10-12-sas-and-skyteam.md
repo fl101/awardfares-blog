@@ -95,10 +95,7 @@ Delta Air Lines' flagship business class product, Delta One Suites, provides a p
 
 These meticulously designed suites are found on select Airbus A350 and A330-900neo aircraft.
 
-<figure>
 <img src="../assets/img/sas-and-skyteam/delta-cabin.webp" alt="Delta One Suites on the A350." />
-<figcaption>Delta One Suites on the A350.</figcaption>
-</figure>
 
 ### 2. Air France New Business Class and La Première
 
@@ -108,46 +105,31 @@ There's a massive 17.3-inch 4K high-definition touchscreen, while staying connec
 
 On top of that, Air France's La Première offers an exclusive first-class experience with spacious suites, personalized service, and Michelin-starred dining. Air France is set to introduce new La Première cabins in the upcoming months.
 
-<figure>
 <img src="../assets/img/sas-and-skyteam/airfrance-cabin.webp" alt="Air France New Business Class Cabins (2023)." />
-<figcaption>Air France New Business Class Cabins.</figcaption>
-</figure>
 
 ### 3. Korean Air Kosmo Suites 2.0
 
 Korean Air's Kosmo Suites 2.0 provides a sophisticated business class experience with fully flat beds, premium amenities, and attentive service. Kosmo Suites 2.0 features a spacious and well-designed seating arrangement in a 1-2-1 reverse herringbone configuration. This layout ensures direct aisle access for every passenger, providing a sense of exclusivity and privacy. Each suite is meticulously crafted to provide a comfortable and personal space for travelers to relax and unwind during their journey.
 
-<figure>
 <img src="../assets/img/sas-and-skyteam/koreanair-cabin.webp" alt="Korean Air Kosmo Suites (2023)." />
-<figcaption>Korean Air Kosmo Suites 2.0.</figcaption>
-</figure>
 
 ### 4. KLM World Business Class
 
 KLM's World Business Class offers a comfortable and stylish business class experience with lie-flat seats, in-flight entertainment, and Dutch hospitality. Service is top-notch, and we also love the Dutch Houses you get every time you hop on Business Class.
 
-<figure>
 <img src="../assets/img/sas-and-skyteam/klm-cabin.webp" alt="KLM New World Business Class Cabins (2023)." />
-<figcaption>KLM New World Business Class Cabins.</figcaption>
-</figure>
 
 ### 5. ITA Airways A350
 
 ITA Airways' A350 business class provides a comfortable and stylish experience for discerning travelers, offering a blend of modern amenities, Italian hospitality, and culinary delights. Their A350 business class cabin features Collins Aerospace Super Diamond reverse herringbone seats arranged in a 1-2-1 configuration.
 
-<figure>
 <img src="../assets/img/sas-and-skyteam/ita-cabin.webp" alt="ITA Airways A350 Business Class Cabins (2023)." />
-<figcaption>ITA Airways A350 Business Class Cabins.</figcaption>
-</figure>
 
 ### 6. China Airlines Premium Business Class
 
 China Airlines' Premium Business Class provides a refined business class experience with lie-flat seats, spacious cabins, and Taiwanese-inspired cuisine.
 
-<figure>
 <img src="../assets/img/sas-and-skyteam/china-airlines.webp" alt="China Airlines Premium Business Class (2023)." />
-<figcaption>China Airlines Premium Business Class.</figcaption>
-</figure>
 
 ## Things We'll Miss About SAS In Star Alliance {#sas-star-alliance}
 
