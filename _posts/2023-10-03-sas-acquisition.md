@@ -187,8 +187,6 @@ In addition Air France/KLM also offers a number of specific benefits to its pass
 * Premium Economy class: Air France and KLM both offer Premium Economy class on long-haul flights. This class offers more space and comfort than Economy class, but at a lower price than Business class.
 * Business class: Air France and KLM both offer Business class on long-haul flights. This class offers the highest level of comfort and service, with spacious seats, lie-flat beds, and gourmet dining.
 
-
-
 ## Get started, and stay tuned.
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
@@ -199,6 +197,9 @@ With our [premium features on Gold and Diamond](https://awardfares.com/pricing),
 
 Make sure to also check these posts out
 
+- [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
+- [Book These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
 - [How To Install AwardFares On Your Phone](https://blog.awardfares.com/awardfares-mobile-app/)
 - [SAS Opens New Route To Morocco (And You Can Book It With Points)](https://blog.awardfares.com/sas-opens-route-to-morocco/)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)

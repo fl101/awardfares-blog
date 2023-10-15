@@ -15,30 +15,34 @@ In addition, we share all our tips, tricks, and comments from our experience as 
 
 ### Quick Navigation
 
-- [Aegean Airlines](#aegean)
-- [Air Canada](#air-canada)
-- [Air China](#air-china)
-- [Air India](#air-india)
-- [Air New Zealand](#air-new-zealand)
-- [All Nippon Airways (ANA)](#ana)
-- [Asiana Airlines](#asiana)
-- [Austrian Airlines](#austrian)
-- [Avianca](#avianca)
-- [Brussels Airlines](#brussels)
-- [Copa Airlines](#copa)
-- [Croatia Airlines](#croatia)
-- [EgyptAir](#egyptair)
-- [Ethiopian Airlines](#ethiopian)
-- [EVA Air](#eva)
-- [LOT Polish Airlines](#lot)
-- [Lufthansa](#lufthansa)
-- [Singapore Airlines](#singapore)
-- [South African Airways](#saa)
-- [SWISS](#swiss)
-- [TAP Air Portugal](#tap)
-- [Thai Airways International](#thai)
-- [Turkish Airlines](#turkish)
-- [United Airlines](#united)
+- [Best Star Alliance Cabins To Book With SAS EuroBonus Points](#best-star-alliance-cabins-to-book-with-sas-eurobonus-points)
+  - [Aegean Airlines {#aegean}](#aegean-airlines-aegean)
+  - [Air Canada {#air-canada}](#air-canada-air-canada)
+  - [Air China {#air-china}](#air-china-air-china)
+  - [Air India {#air-india}](#air-india-air-india)
+  - [Air New Zealand {#air-new-zealand}](#air-new-zealand-air-new-zealand)
+  - [All Nippon Airways (ANA)](#all-nippon-airways-ana)
+  - [Asiana Airlines](#asiana-airlines)
+  - [Austrian Airlines](#austrian-airlines)
+  - [Avianca](#avianca)
+  - [Brussels Airlines](#brussels-airlines)
+  - [Copa Airlines](#copa-airlines)
+  - [Croatia Airlines](#croatia-airlines)
+  - [EgyptAir](#egyptair)
+  - [Ethiopian Airlines](#ethiopian-airlines)
+  - [EVA Air {#eva}](#eva-air-eva)
+  - [LOT Polish Airlines {#lot}](#lot-polish-airlines-lot)
+  - [Lufthansa {#lufthansa}](#lufthansa-lufthansa)
+  - [Singapore Airlines {#singapore}](#singapore-airlines-singapore)
+  - [South African Airways {#saa}](#south-african-airways-saa)
+  - [Swiss International Air Lines (SWISS)](#swiss-international-air-lines-swiss)
+  - [TAP Air Portugal](#tap-air-portugal)
+  - [Thai Airways International](#thai-airways-international)
+  - [Turkish Airlines {#turkish}](#turkish-airlines-turkish)
+- [\](https://blog.awardfares.com/turkish-with-eurobonus/)](#httpsblogawardfarescomturkish-with-eurobonus)
+  - [United Airlines {#united}](#united-airlines-united)
+- [Get started, and stay tuned.](#get-started-and-stay-tuned)
+- [Read more {#read-more}](#read-more-read-more)
 
 
 ## Best Star Alliance Cabins To Book With SAS EuroBonus Points
@@ -691,8 +695,6 @@ United Airlines was one of the founding members of Star Alliance when it was est
 
 **Known Issues with EuroBonus**: It's not possible to book mixed-cabin awards online.
 
-
-
 ## Get started, and stay tuned.
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
@@ -703,7 +705,8 @@ With our [premium features on Gold and Diamond](https://awardfares.com/pricing),
 
 Make sure to also check these posts out
 
+- [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
 - [SAS Will Leave Star Alliance: Acquisition By Air France-KLM and others](https://blog.awardfares.com/sas-acquisition/)
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
 - [How To Install AwardFares On Your Phone](https://blog.awardfares.com/awardfares-mobile-app/)
-- [SAS Opens New Route To Morocco (And You Can Book It With Points)](https://blog.awardfares.com/sas-opens-route-to-morocco/)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
