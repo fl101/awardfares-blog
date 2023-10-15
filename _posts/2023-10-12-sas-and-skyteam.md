@@ -57,7 +57,7 @@ From the bustling urban center of Buenos Aires to the stunning landscapes of Pat
 
 The airline also assures SkyTeam travelers of quality service, consistent with the standards they expect from the alliance. By flying with Aerolíneas Argentinas, SkyTeam travelers not only unlock the wonders of Argentina but also experience the warm hospitality and rich culture that the nation is renowned for.
 
-### 5. A Gateway to China
+### 5. A Gateway To China
 
 SkyTeam has not one, but **three** Chinese member airlines. This triad makes it a perfect choice if you are flying long-haul but also connecting domestically within Mainland China. 
 
