@@ -77,7 +77,7 @@ Operating primarily out of London's Heathrow and Gatwick airports, as well as Ma
 
 Virgin Atlantic is on a mission to be carbon neutral by 2050, and has recently introduced new Business Class cabins on their A330neo aircraft.
 
-### 7. USA Still Strong With Delta Airlines
+### 7. USA Still Strong With Delta Air Lines
 
 Are you going to miss United? Delta Air Lines boasts an extensive global network, connecting travelers to over 300 destinations across 50 countries. Its modern fleet, featuring state-of-the-art aircraft like the Airbus A350 and Boeing 787 Dreamliner, ensures a comfortable and enjoyable flying experience. 
 
