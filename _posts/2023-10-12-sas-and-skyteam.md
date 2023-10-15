@@ -24,7 +24,7 @@ We also strive for a positive, more resilient mindset during unsettling times li
 |-----------------------|---------------------|---------------------|
 | **Founded**           | 1997                | 2000                |
 | **Number of Members** | 26 (as of 2023)     | 19 (as of 2023)     |
-| **Key Members**       | Lufthansa, United Airlines, Singapore Airlines, ANA | Delta Air Lines, Air France, KLM, Aeroflot |
+| **Key Members**       | Lufthansa, United Airlines, Singapore Airlines, ANA | Delta Air Lines, Air France, KLM, Aeroméxico |
 | **Total Destinations**| Over 1,300+         | Over 1,000+         |
 | **Combined Fleet**    | Over 5,000 aircraft | Over 4,000 aircraft |
 | **Headquarters**      | Frankfurt, Germany  | Amsterdam, Netherlands |
@@ -41,7 +41,7 @@ As Air France-KLM is getting a stake in SAS, their investment has the potential 
 
 ### 2. SkyTeam is strong in North America, Europe, and Latin America
 
-SkyTeam's founding members, Delta Air Lines and Air France-KLM, are both major airlines in these regions. SkyTeam also has strong partnerships with other airlines in North America and Europe, such as Aeromexico, ITA Airways, and Virgin Atlantic.
+SkyTeam's founding members, Delta Air Lines and Air France-KLM, are both major airlines in these regions. SkyTeam also has strong partnerships with other airlines in North America and Europe, such as Aeroméxico, ITA Airways, and Virgin Atlantic.
 
 ### 3. An Open Door To Brazil
 
