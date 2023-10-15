@@ -5,8 +5,6 @@ category: [News]
 tags: [SAS, SkyTeam, Star Alliance]
 author: Germán
 image: /assets/img/sas-and-skyteam/cover.webp
-hidden: true
-sitemap: false
 ---
 
 With all the buzz around SAS joining SkyTeam [after being acquired by Air France-KLM](https://blog.awardfares.com/sas-acquisition/) and others, we read many negative comments about this transition. At AwardFares, we are focused on helping EuroBonus members navigate this new phase by bringing the latest tools and information we have at hand.
