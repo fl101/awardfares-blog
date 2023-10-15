@@ -69,11 +69,9 @@ SkyTeam has not one, but **three** Chinese member airlines. This triad makes it 
 
 The three airlines are:
 
-**China Eastern Airlines** is one of the three major airlines in Mainland China and is headquartered in Shanghai. It has a fleet of over 750 aircraft and flies to over 250 destinations worldwide.
-
-**China Airlines** is the largest airline in Taiwan and is headquartered in Taoyuan International Airport. It has a fleet of over 90 aircraft and flies to over 150 destinations worldwide.
-
-**Xiamen Airlines** is a subsidiary of China Southern Airlines and is headquartered in Xiamen, Fujian Province. It has a fleet of over 200 aircraft and flies to over 60 destinations worldwide. In 2019, [China Southern left SkyTeam](https://simpleflying.com/china-southern-skyteam/), but interestingly Xiamen Airlines still remains a member.
+- **China Eastern Airlines** is one of the three major airlines in Mainland China and is headquartered in Shanghai. It has a fleet of over 750 aircraft and flies to over 250 destinations worldwide.
+- **China Airlines** is the largest airline in Taiwan and is headquartered in Taoyuan International Airport. It has a fleet of over 90 aircraft and flies to over 150 destinations worldwide.
+- **Xiamen Airlines** is a subsidiary of China Southern Airlines and is headquartered in Xiamen, Fujian Province. It has a fleet of over 200 aircraft and flies to over 60 destinations worldwide. In 2019, [China Southern left SkyTeam](https://simpleflying.com/china-southern-skyteam/), but interestingly Xiamen Airlines still remains a member.
 
 Together, these airlines provide travelers with a wide range of options for reaching their desired destinations, both within China and around the globe.
 
