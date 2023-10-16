@@ -32,16 +32,17 @@ We also strive for a positive, more resilient mindset during unsettling times li
 | **Lounges**           | Access to over 1,000 lounges worldwide | Access to over 750 lounges worldwide |
 | **Major Hubs**        | Chicago, Frankfurt, Singapore, Tokyo-Narita | Amsterdam, Atlanta, Paris-CDG, Seoul-Incheon |
 
-
 ## SAS in SkyTeam: The Bright Side {#sas-in-skyteam}
 
 ### 1. Heavy investment from Air France-KLM
 
 As Air France-KLM is getting a stake in SAS, their investment has the potential to provide several benefits to the Scandinavian airline, including increased financial stability, expanded network and connectivity, shared expertise and resources, and increased competitiveness. On top of that, Air France-KLM is known for its high-quality customer service and excellent staff training.
 
-### 2. SkyTeam is strong in North America, Europe, and Latin America
+### 2. North America Still Strong With Delta Air Lines And Aeroméxico
 
-SkyTeam's founding members, Delta Air Lines and Air France-KLM, are both major airlines in these regions. SkyTeam also has strong partnerships with other airlines in North America and Europe, such as Aeroméxico, ITA Airways, and Virgin Atlantic.
+SkyTeam's founding members, Delta Air Lines and Aeroméxico are both major airlines in these regions that boasts an extensive global network, connecting travelers to over 300 destinations across 50 countries. Delta's modern fleet, featuring state-of-the-art aircraft like the Airbus A350 and Boeing 787 Dreamliner, ensures a comfortable and enjoyable flying experience.
+
+With SkyPriority, frequent flyers get complimentary upgrades, priority boarding, and access to exclusive lounges. Recognized for its excellent customer service, Delta consistently ranks among the top airlines in customer satisfaction surveys.
 
 ### 3. An Open Door To Brazil
 
@@ -66,6 +67,8 @@ The two airlines are:
 - **China Eastern Airlines** is one of the three major airlines in Mainland China and is headquartered in Shanghai. It has a fleet of over 750 aircraft and flies to over 250 destinations worldwide.
 - **Xiamen Airlines** is a subsidiary of China Southern Airlines and is headquartered in Xiamen, Fujian Province. It has a fleet of over 200 aircraft and flies to over 60 destinations worldwide. In 2019, [China Southern left SkyTeam](https://simpleflying.com/china-southern-skyteam/), but interestingly Xiamen Airlines still remains a member.
 
+In addition, there's **China Southern**. While this airline also left SkyTeam recently, there are still many valid codeshare agreements with SkyTeam airlines, which might make it possible to redeem award flights on them (just like with GOL).
+
 Together, these airlines provide travelers with a wide range of options for reaching their desired destinations, both within China and around the globe.
 
 ### 6. China Airlines: Taiwan's National Carrier
@@ -79,13 +82,6 @@ Virgin Atlantic is a unique and prominent British airline known for its innovati
 Operating primarily out of London's Heathrow and Gatwick airports, as well as Manchester Airport, Virgin Atlantic offers a diverse range of routes to destinations around the world, with a strong presence in North America and the Caribbean. The airline is known for its stylish and comfortable cabins, friendly service, and commitment to sustainability, making it a popular choice for both leisure and business travelers seeking a distinctive and enjoyable flying experience.
 
 Virgin Atlantic is on a mission to be carbon neutral by 2050, and has recently introduced new Business Class cabins on their A330neo aircraft.
-
-### 8. USA Still Strong With Delta Air Lines
-
-Are you going to miss United? Delta Air Lines boasts an extensive global network, connecting travelers to over 300 destinations across 50 countries. Its modern fleet, featuring state-of-the-art aircraft like the Airbus A350 and Boeing 787 Dreamliner, ensures a comfortable and enjoyable flying experience. 
-
-With SkyPriority, frequent flyers get complimentary upgrades, priority boarding, and access to exclusive lounges. Recognized for its excellent customer service, Delta consistently ranks among the top airlines in customer satisfaction surveys.
-
 
 ## Best SkyTeam Cabins and Redemptions (We Look Forward To) {#best}
 
