@@ -132,7 +132,7 @@ ITA Airways' A350 business class provides a comfortable and stylish experience f
 
 ## Things We'll Miss About SAS In Star Alliance {#sas-star-alliance}
 
-We are all going to miss certain perks from SAS being a Star Alliance member. Here's our top list. What's on your list? Feel free to send us your suggestions!
+We are all going to miss certain perks from SAS being a Star Alliance member. Here's our top list. What's on yours? Feel free to send us your suggestions!
 
 *Note: links are clickable. It'll open a new tab and perform a search in AwardFares.*
 
