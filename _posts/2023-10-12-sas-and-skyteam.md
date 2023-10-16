@@ -59,17 +59,20 @@ The airline also assures SkyTeam travelers of quality service, consistent with t
 
 ### 5. A Gateway To China
 
-SkyTeam has not one, but **three** Chinese member airlines. This triad makes it a perfect choice if you are flying long-haul but also connecting domestically within Mainland China. 
+SkyTeam has not one, but **two** Chinese member airlines. This duo makes it a perfect choice if you are flying long-haul but also connecting domestically within Mainland China. 
 
-The three airlines are:
+The two airlines are:
 
 - **China Eastern Airlines** is one of the three major airlines in Mainland China and is headquartered in Shanghai. It has a fleet of over 750 aircraft and flies to over 250 destinations worldwide.
-- **China Airlines** is the largest airline in Taiwan and is headquartered in Taoyuan International Airport. It has a fleet of over 90 aircraft and flies to over 150 destinations worldwide.
 - **Xiamen Airlines** is a subsidiary of China Southern Airlines and is headquartered in Xiamen, Fujian Province. It has a fleet of over 200 aircraft and flies to over 60 destinations worldwide. In 2019, [China Southern left SkyTeam](https://simpleflying.com/china-southern-skyteam/), but interestingly Xiamen Airlines still remains a member.
 
 Together, these airlines provide travelers with a wide range of options for reaching their desired destinations, both within China and around the globe.
 
-### 6. Virgin Atlantic: A Hidden British Gem
+### 6. China Airlines: Taiwan's National Carrier
+
+China Airlines is the largest airline in Taiwan and is headquartered in Taoyuan International Airport and also serves Songshan Airport located in central Taipei. It has a fleet of over 90 aircraft and flies to over 150 destinations worldwide, connecting Asia to Europe, North America and the Pacific.
+
+### 7. Virgin Atlantic: A Hidden British Gem
 
 Virgin Atlantic is a unique and prominent British airline known for its innovative approach and customer-centric service. It joined SkyTeam in March 2023, being SkyTeam's first and only UK member airline.
 
@@ -77,7 +80,7 @@ Operating primarily out of London's Heathrow and Gatwick airports, as well as Ma
 
 Virgin Atlantic is on a mission to be carbon neutral by 2050, and has recently introduced new Business Class cabins on their A330neo aircraft.
 
-### 7. USA Still Strong With Delta Air Lines
+### 8. USA Still Strong With Delta Air Lines
 
 Are you going to miss United? Delta Air Lines boasts an extensive global network, connecting travelers to over 300 destinations across 50 countries. Its modern fleet, featuring state-of-the-art aircraft like the Airbus A350 and Boeing 787 Dreamliner, ensures a comfortable and enjoyable flying experience. 
 
