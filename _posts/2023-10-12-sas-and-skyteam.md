@@ -48,15 +48,13 @@ With SkyPriority, frequent flyers get complimentary upgrades, priority boarding,
 
 GOL Airlines is not a SkyTeam partner but a valuable partner for SkyTeam travelers seeking to explore South America's largest country. Both Air France-KLM and Delta have a significant stake in the company. With its extensive domestic network spanning over 60 destinations, GOL provides convenient connections to Brazil's iconic landmarks, from the bustling metropolis of São Paulo to the sun-kissed beaches of Rio de Janeiro and the lush rainforests of the Amazon.
 
-SkyTeam passengers can seamlessly integrate GOL flights into their itineraries, enjoying seamless connections and reciprocal benefits through the SkyTeam partnership (earning and redeeming miles on GOL flights too). GOL's modern fleet and commitment to on-time performance ensure a comfortable and reliable travel experience. Explore Brazil's diverse regions, from the vibrant cultural hub of Salvador to the breathtaking Iguazu Falls, all made accessible through GOL's extensive domestic connections.
+SkyTeam passengers can integrate GOL flights into their itineraries, enjoying both connections and reciprocal benefits through the SkyTeam partnership (earning and redeeming miles on GOL flights too). GOL's modern fleet and commitment to on-time performance ensure a comfortable and reliable travel experience.
 
 ### 4. Discover Argentina
 
-Aerolíneas Argentinas, the flag carrier of Argentina, is a key partner for SkyTeam members seeking to discover the wonders of this South American gem. With its extensive domestic network and seamless connections to SkyTeam's global network, Aerolíneas Argentinas opens up a world of possibilities for travelers to explore Argentina's diverse landscapes, vibrant cities, and rich cultural heritage.
+Aerolíneas Argentinas, the flag carrier of Argentina, is a key partner for SkyTeam members seeking to discover the wonders of this South American gem. With its extensive domestic network and seamless connections to SkyTeam's global network, Aerolíneas Argentinas opens up a world of possibilities for travelers to explore Argentina's diverse landscapes, vibrant cities, and rich cultural heritage. From the bustling urban center of Buenos Aires to the stunning landscapes of Patagonia, the Iguazu Falls in the northeast, or the wine regions of Mendoza.
 
-From the bustling urban center of Buenos Aires to the stunning landscapes of Patagonia, the Iguazu Falls in the northeast, or the wine regions of Mendoza, the airline ensures that the beauty and diversity of Argentina are accessible to everyone. 
-
-The airline also assures SkyTeam travelers of quality service, consistent with the standards they expect from the alliance. By flying with Aerolíneas Argentinas, SkyTeam travelers not only unlock the wonders of Argentina but also experience the warm hospitality and rich culture that the nation is renowned for.
+The airline also makes sure SkyTeam travelers of quality service, consistent with the standards they expect from the alliance: There's SkyPriority lanes in every airport, pre-departure lounges in Buenos Aires, plus fast-track and extra luggage allowance.
 
 ### 5. A Gateway To China
 
@@ -97,7 +95,7 @@ These meticulously designed suites are found on select Airbus A350 and A330-900n
 
 Launched in 2023, this revamped cabin takes your in-flight experience to the next level, mixing high-tech features with that signature French flair. A fully enclosed suite, where a sliding door gives you total privacy and peace, with a lie-flat seat, which turns into a cozy cocoon for restful sleep, complete with a plush duvet and a comfy pillow. 
 
-There's a massive 17.3-inch 4K high-definition touchscreen, while staying connected with super-fast Wi-Fi. Treat your taste buds to a symphony of delicious dishes created by top chefs, paired with a selection of fine wines handpicked by Air France's wine experts. Every detail is carefully designed to make your journey one to remember.
+There's a massive 17.3-inch 4K high-definition touchscreen, and super-fast Wi-Fi onboard. Treat your taste buds to a symphony of delicious dishes created by top chefs, paired with a selection of fine wines handpicked by Air France's wine experts. Every detail is carefully designed to make your journey one to remember.
 
 On top of that, Air France's La Première offers an exclusive first-class experience with spacious suites, personalized service, and Michelin-starred dining. Air France is set to introduce new La Première cabins in the upcoming months.
 
