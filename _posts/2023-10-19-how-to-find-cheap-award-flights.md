@@ -43,6 +43,9 @@ Creating an account is optional, but it's also free, and it gives you access to 
 
 ### 2. Select your favorite **Frequent Flyer Program**
 
+Tap on the **Loyalty Program** field and select one or more frequent flyer programs. You can choose among Air Canada Aeroplan, American AAdvantage, Alaska Mileage Plan, United MileagePlus, SAS EuroBonus, and Avianca Lifemiles.
+
+<img src="../assets/img/cheap-award-flights/ffp.webp" alt="Select a Frequent Flyer Program in AwardFares." />
 
 ### 3. Add a Route
 
@@ -68,58 +71,69 @@ In addition, you can also use the **+** button on AwardFares to get more details
 
 ### 5. Sort by Price
 
-No matter if you are exploring dates using the Timeline View or have selected a specific day, AwardFares will show you the available seats (with realtime data) withing seconds in the result list below.
+Whether you are exploring dates using the Timeline View or have selected a specific day, AwardFares will show you the available seats (with real-time data) within seconds in the result list below.
 
-You can tap on the different header columns to sort the results by price. Use the **Eco**, **Prem**, **Biz**, and **First** class tags to find cheap awards across the multiple dates, itinieraries, and airlines.
+You can tap on the different header columns to sort the results by price. Use the **Eco**, **Prem**, **Biz**, and **First** class tags to find cheap awards across multiple dates, itineraries, and airlines.
 
 <img src="../assets/img/cheap-award-flights/sort-by-price.gif" alt="How to find cheaps award flight using AwardFares." />
 
-#### Find The Cheapest Economy Class Awards
+#### Cheapest Award Flights in Economy Class
 
-In this case, we want to understand what are the cheapest days to fly in Economy Class using United MileagePlus miles from New York to London.
+In this case, we want to understand the cheapest days to fly in Economy Class using United MileagePlus miles from New York to London.
 
 With the Timeline View, we see there are plenty of available seats. We tap on the **Eco** column and sort award fights by price in Economy Class.
 
-AwardFares will show you
+AwardFares will show you all available seats sorted by price, and then by date.
 
 <img src="../assets/img/cheap-award-flights/sort-by-price-eco.webp" alt="How to find cheaps award flight using AwardFares." />
 
-As we see, the cheapest flights start on November 9th, an there are multiple options. You can tap the **[+]** icon to see the detailed view.
+As we see, the cheapest flights start on November 9th, with multiple options. You can tap the **[+]** icon for the detailed view.
 
-In this case, we see that a *saver* award in Economy is just 21.7k miles plus USD $5.6 in taxes, and there are over 9 seats available.
+In this case, we see that a *saver* award in Economy is just 21.7k miles plus USD 5.6 in taxes, and there are over nine seats available.
 
 <img src="../assets/img/cheap-award-flights/sort-by-price-eco-details.webp" alt="How to find cheaps award flight using AwardFares." />
 
 Similarly, you can explore other options (nonstop and with stopovers) going back to the result list.
 
-#### Find The Cheapest Premium Economy Awards
+#### Cheapest Award Flights in Premium Economy
 
-We can repeat the process but now tapping on the **Prem** column. Now AwardFares will sort results based on the prices for the Premium Economy cabin.
+Similarly, you can explore other options (nonstop and with stopovers) by returning to the result list.
 
-As we can see, the cheapest options in this cabin start in October 18th. All the options include at least one stopover, and most itineraries are mixed cabin (which means there is at least one segment in another cabin such as Economy).
+We can repeat the process but now tap on the **Prem** column. Now, AwardFares will sort results based on the prices for the Premium Economy cabin.
 
-By skimming through the results, you can easily identify what is the most convenient option for you at this price.
+As we can see, this cabin's cheapest options start on October 18th. All the options include at least one stopover, and most itineraries are mixed-cabin (which means there is at least one segment in another cabin, such as Economy).
 
-You can also keep scrolling to find more dates, or use the filters to exclude mixed cabin itineraries.
+By skimming through the results, you can quickly identify the most convenient options at this price point (50k miles).
+
+You can also keep scrolling to find more dates or use the filters to exclude mixed cabin itineraries.
 
 <img src="../assets/img/cheap-award-flights/sort-by-price-prem.webp" alt="How to find cheaps award flight using AwardFares." />
 
+#### Cheapest Award Flights in Business Class
 
-#### Find The Cheapest Business Class Awards
+Similarly, by tapping the **Biz** header, flights will be sorted by price in the Business Class cabin. In this case, we see plenty of seats at this price point (80k miles) almost daily.
 
 <img src="../assets/img/cheap-award-flights/sort-by-price-biz.webp" alt="How to find cheaps award flight using AwardFares." />
 
-#### Find The Cheapest First Class Awards
+#### Cheapest Award Flights in First Class
+
+Lastly, the hardest cabin to find and book: First. These redemptions are typically released last minute, so having AwardFares on your side can be a game changer when trying to score your dream award flight in First. Also, different programs can charge different prices and fees for the same seat. In addition, different airlines offer entirely different experiences (e.g., Lufthansa First tends to be much better than other airlines). Hence, it can be a determining factor when booking.
+
+In this case, from New York to London, we sort by price by tapping on the **First** column header. Then, we see that there are seats for October 21st. Both are mixed-cabin and require stopovers. But at the same price (121k miles), Lufthansa offers a convenient flight on an Airbus A340, with a quick stop in Munich. 
 
 <img src="../assets/img/cheap-award-flights/sort-by-price-first.webp" alt="How to find cheaps award flight using AwardFares." />
 
 ### 6. Book with the Airline
 
+Once you have identified the flights you want (or built an itinerary using our Journey Planner), go to the airline's website and make the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards on SAS EuroBonus). In those situations, you will need to call their service center.
+
+Rest assured that **if you see the seat available in AwardFares**, the availability is there. We rarely have accuracy issues with the seat inventory.
+
 ## How To Determine If You Are Getting A Good Redemption? {#eval}
 
 Traveling on award flights is a rewarding experience, but not all redemptions are the same, particularly with most programs switching to dynamic award charts. Some offer significantly better value than others. 
 
-So, how can you be certain you're getting a good deal with your hard-earned miles or points? Here’s a few things to keep in mind that will help you determine the worthiness of an award flight redemption.
+So, how can you be sure you're getting a good deal with your hard-earned miles or points? Here are a few things to remember that will help you determine the worthiness of an award flight redemption.
 
 ### The Cent-Per-Mile (CPM) Calculation
 
@@ -131,13 +145,13 @@ The same applies if your program uses points instead of miles (1 mile/point). Fo
 
 CPM = ($500 - $50) / 25,000 = 1.8 cents per mile
 
-Generally, a CPM above 1.5 cents (USD/EUR) in economy and higher in premium cabins is considered good, but this can vary by airline and route. It also varies depending on your currency.
+Generally, a CPM above 1.5 cents (USD/EUR) in Economy Class and higher in premium cabins is considered good, but this can vary by airline and route. It also varies depending on your currency.
 
-But beyond the absolute value, you can use this metric to compare different redemptions within the same program. If you are getting a 0.3 cent per point value on a fight between Stockholm and Frankfurt, but a 1.1 cent per point on a flight from Stockholm to Miami, it might be better to aim for the latter one, even if you need to rack up more points. Unless they expire soon, of course.
+But beyond the absolute value, you can use this metric to compare different redemptions within the same program. If you are getting a 0.3 cent per point value on a fight between Stockholm and Frankfurt but a 1.1 cent per point on a flight from Stockholm to Miami, it might be better to aim for the latter one, even if you need to rack up more points unless they expire soon, of course.
 
 ### Quick CPM Calculator
 
-Use the minitool below to calculate the CPM of your award flight. You can enter the price in any currency ($/€/£/SEK/NOK/DKK).
+Use the mini tool below to calculate the CPM of your award flight. You can enter the price in any currency ($/€/£/SEK/NOK/DKK).
 
 <div class="calculator">
     <label for="cashPrice">Cash Price of Ticket ($/€...): </label>
@@ -157,38 +171,38 @@ Use the minitool below to calculate the CPM of your award flight. You can enter 
 
 ### Consider the Cash Price
 
-Before redeeming miles, always check the cash price of the same ticket. If it's low, it might be more economical to pay cash and earn miles on that flight, saving your accumulated miles for a pricier ticket in the future. This can also be a good option to help you earn point faster and also qualify for elite status, getting better benefits in the long run.
+Before redeeming miles, always check the cash price of the same ticket. If it's low, paying cash and earning miles on that flight might be more economical, saving your accumulated miles for a pricier ticket in the future. This strategy can also be an excellent option to help you earn points faster and qualify for elite status, getting better benefits in the long run.
 
 ### Recognize the Value of Premium Redemptions
 
-Typically, using miles for premium cabins such as First and Business Class can often provide higher value, especially for long-haul flights. While the miles required might be significantly more, the experience, comfort, and amenities can make it worth it.
+Using miles for premium cabins such as First and Business Class can often provide higher value, especially for long-haul flights. While the miles required might be significantly more, the experience, comfort, and amenities can make it worth it.
 
-Airlines tend to have very aggressive deals and discounted fares for Economy Class tickets, and not so much for premium cabins. This means that you will likely get a higher CPM value on premium cabin flights and hence a better return.
+Airlines tend to have aggressive deals and discounted fares for Economy Class tickets and less for premium cabins. This means you will likely get a higher CPM value on premium cabin flights and a better return.
 
-Of course, it ultimately depends on what kind of travel you want to do (short haul or long haul), which destinations, and your travel group (solo, couple, family, etc.).
+Of course, it ultimately depends on what kind of travel you want (short or long haul), which destinations, and your travel group (solo, couple, family, etc.).
 
 ### Beware of High Taxes and Surcharges
 
 Some airlines have hefty fuel surcharges on award tickets, which can diminish the value of your redemption. Always calculate the total cost, including fees, to determine the true value.
 
-**Always check** and compare the same route served by different airlines. Onboard service and the experience you get is one thing to evaluate (some airlines have better planes, cabins and service than others), but can also charge heavy fees and surcharges.
+**Always check** and compare the same route served by different airlines. Onboard service and the experience you get are one thing to evaluate (some airlines have better planes, cabins, and service than others), but they can also charge heavy fees and surcharges.
 
-For example, the route Frankfurt to Los Angeles is served by Lufthansa, American and United, but United charges $12 in fees to book the award, while Lufthansa charges $136. That's a 10x difference!
+For example, the route from Frankfurt to Los Angeles is served by Lufthansa, American, and United, but United charges $12 in fees to book the award, while Lufthansa charges $136. That's a 10x difference!
 
 ### Compare Across Loyalty Programs
 
-The same flight can be available in more than one program! For example, you could book the same seat using Aeroplan Miles or SAS EuroBonus points, while having different price. Before booking, check which program has the same price and evaluate if you can book.
+The same flight can be available in more than one program! For example, you could book the same seat using Aeroplan Miles or SAS EuroBonus points while having different prices. Before booking, check which program has the same price and evaluate if you can book.
 
-This trick doesn't work if your points are not transferrable, but it is very handy if your points are convertible or your loyalty program has multiple transfer partners. For example, there are a ton of credit cards (like American Express) that allow you to send your points to a specific program.
+This trick only works if your points are transferrable, but it is convenient. For example, a ton of credit cards (like American Express) allow you to send your points to a specific program.
 
-With AwardFares, it's extremely simply to compare the price in different programs. Simple click on the **Expand** icon (+) and you'll see if the seat is available in other programs, and for how much.
+With AwardFares, comparing the prices in different programs is extremely simple. Simply click on the **Expand** icon (+), and you'll see if the seat is available in other programs and for how much.
 
 <img src="../assets/img/prices-and-mixed-cabins/prices.webp" alt="AwardFares Award Prices Expanded View." />
 
 
 ### Understand Seasonality and Demand
 
-Awards during peak travel times might require more miles. If possible, travel during off-peak seasons for better availability and value.
+Awards during peak travel times require more miles. Travel during off-peak seasons for better availability and value.
 
 Some programs offer different rates for high and low seasons, and they call it **saver** and **non-saver**. AwardFares shows this information clearly in the detailed view.
 
@@ -196,21 +210,21 @@ Some programs offer different rates for high and low seasons, and they call it *
 
 ### Set Up Alerts
 
-AwardFares can help you monitor and find the best award flight opportunities. Setting up alerts ensures you're informed as soon as a good redemption pops up, via email. We have [a full tutorial here](https://blog.awardfares.com/alerts/).
+AwardFares can help you monitor and find the best award flight opportunities. Setting up alerts ensures you're informed via email as soon as a good redemption pops up. We have [a full tutorial here](https://blog.awardfares.com/alerts/).
 
-We are already working on some feature requests, such as price-based alerts, so that you get a notification only for when a given seat becomes available at a certain price point. Stay tuned to our updates and make sure to [subscribe to our newsletter](https://awardfares.com/newsletter) to get all the latest information!
+We are already working on feature requests, such as price-based alerts, so you only get a notification when a given seat becomes available at a certain price point. Stay tuned to our updates, and make sure to [subscribe to our newsletter](https://awardfares.com/newsletter) to get all the latest information!
 
 ### Remember the Intangible Value
 
-While the CPM calculation is handy, sometimes the value of an award booking is more personal. Maybe it's the ability to attend a special family event or a once-in-a-lifetime trip. Not all good redemptions can be measured in cents per mile.
+While the CPM calculation is handy, sometimes the value of an award booking is more personal. It could be the ability to attend a special family event or a once-in-a-lifetime trip. Not all good redemptions can be measured in cents per mile.
 
-Determining the value of an award flight isn't solely about mathematics; it's also about personal value and the experiences that travel brings. Always weight the quantitative and qualitative aspects to ensure you're making the best choice for your travel needs and wishes.
+Determining the value of an award flight isn't solely about mathematics; it's also about personal value and the experiences that travel brings. Always weigh the quantitative and qualitative aspects to choose your travel needs and wishes best.
 
 ## Get started, and stay tuned
 
-With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can get access to premium features such unlimited daily searches, alerts, seat maps, flight schedules, and more!
+With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up to our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro-tips.
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
 ## Read more
 
@@ -224,7 +238,7 @@ Make sure to also check these posts out
         const cashPrice = parseFloat(document.getElementById("cashPrice").value);
         const taxesFees = parseFloat(document.getElementById("taxesFees").value);
         const milesUsed = parseFloat(document.getElementById("milesUsed").value);
-        const cpm = Math.max((cashPrice - taxesFees),0) / milesUsed *100;
+        const cpm = Math.max((cashPrice - taxesFees),0) / milesUsed;
         document.getElementById("result").value = cpm.toFixed(2);
     }
 </script>
