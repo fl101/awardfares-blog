@@ -139,7 +139,7 @@ So, how can you be sure you're getting a good deal with your hard-earned miles o
 
 To determine if you're getting good value, you can use the CPM calculation:
 
-CPM = (Cash Price of Ticket - Taxes and Fees) / Number of Miles Used
+**CPM** = (Cash Price of Ticket - Taxes and Fees) / Number of Miles Used
 
 The same applies if your program uses points instead of miles (1 mile/point). For example, if a flight costs $500 or 25,000 miles plus $50 in taxes and fees, the calculation would be:
 
@@ -238,7 +238,7 @@ Make sure to also check these posts out
         const cashPrice = parseFloat(document.getElementById("cashPrice").value);
         const taxesFees = parseFloat(document.getElementById("taxesFees").value);
         const milesUsed = parseFloat(document.getElementById("milesUsed").value);
-        const cpm = Math.max((cashPrice - taxesFees),0) / milesUsed;
+        const cpm = Math.max((cashPrice - taxesFees), 0) / milesUsed;
         document.getElementById("result").value = cpm.toFixed(2);
     }
 </script>

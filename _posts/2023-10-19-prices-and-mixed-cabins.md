@@ -25,6 +25,9 @@ We are committed to enhancing your travel experience and take your journey plann
 
 ## Award Prices {#prices}
 
+***ALSO READ**: Check [our detailed guide on how to use AwardFares' pricing to find cheap award flights](https://blog.awardfares.com/how-to-find-cheap-award-flights/).
+
+
 Once you log in to AwardFares, select a frequent flyer program and perform a search, you will notice new colored *pills* in the result list below.
 
 Inside, each pill shows the number of points or miles required to redeem the award flight. Below the pill, you will also see how many seats are available in that cabin.
@@ -163,6 +166,7 @@ You can [try AwardFares for free](https://awardfares.com/). We are rolling out n
 
 Make sure to also check these posts out
 
+- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
