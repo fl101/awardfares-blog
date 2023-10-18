@@ -64,18 +64,43 @@ Alternatively, you can use AwardFares **Timeline View** to explore the seat avai
 
 In addition, you can also use the **+** button on AwardFares to get more details about those flights, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free versus occupied!
 
-<img src="../assets/img/cheap-award-flights/timeline-vew.webp" alt="How to find cheaps award flight using AwardFares." />
+<img src="../assets/img/cheap-award-flights/timeline-view.webp" alt="How to find cheaps award flight using AwardFares." />
 
 ### 5. Sort by Price
 
+No matter if you are exploring dates using the Timeline View or have selected a specific day, AwardFares will show you the available seats (with realtime data) withing seconds in the result list below.
+
+You can tap on the different header columns to sort the results by price. Use the **Eco**, **Prem**, **Biz**, and **First** class tags to find cheap awards across the multiple dates, itinieraries, and airlines.
+
+<img src="../assets/img/cheap-award-flights/sort-by-price.gif" alt="How to find cheaps award flight using AwardFares." />
+
 #### Find The Cheapest Economy Class Awards
+
+In this case, we want to understand what are the cheapest days to fly in Economy Class using United MileagePlus miles from New York to London.
+
+With the Timeline View, we see there are plenty of available seats. We tap on the **Eco** column and sort award fights by price in Economy Class.
+
+AwardFares will show you
 
 <img src="../assets/img/cheap-award-flights/sort-by-price-eco.webp" alt="How to find cheaps award flight using AwardFares." />
 
+As we see, the cheapest flights start on November 9th, an there are multiple options. You can tap the **[+]** icon to see the detailed view.
+
+In this case, we see that a *saver* award in Economy is just 21.7k miles plus USD $5.6 in taxes, and there are over 9 seats available.
+
 <img src="../assets/img/cheap-award-flights/sort-by-price-eco-details.webp" alt="How to find cheaps award flight using AwardFares." />
 
+Similarly, you can explore other options (nonstop and with stopovers) going back to the result list.
 
 #### Find The Cheapest Premium Economy Awards
+
+We can repeat the process but now tapping on the **Prem** column. Now AwardFares will sort results based on the prices for the Premium Economy cabin.
+
+As we can see, the cheapest options in this cabin start in October 18th. All the options include at least one stopover, and most itineraries are mixed cabin (which means there is at least one segment in another cabin such as Economy).
+
+By skimming through the results, you can easily identify what is the most convenient option for you at this price.
+
+You can also keep scrolling to find more dates, or use the filters to exclude mixed cabin itineraries.
 
 <img src="../assets/img/cheap-award-flights/sort-by-price-prem.webp" alt="How to find cheaps award flight using AwardFares." />
 
@@ -158,12 +183,16 @@ This trick doesn't work if your points are not transferrable, but it is very han
 
 With AwardFares, it's extremely simply to compare the price in different programs. Simple click on the **Expand** icon (+) and you'll see if the seat is available in other programs, and for how much.
 
+<img src="../assets/img/prices-and-mixed-cabins/prices.webp" alt="AwardFares Award Prices Expanded View." />
+
+
 ### Understand Seasonality and Demand
 
 Awards during peak travel times might require more miles. If possible, travel during off-peak seasons for better availability and value.
 
 Some programs offer different rates for high and low seasons, and they call it **saver** and **non-saver**. AwardFares shows this information clearly in the detailed view.
 
+<img src="../assets/img/prices-and-mixed-cabins/saver-vs-nonsaver.webp" alt="AwardFares Award Flight Search Engine With Flight Prices." />
 
 ### Set Up Alerts
 
