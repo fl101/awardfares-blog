@@ -52,30 +52,43 @@ In the example below, we search for flights between New York City and London. No
 
 Although this step is optional because you can explore available routes within our cached results, adding one or a few origin/destination airports is recommended to get fresh results and the latest availability.
 
-<img src="/assets/img/alaska-partners-2023/route.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Search for a route." />
+<img src="../assets/img/cheap-award-flights/route.webp" alt="How to find cheaps award flight using AwardFares." />
 
 ### 4. Explore dates
 
 If you have a particular date in mind, add it by tapping on the **Calendar** field.
 
-<img src="/assets/img/alaska-partners-2023/date.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Choose date." />
+<img src="../assets/img/cheap-award-flights/calendar.webp" alt="How to find cheaps award flight using AwardFares." />
 
 Alternatively, you can use AwardFares **Timeline View** to explore the seat availability on different dates. The Timeline View displays how many seats are available for each day of the week/month. The bars are color-coded, so it's easy to distinguish between cabin classes (Economy, Business, First). You can also trigger new searches by tapping the refresh icon underneath each day.
 
 In addition, you can also use the **+** button on AwardFares to get more details about those flights, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free versus occupied!
 
-<img src="/assets/img/alaska-partners-2023/flight-details.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Flight details." />
+<img src="../assets/img/cheap-award-flights/timeline-vew.webp" alt="How to find cheaps award flight using AwardFares." />
 
 ### 5. Sort by Price
 
 #### Find The Cheapest Economy Class Awards
 
+<img src="../assets/img/cheap-award-flights/sort-by-price-eco.webp" alt="How to find cheaps award flight using AwardFares." />
+
+<img src="../assets/img/cheap-award-flights/sort-by-price-eco-details.webp" alt="How to find cheaps award flight using AwardFares." />
+
+
+#### Find The Cheapest Premium Economy Awards
+
+<img src="../assets/img/cheap-award-flights/sort-by-price-prem.webp" alt="How to find cheaps award flight using AwardFares." />
+
+
 #### Find The Cheapest Business Class Awards
+
+<img src="../assets/img/cheap-award-flights/sort-by-price-biz.webp" alt="How to find cheaps award flight using AwardFares." />
 
 #### Find The Cheapest First Class Awards
 
-### 6. Book with the Airline
+<img src="../assets/img/cheap-award-flights/sort-by-price-first.webp" alt="How to find cheaps award flight using AwardFares." />
 
+### 6. Book with the Airline
 
 ## How To Determine If You Are Getting A Good Redemption? {#eval}
 
