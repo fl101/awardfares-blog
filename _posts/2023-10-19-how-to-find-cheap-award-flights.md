@@ -110,23 +110,23 @@ Generally, a CPM above 1.5 cents in economy and higher in premium cabins is cons
 
 But beyond the absolute value, you can use this metric to compare different redemptions within the same program. If you are getting a 0.3 cent per point value on a fight between Stockholm and Frankfurt, but a 1.1 cent per point on a flight from Stockholm to Miami, it might be better to aim for the latter one, even if you need to rack up more points. Unless they expire soon, of course.
 
-#### CPM Calculator 
+#### CPM Calculator
 
-Use the minitool below to calculate the CPM of your award flight.
+Use the minitool below to calculate the CPM of your award flight. You can enter the price in any currency ($/€/£/SEK/NOK/DKK).
 
 <div class="calculator">
-    <label for="cashPrice">Cash Price of Ticket ($/€/£/SEK/NOK/DKK): </label>
+    <label for="cashPrice">Cash Price of Ticket ($/€...): </label>
     <input type="number" id="cashPrice" placeholder="e.g., 500">
     <br><br>
-    <label for="taxesFees">Taxes and Fees ($/€/£/SEK/NOK/DKK): </label>
+    <label for="taxesFees">Taxes and Fees: </label>
     <input type="number" id="taxesFees" placeholder="e.g., 50">
     <br><br>
-    <label for="milesUsed">Number of Miles Used: </label>
+    <label for="milesUsed">Number of Miles/Points Used: </label>
     <input type="number" id="milesUsed" placeholder="e.g., 25000">
     <br><br>
     <button class="btn" onclick="calculateCPM()">Calculate CPM</button>
     <br><br>
-    <label for="result">CPM (cents-per-mile): </label>
+    <label for="result">CPM (cents-per-mile/point): </label>
     <input type="text" id="result" readonly>
 </div>
 
@@ -195,7 +195,7 @@ Make sure to also check these posts out
         const cashPrice = parseFloat(document.getElementById("cashPrice").value);
         const taxesFees = parseFloat(document.getElementById("taxesFees").value);
         const milesUsed = parseFloat(document.getElementById("milesUsed").value);
-        const cpm = (cashPrice - taxesFees) / milesUsed;
-        document.getElementById("result").value = cpm.toFixed(4) + " cents/mile";
+        const cpm = Math.max((cashPrice - taxesFees),0) / milesUsed;
+        document.getElementById("result").value = cpm.toFixed(4) + " cents/mile/point";
     }
 </script>
