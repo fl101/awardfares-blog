@@ -51,7 +51,7 @@ Tap on the **Loyalty Program** field and select one or more frequent flyer progr
 
 In the **Origin** and **Destination** fields, add one or more airports to search for flights between those locations. AwardFares will search for award flights regardless of the number of stops. You can use the **Stops** filter to only search for direct/non-stop flights.
 
-In the example below, we search for flights between New York City and London. Note that we use the metropolitan area codes **NYC** and **LHR** to get results to and from any airport in New York (JFK, EWR, LGA) and London (LHR, LGW).
+In the example below, we search for flights [between New York City and London](https://awardfares.com/search?area:NYC.area:LON.;so:a;z:united). Note that we use the metropolitan area codes **NYC** and **LHR** to get results to and from any airport in New York (JFK, EWR, LGA) and London (LHR, LGW).
 
 Although this step is optional because you can explore available routes within our cached results, adding one or a few origin/destination airports is recommended to get fresh results and the latest availability.
 
