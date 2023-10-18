@@ -27,17 +27,19 @@ This guide tells you exactly how to leverage AwardFares to search and find cheap
 
 ## Useful Reads {#preread}
 
-If you want to get familiar with how frequent flyer programs work in general, and how they determine the prices of award flights, you might want to check these posts we wrote.
+If you want to get familiar with how frequent flyer programs work and how they determine the prices of award flights, check these posts we wrote.
 
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
 - [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+- [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
+
 
 ## How To Find Cheap Award Flights (In Economy, Business, and First Class) {#how-to}
 
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup)
 
-Creating an account is optional, but it's also free and it gives you access to more features. Make sure to [sign up for one here](https://awardfares.com/signup).
+Creating an account is optional, but it's also free, and it gives you access to more features. Make sure to [sign up for one here](https://awardfares.com/signup).
 
 ### 2. Select your favorite **Frequent Flyer Program**
 
@@ -46,21 +48,21 @@ Creating an account is optional, but it's also free and it gives you access to m
 
 In the **Origin** and **Destination** fields, add one or more airports to search for flights between those locations. AwardFares will search for award flights regardless of the number of stops. You can use the **Stops** filter to only search for direct/non-stop flights.
 
-In the example below, we search for flights between New York City and London. Note that we use the metropolitan area code **NYC** and **LHR** to get results to and from any airport in New York (JFK, EWR, LGA) and London (LHR, LGW).
+In the example below, we search for flights between New York City and London. Note that we use the metropolitan area codes **NYC** and **LHR** to get results to and from any airport in New York (JFK, EWR, LGA) and London (LHR, LGW).
 
-Although this step is optional because you can explore available routes within our cached results, it's recommended to add one or a few origin/destination airports to get fresh results and the latest availability.
+Although this step is optional because you can explore available routes within our cached results, adding one or a few origin/destination airports is recommended to get fresh results and the latest availability.
 
 <img src="/assets/img/alaska-partners-2023/route.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Search for a route." />
 
 ### 4. Explore dates
 
-If you have a certain date in mind, add it by tapping on the **Calendar** field.
+If you have a particular date in mind, add it by tapping on the **Calendar** field.
 
 <img src="/assets/img/alaska-partners-2023/date.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Choose date." />
 
-Alternatively, you can use AwardFares **Timeline View** to explore the seat availability on different dates. The Timeline View displays how many seats are available for each day of the week/month. The bars are color-coded, so it's easy to distinguish between cabin classes (Economy, Business, First). You can also trigger new searches by tapping on the refresh icon underneath each day.
+Alternatively, you can use AwardFares **Timeline View** to explore the seat availability on different dates. The Timeline View displays how many seats are available for each day of the week/month. The bars are color-coded, so it's easy to distinguish between cabin classes (Economy, Business, First). You can also trigger new searches by tapping the refresh icon underneath each day.
 
-In addition, you can also use the **+** button on AwardFares to get more details about those flights, such as aircraft type and even get the real seat maps to see which seats are free vs. occupied!
+In addition, you can also use the **+** button on AwardFares to get more details about those flights, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free versus occupied!
 
 <img src="/assets/img/alaska-partners-2023/flight-details.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Flight details." />
 
@@ -150,12 +152,11 @@ Awards during peak travel times might require more miles. If possible, travel du
 Some programs offer different rates for high and low seasons, and they call it **saver** and **non-saver**. AwardFares shows this information clearly in the detailed view.
 
 
-### Utilize Award Booking Tools and Alerts
+### Set Up Alerts
 
-Platforms like AwardFares can help monitor and find the best award flight opportunities. Setting up alerts ensures you're informed as soon as a good redemption pops up.
+AwardFares can help you monitor and find the best award flight opportunities. Setting up alerts ensures you're informed as soon as a good redemption pops up, via email. We have [a full tutorial here](https://blog.awardfares.com/alerts/).
 
 We are already working on some feature requests, such as price-based alerts, so that you get a notification only for when a given seat becomes available at a certain price point. Stay tuned to our updates and make sure to [subscribe to our newsletter](https://awardfares.com/newsletter) to get all the latest information!
-
 
 ### Remember the Intangible Value
 
@@ -163,18 +164,18 @@ While the CPM calculation is handy, sometimes the value of an award booking is m
 
 Determining the value of an award flight isn't solely about mathematics; it's also about personal value and the experiences that travel brings. Always weight the quantitative and qualitative aspects to ensure you're making the best choice for your travel needs and wishes.
 
+## Get started, and stay tuned
 
-## Get started, and stay tuned.
+With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can get access to premium features such unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up to our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro-tips.
 
 ## Read more
 
 Make sure to also check these posts out
 
-- [Introducing New Frequent Flyer Programs, Area Searches & More Exciting Features
-  ](https://blog.awardfares.com/new-programs-and-features/)
-- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
+- [Introducing Award Prices And Mixed Cabin Flights](https://blog.awardfares.com/prices-and-mixed-cabins/)
+- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 
 <script>
     function calculateCPM() {
