@@ -195,7 +195,7 @@ Make sure to also check these posts out
         const cashPrice = parseFloat(document.getElementById("cashPrice").value);
         const taxesFees = parseFloat(document.getElementById("taxesFees").value);
         const milesUsed = parseFloat(document.getElementById("milesUsed").value);
-        const cpm = Math.max((cashPrice - taxesFees),0) / milesUsed;
+        const cpm = Math.max((cashPrice - taxesFees),0) / milesUsed * 100;
         document.getElementById("result").value = cpm.toFixed(4) + " cents/mile/point";
     }
 </script>
