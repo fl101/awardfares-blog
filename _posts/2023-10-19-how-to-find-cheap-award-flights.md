@@ -106,11 +106,11 @@ The same applies if your program uses points instead of miles (1 mile/point). Fo
 
 CPM = ($500 - $50) / 25,000 = 1.8 cents per mile
 
-Generally, a CPM above 1.5 cents in economy and higher in premium cabins is considered good, but this can vary by airline and route. It also varies depending on your currency.
+Generally, a CPM above 1.5 cents (USD/EUR) in economy and higher in premium cabins is considered good, but this can vary by airline and route. It also varies depending on your currency.
 
 But beyond the absolute value, you can use this metric to compare different redemptions within the same program. If you are getting a 0.3 cent per point value on a fight between Stockholm and Frankfurt, but a 1.1 cent per point on a flight from Stockholm to Miami, it might be better to aim for the latter one, even if you need to rack up more points. Unless they expire soon, of course.
 
-#### CPM Calculator
+### Quick CPM Calculator
 
 Use the minitool below to calculate the CPM of your award flight. You can enter the price in any currency ($/€/£/SEK/NOK/DKK).
 
@@ -195,7 +195,7 @@ Make sure to also check these posts out
         const cashPrice = parseFloat(document.getElementById("cashPrice").value);
         const taxesFees = parseFloat(document.getElementById("taxesFees").value);
         const milesUsed = parseFloat(document.getElementById("milesUsed").value);
-        const cpm = Math.max((cashPrice - taxesFees),0) / milesUsed * 100;
-        document.getElementById("result").value = cpm.toFixed(4) + " cents/mile/point";
+        const cpm = Math.max((cashPrice - taxesFees),0) / milesUsed *100;
+        document.getElementById("result").value = cpm.toFixed(2);
     }
 </script>
