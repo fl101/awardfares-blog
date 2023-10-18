@@ -3,7 +3,7 @@
   var NO_RESULTS_MESSAGE_ID = "not-found";
   var SEARCH_RESULTS_CONTAINER_ID = "search-results";
   var QUERY_VARIABLE_URL_STRING = "query";
-  var SEARCH_QUERY_ID = 'search-query';
+  var SEARCH_QUERY_ID = "search-query";
 
   function getQueryVariable(queryParam) {
     var query = window.location.search.substring(1);
@@ -23,7 +23,9 @@
   }
 
   function setSearchBoxValue(searchBoxValue) {
-    document.getElementById(SEARCH_BOX_ID).setAttribute("value", searchBoxValue);
+    document
+      .getElementById(SEARCH_BOX_ID)
+      .setAttribute("value", searchBoxValue);
     document.getElementById(SEARCH_QUERY_ID).innerText = searchBoxValue;
   }
 
@@ -37,7 +39,12 @@
   }
 
   function createPostListingHTML(postItem) {
-    var headingHTML = "<a class='search-link' href='" + postItem.url + "''>" + postItem.title + "</a>";
+    var headingHTML =
+      "<a class='search-link' href='" +
+      postItem.url +
+      "''>" +
+      postItem.title +
+      "</a>";
     var metaHTML = "<div class='date'>" + postItem.date + "</div>";
     var descriptionHTML = ""; // "<p>" + postItem.content.substring(0, 150) + "...</p>";
     return headingHTML + metaHTML + descriptionHTML;
@@ -70,12 +77,16 @@
       }
     });
 
-    var results = lunrIndex.search(searchTerm);
+    var results = lunrIndex.search(searchTerm).sort((a, b) => {
+      const aValue = store[a.ref];
+      const bValue = store[b.ref];
+      return new Date(bValue.sortDate) - new Date(aValue.sortDate);
+    });
     displaySearchResults(results, window.store);
   }
 
-  fetch('/search.json').then(resp => {
-    resp.json().then(json => {
+  fetch("/search.json").then((resp) => {
+    resp.json().then((json) => {
       window.store = json;
       var searchTerm = getSearchTerm();
       if (searchTerm) {
@@ -83,5 +94,4 @@
       }
     });
   });
-
 })();
