@@ -18,24 +18,21 @@ However, with the fluctuating value of miles and points, the shift to dynamic aw
 
 This guide tells you exactly how to leverage AwardFares to search and find cheap award flights across multiple frequent flyer programs and airlines. In addition, we also guide you through all you need to know to determine if you are getting a good redemption, helping you make more informed decisions when booking award flights.
 
-
 ### In This Post
 
-- [Useful Reads](#preread)
+- [Getting Started](#preread)
 - [How To Find Cheap Award Flights (Step-by-step)](#how-to)
 - [How To Determine If You Are Getting A Good Redemption?](#eval)
 
-## Useful Reads {#preread}
+## Getting Strated: Pre-reads {#preread}
 
-If you want to get familiar with how frequent flyer programs work and how they determine the prices of award flights, check these posts we wrote.
+These are optional, but if you want to get familiar with how frequent flyer programs work and how they determine the prices of award flights, check these posts.
 
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
 - [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
 - [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 
-
 ## How To Find Cheap Award Flights (In Economy, Business, and First Class) {#how-to}
-
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup)
 
