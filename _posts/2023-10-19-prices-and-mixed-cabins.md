@@ -23,7 +23,7 @@ We are committed to enhancing your travel experience and take your journey plann
 
 ## Award Prices {#prices}
 
-***ALSO READ**: Check [our detailed guide on how to use AwardFares' pricing to find cheap award flights](https://blog.awardfares.com/how-to-find-cheap-award-flights/).
+**ALSO READ**: Check [our detailed guide on how to use AwardFares' pricing to find cheap award flights](https://blog.awardfares.com/how-to-find-cheap-award-flights/).
 
 
 Once you log in to AwardFares, select a frequent flyer program and perform a search, you will notice new colored *pills* in the result list below.

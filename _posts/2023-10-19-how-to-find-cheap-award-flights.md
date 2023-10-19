@@ -236,3 +236,49 @@ Make sure to also check these posts out
         document.getElementById("result").value = cpm.toFixed(2);
     }
 </script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "HowTo", 
+  "name": "How to find cheap award flights",
+  "description": "Step-by-step guide on how to search and find cheap award flights using AwardFares. The steps are valid for every cabin class, including Economy, Premium Economy, Business, and First Class.",
+  "totalTime": "PT5M",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "0"
+  },
+  "tool": {
+    "@type": "HowToTool",
+    "name": "AwardFares"
+  },
+  "step": [{
+    "@type": "HowToStep",
+    "text": "Go to AwardFares. Creating an account is optional, but it gives you access to extra features.",
+    "name": "Go to AwardFares Website",
+    "url": "https://awardfares.com/search"
+  },{
+    "@type": "HowToStep",
+    "text": "Using the Frequent Flyer Program picker, choose your favorite loyalty program.",
+    "name": "Select a Frequent Flyer Program"
+  },{
+    "@type": "HowToStep",
+    "text": "Add one or more Origin and Destination airports (up to five) to search for award flights on those routes.",
+    "name": "Add a Route"
+  },{
+    "@type": "HowToStep",
+    "text": "If you have a particular date, add it using the Calendar field. Alternatively, you can use AwardFares Timeline View to explore the seat availability on different dates.",
+    "name": "Explore dates"
+  },{
+    "@type": "HowToStep",
+    "text": "In the search results list, tap on the different header columns to sort the results by price. Use the Eco, Prem, Biz, and First Class tags to find cheap awards across multiple dates, itineraries, and airlines.",
+    "name": "Sort by Price"
+  },{
+    "@type": "HowToStep",
+    "text": "Once you have identified the flights you want (or built an itinerary using our Journey Planner), go to the airline’s website and make the booking. Remember that some itineraries are not bookable online for specific programs (e.g., mixed-cabin awards on SAS EuroBonus). In those situations, you will need to call their service center.",
+    "name": "Book with the airline"
+  }]    
+}
+</script>
