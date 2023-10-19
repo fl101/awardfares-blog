@@ -6,8 +6,6 @@ tags: [Features]
 author: Germán
 image: /assets/img/prices-and-mixed-cabins/cover.webp
 video: https://www.youtube.com/embed/3oh2TBgMtNw
-hidden: true
-sitemap: false
 ---
 
 We are thrilled to unveil a set of game-changing features that will redefine the way you explore and book award flights. In this occasion, we are introducing award prices and mixed-cabin award searches.
