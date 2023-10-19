@@ -26,12 +26,12 @@ Here are the number of days in advance that some popular frequent flyer program 
 
 | Frequent Flyer Program | Days in advance | Date from today |
 | ---------------------- | --------------- | --------------- |
-| Air Canada Aeroplan    | 365             | <span></span>   |
-| American AAdvantage    | 331             | <span></span>   |
-| Alaska Mileage Plan    | 330             | <span></span>   |
-| United MileagePlus     | 337             | <span></span>   |
-| SAS EuroBonus          | 360             | <span></span>   |
-| Avianca LifeMiles      | 360             | <span></span>   |
+| [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan)    | 365             | <span></span>   |
+| [American AAdvantage](https://awardfares.com/search?..;z:aadvantage)    | 331             | <span></span>   |
+| [Alaska Mileage Plan](https://awardfares.com/search?..;z:alaska)    | 330             | <span></span>   |
+| [United MileagePlus](https://awardfares.com/search?..;z:united)     | 337             | <span></span>   |
+| [SAS EuroBonus](https://awardfares.com/search?..;z:sas)          | 360             | <span></span>   |
+| [Avianca LifeMiles](https://awardfares.com/search?..;z:lifemiles)      | 360             | <span></span>   |
 | Delta Skymiles         | 331             | <span></span>   |
 | Air France-KLM Flying Blue | 359         | <span></span>   |
 
@@ -103,7 +103,7 @@ Notes:
 
 | Airline                                     | Days in advance   | Date from today |
 | ------------------------------------------- | ------------------| --------------- |
-| Aerolíneas Argentinas                       | ~330              | <span></span>   |
+| Aerolíneas Argentinas                       | ~ 330              | <span></span>   |
 | Aeroméxico                                  | 330               | <span></span>   |
 | Air Europa                                  | ~330              | <span></span>   |
 | Air France                                  | 305-359           | <span></span>   |
@@ -122,6 +122,8 @@ Notes:
 | Vietnam Airlines                            | ~330              | <span></span>   |
 | XiamenAir                                   | ~330              | <span></span>   |
 
+Notes:
+
 - (6) ITA Airways announced it will leave SkyTeam and join Star Alliance. Date is undefined.
 
 #### Other Airlines/Programs
@@ -135,7 +137,6 @@ Notes:
 | LATAM Airlines LATAM Pass                   | 330                     | <span></span>   |
 | GOL Smiles                                  | 330 on GOL. Up to 330 on partners.   | -  |
 | JetBlue                                     | Not a fixed schedule. Can release up to 10 months in advance. | -   |
-
 
 ## Get started, and stay tuned
 
