@@ -93,38 +93,41 @@ Notes:
 | Qantas                                      | 353                     | <span></span>   |
 | Qatar Airways                               | 361                     | <span></span>   |
 | Royal Air Maroc                             | 330                     | <span></span>   |
-| Royal Jordanian (Economy Class)             | 330                     | <span></span>   |
+| Royal Jordanian <sup>6</sup> (Economy)      | 330                     | <span></span>   |
 | SriLankan Airlines                          | 360                     | <span></span>   |
 | Fiji Airways                                | 330                     | <span></span>   |
-| Oman Air                                    | 300-33                  | <span></span>   |
+| Oman Air                                    | 300 - 330               | <span></span>   |
 
+Notes:
+
+- (6) In Business Class, redemption can start as early as 180 days, but there's no official statement from the airline. Typically, they also get released close to departure date.
 
 #### Skyteam
 
 | Airline                                     | Days in advance   | Date from today |
 | ------------------------------------------- | ------------------| --------------- |
-| Aerolíneas Argentinas                       | ~ 330              | <span></span>   |
+| Aerolíneas Argentinas                       | 330               | <span></span>   |
 | Aeroméxico                                  | 330               | <span></span>   |
-| Air Europa                                  | ~330              | <span></span>   |
-| Air France                                  | 305-359           | <span></span>   |
-| ITA Airways <sup>6</sup>                    | ~330              | <span></span>   |
-| China Airlines                              | ~330              | <span></span>   |
-| China Eastern                               | ~330              | <span></span>   |
-| Czech Airlines                              | ~330              | <span></span>   |
+| Air Europa                                  | 330               | <span></span>   |
+| Air France                                  | 305 - 359         | <span></span>   |
+| ITA Airways <sup>7</sup>                    | 330               | <span></span>   |
+| China Airlines                              | 330              | <span></span>   |
+| China Eastern                               | 330              | <span></span>   |
+| Czech Airlines                              | 330              | <span></span>   |
 | Delta Air Lines                             | 330               | <span></span>   |
-| Garuda Indonesia                            | ~330              | <span></span>   |
-| Kenya Airways                               | ~330              | <span></span>   |
+| Garuda Indonesia                            | 330              | <span></span>   |
+| Kenya Airways                               | 330              | <span></span>   |
 | KLM                                         | 359               | <span></span>   |
 | Korean Air                                  | 330               | <span></span>   |
-| Middle East Airlines                        | ~330              | <span></span>   |
-| Saudia                                      | ~330              | <span></span>   |
-| TAROM                                       | ~330              | <span></span>   |
-| Vietnam Airlines                            | ~330              | <span></span>   |
-| XiamenAir                                   | ~330              | <span></span>   |
+| Middle East Airlines                        | 330              | <span></span>   |
+| Saudia                                      | 330              | <span></span>   |
+| TAROM                                       | 330              | <span></span>   |
+| Vietnam Airlines                            | 330              | <span></span>   |
+| XiamenAir                                   | 330              | <span></span>   |
 
 Notes:
 
-- (6) ITA Airways announced it will leave SkyTeam and join Star Alliance. Date is undefined.
+- (7) ITA Airways announced it will leave SkyTeam and join Star Alliance. Date is undefined.
 
 #### Other Airlines/Programs
 
