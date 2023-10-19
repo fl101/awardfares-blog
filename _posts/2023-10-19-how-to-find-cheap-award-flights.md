@@ -62,7 +62,7 @@ If you have a particular date in mind, add it by tapping on the **Calendar** fie
 
 Alternatively, you can use AwardFares **Timeline View** to explore the seat availability on different dates. The Timeline View displays how many seats are available for each day of the week/month. The bars are color-coded, so it's easy to distinguish between cabin classes (Economy, Business, First). You can also trigger new searches by tapping the refresh icon underneath each day.
 
-In addition, you can also use the **+** button on AwardFares to get more details about those flights, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free versus occupied!
+In addition, you can also tap anywhere on the flight to display more details in an expanded view, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free versus occupied!
 
 <img src="../assets/img/cheap-award-flights/timeline-view.webp" alt="How to find cheaps award flight using AwardFares." />
 
@@ -84,7 +84,7 @@ AwardFares will show you all available seats sorted by price, and then by date.
 
 <img src="../assets/img/cheap-award-flights/sort-by-price-eco.webp" alt="How to find cheaps award flight using AwardFares." />
 
-As we see, the cheapest flights start on November 9th, with multiple options. You can tap the **[+]** icon for the detailed view.
+As we see, the cheapest flights start on November 9th, with multiple options. You can tap the anywhere on the flight to show the detailed view.
 
 In this case, we see that a *saver* award in Economy is just 21.7k miles plus USD 5.6 in taxes, and there are over nine seats available.
 
@@ -124,7 +124,6 @@ In this case, from New York to London, we sort by price by tapping on the **Firs
 
 Once you have identified the flights you want (or built an itinerary using our Journey Planner), go to the airline's website and make the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards on SAS EuroBonus). In those situations, you will need to call their service center.
 
-Rest assured that **if you see the seat available in AwardFares**, the availability is there. We rarely have accuracy issues with the seat inventory.
 
 ## How To Determine If You Are Getting A Good Redemption? {#eval}
 
@@ -190,7 +189,7 @@ For example, the route from Frankfurt to Los Angeles is served by Lufthansa, Ame
 
 The same flight can be available in more than one program! For example, you could book the same seat using Aeroplan Miles or SAS EuroBonus points while having different prices. Before booking, check which program has the same price and evaluate if you can book.
 
-This trick only works if your points are transferrable, but it is convenient. For example, a ton of credit cards (like American Express) allow you to send your points to a specific program.
+This trick only works if you collect points in multiple programs, or if your points are transferrable. For example, a ton of credit cards (like American Express) allow you to send your points to a specific program.
 
 With AwardFares, comparing the prices in different programs is extremely simple. Simply click on the **Expand** icon (+), and you'll see if the seat is available in other programs and for how much.
 

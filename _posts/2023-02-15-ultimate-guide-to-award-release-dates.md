@@ -109,8 +109,8 @@ Notes:
 | Aerolíneas Argentinas                       | 330               | <span></span>   |
 | Aeroméxico                                  | 330               | <span></span>   |
 | Air Europa                                  | 330               | <span></span>   |
-| Air France                                  | 305 - 359         | <span></span>   |
-| ITA Airways <sup>7</sup>                    | 330               | <span></span>   |
+| Air France  <sup>7</sup>                    | 359               | <span></span>   |
+| ITA Airways <sup>8</sup>                    | 330               | <span></span>   |
 | China Airlines                              | 330              | <span></span>   |
 | China Eastern                               | 330              | <span></span>   |
 | Czech Airlines                              | 330              | <span></span>   |
@@ -127,7 +127,8 @@ Notes:
 
 Notes:
 
-- (7) ITA Airways announced it will leave SkyTeam and join Star Alliance. Date is undefined.
+- (7) From some users' experience, availability on certain routes/code share flights gets released anywhere between 305 and 359 days in advance.
+- (8) ITA Airways announced it will leave SkyTeam and join Star Alliance. Date is undefined.
 
 #### Other Airlines/Programs
 
@@ -137,9 +138,12 @@ Notes:
 | Southwest                                   | 180 - 240               | <span></span>   |
 | Frontier                                    | 180 - 240               | <span></span>   |
 | Spirit Airlines                             | 330                     | <span></span>   |
+| JetBlue                                     | 331                     | <span></span>   |
+| Emirates                                    | 328                     | <span></span>   |
+| Etihad                                      | 330                     | <span></span>   |
 | LATAM Airlines LATAM Pass                   | 330                     | <span></span>   |
-| GOL Smiles                                  | 330 on GOL. Up to 330 on partners.   | -  |
-| JetBlue                                     | Not a fixed schedule. Can release up to 10 months in advance. | -   |
+| GOL Smiles (on GOL flights)                 | 330                     | <span></span>   |
+| GOL Smiles (on partner airlines)            | Varies, up to 330       | -               |
 
 ## Get started, and stay tuned
 
