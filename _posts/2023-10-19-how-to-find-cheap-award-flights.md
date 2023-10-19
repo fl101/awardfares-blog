@@ -24,7 +24,7 @@ This guide tells you exactly how to leverage AwardFares to search and find cheap
 - [How To Find Cheap Award Flights (Step-by-step)](#how-to)
 - [How To Determine If You Are Getting A Good Redemption?](#eval)
 
-## Getting Strated: Pre-reads {#preread}
+## Getting Started: Pre-reads {#preread}
 
 These are optional, but if you want to get familiar with how frequent flyer programs work and how they determine the prices of award flights, check these posts.
 
