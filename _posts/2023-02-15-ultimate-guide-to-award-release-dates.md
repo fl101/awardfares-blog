@@ -14,20 +14,30 @@ There are however two important things to consider:
 1. Different airlines release award seats at different dates.
 2. Different frequent flyer programs show seats at different dates.
 
-For example, if you're using United to search for first class seats, then you will only be able to find awards up to 337 days in advance. However, as a EuroBonus member you can still book awards more than 337 days in advance. This is especially important to consider when going after highly sought after awards. Luckily AwardFares makes it super easy to find these since you're able to search across multiple frequent flyer programs at once!
+For example, if you're using United to search for First Class seats, then you will only be able to find awards up to 337 days in advance. However, as a EuroBonus member you can still book awards more than 337 days in advance. This is especially important to consider when going after highly sought after awards. 
 
-## Award Search
+Luckily AwardFares makes it super easy to find these since you're able to search across multiple frequent flyer programs at once!
+
+## Award Release Dates: How Early Can You Book?
+
+### By Frequent Flyer Program
 
 Here are the number of days in advance that some popular frequent flyer program award search sites will show. Dates are updated automatically.
 
 | Frequent Flyer Program | Days in advance | Date from today |
 | ---------------------- | --------------- | --------------- |
+| Air Canada Aeroplan    | 365             | <span></span>   |
+| American AAdvantage    | 331             | <span></span>   |
+| Alaska Mileage Plan    | 330             | <span></span>   |
 | United MileagePlus     | 337             | <span></span>   |
 | SAS EuroBonus          | 360             | <span></span>   |
 | Avianca LifeMiles      | 360             | <span></span>   |
-| Air Canada Aeroplan    | 365             | <span></span>   |
+| Delta Skymiles         | 331             | <span></span>   |
+| Air France-KLM Flying Blue | 359         | <span></span>   |
 
-## Airlines
+### By Airline
+
+#### Star Alliance
 
 So, how many days in advance do Star Alliance airlines release award availability? Here is a list of the number of days in advance you can earliest find award space using AwardFares for all Star Alliance airlines. Dates are updated automatically.
 
@@ -50,11 +60,10 @@ So, how many days in advance do Star Alliance airlines release award availabilit
 | Lufthansa                                   | 360                     | <span></span>   |
 | Lufthansa (long-haul Business) <sup>1</sup> | 85 <strike>180</strike> | <span></span>   |
 | Lufthansa (long-haul First) <sup>2</sup>    | 30                      | <span></span>   |
-| SAS <sup>3</sup>                            | 330                     | <span></span>   |
+| SAS <sup>3</sup><sup>5</sup>                | 330                     | <span></span>   |
 | Singapore Airlines                          | 355                     | <span></span>   |
 | South African Airways                       | 358                     | <span></span>   |
 | SWISS                                       | 300                     | <span></span>   |
-| Southwest                                   | 180 - 240               | <span></span>   |
 | TAP                                         | 361                     | <span></span>   |
 | Thai <sup>4</sup>                           | 339                     | <span></span>   |
 | Turkish                                     | 354                     | <span></span>   |
@@ -66,6 +75,68 @@ Notes:
 - (2) Lufthansa long-haul First partner redemptions are released 30 days in advance. Members of Miles & More can book up to 180 days in advance.
 - (3) SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
 - (4) Aeroplan and EuroBonus limited to 180 days in advance.
+- (5) [SAS announced it will leave Star Alliance and join Skyteam](https://blog.awardfares.com/sas-acquisition). Date is undefined.
+
+#### Oneworld
+
+
+| Airline                                     | Days in advance         | Date from today |
+| ------------------------------------------- | ----------------------- | --------------- |
+| Alaska Airlines                             | 330                     | <span></span>   |
+| American Airlines                           | 331                     | <span></span>   |
+| British Airways                             | 355                     | <span></span>   |
+| Cathay Pacific                              | 360                     | <span></span>   |
+| Finnair                                     | 362                     | <span></span>   |
+| Iberia                                      | 360                     | <span></span>   |
+| Japan Airlines                              | 360                     | <span></span>   |
+| Malaysia Airlines                           | 354                     | <span></span>   |
+| Qantas                                      | 353                     | <span></span>   |
+| Qatar Airways                               | 361                     | <span></span>   |
+| Royal Air Maroc                             | 330                     | <span></span>   |
+| Royal Jordanian (Economy Class)             | 330                     | <span></span>   |
+| SriLankan Airlines                          | 360                     | <span></span>   |
+| Fiji Airways                                | 330                     | <span></span>   |
+| Oman Air                                    | 300-33                  | <span></span>   |
+
+
+#### Skyteam
+
+| Airline                                     | Days in advance   | Date from today |
+| ------------------------------------------- | ------------------| --------------- |
+| Aerolíneas Argentinas                       | ~330              | <span></span>   |
+| Aeroméxico                                  | 330               | <span></span>   |
+| Air Europa                                  | ~330              | <span></span>   |
+| Air France                                  | 305-359           | <span></span>   |
+| ITA Airways <sup>6</sup>                    | ~330              | <span></span>   |
+| China Airlines                              | ~330              | <span></span>   |
+| China Eastern                               | ~330              | <span></span>   |
+| Czech Airlines                              | ~330              | <span></span>   |
+| Delta Air Lines                             | 330               | <span></span>   |
+| Garuda Indonesia                            | ~330              | <span></span>   |
+| Kenya Airways                               | ~330              | <span></span>   |
+| KLM                                         | 359               | <span></span>   |
+| Korean Air                                  | 330               | <span></span>   |
+| Middle East Airlines                        | ~330              | <span></span>   |
+| Saudia                                      | ~330              | <span></span>   |
+| TAROM                                       | ~330              | <span></span>   |
+| Vietnam Airlines                            | ~330              | <span></span>   |
+| XiamenAir                                   | ~330              | <span></span>   |
+
+- (6) ITA Airways announced it will leave SkyTeam and join Star Alliance. Date is undefined.
+
+#### Other Airlines/Programs
+
+
+| Airline                                     | Days in advance         | Date from today |
+| ------------------------------------------- | ----------------------- | --------------- |
+| Southwest                                   | 180 - 240               | <span></span>   |
+| Frontier                                    | 180 - 240               | <span></span>   |
+| Spirit Airlines                             | 330                     | <span></span>   |
+| LATAM Airlines LATAM Pass                   | 330                     | <span></span>   |
+| GOL Smiles                                  | 330 on GOL. Up to 330 on partners.   | -  |
+| JetBlue                                     | Not a fixed schedule. Can release up to 10 months in advance. | -   |
+
+
 
 <script>
 (function () {
