@@ -17,15 +17,18 @@ This guide closely examines the key differences between AwardFares and Cowtool.
 
 ### Contents
 
-- [What is Cowtool?](#what-is-cowtool)
-- [AwardFares vs. Cowtool: Key Differences](#key-differences)
-	- [User Interface](#1-user-interface)
-	- [Functionality and Features](#2-features)
-	- [Frequent Flyer Programs](#ffps)
-	- [Mobile Experience](#mobile)
-	- [Customer Support](#6-customer-support)
-	- [Pricing](#7-pricing)
+- [What is Cowtool? {#what-is-cowtool}](#what-is-cowtool-what-is-cowtool)
+- [AwardFares vs. Cowtool: What are the differences? {#key-differences}](#awardfares-vs-cowtool-what-are-the-differences-key-differences)
+	- [1. User Interface: AwardFares has a modern UI and beautiful charts {#user-interface}](#1-user-interface-awardfares-has-a-modern-ui-and-beautiful-charts-user-interface)
+	- [2. Functionality and Features {#features}](#2-functionality-and-features-features)
+	- [3. Frequent Flyer Programs {#ffps}](#3-frequent-flyer-programs-ffps)
+	- [4. Mobile Experience {#mobile}](#4-mobile-experience-mobile)
+	- [5. Customer Support: One tap to reach AwardFares’ support {#customer-support}](#5-customer-support-one-tap-to-reach-awardfares-support-customer-support)
+	- [6. Pricing {#pricing}](#6-pricing-pricing)
+- [In a nutshell](#in-a-nutshell)
 - [Conclusion](#conclusion)
+- [Get started](#get-started)
+- [Read more {#read-more}](#read-more-read-more)
 
 
 ## What is Cowtool? {#what-is-cowtool}
@@ -156,7 +159,7 @@ You can try searching for award flights on Singapore Airlines [using AwardFares 
 
 Make sure to also check these posts out
 
-- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awarfares-vs-expertflyer/)
+- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
 - [AwardFares vs. Point.me](https://blog.awardfares.com/awardfares-vs-point-me/)
 - [How To Find The Best Aeroplan Award Flights](https://blog.awardfares.com/aeroplan-guide/)
 - [5 Essential Tools Every Aeroplan Member Needs](https://blog.awardfares.com/aeroplan-tools/)
