@@ -18,15 +18,17 @@ This guide closely examines the key differences between AwardFares and ExpertFly
 ### Contents
 
 - [What is ExpertFlyer?](#what-is-expertflyer)
-- [AwardFares vs. ExpertFlyer: Key Differences](#awardfares-vs-expertflyer-what-are-the-differences)
-	- [User Interface](#1-user-interface-awardfares-has-a-modern-UI-and-beautiful-charts)
-	- [Award Searches](#2-award-searches-easy-views-and-filters)
-	- [Availability Data](#3-availability-data-real-availability-for-each-program)
-	- [Complexity](#4-complexity-awardfares-is-much-simpler-to-use)
-	- [Mobile Experience](#5-mobile-experience-awardfares-is-meant-for-mobile)
-	- [Customer Support](#6-customer-support-one-tap-to-reach-awardfares-support)
-	- [Pricing](#7-pricing)
+- [AwardFares vs. ExpertFlyer: What are the differences?](#awardfares-vs-expertflyer-what-are-the-differences)
+	- [1. User Interface: AwardFares has a modern UI and beautiful charts](#1-user-interface-awardfares-has-a-modern-ui-and-beautiful-charts)
+	- [2. Award Searches: Easy views and filters](#2-award-searches-easy-views-and-filters)
+	- [3. Availability Data: Real availability for each program](#3-availability-data-real-availability-for-each-program)
+	- [4. Complexity: AwardFares is much simpler to use](#4-complexity-awardfares-is-much-simpler-to-use)
+	- [5. Mobile Experience: AwardFares is meant for mobile](#5-mobile-experience-awardfares-is-meant-for-mobile)
+	- [6. Customer Support: One tap to reach AwardFares’ support](#6-customer-support-one-tap-to-reach-awardfares-support)
+	- [7. Pricing](#7-pricing)
 - [Conclusion](#conclusion)
+- [Get started, and stay tuned](#get-started-and-stay-tuned)
+- [Read more {#read-more}](#read-more-read-more)
 
 
 ## What is ExpertFlyer?
@@ -167,7 +169,7 @@ You can [try AwardFares for free](https://awardfares.com/). We are rolling out n
 
 Make sure to also check these posts out
 
-- [AwardFares vs. Cowtool](https://blog.awardfares.com/awarfares-vs-cowtool/)
+- [AwardFares vs. Cowtool](https://blog.awardfares.com/awardfares-vs-cowtool/)
 - [AwardFares vs. Point.me](https://blog.awardfares.com/awardfares-vs-point-me/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
 

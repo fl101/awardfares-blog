@@ -27,5 +27,7 @@ Earlier this year we added Singapore Airlines availability for most of their int
 [https://awardfares.com/browse/#/flight=SQ](https://awardfares.com/browse/#/flight=SQ)
 
 ## New Routes & Map
+
 More routes are continuously being added. Over 700 routes are currently available, with recent additions including Singapore routes and several South American routes. As we've been adding new routes, the old route map became too cluttered. So, we recently released a re-designed route map to solve this problem.
+
 [https://awardfares.com/routes](https://awardfares.com/routes)
