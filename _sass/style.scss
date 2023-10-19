@@ -120,3 +120,20 @@ a.banner {
 @import "post";
 @import "tags";
 
+.calculator {
+  max-width: 300px;
+  border: solid 1px #ccc;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.calculator label {
+  display: block;
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+.calculator input[type=number] {
+  width: 100%;
+  box-sizing: border-box;
+}
