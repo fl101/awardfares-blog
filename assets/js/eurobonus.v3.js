@@ -79,6 +79,7 @@
     const points = [{ x: new Date, y: acc }];
     const log = [];
 
+    let currentDate = undefined;
     for (let i = 1; i < data.length; i++) {
       const row = data[i];
       if (row.length < 4) {
@@ -86,6 +87,9 @@
       }
 
       const date = safeDate(row[0]);
+      if (!currentDate) {
+        currentDate = date;
+      }
       if (!date.isValid()) {
         alert('Found invalid date: ' + row[0]);
         continue;
@@ -106,11 +110,14 @@
 
       // Update points data
       if (!isStatus) {
+        if (!date.isSame(currentDate, "day")) {
+          points.push({
+            x: currentDate.toDate(),
+            y: acc,
+          });
+          currentDate = date;
+        }
         acc -= extraPoints;
-        points.push({
-          x: date.toDate(),
-          y: acc,
-        });
       }
 
       // Update categories data
@@ -177,6 +184,11 @@
       `);
     }
 
+    points.push({
+      x: currentDate.toDate(),
+      y: acc,
+    });
+
     const monthlyAverage = Math.round(flypremiumForecast / 6);
     
     const flypremiumBalance = flypremium[12];
@@ -201,6 +213,7 @@
     document.getElementById('flypremiumStatus').innerText = flypremiumStatus;
     document.getElementById('flypremiumForecast').innerText = monthlyAverage;
     document.getElementById('flypremiumHighest').innerText = highestFlypremiumBalance;
+    console.log(points);
 
     drawPoints(points);
     drawCategories(categories);
