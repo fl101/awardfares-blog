@@ -5,14 +5,12 @@ category: [Guide]
 tags: [AwardHacker]
 author: Germán
 image: /assets/img/award-hacker/cover.webp
-hidden: true
-sitemap: false
 ---
 
 
-The world of airline miles and credit card points offers a myriad of opportunities. Whether it's jet-setting to a luxury destination on first-class tickets or scoring a free short-haul trip, redeeming miles effectively can save travelers thousands of dollars. 
+The world of airline miles and credit card points offers a myriad of opportunities. Whether it's jet-setting to a luxury destination on first-class tickets or scoring a free short-haul trip, redeeming miles effectively can save travelers thousands of dollars.
 
-[AwardHacker](https://www.awardhacker.com/), a great online tool, helps thousands of travellers every year find out how many miles are needed for specific award flights between two cities, across various frequent flyer program.
+[AwardHacker](https://www.awardhacker.com/), a great online tool, helps thousands of travelers every year find out how many miles are needed for specific award flights between two cities, across various frequent flyer program.
 
 In this post, we show how **AwardFares** is an excellent complement to AwardHacker. When used together, these platforms provide a comprehensive view of available award flights, enabling users to get the most bang for their buck, or mile, in this case.
 
@@ -41,7 +39,6 @@ Let's get started!
 
 While AwardHacker tells you the theoretical cost of award flights, **AwardFares** goes a step further by showing actual availability. You can try it for free, and also upgrade to more premium tiers that are packed with features such as advanced filtering capabilities, alerts, seat maps, journey planner, and more. **AwardFares** is key to scoring long-haul business and first class award seats, which are extremely competitive.
  
- 
 ### Key Features of AwardFares
 
 * Real-time award seat availability for major airlines.
@@ -50,7 +47,6 @@ While AwardHacker tells you the theoretical cost of award flights, **AwardFares*
 * Displays availability for a range of dates, ideal for flexible travelers.
 * User-friendly interface with beautiful and clear visualizations of available seats.
 * Great experience on mobile.
-
 
 ## Combining AwardHacker with AwardFares: 5 Reasons
 
@@ -78,7 +74,6 @@ If you’re flexible with your destinations or are planning multi-city trips, Aw
 
 *Image: AwardFares Jouney Planner and Map View.*
 
-
 **Read more** about [AwardFares' Journey Planner feature here](https://blog.awardfares.com/journey-planner/).
 
 ### 3. Points Transfer Decisions
@@ -95,7 +90,7 @@ For those with credit card points, AwardHacker’s overview allows users to see 
 
 AwardHacker displays the mileage requirements for economy, premium economy, business, and first-class. This feature can be useful for travelers who are flexible and want to decide which class offers the best value.
 
-**How AwardFares Helps**: Once you've determined which class might be the best value for your miles, **AwardFares** can be used to check the availability of seats in that class for your chosen route. With the new features, you can also compare award prices and search for mixed cabin itineraries.
+**How AwardFares Helps**: Once you've determined which class might be the best value for your miles, **AwardFares** can be used to check the availability of seats in that class for your chosen route. With the new features, you can also compare award prices and [search for mixed cabin itineraries](https://blog.awardfares.com/prices-and-mixed-cabins/).
 
 <img src="../assets/img/award-hacker/mixed-cabin-awards.webp" alt="See mixed cabin award flights with AwardFares." />
 
@@ -113,11 +108,11 @@ While AwardHacker doesn’t offer alerts, its comprehensive data can guide frequ
 
 **Read more** about [AwardFares' Alerts feature here](https://blog.awardfares.com/alerts/).
 
-## Upgrade for more features
+## Get started, and stay tuned
 
-With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can get access to premium features such unlimited daily searches, alerts, seat maps, flight schedules, and more!
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-You can [try **AwardFares** for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up to our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
 ## Read more
 
