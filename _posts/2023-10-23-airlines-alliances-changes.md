@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Airlines Have Changed Alliances? A History of Departures and Switches"
+title: "What Airlines Have Changed Or Left Alliances? A History of Departures and Switches"
 category: [Guide]
 tags: [Star Alliance, SkyTeam, Oneworld]
 author: Germán
@@ -21,17 +21,9 @@ Let's start!
 
 - [What Is An Airline Alliance?](#what-is-an-airline-alliance)
 - [What Airlines Have Changed Alliances? {#airlines}](#what-airlines-have-changed-alliances-airlines)
-  - [1. Star Alliance](#1-star-alliance)
-  - [2. SkyTeam:](#2-skyteam)
-  - [3. Oneworld](#3-oneworld)
 - [Unaligned Airlines](#unaligned-airlines)
 - [Quick Comparison: Star Alliance vs. SkyTeam vs. Oneworld](#quick-comparison-star-alliance-vs-skyteam-vs-oneworld)
 - [AwardFares: A Perfect Companion To Protect From Change](#awardfares-a-perfect-companion-to-protect-from-change)
-  - [1. Options and Availability](#1-options-and-availability)
-  - [2. Quick Action](#2-quick-action)
-  - [3. Optimizing Your Points Value](#3-optimizing-your-points-value)
-  - [4. Avoiding Expiry](#4-avoiding-expiry)
-  - [5. Strategic Planning](#5-strategic-planning)
 - [Get started, and stay tuned](#get-started-and-stay-tuned)
 - [Read more](#read-more)
 
@@ -43,7 +35,7 @@ Airline alliances are strategic partnerships between airlines that allow them to
 
 There are a number of reasons why airlines might change or leave alliances. Some of the most common reasons include changes in business strategy, financial considerations, geopolitical factors (e.g., Aeroflot and S7 Airlines were suspended from their respective alliances due to the Russian invasion of Ukraine), and even bankruptcy.
 
-### 1. Star Alliance
+### 1. [Star Alliance](https://www.staralliance.com)
 
 Launched in 1997, Star Alliance is the world's first and largest airline alliance. While many airlines have joined and found success within this alliance, a few have also departed:
 
@@ -64,7 +56,7 @@ Launched in 1997, Star Alliance is the world's first and largest airline allianc
 
 *Image: VARIG was a founding member of Star Alliance. Image from Wikipedia.*
 
-### 2. SkyTeam:
+### 2. [SkyTeam](https://www.skyteam.com/)
 
 SkyTeam is one of the three major airline alliances, along with Star Alliance and Oneworld. It was founded in 2000 and currently has 19 member airlines. Several airlines have left SkyTeam over the years, including:
 
@@ -82,8 +74,7 @@ SkyTeam is one of the three major airline alliances, along with Star Alliance an
 
 *Image: Aeroflot, a suspended member of SkyTeam. Image from Wikipedia.*
 
-
-### 3. Oneworld
+### 3. [Oneworld](https://www.oneworld.com/)
 
 Founded in 1999, Oneworld has a reputation for having a tight-knit group of member airlines. Nonetheless, it hasn’t been exempt from changes:
 
@@ -109,8 +100,7 @@ Many airlines have chosen not to join any of the three major alliances but have 
 * **Alaska Airlines**: While it was independent for a long time, as of March 2021, it became a member of the Oneworld alliance.
 * **Emirates**: Instead of joining a major alliance, Emirates has preferred to form its partnerships and code-share agreements.
 * **Etihad Airways**: Instead of joining an alliance, Etihad introduced its ‘Etihad Airways Partners’ model, although this isn't a traditional alliance like the big three.
-* **Ryanair**:
-
+* **Ryanair**: Ryanair's ultra-low-cost business model, focus on price-sensitive travelers, desire for operational flexibility, and brand image as an industry maverick make joining an airline alliance misaligned with its strategic priorities.
 
 ## Quick Comparison: Star Alliance vs. SkyTeam vs. Oneworld
 
