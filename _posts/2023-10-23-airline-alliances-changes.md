@@ -39,7 +39,7 @@ There are a number of reasons why airlines might change or leave alliances. Some
 
 Launched in 1997, Star Alliance is the world's first and largest airline alliance. While many airlines have joined and found success within this alliance, a few have also departed:
 
-* **Varig**: Once a leading Brazilian carrier, Varig was a founding member but left in 2007 due to financial difficulties.
+* **Varig**: Once a leading Brazilian carrier, Varig was the first South-american member but left in 2007 due to financial difficulties.
 * **Adria Airways**: Joined in 2004, left in 2019 due to ceased operations.
 * **Ansett Australia**: This Australian airline ceased operations in 2001, leading to its departure from the alliance.
 * **Blue1**: Left the alliance on 1 November 2012 after SAS took over mainline operations, was a member affiliate of Scandinavian Airlines, and is now a part of CityJet.
@@ -54,7 +54,7 @@ Launched in 1997, Star Alliance is the world's first and largest airline allianc
 
 <img src="../assets/img/airline-alliances-changes/star-alliance-start.webp" alt="Founding member of Star Alliance. Original Livery." />
 
-*Image: VARIG was a founding member of Star Alliance. Image from Wikipedia.*
+*Image: VARIG was a member of Star Alliance. Image from Flightsim.to.*
 
 ### 2. [SkyTeam](https://www.skyteam.com/)
 
@@ -95,12 +95,26 @@ Oneworld is another major airline alliance, with 14 member airlines. Several air
 
 ## Unaligned Airlines
 
-Many airlines have chosen not to join any of the three major alliances but have instead opted for alternative partnership models:
+Many airlines have chosen not to join any of the three major alliances but have instead opted for alternative partnership models. Here are some examples.
 
 * **Alaska Airlines**: While it was independent for a long time, as of March 2021, it became a member of the Oneworld alliance.
 * **Emirates**: Instead of joining a major alliance, Emirates has preferred to form its partnerships and code-share agreements.
 * **Etihad Airways**: Instead of joining an alliance, Etihad introduced its ‘Etihad Airways Partners’ model, although this isn't a traditional alliance like the big three.
 * **Ryanair**: Ryanair's ultra-low-cost business model, focus on price-sensitive travelers, desire for operational flexibility, and brand image as an industry maverick make joining an airline alliance misaligned with its strategic priorities.
+* **Southwest Airlines**
+* **Spirit Airlines**
+* **Hawaiian Airlines**
+* **Allegiant Air**
+* **Vueling Airlines**
+* **JetBlue Airways**
+* **Azul Brazilian Airlines**
+* **Norwegian Air Shuttle**
+* **WestJet**
+* **AirAsia**
+* **Frontier Airlines**
+* **Sun Country Airlines**
+* **Air Tahiti Nui**
+* **Interjet** (now defunct)
 
 ## Quick Comparison: Star Alliance vs. SkyTeam vs. Oneworld
 
