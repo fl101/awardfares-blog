@@ -119,6 +119,9 @@ Many airlines have chosen not to join any of the three major alliances but have 
 | **Joint Ventures/Cooperation** | Numerous joint ventures like Lufthansa Group-United Airlines-Air Canada for transatlantic routes. | Examples include Air France-KLM-Delta for transatlantic routes. | Several joint ventures such as American Airlines-British Airways-Iberia for transatlantic flights. |
 | **Milestones**              | World’s first and largest airline alliance. | First to introduce a standardized alliance-wide (SkyPriority) airport service branding. | Known for its high-quality carriers and close cooperation between members. |
 
+When it comes to Elite Status, most airlines within the alliance need to align to different tiers established by the alliance. Qualification requirements and benefits must also be similar.
+
+Note that while Star Alliance and SkyTeam only distinguish two elite tiers (besides their entry level), many of their programs have more than one high-end tier.
 
 | Elite Status   | **Star Alliance**                              | **SkyTeam**                                      | **Oneworld**                                              |
 |----------------|------------------------------------------------|--------------------------------------------------|----------------------------------------------------------|
