@@ -9,14 +9,17 @@ hidden: true
 sitemap: false
 ---
 
-## Get started, and stay tuned.
+## Get started, and stay tuned
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
+
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
 ## Read more
 
 Make sure to also check these posts out
 
-- [Introducing New Frequent Flyer Programs, Area Searches & More Exciting Features
-  ](https://blog.awardfares.com/new-programs-and-features/)
-- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
+- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
+- [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
+- [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
