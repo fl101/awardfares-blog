@@ -20,7 +20,7 @@ Let's start!
 ### In This Post
 
 - [What Is An Airline Alliance?](#what-is-an-airline-alliance)
-- [What Airlines Have Changed Alliances? {#airlines}](#what-airlines-have-changed-alliances-airlines)
+- [What Airlines Have Changed Alliances?](#what-airlines-have-changed-alliances)
 - [Unaligned Airlines](#unaligned-airlines)
 - [Quick Comparison: Star Alliance vs. SkyTeam vs. Oneworld](#quick-comparison-star-alliance-vs-skyteam-vs-oneworld)
 - [AwardFares: A Perfect Companion To Protect From Change](#awardfares-a-perfect-companion-to-protect-from-change)
@@ -31,7 +31,7 @@ Let's start!
 
 Airline alliances are strategic partnerships between airlines that allow them to cooperate on various aspects of their business, such as codesharing, frequent flyer programs, and airport lounge access. These alliances can provide significant benefits to both airlines and passengers, but they are not always permanent. Over the years, there have been a number of airlines that have changed or left alliances for a variety of reasons.
 
-## What Airlines Have Changed Alliances? {#airlines}
+## What Airlines Have Changed Alliances?
 
 There are a number of reasons why airlines might change or leave alliances. Some of the most common reasons include changes in business strategy, financial considerations, geopolitical factors (e.g., Aeroflot and S7 Airlines were suspended from their respective alliances due to the Russian invasion of Ukraine), and even bankruptcy.
 
