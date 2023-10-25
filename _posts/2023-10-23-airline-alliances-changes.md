@@ -5,8 +5,6 @@ category: [Guide]
 tags: [Star Alliance, SkyTeam, Oneworld]
 author: Germán
 image: /assets/img/airline-alliances-changes/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Airline Alliances, which are essentially partnerships between airlines, have been a cornerstone of the industry since the 1990s. They offer mutual benefits for airlines, from marketing to operational cooperation, which translates into more seamless travel experiences for passengers. 
@@ -21,11 +19,10 @@ Let's start!
 
 - [What Is An Airline Alliance?](#what-is-an-airline-alliance)
 - [What Airlines Have Changed Alliances?](#what-airlines-have-changed-alliances)
-- [Unaligned Airlines](#unaligned-airlines)
 - [Quick Comparison: Star Alliance vs. SkyTeam vs. Oneworld](#quick-comparison-star-alliance-vs-skyteam-vs-oneworld)
 - [AwardFares: A Perfect Companion To Protect From Change](#awardfares-a-perfect-companion-to-protect-from-change)
-- [Get started, and stay tuned](#get-started-and-stay-tuned)
-- [Read more](#read-more)
+- [Get Started, and Stay Tuned](#get-started-and-stay-tuned)
+- [Read More](#read-more)
 
 ## What Is An Airline Alliance?
 
@@ -87,32 +84,9 @@ Oneworld is another major airline alliance, with 14 member airlines. Founded in 
 * **US Airways**: US Airways, a major US airline, merged with American Airlines in 2013. American is a founding member of Oneworld, so US Airways effectively left the alliance when it merged with American.
 * **Aer Lingus**: Joined Oneworld in 2000 but decided to leave in 2007. However, following its acquisition by IAG (International Airlines Group), there has been speculation about its rejoining.
 
-<img src="../assets/img/airline-alliances-changes/us-airways.webp" alt="US Airways Star Alliance Livery before it joined Oneworld." />
+<img src="../assets/img/airline-alliances-changes/american-us-airways.webp" alt="US Airways was acquired by American Airlines and joined Oneworld. American kept a US Airways livery to commemorate the airline." />
 
-*Image: US Airways was part of Star Alliance, before being acquired by American Airlines and joining OneWorld. Image from Wikipedia.*
-
-## Unaligned Airlines
-
-Many airlines have chosen not to join any of the three major alliances but have instead opted for alternative partnership models. Here are some examples.
-
-* **Alaska Airlines**: While it was independent for a long time, as of March 2021, it became a member of the Oneworld alliance.
-* **Emirates**: Instead of joining a major alliance, Emirates has preferred to form its partnerships and code-share agreements.
-* **Etihad Airways**: Instead of joining an alliance, Etihad introduced its ‘Etihad Airways Partners’ model, although this isn't a traditional alliance like the big three.
-* **Ryanair**: Ryanair's ultra-low-cost business model, focus on price-sensitive travelers, desire for operational flexibility, and brand image as an industry maverick make joining an airline alliance misaligned with its strategic priorities.
-* **Southwest Airlines**
-* **Spirit Airlines**
-* **Hawaiian Airlines**
-* **Allegiant Air**
-* **Vueling Airlines**
-* **JetBlue Airways**
-* **Azul Brazilian Airlines**
-* **Norwegian Air Shuttle**
-* **WestJet**
-* **AirAsia**
-* **Frontier Airlines**
-* **Sun Country Airlines**
-* **Air Tahiti Nui**
-* **Interjet** (now defunct)
+*Image: US Airways was part of Star Alliance, before being acquired by American Airlines and joining OneWorld. Image from X.*
 
 ## Quick Comparison: Star Alliance vs. SkyTeam vs. Oneworld
 
@@ -148,7 +122,7 @@ Airline alliances are constantly evolving, and it is not uncommon for airlines t
 
 The good news is that AwardFares can help you protect from these situations, helping with plans well in advance, reacting fast to changes and securing award trips at good redemption rates.
 
-Here are 5 things AwardFares can help you with
+Here are 5 things AwardFares can help you with:
 
 ### 1. Options and Availability
 
@@ -173,13 +147,13 @@ If an airline leaves an alliance, there might be limitations or changes in how y
 If you know in advance that an airline is considering leaving an alliance, you can use such tools to plan and book award flights more strategically, ensuring that you utilize benefits while they're still in place.
 
 
-## Get started, and stay tuned
+## Get Started, and Stay Tuned
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
 With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-## Read more
+## Read More
 
 Make sure to also check these posts out
 
