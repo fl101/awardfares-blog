@@ -68,7 +68,7 @@ SkyTeam is one of the three major airline alliances, along with Star Alliance an
 * **Northwest Airlines**: Northwest Airlines, a major US airline, merged with Delta Air Lines in 2008. Delta is a member of SkyTeam, so Northwest effectively left the alliance when it merged with Delta.
 * **Aerolíneas Argentinas**: Argentina's national airline wasn't part of any alliance and joined SkyTeam in 2012.
 * **Alitalia**: Ceased operations in 2021 after decades of financial struggles.
-* **ITA Airways** (**ongoing**). The airline that took over Alialia, joined SkyTeam in 2021, but has announced it will switch to Star Alliance. There's no ETA.
+* **ITA Airways** (**ongoing**). The airline that took over Alitalia, joined SkyTeam in 2021, but has announced it will switch to Star Alliance. There's no ETA.
 
 <img src="../assets/img/airline-alliances-changes/aeroflot.webp" alt="Aeroflot was a member of SkyTeam until it was suspended." />
 
@@ -76,12 +76,10 @@ SkyTeam is one of the three major airline alliances, along with Star Alliance an
 
 ### 3. [Oneworld](https://www.oneworld.com/)
 
-Founded in 1999, Oneworld has a reputation for having a tight-knit group of member airlines. Nonetheless, it hasn’t been exempt from changes:
-
-Oneworld is another major airline alliance, with 14 member airlines. Several airlines have left Oneworld over the years, including:
+Oneworld is another major airline alliance, with 14 member airlines. Founded in 1999, Oneworld has a reputation for having a tight-knit group of member airlines. Nonetheless, it hasn’t been exempt from changes. Several airlines have left Oneworld over the years, including:
 
 * **Air Berlin**: Air Berlin, a German airline, ceased operations in 2017.
-* **Canadian Airlines**: Canadian Airlines, a Canadian airline, was acquired by Air Canada in 2000. Air Canada is a member of Star Alliance, so Canadian Airlines effectively left Oneworld when it was acquired by Air Canada.
+* **Canadian Airlines**: Canadian Airlines was acquired by Air Canada in 2000. Air Canada is a member of Star Alliance, so Canadian Airlines effectively left Oneworld when it was acquired by Air Canada.
 * **LATAM Brasil and LATAM Chile**: LATAM Brasil and LATAM Chile, the two largest airlines in South America, left Oneworld in 2020.
 * **Malév Hungarian Airlines**: Malév Hungarian Airlines, the flag carrier of Hungary, ceased operations in 2012.
 * **Mexicana de Aviación**: Joined Oneworld in 2009 but had to leave in 2010 due to bankruptcy.
