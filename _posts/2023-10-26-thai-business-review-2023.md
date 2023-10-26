@@ -5,15 +5,13 @@ category: [Trip Report]
 tags: [Review, Business, Thai]
 author: Philip
 image: /assets/img/thai-review-cph-bkk/cover.webp
-hidden: true
-sitemap: false
 ---
 
 During the past couple of months it's been especially difficult finding Business Class redemptions between Europe and Tokyo. However, thanks to one of my [AwardFares alerts](https://blog.awardfares.com/alerts), I was lucky to discover one day that there were 2 seats available from CPH to HND via BKK, which I snagged immediately!
 
 <img src="/assets/img/thai-review-cph-bkk/alert.webp" class="noborder" />
 
-The first leg of the trip was with THAI Airways. It's been a long time since I've flown a long-haul flight with them, so I was looking forward to reviewing the experience.
+The first leg of the trip was with Thai Airways. It's been a long time since I've flown a long-haul flight with them, so I was looking forward to reviewing the experience.
 <br>
 <br>
 <table>
@@ -45,7 +43,7 @@ The first leg of the trip was with THAI Airways. It's been a long time since I'v
 
 ## Dated, but Comfortable Cabin
 
-While THAI has a new cabin on some of their 777s, the CPH-BKK route still uses the [old business class cabin](https://www.aerolopa.com/tg-77b). It definitely looks and feels a bit dated. But, other than that, the seat was still comfortable and the area around the seat felt very spacious.
+While Thai has a new cabin on some of their 777s, the CPH-BKK route still uses the [old business class cabin](https://www.aerolopa.com/tg-77b). It definitely looks and feels a bit dated. But, other than that, the seat was still comfortable and the area around the seat felt very spacious.
 
 <figure>
 <img src="/assets/img/thai-review-cph-bkk/seat1.webp" />
@@ -100,7 +98,7 @@ There were also several "All Day Dining" options available to order in between m
 
 Overall it was a great flight. I knew that the cabin was of an older type, so I came into the trip knowing that I wouldn't be expecting the latest and greatest in terms of hard product. However, what really surprised me was the fantastic service and crew on this flight. Also, the food was good, the seat was comfortable, and I was able to rest and watch some movies.
 
-Next time I hope I can try the new THAI Airways cabin instead, which at the time of writing this, is only available on their London, Osaka, and Tokyo routes.
+Next time I hope I can try the new Thai Airways cabin instead, which at the time of writing this, is only available on their London, Osaka, and Tokyo routes.
 
 ## Read More
 
@@ -134,9 +132,7 @@ Next time I hope I can try the new THAI Airways cabin instead, which at the time
     "name": "Dated but comfortable.",
     "reviewBody": "During the past couple of months it's been especially difficult finding Business Class redemptions between Europe and Tokyo. However, thanks to one of my [AwardFares alerts](https://blog.awardfares.com/alerts), I was lucky to discover one day that there were 2 seats available from CPH to HND via BKK, which I snagged immediately!
 
-The first leg of the trip was with THAI Airways. It's been a long time since I've flown a long-haul flight with them, so I was looking forward to reviewing the experience.
-
-While THAI has a new cabin on some of their 777s, the CPH-BKK route still uses the [old business class cabin](https://www.aerolopa.com/tg-77b). It definitely looks and feels a bit dated. But, other than that, the seat was still comfortable, and the area around the seat felt very spacious.
+The first leg of the trip was with Thai Airways. It's been a long time since I've flown a long-haul flight with them, so I was looking forward to reviewing the experience. While Thai has a new cabin on some of their 777s, the CPH-BKK route still uses the [old business class cabin](https://www.aerolopa.com/tg-77b). It definitely looks and feels a bit dated. But, other than that, the seat was still comfortable, and the area around the seat felt very spacious.
 
 Since this was a last-minute booking, I wasn't able to select a window seat during booking or check-in. While checking the seatmap, I could see that there were several window seats unoccupied (but blocked). Luckily once boarding had completed, I asked the cabin crew if I could move to one of the empty window seats, which they accommodated.
 
@@ -152,7 +148,7 @@ Menus were available at the seat during boarding, and the cabin crew took our me
 
 Overall it was a great flight. I knew that the cabin was of an older type, so I came into the trip knowing that I wouldn't be expecting the latest and greatest in terms of hard product. However, what really surprised me was the fantastic service and crew on this flight. Also, the food was good, the seat was comfortable, and I was able to rest and watch some movies.
 
-Next time I hope I can try the new THAI Airways cabin instead, which at the time of writing this, is only available on their London, Osaka, and Tokyo routes.",
+Next time I hope I can try the new Thai Airways cabin instead, which at the time of writing this, is only available on their London, Osaka, and Tokyo routes.",
     "reviewRating": {
       "@type": "Rating",
       "ratingValue": "3.9",
