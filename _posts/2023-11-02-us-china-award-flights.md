@@ -40,14 +40,11 @@ According to [FlightConnections](https://www.flightconnections.com/) and [Google
 
 <img src="../assets/img/us-china-award-flights/flightconnections-us-china.webp" alt="Nonstop routes between the United States and China (Flightconnections)." />
 
-### US Airlines
-
-| **US Airlines** | Route |
+| Airline | Route |
 |----|----|
 | American | Dallas Forth Worth to Beijing (PEK) |
 | United | San Francisco (SFO) to Beijing (PEK) |
 | Delta | Seattle (SEA) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), Los Angeles (LAX) to Shanghai (PVG)<sup>1</sup>|
-| **Foreign Airlines** | - |
 | Air China | Los Angeles (LAX) to Beijing (PEK), Chicago (ORD) to Beijing (PEK), New York (JFK) to Beijing (PEK), San Francisco (SFO) to Beijing (PEK)<sup>2</sup>|
 | Beijing Capital Airlines | Los Angeles (LAX) to Hangzhou (HGH)|
 | China Eastern Airlines | Los Angeles (LAX) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), New York (JFK) to Shanghai (PVG), San Francisco (SFO) to Shanghai (PVG) |
