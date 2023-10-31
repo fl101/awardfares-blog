@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "US-China Award Flights: "
+title: "US-China Award Flights:"
 category: [Guide]
 tags: [China]
 author: Germán
@@ -69,7 +69,7 @@ Air China also offers a service from New York (JFK) with a stopover in LAX, but 
 
 <img src="../assets/img/us-china-award-flights/sfo-pek-airchina.webp" alt="San Francisco to Beijing with Air China (AwardFares)." />
 
-<img src="../assets/img/us-china-award-flights/airchina-announcement.webp" alt="Air China Resumes San Francisco to Beijing Starting November 1st (AwardFares)." />
+<img src="../assets/img/us-china-award-flights/air-china-announcement.webp" alt="Air China Resumes San Francisco to Beijing Starting November 1st (AwardFares)." />
 
 ### 2. American Airlines
 
@@ -239,7 +239,7 @@ In the filters below, you can add the desired number of stops (optional). You ca
 
 In addition, the *Airline* lets you filter results by carrier if you are searching for a specific airline (e.g., Air China, JAL, etc.)
 
-<img src="../assets/img/cheap-award-flights/stops.webp" alt="Find award flights between the United States and China using AwardFares." />
+<img src="../assets/img/us-china-award-flights/stops.webp" alt="Find award flights between the United States and China using AwardFares." />
 
 ### 6. Sort by Price
 
