@@ -42,10 +42,10 @@ According to [FlightConnections](https://www.flightconnections.com/) and [Google
 
 | Airline | Route |
 |----|----|
-| American | Dallas Forth Worth to Beijing (PEK) |
-| United | San Francisco (SFO) to Beijing (PEK) |
+| American | [Dallas/Forth Worth (DFW) to Beijing (PEK)](https://awardfares.com/search?DFW.PEK.;a:AA;x:0#) |
+| United | [San Francisco (SFO) to Beijing (PEK)](https://awardfares.com/search?SFO.PEK.;a:UA;x:0) |
 | Delta | Seattle (SEA) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), Los Angeles (LAX) to Shanghai (PVG)<sup>1</sup>|
-| Air China | Los Angeles (LAX) to Beijing (PEK), Chicago (ORD) to Beijing (PEK), New York (JFK) to Beijing (PEK), San Francisco (SFO) to Beijing (PEK)<sup>2</sup>|
+| Air China | [Los Angeles (LAX) to Beijing (PEK)](https://awardfares.com/search?LAX.PEK.;a:CA;x:0), San Francisco (SFO) to Beijing (PEK)<sup>2</sup>, New York (JFK) to Beijing (PEK) |
 | Beijing Capital Airlines | Los Angeles (LAX) to Hangzhou (HGH)|
 | China Eastern Airlines | Los Angeles (LAX) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), New York (JFK) to Shanghai (PVG), San Francisco (SFO) to Shanghai (PVG) |
 | China Southern Airlines | Los Angeles (LAX) to Guangzhou (CAN), Chicago (ORD) to Guangzhou (CAN), Dallas/Fort Worth (DFW) to Guangzhou (CAN), New York (JFK) to Guangzhou (CAN), San Francisco (SFO) to Guangzhou (CAN) |
@@ -75,15 +75,15 @@ Air China also offers a service from New York (JFK) with a stopover in LAX, but 
 
 American offers a great alternative for travelers in central/south of the United States. They are also one of the most generous programs concerning availability, although premium cabins are costly.
 
-As you can see, there are plenty of seats available on the route [Dallas Forth Worth (DFW) to Shanghai (PVG)](https://awardfares.com/search?DFW.PVG.;x:0;z:aadvantage), which operates daily.
+As you can see, there are plenty of seats available on the route [Dallas/Forth Worth (DFW) to Shanghai (PVG)](https://awardfares.com/search?DFW.PVG.;x:0;z:aadvantage), which operates daily.
 
 <img src="../assets/img/us-china-award-flights/dfw-pvg.webp" alt="Dallas Forth Worth to Shanghai (AwardFares)."/>
 
-<img src="../assets/img/us-china-award-flights/dfw-pvg-price.webp" alt="Dallas Forth Worth to Shanghai (AwardFares)."/>
+<img src="../assets/img/us-china-award-flights/dfw-pvg-price.webp" alt="Dallas/Forth Worth to Shanghai (AwardFares)."/>
 
 ### 3. United Airlines
 
-United has kept flying from San Francisco (SFO) to Beijing (PEK) nonstop since the pandemic started to easy. Availability is relatively good at decent rates, although hard to find saver awards.
+United has kept flying from [San Francisco (SFO) to Beijing (PEK)](https://awardfares.com/search?SFO.PEK.;a:UA;x:0) nonstop since the pandemic started to easy. Availability is relatively good at decent rates, although hard to find saver awards.
 
 United is planning on adding more routes during the winter season 2023-2024. The airline also provides great connections from anywhere in the United States. Hence, if you'd like to fly from the east coast to Beijing (especially in premium cabins [or mixed cabins](https://blog.awardfares.com/prices-and-mixed-cabins/)), you could do it through San Francisco in the same redemption.
 
