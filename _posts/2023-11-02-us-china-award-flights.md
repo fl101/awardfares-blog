@@ -67,7 +67,7 @@ Air China also offers a service from New York (JFK) with a stopover in LAX, but 
 
 **How to book**: United Mileage Plan, SAS EuroBonus, Aeroplan 
 
-<img src="../assets/img/us-china-award-flights/sfo-pek-airchina.webp" alt="San Francisco to Beijing with Air China (AwardFares)." />
+<img src="../assets/img/us-china-award-flights/air-china.webp" alt="San Francisco to Beijing with Air China (AwardFares)." />
 
 <img src="../assets/img/us-china-award-flights/air-china-announcement.webp" alt="Air China Resumes San Francisco to Beijing Starting November 1st (AwardFares)." />
 
