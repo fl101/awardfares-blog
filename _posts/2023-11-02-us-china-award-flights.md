@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "US-China Award Flights: Guide For A Complex Scenario"
+title: "US-China Award Flights: "
 category: [Guide]
 tags: [China]
 author: Germán
@@ -9,19 +9,19 @@ hidden: true
 sitemap: false
 ---
 
-### In This Post:
+### In This Post
 
-- Current Status- [Current Status: Flights Between The United States and China](#current-status-flights-between-the-united-states-and-china)
+- [Current Status: Flights Between The United States and China](#current-status-flights-between-the-united-states-and-china)
 - [What Airlines Fly US-China Nonstop?](#what-airlines-fly-us-china-nonstop)
-- [US-China Award Flights: Our Top Picks Available Today {#awards}](#us-china-award-flights-our-top-picks-available-today-awards)
+- [US-China Award Flights: Our Top Picks, Available Today](#us-china-award-flights-our-top-picks-available-today)
 - [Options With Stopovers](#options-with-stopovers)
-- [How To Find The Best Award Flights To China (Step-by-step) {#how-to}](#how-to-find-the-best-award-flights-to-china-step-by-step-how-to)
+- [How To Find The Best Award Flights To China (Step-by-step)](#how-to-find-the-best-award-flights-to-china-step-by-step)
 - [Get Started, and Stay Tuned](#get-started-and-stay-tuned)
 - [Read More](#read-more)
 
 ## Current Status: Flights Between The United States and China
 
-As of November 2023, direct flights between the United States and China are still limited due to a complex geopolitical situation, travel bans, and trails of COVID-19. This makes it **extremely hard** for travelers connecting between both countries to find good alternatives: non-stop flights are almost non-existant, and stopovers aren't ideal because of travel times and visa-related issues.
+As of November 2023, direct flights between the United States and China are still limited due to a complex geopolitical situation, travel bans, and trails of COVID-19. This makes it **extremely hard** for travelers connecting between both countries to find good alternatives: non-stop flights are almost nonexistent, and stopovers aren't ideal because of travel times and visa-related issues.
 
 However, there have been some recent developments that suggest that the number of flights may be increasing soon, some of them starting in early 2024 (January and February).
 
@@ -41,28 +41,24 @@ According to [FlightConnections](https://www.flightconnections.com/) and [Google
 
 ### US Airlines
 
-| Airline | Route |
+| **US Airlines** | Route |
 |----|----|
 | American | Dallas Forth Worth to Beijing (PEK) |
 | United | San Francisco (SFO) to Beijing (PEK) |
 | Delta | Seattle (SEA) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), Los Angeles (LAX) to Shanghai (PVG)<sup>1</sup>|
-
-Notes:
-
-1. Starts [March 2024](https://news.delta.com/delta-expand-china-flight-offerings-winter-season)
-
-### Foreign Airlines
-
-| Airline | Route |
-|----|----|
+| **Foreign Airlines** | - |
 | Air China | Los Angeles (LAX) to Beijing (PEK), Chicago (ORD) to Beijing (PEK), New York (JFK) to Beijing (PEK), San Francisco (SFO) to Beijing (PEK)|
 | Beijing Capital Airlines | Los Angeles (LAX) to Hangzhou (HGH)|
 | China Eastern Airlines | Los Angeles (LAX) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), New York (JFK) to Shanghai (PVG), San Francisco (SFO) to Shanghai (PVG) |
 | China Southern Airlines | Los Angeles (LAX) to Guangzhou (CAN), Chicago (ORD) to Guangzhou (CAN), Dallas/Fort Worth (DFW) to Guangzhou (CAN), New York (JFK) to Guangzhou (CAN), San Francisco (SFO) to Guangzhou (CAN) |
 | Hainan Airlines |Boston (BOS) to Beijing (PEK), Seattle (SEA) to Beijing (PEK) |
 | Xiamen Airlines | Los Angeles (LAX) to Xiamen (XMN), New York (JFK) to Xiamen (XMN) |
+Notes:
 
-## US-China Award Flights: Our Top Picks Available Today
+1. Starts [March 2024](https://news.delta.com/delta-expand-china-flight-offerings-winter-season)
+
+
+## US-China Award Flights: Our Top Picks, Available Today
 
 ### Air China
 
@@ -82,42 +78,87 @@ Plenty of seats available on the route Dallas Forth Worth to Shanghai (PVG)
 
 ### United Airlines
 
-**How to book**:
+**How to book**: United MileagePlus, SAS EuroBonus, Aeroplan
 
 <img src="../assets/img/us-china-award-flights/sfo-pek-list.webp" alt="San Francisco to Beijing (AwardFares)."/>
-
-### Delta Air Lines
-
-**How to book**: Use Delta SkyMiles or FlyingBlue
 
 ## Options With Stopovers
 
 ### Japan Airlines
 
+JAL is renowned for its punctuality, exceptional customer service, and high-quality in-flight experience, offering comfortable seating and a wide array of entertainment options. You can expect meticulous attention to detail and a incredibly pleasant journey no matter the cabin class.
+
+As a member of Oneworld, it provides more options when it comes to award flights and redemptions across programs. It also reaches cities or destinations that are not mainstream.
+
+JAL operates a ton of daily flights to/from Tokyo’s Narita (NRT) or Haneda (HND) airports.
+
+What can sometimes be complicated with Japan is navigating visa requirements or travel restrictions, especially in times of heightened security or health concerns. Japan used to have very strict COVID-19 restrictions in place, even for transfers.
+
+**How to book**: Alaska Mileage Plan, AAdvantage 
+
+<img src="../assets/img/us-china-award-flights/jal-timeline.webp" alt="San Francisco to Beijing (AwardFares)."/>
+
 ### All Nippon Airways (ANA)
 
+ANA flies daily from Haneda and Narita to Los Angeles, San Francisco, Seattle, Washington, New York and Houston. It's also easy to connect to Beijing, Shanghai, and other destinations in Mainland China.
+
+**How to book**: United Mileage Plan, SAS EuroBonus, Aeroplan 
+
+<img src="../assets/img/us-china-award-flights/ana.webp" alt="Award flights from the United States to china with All Nippon Airways (AwardFares)." />
+
 ### Cathay Pacific
+
+The airline primarily routes its US to China flights via Hong Kong, a major global aviation hub. There are options from New York (JFK), Los Angeles (LAX), or San Francisco (SFO) to various destinations in China, connecting through Hong Kong (HKG).
+
+While Cathay Pacific offers a streamlined connection via Hong Kong, the geopolitical tensions between Hong Kong and Mainland China could potentially affect flight schedules or operations. Travelers should be aware of any evolving circumstances and check for any related travel advisories or changes in flight patterns.
+
+**How to book**: Alaska Mileage Plan
 
 ### EVA Air
 
 EVA Air offers great options and service via Taiwan, from New York, Chicago, Houston, Washington, Los Angeles, San Francisco, Las Vegas, and Seattle to both Beijing and Shanghai.
 
-There's great availability too using many frequent flyer programs.
+**How to book**: United Mileage Plan, SAS EuroBonus, Aeroplan
+
+<img src="../assets/img/us-china-award-flights/eva-air.webp" alt="EVA Air award flights from the United States to China (AwardFares)."/>
 
 ### Asiana
 
 SFO-PEK via ICN
 
+<img src="../assets/img/us-china-award-flights/asiana.webp" alt="Award flights from the United States to China with Asiana (AwardFares)." />
+
 ### Turkish Airlines
 
-SEA-PEK via IST
+Turkish Airlines is celebrated for its expansive in-flight meal offerings, generous legroom, and top-notch service standards. Also, their A350 cabin is just amazing. 
+
+A popular route is Seattle (SEA) to Istanbul (IST) which can then connect to Beijing, Shanghai, and other cities in Mainland China. Award availability is good across various Star Alliance programs, and can present to travelers a good alternative even for credit card point transfers.
+
+It's clear that geographic position of Istanbul means that the total flight path is much longer than other more direct routes or connections through East Asian hubs. However, Turkish as a flexible policy for long layovers, letting you stay overnight at a hotel for free, or even staying at Istanbul for up to 72hs to explore and 
+
+Price-wise it's also not bad, there are good options at just 54k EuroBonus points one-way in Economy.
+
+**How to book**: SAS EuroBonus, United MileagePlus, Aeroplan
+
+<img src="../assets/img/us-china-award-flights/turkish.webp" alt="EVA Air award flights from the United States to China (AwardFares)."/>
 
 ### Lufthansa and SWISS
 
-### Air Canada
+Lufthansa and SWISS are known for their high service standards, comfortable seating, and quality in-flight amenities. Travelers can expect a consistent experience (check [our reviews here](https://blog.awardfares.com/tags/#Review)). These hubs are also well-equipped to handle international transfers, often making smooth connections.
+
+However, a layover in Europe leads to longer total travel time compared to other flights from the US to China. Depending on the flight schedules, layovers can be exhausting or inconvenient, especially if they require overnight stays. Lastly, keep in mind that transiting through European hubs may expose travelers to additional entry or transit restrictions.
+
+**How to book**: SAS EuroBonus, United MileagePlus, Aeroplan
+
+<img src="../assets/img/us-china-award-flights/us-fra-pek.webp" alt="Award flights from the United States to China with Lufthansa or SWISS (AwardFares)."/>
 
 ### Ethiopian Airways
 
+A significant benefit of flying with Ethiopian Airways is often the competitive pricing. As the airline tries to win over others, even on points, they offer a super cost-effective option for long haul travel (e.g., 90k points round trip). Additionally, Ethiopian Airlines has built a solid reputation for its hospitality and service quality. The Addis Ababa hub, which serves as the airline's main transit point, has increasingly become a strategic and efficient gateway for connecting flights between the Americas, Africa, and Asia.
+
+On the downside, the flight path from the US to China via Ethiopia might be lengthier than direct routes or other more northerly connecting routes, leading, as expected, to longer travel times. Frequency is also less, which reduces flexibility. Additionally, the Addis Ababa airport, while modern, can sometimes face capacity constraints during peak times. Lastly, transit regulations or health screenings in Ethiopia might pose additional considerations for some travelers.
+
+<img src="../assets/img/us-china-award-flights/ethiopian.webp" alt="New York to Beijing with Ethiopian (AwardFares)."/>
 
 ### Air France/KLM
 
@@ -133,7 +174,7 @@ Fly from the United States to Beijing (PEK) and Shanghai (PVG) via Madrid (MAD) 
 
 ---
 
-## How To Find The Best Award Flights To China (Step-by-step) {#how-to}
+## How To Find The Best Award Flights To China (Step-by-step)
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup)
 
