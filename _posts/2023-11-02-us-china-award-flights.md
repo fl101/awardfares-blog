@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "US-China Award Flights:"
+title: "US-China Award Flights: What Are The Best Routes?"
 category: [Guide]
 tags: [China]
 author: Germán
 image: /assets/img/us-china-award-flights/cover.webp
-hidden: true
-sitemap: false
 ---
 
 As of November 2023, direct flights between the United States and China are still limited due to a complex geopolitical situation, travel bans, and trails of COVID-19. This makes it **extremely hard** for travelers connecting between both countries to find good alternatives: nonstop flights are expensive and very limited, and stopovers aren't ideal because of travel times and visa-related issues.
@@ -115,8 +113,6 @@ As a member of Oneworld, it provides more options when it comes to award flights
 
 JAL operates many daily flights to/from Tokyo's Narita (NRT) or Haneda (HND) airports.
 
-What can sometimes be complicated with Japan is navigating visa requirements or travel restrictions, especially in times of heightened security or health concerns. Japan used to have very strict COVID-19 restrictions in place, even for transfers.
-
 **How to book**: Alaska Mileage Plan, AAdvantage.
 
 <img src="../assets/img/us-china-award-flights/jal-timeline.webp" alt="San Francisco to Beijing (AwardFares)."/>
@@ -124,8 +120,6 @@ What can sometimes be complicated with Japan is navigating visa requirements or 
 ### All Nippon Airways (ANA)
 
 ANA flies daily from Haneda (HND) and Narita (NRT) to Los Angeles, San Francisco, Seattle, Washington, New York, and Houston. It's also easy to connect to Beijing, Shanghai, and other destinations in Mainland China.
-
-As with JAL, keep in mind that Japan might be restrictive when it comes to transit visas and transfer requirements. Check this information before booking your flights.
 
 **How to book**: United Mileage Plan, SAS EuroBonus, Aeroplan 
 
