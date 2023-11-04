@@ -91,7 +91,7 @@ I think the biggest point of contention when it comes to this route will not be 
       "worstRating": "1"
     },
     "datePublished": "2023-02-17",
-    "author": {"@type": "Person", "name": "Philip Bergqvist"},
+    "author": {"@type": "Person", "name": "Richard Simko"},
     "publisher": {"@type": "Organization", "name": "AwardFares"}
   }
 }
