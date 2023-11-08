@@ -71,7 +71,7 @@ Search results on AwardFares are presented in stunning Timeline and Map views, w
 
 ### 2. Real-Time Alerts
 
-While exploring award travel options with Roame.travel, AwardFares can be set up to keep a vigilant eye on specific flights or destinations within the Star Alliance. As soon as Roame.travel inspires your next journey, switch to AwardFares for real-time alerts.
+While exploring award travel options with Roame.travel, AwardFares can be set up to keep a vigilant eye on specific flights or destinations. As soon as Roame inspires your next journey, switch to AwardFares for real-time alerts.
 
 This synergy ensures that you are informed the moment an award seat becomes available, allowing you to leverage the broader research and turn it into an actionable booking.
 
@@ -99,7 +99,9 @@ Some programs like United MileagePlus or Air Canada Aeroplan offer cheaper “Sa
 
 ### 5. Guides, Tutorials, and Resources
 
-Roame has great guides on how to transfer points from credit cards to loyalty program to be able to redeem flights at the best rates. In addition, we spend significant time at AwardFares crafting state-of-the-art guides and updated resources with what our users are looking for. From finding the cheapest flight redemptions, per-program sweet spots, all the way to building the perfect award to difficult destinations, our amazing blog and monthly newsletter have all the information you'll be looking for.
+Roame has great guides on how to transfer points from credit cards to loyalty program to be able to redeem flights at the best rates. In addition, we spend significant time at AwardFares crafting state-of-the-art guides and updated resources with what our users want to know.
+
+From finding the cheapest flight redemptions, per-program sweet spots, all the way to building the perfect award to difficult destinations, our amazing blog and monthly newsletter have all the information you'll be looking for.
 
 <img src="../assets/img/roame-travel/af-blog.webp" alt="AwardFares Blog." />
 
