@@ -19,17 +19,10 @@ This guide closely examines the key differences between AwardFares and Cowtool.
 
 - [What is Cowtool? {#what-is-cowtool}](#what-is-cowtool-what-is-cowtool)
 - [AwardFares vs. Cowtool: What are the differences? {#key-differences}](#awardfares-vs-cowtool-what-are-the-differences-key-differences)
-	- [1. User Interface: AwardFares has a modern UI and beautiful charts {#user-interface}](#1-user-interface-awardfares-has-a-modern-ui-and-beautiful-charts-user-interface)
-	- [2. Functionality and Features {#features}](#2-functionality-and-features-features)
-	- [3. Frequent Flyer Programs {#ffps}](#3-frequent-flyer-programs-ffps)
-	- [4. Mobile Experience {#mobile}](#4-mobile-experience-mobile)
-	- [5. Customer Support: One tap to reach AwardFares’ support {#customer-support}](#5-customer-support-one-tap-to-reach-awardfares-support-customer-support)
-	- [6. Pricing {#pricing}](#6-pricing-pricing)
 - [In a nutshell](#in-a-nutshell)
 - [Conclusion](#conclusion)
 - [Get started](#get-started)
 - [Read more {#read-more}](#read-more-read-more)
-
 
 ## What is Cowtool? {#what-is-cowtool}
 
@@ -39,12 +32,9 @@ The tool includes a feature known as "R space", which is represented as a boolea
 
 The tool also uses codes to denote different cabin classes, such as "J" for business class, "PY" for premium economy, and "Y" for economy class. For example, users might see "9+ for Y" and "6 for J" indicating the number of seats that the airline is willing to sell in economy and business class respectively​.
 
-
 <img src="/assets/img/awardfares-vs-cowtool/cowtool-home.webp" alt="Cowtool Home Page (2023)" />
 
-
 ## AwardFares vs. Cowtool: What are the differences? {#key-differences}
-
 
 ### 1. User Interface: AwardFares has a modern UI and beautiful charts {#user-interface}
 
@@ -52,16 +42,11 @@ With a visually appealing and easy-to-understand interface, AwardFares is access
 
 Search results on AwardFares are presented in stunning timeline and map views, with color-coded availability indicators and easy-to-read tables. This simplification makes it easy for users to assess award seat availability and make informed decisions quickly.
 
-
 <img src="/assets/img/awardfares-vs-cowtool/af-home.webp" alt="AwardFares Home Page (2023)" />
-
 
 Cowtool, on the other hand, offers a more data-centric interface that is assumes users to be frequent flyers who are comfortable navigating complex information. Its highly detailed information makes it a comprehensive tool for seasoned award travelers, but the steep learning curve makes it hard for beginners.
 
-
-
 ### 2. Functionality and Features {#features}
-
 
 AwardFares excels in its ability to provide real-time updates on available award seats across a wide range of airlines, specifically focusing on business and first-class award spaces. It allows users to easily check award seat availability and potential costs, making it a valuable tool for those looking to optimize their premium travel experiences.
 
@@ -102,12 +87,11 @@ AwardFares has been meant for mobile from day one. It doesn’t compromise the i
 <img src="/assets/img/awardfares-vs-cowtool/af-mobile.webp" alt="AwardFares Mobile App"/>
 </figure>
 
-
 Cowtool, on the other hand, doesn't offer a dedicated mobile version.
 
 ### 5. Customer Support: One tap to reach AwardFares’ support {#customer-support}
 
-Customer support is at the core of AwardFares’ principles. That’s why some of the UI elements at hand are aimed at seeking help quickly. On the AwardFares site, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
+Customer support is at the core of AwardFares’ principles. That’s why some UI elements at hand are aimed at seeking help quickly. On the AwardFares site, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
 
 <figure>
 <img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" class="half" />

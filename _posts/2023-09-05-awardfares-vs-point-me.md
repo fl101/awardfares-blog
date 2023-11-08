@@ -15,14 +15,11 @@ In this guide, we delve into the 5 key differences between AwardFares and Point.
 
 ### In this post
 
-- [What is Point.me?](#point-me)
-- [AwardFares vs. Point.me: Key Differences](#differences)
-	- [Simplified User Interface](#one)
-	- [Top-Notch Alert System](#two)
-	- [Simple Pricing](#three)
-	- [Free Trials And Better Insights](#four)
-	- [Journey Planner](#five)
+- [What is Point.me? {#point-me}](#what-is-pointme-point-me)
+- [AwardFares vs. Point.me: Key Differences {#differences}](#awardfares-vs-pointme-key-differences-differences)
 - [Conclusion](#conclusion)
+- [Get started](#get-started)
+- [Read more](#read-more)
 
 ## What is Point.me? {#point-me}
 
@@ -67,9 +64,9 @@ AwardFares Pricing Tiers:
 
 ### 4. Free Trials And Better Insights {#four}
 
-Yes! You can try any AwardFares package for 24 hours before commiting, to get a taste of the extra features.
+Yes! You can try any AwardFares package for 24 hours before committing, to get a taste of the extra features.
 
-In additionm, beyond just notifying about available seats, AwardFares goes the extra mile (pun intended) by offering users insights and trends in the world of award travel. Whether it's peak seasons to avoid or sweet spots in miles redemption, AwardFares ensures its users are equipped with knowledge to make strategic decisions. This focus on not just providing data, but actionable insights, sets the platform apart.
+In addition, beyond just notifying about available seats, AwardFares goes the extra mile (pun intended) by offering users insights and trends in the world of award travel. Whether it's peak seasons to avoid or sweet spots in miles redemption, AwardFares ensures its users are equipped with knowledge to make strategic decisions. This focus on not just providing data, but actionable insights, sets the platform apart.
 
 <img src="../assets/img/awardfares-vs-point-me/af-list.webp" alt="AwardFares Alerts" />
 
@@ -77,7 +74,7 @@ In additionm, beyond just notifying about available seats, AwardFares goes the e
 
 ### 5. Journey Planner {#five}
 
-One of the most amazing features is the Journey Planner. This powerful feature lets you unlock itineraries to your dream destination, by planning multiple segments in a quick and convenient way. In just a few clicks, users can select add or remove legs, find connections within 24 hours, duplicate journeys, and see the itinerary on a map.k
+One of the most amazing features is the Journey Planner. This powerful feature lets you unlock itineraries to your dream destination, by planning multiple segments in a quick and convenient way. In just a few clicks, users can select add or remove legs, find connections within 24 hours, duplicate journeys, and see the itinerary on a map.
 
 <img src="../assets/img/awardfares-vs-point-me/journey-2.webp" alt="AwardFares Journey Planner" />
 

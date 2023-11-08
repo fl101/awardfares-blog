@@ -72,7 +72,7 @@ If you’re flexible with your destinations or are planning multi-city trips, Aw
 
 <img src="../assets/img/award-hacker/journey-planner.webp" alt="Plan flights and itineraries exploring routes and award flights with AwardFares and AwardHacker." />
 
-*Image: AwardFares Jouney Planner and Map View.*
+*Image: AwardFares Journey Planner and Map View.*
 
 **Read more** about [AwardFares' Journey Planner feature here](https://blog.awardfares.com/journey-planner/).
 
