@@ -133,6 +133,7 @@ For example, if you set the Cabin filter to First or Business class, the itinera
 
 <img src="../assets/img/prices-and-mixed-cabins/mixed-cabin-filter-with-cabin.webp" alt="AwardFares Mixed-cabin and Cabin filters." />
 
+
 #### Improved Alerts Filters {#alerts}
 
 Alerts are also upgraded with our mixed cabin filter! This means you can get notified also when mixed-cabin award flights become available. Keep in mind that, by default, the Alerts will exclude mixed cabins. Hence, you'll need to set up a value to be notified on mixed-cabin awards.
@@ -166,7 +167,6 @@ Make sure to also check these posts out
 
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
-- [AwardFares vs. Point.me](https://blog.awardfares.com/awardfares-vs-point-me/)
-- [AwardFares & AwardHacker](https://blog.awardfares.com/awardhacker)
+- [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
+- [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
 - [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)

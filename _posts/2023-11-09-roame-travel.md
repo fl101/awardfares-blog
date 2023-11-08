@@ -9,7 +9,7 @@ hidden: true
 sitemap: false
 ---
 
-With its broad approach, **Roame.travel** provides a bird’s-eye view of opportunities across various airline alliances. But when it comes to the nitty-gritty of securing a seat, AwardFares emerges as the perfect co-pilot. While Roame.travel can help you identify round trips and guide you through credit card points transfers, **AwardFares** goes a step further by showing real-time availability, and showing exact prices including taxes and fees.
+**Roame.travel** is a relatively new award travel search tool that has quickly gained popularity, as it provides a bird’s-eye view of opportunities across various airline alliances. But when it comes to the nitty-gritty of securing a seat, AwardFares emerges as the perfect co-pilot. While Roame.travel can help you identify round trips and guide you through credit card points transfers, **AwardFares** goes a step further by showing real-time availability, and showing exact prices including taxes and fees.
 
 In this post, we show how **AwardFares** can complement Roame.travel to create a well-rounded award travel strategy.
 
@@ -71,11 +71,11 @@ Search results on AwardFares are presented in stunning Timeline and Map views, w
 
 ### 2. Real-Time Alerts
 
-While exploring award travel options with Roame.travel, AwardFares can be set up to keep a vigilant eye on specific flights or destinations within the Star Alliance. As soon as Roame.travel inspires your next journey, switch to AwardFares for real-time alerts. 
+While exploring award travel options with Roame.travel, AwardFares can be set up to keep a vigilant eye on specific flights or destinations within the Star Alliance. As soon as Roame.travel inspires your next journey, switch to AwardFares for real-time alerts.
 
 This synergy ensures that you are informed the moment an award seat becomes available, allowing you to leverage the broader research and turn it into an actionable booking.
 
-> Read our [complete Alerts tutorial here](https://blog.awardfares.com/alerts/).
+**Read our** [complete Alerts tutorial here](https://blog.awardfares.com/alerts/).
 
 <img src="../assets/img/awardfares-vs-point-me/alert-from-search-1.webp" alt="AwardFares Alerts" />
 
@@ -139,6 +139,7 @@ Make sure to also check these posts out
 
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
-- [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
+- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
+- [AwardFares vs. Point.me](https://blog.awardfares.com/awardfares-vs-point-me/)
+- [AwardFares & AwardHacker](https://blog.awardfares.com/awardhacker)
 - [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
