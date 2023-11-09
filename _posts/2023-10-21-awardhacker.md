@@ -100,7 +100,7 @@ AwardHacker displays the mileage requirements for economy, premium economy, busi
 
 While AwardHacker doesn’t offer alerts, its comprehensive data can guide frequent flyers on which routes or programs to monitor, especially if they're aiming for a specific redemption in the future.
 
-**How AwardFares Helps**: With this preemptive knowledge from AwardHacker, you can set up precise alerts on **AwardFares**, ensuring you’re notified as soon as seats become available on your desired routes and classes.
+**How AwardFares Helps**: With this preemptive knowledge from AwardHacker, you can set up precise alerts on **AwardFares**, ensuring you are notified as soon as seats become available on your desired routes and classes.
 
 <img src="../assets/img/award-hacker/award-hacker-alert.webp" alt="Set up an alert in AwardFares for a route you saw using AwardHacker." />
 
@@ -112,7 +112,7 @@ While AwardHacker doesn’t offer alerts, its comprehensive data can guide frequ
 
 With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro-tips.
 
 ## Read more
 
