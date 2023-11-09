@@ -38,7 +38,7 @@ The tool also uses codes to denote different cabin classes, such as "J" for busi
 
 ### 1. User Interface: AwardFares has a modern UI and beautiful charts {#user-interface}
 
-With a visually appealing and easy-to-understand interface, AwardFares is accessible to both beginners and experienced travellers. The platform is easy to navigate and simplifies the task of finding the best award flight deals. Users can set notifications for particular routes and airlines, and the system automatically alerts them when a good deal pops up.
+With a visually appealing and easy-to-understand interface, AwardFares is accessible to both beginners and experienced travelers. The platform is easy to navigate and simplifies the task of finding the best award flight deals. Users can set notifications for particular routes and airlines, and the system automatically alerts them when a good deal pops up.
 
 Search results on AwardFares are presented in stunning timeline and map views, with color-coded availability indicators and easy-to-read tables. This simplification makes it easy for users to assess award seat availability and make informed decisions quickly.
 
@@ -60,23 +60,22 @@ One of the biggest advantages of AwardFares is the possibility to search across 
 
 Unlike Cowtool, where filtering down the options require new searches, filters on AwardFares are also one click away. From the dropdown menus, it’s possible to trim down results based on frequent flyer program, airline, number of passengers, number of stops, or equipment type.
 
-Another convenient feature on AwardFares is the possibility to set up alerts for award seat availability directly from the search results. 
+Another convenient feature on AwardFares is the possibility to set up alerts for award seat availability directly from the search results.
 
+Cowtool shines in its depth of data and information. The platform offers a comprehensive database of airlines and their award seat availability. Moreover, it provides detailed breakdowns of redemption rates, transfer partners, and stopover rules for Aeroplan. This depth of information makes Cowtool particularly useful for those who want a more in-depth understanding of the reward landscape.
 
-Cowtool shines in its depth of data and information. The platform offers a comprehensive database of airlines and their award seat availability. Moreover, it provides detailed breakdowns of redemption rates, transfer partners, and stopover rules for aeroplan. This depth of information makes Cowtool particularly useful for those who want a more in-depth understanding of the reward landscape.
-
-Cowtool offers a collection of five very-targed tools for Air Canada flyers and Aeroplan members.
+Cowtool offers a collection of five very-targeted tools for Air Canada flyers and Aeroplan members.
 
 * **AC Reward Searcher**. Unofficial tool for searching Aeroplan flight redemptions. It allows searching multiple dates, origins, and destinations, and has extremely advanced filtering to help you find the perfect itinerary. You must be signed in to use this.
 * **Air Canada (AC) PNR Viewer**. Unofficial tool for viewing a PNR. It shows all pertinent data about your PNR in a concise format.
-* **Air Canada Schedule Change Notifier**. Unofficial tool to notify you have AC schedule changes. It looks for any AC operated and many AC marketed flights in your TripIt account that have times or aircraft types that are different than what's currently on AC's schedule, and sends an email if it finds anything.
+* **Air Canada Schedule Change Notifier**. Unofficial tool to notify you have AC schedule changes. It looks for any AC operated, and many AC marketed flights in your TripIt account that have times or aircraft types that are different than what's currently on AC's schedule, and sends an email if it finds anything.
 * **Air Canada SQD/SQM Calculator**. Unofficial AC SQD/SQM calculator. Built by various FlyerTalkers using a database of crowd-sourced distances for numerous city pairs, it will tell you exactly how much SQD/SQM you'll earn, per segment, for any itineraries you can come up with. This is also the same code that the PNR Viewer uses to determine the SQD/SQM breakdowns.
 * **Air Canada Flight Status**. View flight status, seat maps, menus, and departure/arrival information. Some information is only available as departure time gets closer.
 
 
 ### 3. Frequent Flyer Programs {#ffps}
 
-While Cowtool is mainly targeted to Air Canada Aeroplan members, AwardFares covers a selection of major airlines from Star Alliance, OneWorld, and other airlines. As of July 2023, we support American AAdvantage, Air Canada Aeroplan, Avianca LifeMiles, Alaska Mileage Plan, United MileagePlus and SAS EuroBonus.
+While Cowtool is mainly targeted to Air Canada Aeroplan members, AwardFares covers a selection of major airlines from Star Alliance, Oneworld, and other airlines. As of July 2023, we support American AAdvantage, Air Canada Aeroplan, Avianca LifeMiles, Alaska Mileage Plan, United MileagePlus and SAS EuroBonus.
 
 
 ### 4. Mobile Experience {#mobile}
@@ -91,7 +90,7 @@ Cowtool, on the other hand, doesn't offer a dedicated mobile version.
 
 ### 5. Customer Support: One tap to reach AwardFares’ support {#customer-support}
 
-Customer support is at the core of AwardFares’ principles. That’s why some UI elements at hand are aimed at seeking help quickly. On the AwardFares site, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
+Customer support is at the core of AwardFares’ principles. That’s why some UI elements at hand aim at seeking help quickly. On the AwardFares site, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
 
 <figure>
 <img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" class="half" />
@@ -112,7 +111,7 @@ AwardFares Pricing Tiers:
 <img src="/assets/img/awardfares-vs-cowtool/af-pricing.webp" alt="AwardFares Pricing" />
 
 
-On the other hand, Cowtool has a "pay what you want" pricing model, where the default is $0. If you choose to pay for cowtool, you will not be granted access to any tools, features, or betas, that you do not otherwise have access to. This is just to help support the time and cost involved in developing and running cowtool. Nothing extra will be provided in exchange for any payment.
+On the other hand, Cowtool has a "pay what you want" pricing model, where the default is $0. If you choose to pay for Cowtool, you will not be granted access to any tools, features, or betas, that you do not otherwise have access to. This is just to help support the time and cost involved in developing and running Cowtool. Nothing extra will be provided in exchange for any payment.
 
 ## In a nutshell
 
@@ -131,13 +130,13 @@ On the other hand, Cowtool has a "pay what you want" pricing model, where the de
 
 Cowtool has long been a prime tool for experienced Aeroplan members that want to make the most out of their miles and get on the best possible cabins, products, and schedules. While it still provides excellent value and information, its outdated interface and steep learning curve makes it hard for beginners that are looking for a more intuitive approach. There's still a number of tools oriented to Air Canada flyers included with Cowtool's subscription, such as the flight status and schedule change notifier.
 
-On the other hand, AwardFares provides a stunning, **modern user interface**, meant for quickly **searching and filtering** award space. The results are up-to-date and **accurate**, sourced directly from Air Canada Aeroplan (and all the other programs. It's **simple to use**, and planned for **mobile devices**. Users can get started for **free**, in addition to **accessible** paid tiers for both casual and hardcore flyers.
+On the other hand, AwardFares provides a stunning, **modern user interface**, meant for quickly **searching and filtering** award space. The results are up-to-date and **accurate**, sourced directly from Air Canada Aeroplan (and all the other programs). It's **simple to use**, and planned for **mobile devices**. Users can get started for **free**, in addition to **accessible** paid tiers for both casual and hardcore flyers.
 
-Overall, AwardFares can be a great upgrade for both beginners and advanced Aeroplan members looking for a more powerful and intuitive way of leverating their miles.
+Overall, AwardFares can be a great upgrade for both beginners and advanced Aeroplan members looking for a more powerful and intuitive way of leveraging their miles.
 
 ## Get started
 
-You can try searching for award flights on Singapore Airlines [using AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+You can try searching for award flights on Singapore Airlines [using AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro-tips!
 
 ## Read more {#read-more}
 

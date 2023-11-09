@@ -58,9 +58,7 @@ AwardFares Pricing Tiers:
 2. **Gold** (USD 9.99): award search, award calendar, award map, journey planner, hourly availability on award seats, 5 seat alerts, 100 custom searches per day, max 7 searches at once, award availability count, search with stops, per-program availability, cabin annotations, seat maps, award release dates, and flight schedules tool.
 3. **Diamond** (USD 19.99): award search, award calendar, award map, journey planner, **real-time availability** on award seats, **unlimited seat alerts**, **unlimited custom searches per day**, max 30 searches at once, award availability count, search with stops, per-program availability, cabin annotations, seat maps, award release dates, and flight schedules tool.
 
-
 <img src="../assets/img/awardfares-vs-point-me/af-pricing.webp" alt="AwardFares Pricing" />
-
 
 ### 4. Free Trials And Better Insights {#four}
 
@@ -69,8 +67,6 @@ Yes! You can try any AwardFares package for 24 hours before committing, to get a
 In addition, beyond just notifying about available seats, AwardFares goes the extra mile (pun intended) by offering users insights and trends in the world of award travel. Whether it's peak seasons to avoid or sweet spots in miles redemption, AwardFares ensures its users are equipped with knowledge to make strategic decisions. This focus on not just providing data, but actionable insights, sets the platform apart.
 
 <img src="../assets/img/awardfares-vs-point-me/af-list.webp" alt="AwardFares Alerts" />
-
-
 
 ### 5. Journey Planner {#five}
 
@@ -85,7 +81,6 @@ One of the most amazing features is the Journey Planner. This powerful feature l
 ### 6. Blog and Free Resources {#six}
 
 At AwardFares, we spent significant time crafting state-of-the-art guides and updated resources with what our users are looking for. The best flight redemptions, per-program sweet spots, tips to build perfect award trips, and feature deep-dives are available on our amazing blog and monthly newsletter.
-
 
 ## Conclusion
 

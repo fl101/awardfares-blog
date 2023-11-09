@@ -5,8 +5,6 @@ category: [Guide]
 tags: [roame.travel]
 author: Germán
 image: /assets/img/roame-travel/cover.webp
-hidden: true
-sitemap: false
 ---
 
 **Roame.travel** is a relatively new award travel search tool that has quickly gained popularity, as it provides a bird’s-eye view of opportunities across various airline alliances. But when it comes to the nitty-gritty of securing a seat, AwardFares emerges as the perfect co-pilot. While Roame.travel can help you identify round trips and guide you through credit card points transfers, **AwardFares** goes a step further by showing real-time availability, and showing exact prices including taxes and fees.
