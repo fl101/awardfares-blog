@@ -16,13 +16,13 @@ We are committed to enhancing your travel experience and take your journey plann
 
 ### What's new?
 
-- [Award Prices {#prices}](#award-prices-prices)
-- [Mixed Cabin Awards {#mixed-cabin}](#mixed-cabin-awards-mixed-cabin)
-- [New Search Results Header {#header}](#new-search-results-header-header)
+- [Award Prices](#award-prices)
+- [Mixed Cabin Awards](#mixed-cabin-awards)
+- [New Search Results Header](#new-search-results-header)
 - [Get started, and stay tuned](#get-started-and-stay-tuned)
 - [Read more](#read-more)
 
-## Award Prices {#prices}
+## Award Prices
 
 **ALSO READ**: Check [our detailed guide on how to use AwardFares' pricing to find cheap award flights](https://blog.awardfares.com/how-to-find-cheap-award-flights/).
 
@@ -89,7 +89,7 @@ Here's how AwardFares displays Saver vs. Non-saver availability for Aeroplan awa
 
 <img src="../assets/img/prices-and-mixed-cabins/saver-vs-nonsaver-aeroplan.webp" alt="AwardFares Award Flight Search Engine With Flight Prices." />
 
-## Mixed Cabin Awards {#mixed-cabin}
+## Mixed Cabin Awards
 
 Another key feature in this update is the support for mixed-cabin award searches Mixed-cabin awards are also known as blended or combination-cabin awards, and are a type of pricing structure offered by some airlines and frequent flyer programs when you book an award ticket that involves segments in different travel classes or cabins of service.
 
@@ -134,14 +134,14 @@ For example, if you set the Cabin filter to First or Business class, the itinera
 <img src="../assets/img/prices-and-mixed-cabins/mixed-cabin-filter-with-cabin.webp" alt="AwardFares Mixed-cabin and Cabin filters." />
 
 
-#### Improved Alerts Filters {#alerts}
+#### Improved Alerts Filters
 
 Alerts are also upgraded with our mixed cabin filter! This means you can get notified also when mixed-cabin award flights become available. Keep in mind that, by default, the Alerts will exclude mixed cabins. Hence, you'll need to set up a value to be notified on mixed-cabin awards.
 
 <img src="../assets/img/prices-and-mixed-cabins/mixed-cabin-alerts.webp" alt="AwardFares Mixed-cabin Filter for Alerts." />
 
 
-## New Search Results Header {#header}
+## New Search Results Header
 
 Another cool upgrade is a redesign of the header row in the search results table. This header is now interactive, and you use it to sort the results.
 
