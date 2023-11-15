@@ -14,10 +14,10 @@ Hurry up, because there's only a few days left to book! The promotion is valid u
 <div class="countdown-container">
     <h3>TIME LEFT TO BOOK</h3>
     <div id="timer">
-        <span id="days"></span> **days**,
-        <span id="hours"></span> **hours**,
-        <span id="minutes"></span> **minutes**,
-        <span id="seconds"></span> **seconds**
+        <span id="days"></span> days,
+        <span id="hours"></span> hours,
+        <span id="minutes"></span> minutes,
+        <span id="seconds"></span> seconds
     </div>
 </div>
 
@@ -32,9 +32,9 @@ In addition, members with the SAS Mastercard Fly Premium benefit can combine it 
 * Discount: 25% in SAS Go Bonus and SAS Plus Bonus
 * Book by **November 20th, 2023**
 * Travel period: 1 December – 31 March 2024
-* Destinations within Sweden: Malmö, Umeå, Gothenburg and Ängelholm.
-* Destinations within Norway: Bergen, Stavanger, Trondheim, and Tromsø.
-* Destinations within Denmark: Aarhus, Aalborg, and from Denmark to Trondheim and Bergen.
+* Destinations within [Sweden](https://www.sas.se/special-offers/poangrabatt/): Malmö, Umeå, Gothenburg and Ängelholm.
+* Destinations within [Norway](https://www.sas.no/special-offers/poengrabatt/): Bergen, Stavanger, Trondheim, and Tromsø.
+* Destinations within [Denmark](https://www.sas.dk/special-offers/pointrabat/): Aarhus, Aalborg, and from Denmark to Trondheim and Bergen.
 
 ## SAS EuroBonus Award Flights With 25% Discount
 
@@ -115,6 +115,8 @@ Make sure to also check these posts out
 
 * [SAS EuroBonus Analysis and Forecast (Free Tool)](https://blog.awardfares.com/eurobonus-analysis-and-forecast/)
 * [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
+* [SAS Will Leave Star Alliance! Here’s What To Do Next (2023)](https://blog.awardfares.com/sas-acquisition/)
+* [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
 
 <style>
     .countdown-container {
