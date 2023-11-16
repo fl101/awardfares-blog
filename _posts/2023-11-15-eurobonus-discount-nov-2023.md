@@ -11,14 +11,8 @@ Heja EuroBonus members! If you have *just a few* points on your account and are 
 
 Hurry up, because there's only a few days left to book! The promotion is valid until November 20th for flights between December and March 2024. The offer applies to one-way and return journeys in SAS Go Bonus and SAS Plus Bonus. And as usual, children 2-11 years old get 50% of the point price, even on the already discounted price.
 
-<div class="countdown-container">
-    <h3>TIME LEFT TO BOOK</h3>
-    <div id="timer">
-        <span id="days"></span> days,
-        <span id="hours"></span> hours,
-        <span id="minutes"></span> minutes,
-        <span id="seconds"></span> seconds
-    </div>
+<div data-countdown="2023-11-20T22:59:00.000+02:00">
+  TIME LEFT TO BOOK
 </div>
 
 There are many seats available, as we show below using AwardFares. Typical [prices for these awards](https://www.flysas.com/en/eurobonus/points/fly-with-points/point-chart/) are 5k EuroBonus points in SAS Go and 10k in SAS Plus (one-way). However, with this promotion, you can get them for as low as 3750 points and 7500 points respectively.
@@ -118,45 +112,4 @@ Make sure to also check these posts out
 * [SAS Will Leave Star Alliance! Here’s What To Do Next (2023)](https://blog.awardfares.com/sas-acquisition/)
 * [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
 
-<style>
-    .countdown-container {
-        text-align: center;
-    }
-</style>
-
-<script>
-    function countdown() {
-        var now = new Date();
-        var eventDate = new Date(2023, 10, 20, 23, 59, 0); // Note: JavaScript months are 0-based
-
-        var currentTime = now.getTime();
-        var eventTime = eventDate.getTime();
-
-        var remainingTime = eventTime - currentTime;
-
-        var seconds = Math.floor(remainingTime / 1000);
-        var minutes = Math.floor(seconds / 60);
-        var hours = Math.floor(minutes / 60);
-        var days = Math.floor(hours / 24);
-
-        hours %= 24;
-        minutes %= 60;
-        seconds %= 60;
-
-        hours = (hours < 10) ? "0" + hours : hours;
-        minutes = (minutes < 10) ? "0" + minutes : minutes;
-        seconds = (seconds < 10) ? "0" + seconds : seconds;
-
-        document.getElementById("days").textContent = days;
-        document.getElementById("hours").textContent = hours;
-        document.getElementById("minutes").textContent = minutes;
-        document.getElementById("seconds").textContent = seconds;
-
-        if (remainingTime < 0) {
-            clearInterval(interval);
-            document.getElementById("timer").innerHTML = "0";
-        }
-    }
-
-    var interval = setInterval(countdown, 1000);
-</script>
+<script src="/assets/js/countdown.js"></script>

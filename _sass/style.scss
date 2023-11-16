@@ -137,3 +137,14 @@ a.banner {
   width: 100%;
   box-sizing: border-box;
 }
+
+[data-countdown] {
+  text-align: center;
+  background: #eee;
+  padding: 20px 10px;
+  border-radius: 10px;
+}
+
+[data-countdown] h3 {
+  margin: 0 0 5px 0;
+}
