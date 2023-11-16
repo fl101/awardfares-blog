@@ -6,7 +6,7 @@ tags: [Review, Business, United]
 author: Richard
 hidden: true
 sitemap: false
-# image: /assets/img/sas-business-jfk/speech.jpeg
+image: /assets/img/united-polaris-review/header.jpeg
 ---
 
 United recently finished their [Polaris Business](https://www.united.com/en/us/fly/travel/inflight/polaris.html) rollout to all planes in their fleet. It's a new concept for their business class product spanning everything from lounges to cabins to food and drink. I recently tried it out on a flight from Washington to Sao Paulo.
@@ -15,11 +15,17 @@ United recently finished their [Polaris Business](https://www.united.com/en/us/f
 
 The seats are [layed out](https://www.united.com/ual/en/us/fly/travel/inflight/aircraft/767-300er.html) in 1-1-1 configuration which is similar to SAS in some regards with alternating seats being closer to the window and closer to the aisle. Sadly I was only able to get a seat closer to the aisle which of course has worse privacy compared to those slightly closer to the windows. That being said the privacy overall is very good with each seat being surrounded by high walls making it hard to see anyone apart from your nearest neighbor.
 
-`image of bottle thingy`
+<figure>
+<img src="/assets/img/united-polaris-review/seat.jpeg" class="half"/>
+<img src="/assets/img/united-polaris-review/bottle-holder.jpeg" class="half"/>
+</figure>
 
 Since the cabin is almost brand new everything is in good condition and the seats are very comfortable. The seats also offer good amounts of storage space with a large compartment under the footrest and a clever bottle holder next to where your head ends up when sleeping. A very good way of knowing where the water is if you wake up thirsty while sleeping. My only complaint would be that the table is very small and fitting both a 14" laptop and dinner was a challenge and that the seat is a bit narrow when sleeping.
 
-`image of laptop`
+<figure>
+<img src="/assets/img/united-polaris-review/privacy.jpeg" class="half"/>
+<img src="/assets/img/united-polaris-review/laptop.jpeg" class="half"/>
+</figure>
 
 ## Food & Drink Service
 
@@ -27,7 +33,16 @@ I opted for the expedited service since the flight was late in the evening and I
 
 The wine selection is decent with even real Champagne (The kind that's from the region of France called Champagne) being on offer, however the way of serving it was... Interesting. It was served in "glass" made of thick plastic, the kind you would expect someone to keep their toothbrush in. This certainly took away from the premium experience that a business class flight usually is.
 
-`image of champagen plastic glass`
+<figure>
+<img src="/assets/img/united-polaris-review/plastic-champagne.jpeg" class="half"/>
+<img src="/assets/img/united-polaris-review/menu.jpeg" class="half"/>
+</figure>
+
+## Amenity Kit
+
+The amenity kit was certainly a nice surprise and a bit creative in being delivered in a sling bag (Or fanny pack as some would put it). It contained the usual suspects of ear plugs, eye mask, socks, toothbrush and toothpaste as well as some hand cream and lip balm. As usual with the socks that come with amenity kits they are made of a large amount of polyester which makes them very uncomfortable to wear and very sweaty. All in all nothing stood out in the contents but the bag I'll certainly be reusing.
+
+<img src="/assets/img/united-polaris-review/amenity-kit.jpeg" class="half"/>
 
 ## Airport & Lounge
 
