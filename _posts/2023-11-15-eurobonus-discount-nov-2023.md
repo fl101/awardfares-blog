@@ -24,7 +24,7 @@ In addition, members with the SAS Mastercard Fly Premium benefit can combine it 
 **Promotion details:**
 
 * Discount: 25% in SAS Go Bonus and SAS Plus Bonus
-* Book by **November 20th, 2023**
+* Book by **November 20th, 2023** (end of day)
 * Travel period: 1 December – 31 March 2024
 * Destinations within [Sweden](https://www.sas.se/special-offers/poangrabatt/): Malmö, Umeå, Gothenburg and Ängelholm.
 * Destinations within [Norway](https://www.sas.no/special-offers/poengrabatt/): Bergen, Stavanger, Trondheim, and Tromsø.
@@ -32,7 +32,7 @@ In addition, members with the SAS Mastercard Fly Premium benefit can combine it 
 
 ## SAS EuroBonus Award Flights With 25% Discount
 
-**Note:** Keep in mind that AwardFares will show you the award prices without the 25% discount applied, since this gets 
+**Note:** Keep in mind that AwardFares will show you the award prices without the 25% discount applied, since it gets calculated and applied after you log in to your SAS account. AwardFares never asks you for your loyalty program's credentials!
 
 ## 1. [Malmö](https://awardfares.com/search?.MMX.;z:sas)
 
