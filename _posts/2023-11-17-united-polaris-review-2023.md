@@ -21,8 +21,11 @@ United recently finished their [Polaris Business](https://www.united.com/en/us/f
 - [IFE](#ife)
 - [Sleep](#sleep)
 - [Conclusion](#conclusion)
+- [Read More](#read-more)
 
 ## How I Booked This Flight
+
+You can [try AwardFares for free](https://awardfares.com/), and with the [Gold and Diamond tiers](https://awardfares.com/pricing), you can get access to premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more.
 
 ## Seat And Cabin
 
@@ -72,6 +75,15 @@ I slept like a baby on this flight; with the flight being about 10 hours long, I
 ## Conclusion
 
 The United Polaris Business Class is a product full of contrasts. On the one hand, it offers access to lounges on par with some first-class lounges; on the other hand, wine is served in plastic glasses, and the dinner service is very basic. The seat is comfortable and offers privacy, but the table is too small and narrow. The bedding is comfortable, but the pillow is too small. The IFE is good, but the screen is too far away to use the touch screen. Overall, I would say that the United Polaris is a solid product, but it's not a product that stands out in any way, and it lacks the refinement of some of the better Asian airlines.
+
+## Read More
+
+Make sure to also check these posts out
+
+- [United MileagePlus Sweet Spots (2023)](https://blog.awardfares.com/mileageplus-sweet-spots/)
+- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
+- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
+- [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
 
 <script type="application/ld+json">
 {
