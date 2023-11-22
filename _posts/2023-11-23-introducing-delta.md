@@ -7,11 +7,11 @@ author: Germán
 image: /assets/img/introducing-delta/cover.webp
 ---
 
-Delta SkyMiles has been one of the most acclaimed frequent flyer programs in the United States, carving out a reputation for its flexibility, lack of blackout dates, and a wide array of redemption options. Despite recently upsetting a large portion of their members with [major changes for 2024](https://www.delta.com/us/en/skymiles/medallion-program/2024-program-updates), it still remains among the best options to redeem award flights on SkyTeam airlines, and stands strong for great earning options and seat availability.
+Delta SkyMiles has been one of the most acclaimed frequent flyer programs in the United States, carving out a reputation for its flexibility, lack of blackout dates, and a wide array of redemption options. Despite recently upsetting a large portion of their members with [major changes for 2024](https://www.delta.com/us/en/skymiles/medallion-program/2024-program-updates), it remains among the best options to redeem award flights on SkyTeam airlines and stands firm for great earning options and seat availability.
 
 In this update, we are glad to announce support for SkyMiles award flights in AwardFares! Our first SkyTeam partner (with more to come).
 
-### What's new?
+### What's New?
 
 - [Introducing Delta SkyMiles Award Search](#introducing-delta-skymiles-award-search)
 - [How To Find Cheap Delta SkyMiles Award Flights](#how-to-find-cheap-delta-skymiles-award-flights)
@@ -21,23 +21,23 @@ In this update, we are glad to announce support for SkyMiles award flights in Aw
 
 ## Introducing Delta SkyMiles Award Search
 
-We're excited to announce that AwardFares now supports the Delta SkyMiles program! You can now tap into one of the coolest and most flexible frequent flyer programs around to scout out your next adventure. Delta SkyMiles is all about giving you a myriad of options, destinations, and partner airlines, and we're bringing all that directly to your fingertips.
+We're excited to announce that AwardFares now supports the Delta SkyMiles program! You can now tap into one of the coolest and most flexible frequent flyer programs to scout your next adventure. Delta SkyMiles is all about giving you myriad options, destinations, and partner airlines, and we're bringing all that directly to your fingertips.
 
 ### Redeem on Delta Air Lines
 
-Once you select Delta SkyMiles, you will see all seats availbe on Delta Air Lines flights, and their prices including taxes and fees required to book.
+Once you select Delta SkyMiles, you will see all seats available on Delta Air Lines flights and their prices, including taxes and fees required to book.
 
-AwardFares will display prices and availability in all cabin types including Economy, Premium Economy, Business and First Class (domestica and international).
+AwardFares will display prices and availability in all cabin types, including Economy, Premium Economy, Business, and First Class (domestic and international).
 
-Add **Delta** to the **Airline** filter to only display Delta-operated flights.
+Add **Delta** to the **Airline** filter to display only Delta-operated flights.
 
 <img src="../assets/img/introducing-delta/jfk-cdg-delta.webp" alt="New York to Paris Award Flights with Delta Sky Miles." class="noborder"/>
 
 ### Redeem on SkyTeam Airlines
 
-In addition to searching on Delta Air Lines, AwardFares will show availability across al SkyTeam and other SkyMiles partner airlines.
+In addition to searching on Delta Air Lines, AwardFares will show availability across all SkyTeam and other SkyMiles partner airlines.
 
-As we can see below, we can search for seats on Air France or KLM from New York to Paris.
+As shown below, we can search for Air France or KLM seats from New York to Paris.
 
 <img src="../assets/img/introducing-delta/jfk-cdg-af.webp" alt="New York to Paris Award Flights with Delta Sky Miles." class="noborder"/>
 
@@ -67,7 +67,7 @@ If you have a particular date in mind, add it by tapping on the **Calendar** fie
 
 <img src="../assets/img/introducing-delta/calendar.webp" alt="How to find cheaps Delta SkyMiles award flight using AwardFares." class="noborder" />
 
-If you don't have a set date, you can take advantage of AwardFare's **Timeline View** to explore the seat availability across different days. The Timeline View displays how many seats are available for each day of the week/month. The bars are color-coded, so it's easy to distinguish between cabin classes (Economy, Business, First). You can also trigger new searches by tapping the refresh icon underneath each day.
+If you don't have a set date, you can take advantage of AwardFare's **Timeline View** to explore seat availability across different days. The Timeline View displays how many seats are available for each day of the week/month. The bars are color-coded, so it's easy to distinguish between cabin classes (Economy, Business, First). You can also trigger new searches by tapping the refresh icon underneath each day.
 
 In addition, you can also tap anywhere on the flight to display more details in an expanded view, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free versus occupied!
 
@@ -89,15 +89,15 @@ Once you have identified the flights you want go to Delta's website and make the
 
 ### Taxes and Fees
 
-When you tap on a flight, the detailed view will show you more details about it, including availability, taxes, and fees required to book the award. Note that the currency will be adjusted depending on the departure country (if the currency is officially supported by Delta, otherwise price will be shown in USD).
+When you tap on a flight, the detailed view will show you more details about it, including availability, taxes, and fees required to book the award. Note that the currency will be adjusted depending on the departure country (if Delta officially supports the currency; otherwise, the price will be shown in USD).
 
-For example, in this case, the departure city is London (LHR), thus the fees are shown in GBP (£):
+For example, in this case, the departure city is London (LHR); the fees are shown in GBP (£):
 
 <img src="../assets/img/introducing-delta/currency-gbp.webp" alt="Find cheap Delta SkyMiles award flight with AwardFares." class="noborder"/>
 
 ## More Improvements: *"Operated By"*
 
-Along with this release, we also took the opportunity flights will now show *"Operated by"* information when flights are performed by a subsidiary or partner airline (e.g., SAS Connect, Cityjet, SmartLynx for SAS, Republic Airways or American Eagle for American, etc.).
+Along with this release, we also took the opportunity to improve search results. Flights will now show *"Operated by"* information when flights are performed by a subsidiary or partner airline (e.g., SAS Connect, Cityjet, SmartLynx for SAS, Republic Airways, SkyWest, or American Eagle for American, etc.).
 
 <img src="../assets/img/introducing-delta/operated-by-sas.webp" alt="AwardFares now shows Operated By when the flight is performed by a subsidiary airline (SAS)." class="noborder"/>
 
