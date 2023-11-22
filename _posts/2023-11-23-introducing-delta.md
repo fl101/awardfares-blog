@@ -47,7 +47,7 @@ As we can see below, we can search for seats on Air France or KLM from New York 
 
 Creating an account is optional, but it's also free, and it gives you access to more features. Make sure to [sign up for one here](https://awardfares.com/signup).
 
-### 2. Select your favorite **Frequent Flyer Program**
+### 2. Select Delta under **Frequent Flyer Program**
 
 Tap on the **Loyalty Program** field and select Delta SkyMiles as your loyalty program.
 
@@ -61,7 +61,7 @@ In the example below, we search for flights [between New York City and Paris](ht
 
 <img src="../assets/img/introducing-delta/route.webp" alt="SkyMiles awards from New York to Paris using AwardFares." class="noborder"/>
 
-### 4. Explore dates
+### 4. Choose or explore dates
 
 If you have a particular date in mind, add it by tapping on the **Calendar** field.
 
@@ -83,7 +83,9 @@ You can tap on the different header columns to sort the results by price. Use th
 
 ### 6. Book on Delta's Website
 
-Once you have identified the flights you want go to the airline's website and make the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards). In those situations, you will need to call their service center.
+Once you have identified the flights you want go to Delta's website and make the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards). In those situations, you will need to call their service center.
+
+<img src="../assets/img/introducing-delta/book-button.webp" alt="Go to Delta's website to book SkyMiles award flights." class="noborder"/>
 
 ### Taxes and Fees
 
