@@ -148,3 +148,8 @@ a.banner {
 [data-countdown] h3 {
   margin: 0 0 5px 0;
 }
+
+[data-countdown].black-friday {
+  background: black;
+  color: white;
+}
