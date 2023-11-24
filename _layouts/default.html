@@ -10,6 +10,9 @@
   <script>window.utm_source = '{{utm_source}}'</script>
   {% include head.html %}
   <body>
+    <div class="black-friday-banner">
+      Black Friday Sale Is Here: Get 2 Months Free - <a href="https://awardfares.com/black-friday">See Offer</a>
+    </div>
     <header>
       <nav>
         <a href="https://awardfares.com?utm_medium=blog&utm_source={{utm_source}}&utm_content=logo" target="_blank" class="brand">
@@ -69,4 +72,15 @@
     <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=463591527535506&ev=PageView&noscript=1" /></noscript>
     <!-- End Facebook Pixel Code -->
+    <script>
+      (function () {
+        const now = new Date();
+        const startDate = new Date('2023-11-24T08:00:00Z');
+        const endDate = new Date('2023-12-01T23:59:59Z');
+        const isBlackFriday = now.getTime() > startDate.getTime() && now.getTime() < endDate.getTime();
+        if (isBlackFriday) {
+          document.querySelector('.black-friday-banner').style.display = 'block';
+        }
+      })();
+    </script>
 </html>
