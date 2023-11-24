@@ -4,8 +4,6 @@ title: United 767-400 Polaris Business Class From Washington To Sao Paulo (2023)
 category: [Trip Report]
 tags: [Review, Business, United]
 author: Richard
-hidden: true
-sitemap: false
 image: /assets/img/united-polaris-review/cover.webp
 ---
 
@@ -25,7 +23,7 @@ United recently finished their [Polaris Business](https://www.united.com/en/us/f
 
 ## How I Booked This Flight
 
-You can [try AwardFares for free](https://awardfares.com/), and with the [Gold and Diamond tiers](https://awardfares.com/pricing), you can get access to premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more.
+I was recently looking to fly Lufthansa First Class to Buenos Aires and because availability is more than scarce these days I had to be a bit creative with the routes. Since AwardFares automatically searches all Lufthansa First Class routes for EuroBonus it was very easy to bring up an [overview](https://awardfares.com/search?zone:Europe..;c:first;a:LH;z:sas#) of all available seats. Seats are usually only available 1-2 days in advance and while availability had been good to Buenos Aires in the weeks leading up to my trip it had dried up completely in the days before. However, I noticed that there was availability to the US which at least was vaguely in the right direction. From there I was able to build the trip using the [journey planner](/journey-planner/) and found the connection from Washington to São Paulo on United and finally a purchased revenue ticket from São Paulo to Buenos Aires. All in all, it was a bit of a hassle, but I got to fly Lufthansa First Class, which is always a treat.
 
 ## Seat And Cabin
 
