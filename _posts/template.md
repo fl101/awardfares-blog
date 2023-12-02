@@ -17,7 +17,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 ## Read more
 
-Make sure to also check these posts out
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
