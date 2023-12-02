@@ -5,8 +5,6 @@ category: [Guide]
 tags: []
 author: Germán
 image: /assets/img/winter-getaways-2023/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Winter is a magical time of year, transforming landscapes into winter wonderlands and inviting adventurers to explore the season's beauty. It's also ideal for a snow-filled getaway: embrace the magic of the mountains and indulge in exhilarating ski and snowboard adventures.
@@ -33,82 +31,86 @@ Whistler in British Columbia is a winter wonderland famous for having one of Nor
 <img src="../assets/img/winter-getaways-2023/whistler.webp" alt="Whistler, Canada as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 - **Nearest Airport**: [Vancouver International Airport (YVR)](https://awardfares.com/search?.YVR.)
-- **Frequent Flyer Program**: Aeroplan, Flying Blue, AAdvantage, MileagePlus, Avios.
+- **Frequent Flyer Program**: Aeroplan, Flying Blue, AAdvantage, MileagePlus.
 
-<img src="../assets/img/winter-getaways-2023/yvr.webp" alt="Whistler, Canada as a Winter Getaway With Miles Or Points." class="noborder"/>
+### 3. Åre, Sweden
 
-### 3. Zermatt, Switzerland
+Åre is a renowned ski resort town in Sweden, nestled in the mountains of Jämtland, known for its stunning alpine landscapes and vibrant ski culture. The town boasts a lively atmosphere with a mix of modern amenities and traditional Swedish charm, attracting visitors year-round.
+
+<img src="../assets/img/winter-getaways-2023/are.webp" alt="Åre, Sweden as a Winter Getaway with Miles or Points." class="noborder"/>
+
+- **Nearest Airport**: [Östersund Airport (OSD)](https://awardfares.com/search?.YVR.)
+- **Frequent Flyer Program**: EuroBonus, Flying Blue, MileagePlus.
+
+<img src="../assets/img/winter-getaways-2023/osd.webp" alt="Fly to Östersund Airport with points." class="noborder"/>
+
+
+
+### 4. Zermatt, Switzerland
 
 Zermatt in Switzerland is a must-visit for its jaw-dropping views of the Matterhorn and some of the best skiing in the Alps. The car-free village is charming, with cozy spots to eat and relax after a day in the snow.
 
 <img src="../assets/img/winter-getaways-2023/aspen.webp" alt="Zermatt, Switzerland as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 - **Nearest Airport**: [Geneva Airport (GVA)](https://awardfares.com/search?.GVA.) or [Zurich Airport (ZRH)](https://awardfares.com/search?.ZRH.)
-- **Frequent Flyer Program**: EuroBonus, MileagePlus, or Miles & More.
+- **Frequent Flyer Program**: EuroBonus, MileagePlus.
 
-<img src="../assets/img/winter-getaways-2023/gva.webp" alt="Zermatt, Switzerland as a Winter Getaway With Miles Or Points." class="noborder"/>
+<img src="../assets/img/winter-getaways-2023/gva1.webp" alt="Zermatt, Switzerland as a Winter Getaway With Miles Or Points." class="noborder"/>
 
-### 4. Banff, Alberta, Canada
+### 5. Banff, Alberta, Canada
 
 Banff is a real gem in the Canadian Rockies, offering stunning snowy landscapes and winter activities such as skiing, snowboarding, and ice skating on frozen lakes. The town is cozy and quaint, with excellent boutique shops and restaurants. Plus, the hot springs are perfect for warming up after a chilly day outdoors.
 
 <img src="../assets/img/winter-getaways-2023/banff.webp" alt="Banff, Alberta as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 - **Nearest Airport**: [Calgary International Airport (YYC)](https://awardfares.com/search?.YYC.)
-- **Frequent Flyer Program**: Aeroplan, Flying Blue, SkyMiles, MileagePlan, WestJet Rewards
+- **Frequent Flyer Program**: Aeroplan, Flying Blue, SkyMiles, MileagePlan.
 
 <img src="../assets/img/winter-getaways-2023/yyc.webp" alt="Banff, Alberta as a Winter Getaway With Miles Or Points." class="noborder"/>
 
-### 5. Niseko, Japan
+### 6. Niseko, Japan
 
 Niseko in Japan is a paradise for powder hounds, famous for its incredibly light and fluffy snow that makes skiing and snowboarding here a dream. Plus, the area offers a unique blend of thrilling slopes and traditional Japanese culture, complete with relaxing *onsens* (hot springs) to soak in after a day on the mountains.
 
 <img src="../assets/img/winter-getaways-2023/niseko.webp" alt="Niseko, Japan as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 - **Nearest Airport**: [New Chitose Airport (CTS)](https://awardfares.com/search?.CTS.)
-- **Frequent Flyer Program**: MileagePlus, EuroBonus, ANA Mileage Club, JAL Mileage Bank.
+- **Frequent Flyer Program**: MileagePlus, EuroBonus.
 
 <img src="../assets/img/winter-getaways-2023/cts.webp" alt="Niseko, Japan as a Winter Getaway With Miles Or Points." class="noborder"/>
 
-### 6. Reykjavik, Iceland
+### 7. Reykjavik, Iceland
 
 Reykjavik, Iceland, is an excellent choice if you're into stunning natural wonders like the Northern Lights, geothermal hot springs, and unique landscapes. The Viking city is full of hidden landmarks, with a vibrant arts scene, great food, and a bunch of cozy spots to hang out.
 
 <img src="../assets/img/winter-getaways-2023/reykjavik.webp" alt="Reykjavik, Iceland as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 - **Nearest Airport**: [Keflavik International Airport (KEF)](https://awardfares.com/search?.KEF.)
-- **Frequent Flyer Program**: EuroBonus, SkyMiles, Flying Blue, Icelandair Saga Club.
+- **Frequent Flyer Program**: EuroBonus, SkyMiles, Flying Blue.
 
 <img src="../assets/img/winter-getaways-2023/kef.webp" alt="Reykjavik, Iceland as a Winter Getaway With Miles Or Points." class="noborder"/>
 
-### 7. Lake Tahoe, California/Nevada, USA
+### 8. Lake Tahoe, California/Nevada, USA
 
 Lake Tahoe, straddling California and Nevada, is a winter playground offering some of the best skiing and snowboarding in the U.S., along with breathtaking lake views. Beyond the slopes, the area is packed with fun, from lively casinos on the Nevada side to cozy mountain lodges perfect for relaxing after a day in the snow.
 
 <img src="../assets/img/winter-getaways-2023/laketahoe.webp" alt="Lake Tahoe as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 - **Nearest Airport**: [Reno-Tahoe International Airport (RNO)](https://awardfares.com/search?.RNO.)
-- **Frequent Flyer Program**: MileagePlus, AAdvantage, Mileage Plan, SkyMiles
+- **Frequent Flyer Program**: MileagePlus, AAdvantage, Mileage Plan, SkyMiles.
 
 <img src="../assets/img/winter-getaways-2023/rno.webp" alt="Lake Tahoe as a Winter Getaway With Miles Or Points." class="noborder"/>
 
-### 8. Courchevel, France
+### 9. Courchevel, France
 
 Courchevel in France is a top pick for a classy ski experience; it is part of the world's largest ski area with slopes for all skill levels and some seriously chic after-ski spots. The village oozes luxury with its high-end shops, gourmet restaurants, and stunning alpine views, making it a winter wonderland for both skiers and non-skiers alike.
 
 <img src="../assets/img/winter-getaways-2023/courchevel.webp" alt="Courchevel, France as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 - **Nearest Airport**: [Geneva Airport (GVA)](https://awardfares.com/search?.GVA.) or [Lyon–Saint Exupéry Airport (LYS)](https://awardfares.com/search?.LYS.)
-- **Frequent Flyer Program**: EuroBonus, Flying Blue, Avios
+- **Frequent Flyer Program**: EuroBonus, Flying Blue.
 
-### 9. Queenstown, New Zealand
-
-Queenstown, New Zealand, is a winter hotspot, offering some of the Southern Hemisphere's best skiing and snowboarding against a backdrop of incredible mountain scenery. This lively town has been active for decades and is known for its adventure sports, buzzing nightlife, and nearby wineries, making it a great all-around winter destination.
-
-<img src="../assets/img/winter-getaways-2023/queenstown.webp" alt="Queenstown, New Zealand as a Winter Getaway With Miles Or Points." class="noborder"/>
-
-- **Nearest Airport**: [Queenstown Airport (ZQN)](https://awardfares.com/search?.ZQN.)
-- **Frequent Flyer Program**: MileagePlus, AAdvantage, Air New Zealand Airpoints or Qantas Frequent Flyer.
+<img src="../assets/img/winter-getaways-2023/gva2.webp" alt="Fly to Geneva with points." class="noborder"/>
 
 ### 10.  St. Moritz, Switzerland
 
@@ -117,17 +119,21 @@ St. Moritz in Switzerland is the epitome of alpine luxury, offering top-notch sk
 <img src="../assets/img/winter-getaways-2023/stmoritz.webp" alt="St. Moritz, Switzerland as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 - **Nearest Airport**: [Zurich Airport (ZRH)](https://awardfares.com/search?.ZRH.)
-- **Frequent Flyer Program**: EuroBonus, MileagePlus, Lufthansa Miles & More.
+- **Frequent Flyer Program**: EuroBonus, MileagePlus.
 
-## Get started, and stay tuned
+<img src="../assets/img/winter-getaways-2023/zrh.webp" alt="Fly to Zurich with points." class="noborder"/>
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+## Find Flights with AwardFares
 
-With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
+AwardFares lets you find award flights across different frequent flyer programs in just seconds, and with a few clicks. You can [get started for free](https://awardfares.com/), even without creating an account!
+
+As we are rolling out new features every week, make sure to [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest and pro guides.
+
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more.
 
 ## Read more
 
-Make sure to also check these posts out
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Holiday Award Travel 2023: Using Dynamic Pricing to Your Advantage](https://blog.awardfares.com/xmas-2023/)
