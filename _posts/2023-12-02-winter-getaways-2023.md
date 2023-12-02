@@ -17,12 +17,15 @@ In this blog post, we curated a list of breathtaking cities that are not only ac
 
 Aspen is a premier destination for skiing and snowboarding, offering luxurious resorts and vibrant nightlife. It's a perfect spot for a winter getaway because it has fantastic ski slopes and a fun vibe after the skiing. It's a great mix of fancy and outdoorsy, making it great for ski lovers, families, or folks looking to chill in a beautiful mountain town.
 
-<img src="../assets/img/winter-getaways-2023/aspen.webp" alt="Aspen, Colorado as a Winter Getaway With Miles Or Points." class="noborder"/>
+
 
 - **Nearest Airport**: [Aspen/Pitkin County Airport (ASE)](https://awardfares.com/search?.ASE.)
 - **Frequent Flyer Program**: MileagePlus, Aeroplan, AAdvantage, Flying Blue.
 
-<img src="../assets/img/winter-getaways-2023/ase.webp" alt="Aspen, Colorado as a Winter Getaway With Miles Or Points." class="noborder"/>
+<figure>
+<img src="../assets/img/winter-getaways-2023/ase.webp" alt="Aspen, Colorado as a Winter Getaway With Miles Or Points." class="half"/>
+<img src="../assets/img/winter-getaways-2023/aspen.webp" alt="Aspen, Colorado as a Winter Getaway With Miles Or Points." class="half"/>
+</figure>
 
 ### 2. Whistler, British Columbia, Canada
 
