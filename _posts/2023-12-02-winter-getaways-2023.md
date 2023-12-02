@@ -70,6 +70,8 @@ Niseko in Japan is a paradise for powder hounds, famous for its incredibly light
 - **Nearest Airport**: [New Chitose Airport (CTS)](https://awardfares.com/search?.CTS.)
 - **Frequent Flyer Program**: MileagePlus, EuroBonus, ANA Mileage Club, JAL Mileage Bank.
 
+<img src="../assets/img/winter-getaways-2023/cts.webp" alt="Niseko, Japan as a Winter Getaway With Miles Or Points." class="noborder"/>
+
 ### 6. Reykjavik, Iceland
 
 Reykjavik, Iceland, is an excellent choice if you're into stunning natural wonders like the Northern Lights, geothermal hot springs, and unique landscapes. The Viking city is full of hidden landmarks, with a vibrant arts scene, great food, and a bunch of cozy spots to hang out.
@@ -79,6 +81,8 @@ Reykjavik, Iceland, is an excellent choice if you're into stunning natural wonde
 - **Nearest Airport**: [Keflavik International Airport (KEF)](https://awardfares.com/search?.KEF.)
 - **Frequent Flyer Program**: EuroBonus, SkyMiles, Flying Blue, Icelandair Saga Club.
 
+<img src="../assets/img/winter-getaways-2023/kef.webp" alt="Reykjavik, Iceland as a Winter Getaway With Miles Or Points." class="noborder"/>
+
 ### 7. Lake Tahoe, California/Nevada, USA
 
 Lake Tahoe, straddling California and Nevada, is a winter playground offering some of the best skiing and snowboarding in the U.S., along with breathtaking lake views. Beyond the slopes, the area is packed with fun, from lively casinos on the Nevada side to cozy mountain lodges perfect for relaxing after a day in the snow.
@@ -87,6 +91,8 @@ Lake Tahoe, straddling California and Nevada, is a winter playground offering so
 
 - **Nearest Airport**: [Reno-Tahoe International Airport (RNO)](https://awardfares.com/search?.RNO.)
 - **Frequent Flyer Program**: MileagePlus, AAdvantage, Mileage Plan, SkyMiles
+
+<img src="../assets/img/winter-getaways-2023/rno.webp" alt="Lake Tahoe as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 ### 8. Courchevel, France
 
@@ -132,4 +138,4 @@ Make sure to also check these posts out
 
 Notes
 
-- Images from Unsplash*
+- *Images from Unsplash*
