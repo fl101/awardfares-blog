@@ -164,3 +164,16 @@ a.banner {
   font-size: 0.8em;
   display: none;
 }
+
+.sale-button {
+  background-color: white;
+  color: black;
+  border: 2px solid black; /* Black border with 2px thickness */
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 5px;
+}

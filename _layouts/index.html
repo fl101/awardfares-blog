@@ -27,7 +27,37 @@ layout: default
   </div>
 
   {% assign categories = site.categories %}
+  {% assign promotedCategories = "News,Tools,Tutorial" | split: ',' %}
+  {% for categoryKey in promotedCategories %}
+  {% assign category = categories[categoryKey] %}
+  {% assign posts = category | where_exp:"item","item.hidden!=true" %}
+  {% if posts.size > 2 %}
+  <div class="category">
+    <h2>
+      <a href="/categories/#{{ categoryKey }}">{{ categoryKey }}</a>
+    </h2>
+    <div class="category-posts">
+      {% for post in posts limit:3 %}
+      <div>
+        <a href="{{ post.url }}">
+          <img src="{{ post.image }}" loading="lazy" alt="Cover image for {{ post.title }}" />
+        </a>
+        <div class="date">{{ post.date | date: "%B %-d, %Y" }} </div>
+        <a href="{{ post.url }}">
+          <h3>{{ post.title }}</h3>
+        </a>
+        <div class="line-clamp">{{ post.excerpt | stripe_html | strip_newlines }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+
   {% for category in categories reversed %}
+  {% if promotedCategories contains category[0] %}
+    {% continue %}
+  {% endif %}
   {% assign posts = category[1] | where_exp:"item","item.hidden!=true" %}
   {% if posts.size > 2 %}
   <div class="category">
