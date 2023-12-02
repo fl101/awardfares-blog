@@ -37,6 +37,8 @@ Whistler in British Columbia is a winter wonderland famous for having one of Nor
 - **Nearest Airport**: [Vancouver International Airport (YVR)](https://awardfares.com/search?.YVR.)
 - **Frequent Flyer Program**: Aeroplan, Flying Blue, AAdvantage, MileagePlus.
 
+<img src="../assets/img/winter-getaways-2023/yvr.webp" alt="Whistler, Canada as a winter getaway with miles." class="noborder"/>
+
 ### 3. Åre, Sweden
 
 Åre is a renowned ski resort town in Sweden, nestled in the mountains of Jämtland, known for its stunning alpine landscapes and vibrant ski culture. The town boasts a lively atmosphere with a mix of modern amenities and traditional Swedish charm, attracting visitors year-round.
@@ -141,7 +143,7 @@ St. Moritz in Switzerland is the epitome of alpine luxury, offering top-notch sk
 
 <img src="../assets/img/winter-getaways-2023/zrh.webp" alt="Fly to Zurich with points." class="noborder"/>
 
-## Find Flights with AwardFares
+## Find flights with AwardFares
 
 AwardFares lets you find award flights across different frequent flyer programs in just seconds, and with a few clicks. You can [get started for free](https://awardfares.com/), even without creating an account!
 
