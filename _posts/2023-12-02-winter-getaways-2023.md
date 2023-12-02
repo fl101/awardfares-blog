@@ -17,21 +17,22 @@ In this blog post, we curated a list of breathtaking cities that are not only ac
 
 Aspen is a premier destination for skiing and snowboarding, offering luxurious resorts and vibrant nightlife. It's a perfect spot for a winter getaway because it has fantastic ski slopes and a fun vibe after the skiing. It's a great mix of fancy and outdoorsy, making it great for ski lovers, families, or folks looking to chill in a beautiful mountain town.
 
+<img src="../assets/img/winter-getaways-2023/aspen.webp" alt="Aspen, Colorado as a Winter Getaway With Miles Or Points." class="noborder"/>
 
+#### How to fly to Aspen?
 
 - **Nearest Airport**: [Aspen/Pitkin County Airport (ASE)](https://awardfares.com/search?.ASE.)
 - **Frequent Flyer Program**: MileagePlus, Aeroplan, AAdvantage, Flying Blue.
 
-<figure>
-<img src="../assets/img/winter-getaways-2023/ase.webp" alt="Aspen, Colorado as a Winter Getaway With Miles Or Points." class="half"/>
-<img src="../assets/img/winter-getaways-2023/aspen.webp" alt="Aspen, Colorado as a Winter Getaway With Miles Or Points." class="half"/>
-</figure>
+<img src="../assets/img/winter-getaways-2023/ase.webp" alt="Aspen, Colorado as a Winter Getaway With Miles Or Points." class="noborder"/>
 
 ### 2. Whistler, British Columbia, Canada
 
 Whistler in British Columbia is a winter wonderland famous for having one of North America's largest ski resorts and a cool, laid-back mountain vibe. It's not just about the epic slopes; the village has dozens of shops, restaurants, and activities, making it a top pick for a fun and active winter vacation.
 
 <img src="../assets/img/winter-getaways-2023/whistler.webp" alt="Whistler, Canada as a Winter Getaway With Miles Or Points." class="noborder"/>
+
+#### How to fly to Whistler?
 
 - **Nearest Airport**: [Vancouver International Airport (YVR)](https://awardfares.com/search?.YVR.)
 - **Frequent Flyer Program**: Aeroplan, Flying Blue, AAdvantage, MileagePlus.
@@ -42,18 +43,20 @@ Whistler in British Columbia is a winter wonderland famous for having one of Nor
 
 <img src="../assets/img/winter-getaways-2023/are.webp" alt="Åre, Sweden as a Winter Getaway with Miles or Points." class="noborder"/>
 
+#### How to fly to Åre?
+
 - **Nearest Airport**: [Östersund Airport (OSD)](https://awardfares.com/search?.YVR.)
 - **Frequent Flyer Program**: EuroBonus, Flying Blue, MileagePlus.
 
 <img src="../assets/img/winter-getaways-2023/osd.webp" alt="Fly to Östersund Airport with points." class="noborder"/>
-
-
 
 ### 4. Zermatt, Switzerland
 
 Zermatt in Switzerland is a must-visit for its jaw-dropping views of the Matterhorn and some of the best skiing in the Alps. The car-free village is charming, with cozy spots to eat and relax after a day in the snow.
 
 <img src="../assets/img/winter-getaways-2023/aspen.webp" alt="Zermatt, Switzerland as a Winter Getaway With Miles Or Points." class="noborder"/>
+
+#### How to fly to Zermatt?
 
 - **Nearest Airport**: [Geneva Airport (GVA)](https://awardfares.com/search?.GVA.) or [Zurich Airport (ZRH)](https://awardfares.com/search?.ZRH.)
 - **Frequent Flyer Program**: EuroBonus, MileagePlus.
@@ -66,6 +69,8 @@ Banff is a real gem in the Canadian Rockies, offering stunning snowy landscapes 
 
 <img src="../assets/img/winter-getaways-2023/banff.webp" alt="Banff, Alberta as a Winter Getaway With Miles Or Points." class="noborder"/>
 
+#### How to fly to Banff?
+
 - **Nearest Airport**: [Calgary International Airport (YYC)](https://awardfares.com/search?.YYC.)
 - **Frequent Flyer Program**: Aeroplan, Flying Blue, SkyMiles, MileagePlan.
 
@@ -76,6 +81,8 @@ Banff is a real gem in the Canadian Rockies, offering stunning snowy landscapes 
 Niseko in Japan is a paradise for powder hounds, famous for its incredibly light and fluffy snow that makes skiing and snowboarding here a dream. Plus, the area offers a unique blend of thrilling slopes and traditional Japanese culture, complete with relaxing *onsens* (hot springs) to soak in after a day on the mountains.
 
 <img src="../assets/img/winter-getaways-2023/niseko.webp" alt="Niseko, Japan as a Winter Getaway With Miles Or Points." class="noborder"/>
+
+#### How to fly to Niseko?
 
 - **Nearest Airport**: [New Chitose Airport (CTS)](https://awardfares.com/search?.CTS.)
 - **Frequent Flyer Program**: MileagePlus, EuroBonus.
@@ -88,6 +95,8 @@ Reykjavik, Iceland, is an excellent choice if you're into stunning natural wonde
 
 <img src="../assets/img/winter-getaways-2023/reykjavik.webp" alt="Reykjavik, Iceland as a Winter Getaway With Miles Or Points." class="noborder"/>
 
+#### How to fly to Reykjavik?
+
 - **Nearest Airport**: [Keflavik International Airport (KEF)](https://awardfares.com/search?.KEF.)
 - **Frequent Flyer Program**: EuroBonus, SkyMiles, Flying Blue.
 
@@ -98,6 +107,8 @@ Reykjavik, Iceland, is an excellent choice if you're into stunning natural wonde
 Lake Tahoe, straddling California and Nevada, is a winter playground offering some of the best skiing and snowboarding in the U.S., along with breathtaking lake views. Beyond the slopes, the area is packed with fun, from lively casinos on the Nevada side to cozy mountain lodges perfect for relaxing after a day in the snow.
 
 <img src="../assets/img/winter-getaways-2023/laketahoe.webp" alt="Lake Tahoe as a Winter Getaway With Miles Or Points." class="noborder"/>
+
+#### How to fly to Lake Tahoe?
 
 - **Nearest Airport**: [Reno-Tahoe International Airport (RNO)](https://awardfares.com/search?.RNO.)
 - **Frequent Flyer Program**: MileagePlus, AAdvantage, Mileage Plan, SkyMiles.
@@ -110,6 +121,8 @@ Courchevel in France is a top pick for a classy ski experience; it is part of th
 
 <img src="../assets/img/winter-getaways-2023/courchevel.webp" alt="Courchevel, France as a Winter Getaway With Miles Or Points." class="noborder"/>
 
+#### How to fly to Courchevel?
+
 - **Nearest Airport**: [Geneva Airport (GVA)](https://awardfares.com/search?.GVA.) or [Lyon–Saint Exupéry Airport (LYS)](https://awardfares.com/search?.LYS.)
 - **Frequent Flyer Program**: EuroBonus, Flying Blue.
 
@@ -120,6 +133,8 @@ Courchevel in France is a top pick for a classy ski experience; it is part of th
 St. Moritz in Switzerland is the epitome of alpine luxury, offering top-notch skiing and a world-famous bobsled run, all set in a stunning mountain landscape. This resort town is also famous for its high-end shopping, gourmet dining, and vibrant social scene that attracts a chic international crowd.
 
 <img src="../assets/img/winter-getaways-2023/stmoritz.webp" alt="St. Moritz, Switzerland as a Winter Getaway With Miles Or Points." class="noborder"/>
+
+#### How to fly to St. Moritz?
 
 - **Nearest Airport**: [Zurich Airport (ZRH)](https://awardfares.com/search?.ZRH.)
 - **Frequent Flyer Program**: EuroBonus, MileagePlus.
