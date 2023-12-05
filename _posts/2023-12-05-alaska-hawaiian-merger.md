@@ -13,13 +13,14 @@ Big news in the airline industry! Alaska Airlines is on the brink of a [massive 
 
 ## What Does This Mean for Award Flight Seekers?
 
-If you're an Alaska Mileage Plan member, this acquisition could be music to your ears. Here's why:
+If you're an [Alaska Mileage Plan](https://awardfares.com/search?..;z:alaska) member, this acquisition could be music to your ears. Here's why:
 
 - **Expanded Route Options**. The combined force of Alaska and Hawaiian Airlines will cover an impressive network of over 330 routes. This expansion means more choices for your award flights, especially if you're eyeing Hawaii or the U.S. mainland.
-- **Increased Market Share**. Together, these airlines will hold about 6.15% of the U.S. market. This consolidation could lead to more availability and potentially better redemption options for your points.
+- **Increased Market Share**. Together, these airlines will hold about 6.15% of the U.S. market. This consolidation could lead to more availability and potentially better redemption options for your miles.
 - **Overlap on Key Routes**. There's a significant overlap in the Hawaii-mainland U.S. network between the two airlines. Alaska serves 12 of the 28 routes in Hawaiian’s network, which could lead to more competitive award pricing and availability.
 - **Enhanced International Reach**. Hawaiian Airlines brings to the table 10 international destinations across seven countries, including spots in the Asia-Pacific region. This expansion means more exotic destinations could be within your reach using award flights.
 - **Potential Hub Advantages**. Post-acquisition, Honolulu is set to become Alaska's second-largest hub. This shift could mean more flights, better connections, and more award seat availability from this key location.
+- **Hawaiian in Oneworld**. As Alaska Airlines is a member of Oneworld, the acquisition might be the first step to seeing Hawaiian in the alliance, also benefiting other Oneworld partners and programs such as AAdvantage, and others.
 
 ## What's Next?
 
