@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Alaska Airlines Acquires Hawaiian! A Game-Changer for Frequent Flyers"
+title: "Alaska Airlines Acquires Hawaiian! A Game-Changer for Mileage Plan Members"
 category: [Alaska Mileage Plan]
 tags: [Hawaiian Airlines]
 author: Germán
 image: /assets/img/alaska-hawaiian-merger/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Big news in the airline industry! Alaska Airlines is on the brink of a [massive $1.9 billion acquisition of Hawaiian Airlines](https://news.alaskaair.com/newsroom/alaska-airlines-and-hawaiian-airlines-to-combine-expanding-benefits-and-choice-for-travelers-throughout-hawaii-and-the-west-coast/). This move is not just a headline-grabber; it's a potential game-changer for frequent flyers, especially those in love with the Hawaii-U.S. mainland routes.
