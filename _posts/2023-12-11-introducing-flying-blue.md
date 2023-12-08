@@ -9,65 +9,63 @@ hidden: true
 sitemap: false
 ---
 
-We're thrilled to announce a game-changing update for our frequent flyers: AwardFares now supports the Flying Blue program! This exciting integration means that our users can now effortlessly track and redeem their Flying Blue miles for flights with Air France, KLM, and a host of other partner airlines. With its incredible [Promo Rewards](#flying-blue-promo-rewards) at crazy rates, multiple transfer partners, and the [future incorporation of more airlines and routes (e.g. SAS)](https://blog.awardfares.com/sas-acquisition/), Flying Blue definitely stands as one of the best program to look into during 2024.
+We're thrilled to announce that AwardFares now supports the Flying Blue program! This exciting integration means that our users can now effortlessly track and redeem their Flying Blue miles for flights with Air France, KLM, and a host of other partner airlines. With its incredible [Promo Rewards](#flying-blue-promo-rewards) at crazy rates, multiple transfer partners, and the [future incorporation of more airlines and routes (e.g., SAS)](https://blog.awardfares.com/sas-acquisition/), Flying Blue stands as one of the best programs to look into during 2024.
 
-We are strongly closing up 2023, now supporting a total of 8 programs and dozens of new features to make award search smooth and easy. Thanks for joining us!
+We are firmly closing up 2023, now supporting a total of 8 programs and dozens of new features to make award search smooth and easy. Thanks for joining us!
 
 ### What's New?
 
 - [Introducing Flying Blue Award Search](#introducing-flying-blue-award-search)
 - [Flying Blue Promo Rewards](#flying-blue-promo-rewards)
-- [How To Find Cheap Flying Blue Award Flights](#how-to-find-cheap-flying-blue-award-flights)
-- [A Few Notes](#a-few-notes)
+- [How To Find Cheap Flying Blue Awards](#how-to-find-cheap-flying-blue-awards)
+- [A Few Considerations](#a-few-considerations)
 - [More Improvements](#more-improvements)
-- [Get Started](#get-started)
+- [Get started](#get-started)
 - [Read more](#read-more)
 
 ## Introducing Flying Blue Award Search
 
-[**Flying Blue**](https://www.flyingblue.com/) is the official frequent flyer program of Air France and KLM, two of Europe's leading airlines, and is also embraced by several other carriers including Air Europa, Kenya Airways, and TAROM.
+[**Flying Blue**](https://www.flyingblue.com/) is the official frequent flyer program of Air France and KLM, two of Europe's leading airlines. Several other carriers, such as Transavia and TAROM also embrace it.
 
-Renowned for its flexibility and generous rewards, Flying Blue allows members to earn miles through flights, hotel stays, car rentals, and everyday purchases with various partners. The program was recently restructured into tiers – Explorer, Silver, Gold, and Platinum – each offering escalating privileges and perks, such as priority boarding, lounge access, and extra baggage allowance, enhancing the travel experience for frequent flyers.
+Renowned for its flexibility and generous rewards, Flying Blue allows members to earn miles through flights, hotel stays, car rentals, and everyday purchases with various partners. The program was recently restructured into tiers Explorer, Silver, Gold, and Platinum – each offering escalating privileges and perks, such as priority boarding, lounge access, and extra baggage allowance, enhancing the travel experience for frequent flyers.
 
-However, since it has been the program of multiple airlines, the entry point for booking award flights is confusing: there are multiple portals to source the data from, both Air Franc and KLM, plus, a standalone landing page that hosts the program details and profile. This makes it confusing to find award flights and use your points.
+However, since it has been the program of multiple airlines, the entry point for booking award flights is confusing: there are multiple portals to source the data from, Air Franc and KLM, plus a standalone landing page that hosts the program details and profile. This makes it confusing to find award flights and use your points.
 
-Our latest update lets you search awards quickly, see prices across multiple dates, and then redirects you to the corresponding portal to make the booking process a breeze. Here's how the process looks like.
+Our latest update lets you search awards quickly, see prices across multiple dates, and then redirect you to the corresponding portal to make booking a breeze. Here's what the process looks like.
 
 ### Redeem on Air France or KLM
 
-When Flying Blue is selected, AwardFares will display all seats available display prices and availability in all cabin types, including Economy, Premium Economy, Business, and First Class (domestic and international).
+When Flying Blue is selected, AwardFares will display all seats available, prices, and availability in all cabin types, including Economy, Premium Economy, Business, and First Class (domestic and international).
 
-Add **Air France** or **KLM** on the **Airline** filter to display flights operated by these airlines only
+Add **Air France** or **KLM** on the **Airline** filter to display flights operated only by these airlines:
 
 <img src="../assets/img/introducing-flying-blue/afkl-results.webp" alt="Paris or Amsterdam to New York Flying Blue Award Flights." class="noborder"/>
 
 ### Redeem on SkyTeam Airlines
 
-In addition to searching on AF and KL, AwardFares will show availability across all SkyTeam and other SkyMiles partner airlines.
-
-For example it's easy to search on airlines such as GOL, Aerolíneas Argentinas, Aeroméxico, and others.
+In addition to searching on AF and KL, AwardFares will show availability across all SkyTeam and other SkyMiles partner airlines. For example, it's easy to search on airlines such as GOL, Aerolíneas Argentinas, Aeroméxico, etc.
 
 <img src="../assets/img/introducing-flying-blue/skyteam-results.webp" alt="Search for Flying Blue availability on GOL and Aeroméxico using AwardFares." class="noborder"/>
 
 ## Flying Blue Promo Rewards
 
-The [Flying Blue Promo Rewards](https://www.flyingblue.com/en/spend/flights/rewards) are a special feature of the Flying Blue program, offering members the opportunity to redeem their accumulated miles for flights at significantly reduced rates. Each month, Flying Blue releases a new set of Promo Rewards, which typically include a curated selection of destinations where members can enjoy discounts ranging from 20% to 50% off the usual number of miles required for award tickets.
+The [Flying Blue Promo Rewards](https://www.flyingblue.com/en/spend/flights/rewards) is a unique feature of the Flying Blue program, offering members the opportunity to redeem their accumulated miles for flights at significantly reduced rates. Flying Blue releases a new set of Promo Rewards each month, typically including a curated selection of destinations where members can enjoy discounts ranging from 20% to 50% off the usual miles required for award tickets.
 
 These promotions include destinations across the globe, both short-haul and long-haul flights, and also in different travel classes, including Economy, Premium Economy, and Business Class. The specific destinations and discounts vary each month, and members get notified via email with the latest selection.
 
-These tickets are generally non-refundable and non-changeable, but it's a great way to maximize the value of your Flying Blue miles.
+These tickets are generally non-refundable and non-changeable, but they're a great way to maximize the value of your Flying Blue miles.
 
 <img src="../assets/img/introducing-flying-blue/promo-rewards-website.webp" alt="Flying Blue Promo Rewards." class="noborder"/>
 
 The great news is that AwardFares supports these Promo rewards **natively**. This means that, unlike other programs, you'll see the discounted rates (with the promotion already applied) directly in the search results. It's **the easiest way to search for Flying Blue Promo Rewards**!.
 
-Every month, once you get the email announcement (or you check Flying Blue's website), you can see which destinations are part of the promo, and simply search for availability using AwardFares.
+Every month, once you get the email announcement (or you check Flying Blue's website), you can see which destinations are part of the promo and simply search for availability using AwardFares.
 
 For example, here are flights from several cities in [Europe to Boston](https://awardfares.com/search?ARN.LAX,SFO,area:NYC.;o:economy;so:a;z:flyingblue), which is 15k points (one-way) with a 25% discount as part of the December 2023 Promo Rewards.
 
 <img src="../assets/img/introducing-flying-blue/promo-rewards-awardfares.webp" alt="Flying Blue Promo Rewards in AwardFares: Europe to Boston." class="noborder"/>
 
-## How To Find Cheap Flying Blue Award Flights
+## How To Find Cheap Flying Blue Awards
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup)
 
@@ -107,14 +105,17 @@ You can tap on the different header columns to sort the results by price. Use th
 
 <img src="../assets/img/introducing-flying-blue/sort-by-price.gif" alt="Find cheap Delta SkyMiles award flight with AwardFares." class="noborder"/>
 
-### 6. Booking Portals: Book on Air France
+### 6. Book on Air France Website
 
-One of the slightly confusing part of Flying Blue as a loyalty program is that they have multiple portals, both through Air France and KLM's website. 
-Once you have identified the flights you want go to Delta's website and make the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards). In those situations, you will need to call their service center.
+One of the slightly confusing parts of Flying Blue as a loyalty program is that they have multiple portals, both through Air France and KLM's website.
+
+Once you have identified the flight(s) you want, tap on the **Book** button, and AwardFares will redirect you to Air France website, setting your query directly, so you don't have to redo the search. Simply login and complete the booking<sup>1</sup>.
 
 <img src="../assets/img/introducing-flying-blue/book.webp" alt="Go to Air France's website to book Flying Blue award flights." class="noborder"/>
 
-## A Few Notes
+ - *(1) Remember that AwardFares will never ask for the login credentials of any of your frequent flyer programs to work.*
+
+## A Few Considerations
 
 ### Taxes and Fees
 
@@ -122,7 +123,7 @@ When you tap on a flight, the detailed view will show you more details about it,
 
 ### Mixed Cabins
 
-Another caveat is that the itineraries shown by AwardFares might include mixed cabins, but the current implementation is not able to source this data before the booking process. Hence, you won't see this information directly in AwardFares.
+Another caveat is that the itineraries shown by AwardFares might include mixed cabins, but the current implementation cannot source this data before the booking process. Hence, you won't see this information directly in AwardFares.
 
 When searching on Flying Blue, results will display this reminder in the expanded view:
 
@@ -130,13 +131,33 @@ When searching on Flying Blue, results will display this reminder in the expande
 
 ### Multiple Booking Portals
 
-AwardFares sources the award data from Air France's portal, which in our experience yields more accurate and complete results compared to KLM's site. However, in few cases and for very specific partner airlines, the KLM portal displays flights not found through AF's site. This might be due to cooperation agreements between the airlines and other implementation details. I
+AwardFares sources the award data from Air France's portal, which, in our experience, yields more accurate and complete results than KLM's site. However, in a few cases and for very specific partner airlines, the KLM portal displays flights not found through AF's site. This might be due to cooperation agreements between the airlines and other implementation details. 
 
-In general, it's rare to experience seat accuracy issues, but feel free to reach out to us if you do so.
+In general, it's rare to experience seat accuracy issues but feel free to contact us if you do so.
 
 ## More Improvements
 
-## Get Started
+### Completely new Journey Planner
+
+Our new Journey experience allows building multiple journeys in parallel, and sharing journeys via URL (even to anonymous users).
+
+Check our [updated guide here (Journey Planner)](https://blog.awardfares.com/journey-planner/).
+
+<img src="../assets/img/introducing-flying-blue/journey-planner.webp" alt="New Journey Planner experience in AwardFares." class="noborder"/>
+
+### Sort alerts
+
+It's now possible to sort alerts, which can be useful when trying to find a specific one.
+
+<img src="../assets/img/introducing-flying-blue/sort-alerts.webp" alt="Sort alerts in AwardFares." class="noborder"/>
+
+### Stopovers with Self-transfers
+
+Airport changes and self-transfers are now clearly shown in the stops info. E.g., in this case one of the trips arrives in EWR and continues from JFK, AwardFares now shows EWR-JFK instead of JFK.
+
+<img src="../assets/img/introducing-flying-blue/stopover.webp" alt="Stopovers with airport change in AwardFares." class="noborder"/>
+
+## Get started
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
