@@ -5,8 +5,6 @@ category: [News]
 tags: [Routes, Delta, Delta SkyMiles]
 author: Germán
 image: /assets/img/delta-tpe-route/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Delta Air Lines [just announced](https://news.delta.com/delta-fly-taipei-seattle-hub) that it will enhance its Asian network by introducing a daily direct flight from [Seattle (SEA) to Taiwan Taoyuan International Airport (TPE)](https://awardfares.com/search?SEA.TPE.2024-06-06;o:duration;so:a;z:delta), starting June 6, 2024, subject to government approval. This route marks a significant milestone as Delta's first nonstop flight from the U.S. to Taipei and signifies the airline's return to TPE since its last operation through Narita in 2017.

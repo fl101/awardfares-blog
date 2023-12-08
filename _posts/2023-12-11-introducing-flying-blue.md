@@ -9,7 +9,25 @@ hidden: true
 sitemap: false
 ---
 
-## Get started, and stay tuned
+### What's New?
+
+- [Introducing Flying Blue Award Search](#introducing-flying-blue-award-search)
+- [Flying Blue Promo Awards](#flying-blue-promo-awards)
+- [How To Find Cheap Flying Blue Award Flights](#how-to-find-cheap-flying-blue-award-flights)
+- [More Improvements](#more-improvements)
+- [Get Started](#get-started)
+- [Read more](#read-more)
+
+## Introducing Flying Blue Award Search
+
+## Flying Blue Promo Awards
+
+
+## How To Find Cheap Flying Blue Award Flights
+
+## More Improvements
+
+## Get Started
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
