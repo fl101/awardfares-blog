@@ -123,27 +123,15 @@ When you tap on a flight, the detailed view will show you more details about it,
 
 ### Mixed Cabins
 
-Another caveat is that the itineraries shown by AwardFares might include mixed cabins, but the current implementation cannot source this data before the booking process. Hence, you won't see this information directly in AwardFares.
-
-When searching on Flying Blue, results will display this reminder in the expanded view:
+While AwardFares displays mixed-cabin award availability, in the current integration with Flying Blue through the Air France portal, it's not possible to source this data before the booking process. Hence, you won't see this information about mixed cabins directly in AwardFares' search results. As a reminder, the results will show this note in the expanded view:
 
 *Flights booked with KLM/Air France Flying Blue might contain mixed segments.*
 
 ### Multiple Booking Portals
 
-AwardFares sources the award data from Air France's portal, which, in our experience, yields more accurate and complete results than KLM's site. However, in a few cases and for very specific partner airlines, the KLM portal displays flights not found through AF's site. This might be due to cooperation agreements between the airlines and other implementation details. 
-
-In general, it's rare to experience seat accuracy issues but feel free to contact us if you do so.
+AwardFares primarily shows awards available through the Air France portal, which, in our experience, yields more accurate and complete results than KLM’s site. However, in a few cases and for very specific partner airlines, the KLM portal displays flights not found through AF’s site. This might be due to cooperation agreements between the airlines and other implementation details.
 
 ## More Improvements
-
-### Completely new Journey Planner
-
-Our new Journey experience allows building multiple journeys in parallel, and sharing journeys via URL (even to anonymous users).
-
-Check our [updated guide here (Journey Planner)](https://blog.awardfares.com/journey-planner/).
-
-<img src="../assets/img/introducing-flying-blue/journey-planner.webp" alt="New Journey Planner experience in AwardFares." class="noborder"/>
 
 ### Sort alerts
 
@@ -168,7 +156,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
+- [Delta SkyMiles Award Search Now Available (New Features)](https://blog.awardfares.com/introducing-delta/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
 - [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
