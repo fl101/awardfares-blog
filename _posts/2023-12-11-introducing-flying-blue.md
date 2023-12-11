@@ -5,8 +5,6 @@ category: [News]
 tags: [Flying Blue, Features]
 author: Germán
 image: /assets/img/introducing-flying-blue/cover.webp
-hidden: true
-sitemap: false
 ---
 
 We're thrilled to announce that AwardFares now supports the Flying Blue program! This exciting integration means that our users can now effortlessly track and redeem their Flying Blue miles for flights with Air France, KLM, and a host of other partner airlines. With its incredible [Promo Rewards](#flying-blue-promo-rewards) at crazy rates, multiple transfer partners, and the [future incorporation of more airlines and routes (e.g., SAS)](https://blog.awardfares.com/sas-acquisition/), Flying Blue stands as one of the best programs to look into during 2024.
