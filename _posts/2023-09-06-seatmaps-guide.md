@@ -7,10 +7,9 @@ author: Germán
 image: /assets/img/seatmaps/cover.webp
 ---
 
-For frequent travelers and point maximizers, AwardFares has consolidated as one of the most reliable and feature-rich tools to search for award availability. However, our **Seat Maps** feature is an often-overlooked gem. 
+For frequent travelers and point maximizers, AwardFares has consolidated as one of the most reliable and feature-rich tools to search for award availability. However, our **Seat Maps** feature is an often-overlooked gem.
 
 Checking the available seats before you actually book any flight can be a night and day difference, from a pleasant journey to a never-ending hell. In this tutorial, we show you how to get the most out of this feature so you can score the perfect seat on your next award trip. Let's get started!
-
 
 ## What is the Seat Maps feature?
 
