@@ -9,23 +9,23 @@ hidden: true
 sitemap: false
 ---
 
-AwardFares' **Wide Search** feature is one of the most powerful we've ever released: it lets you search for award flights between entire regions or areas at once, which is a huge time saver. Interestingly, it's also one of the most underutilized features.
+AwardFares' **Wide Search** feature is one of the most powerful we've ever released: it lets you search for award flights between entire regions or areas simultaneously, which is a huge time saver. Interestingly, it's also one of the most underutilized features.
 
-In this article, we cover everything you should know about wide award searches so that you can leverage their maximum power and always score an award on the routes you want. Let's start!
+This article covers everything you should know about wide award searches to leverage their maximum power and consistently score an award on the routes you want. Let's start!
 
 ## Understanding Wide Search
 
-Traditionally, when searching for award flights, you would have to specify your exact departure and arrival cities/airports. This can be limiting, especially if you're flexible with your travel plans or if award availability is scarce.
+Traditionally, when searching for award flights, you must specify your exact departure and arrival cities/airports. This can be limiting, especially if you're flexible with your travel plans or if award availability is scarce.
 
 Here's an example of a traditional search [between New York and London, using AAdvantage](https://awardfares.com/search?JFK.LHR.;z:aadvantage). In this case, the departure airport is JFK, and the destination airport is Heathrow.
 
 <img src="../assets/img/wide-search-guide/jfk-lhr-traditional.webp" alt="AAdvantage award flights between New York JFK and London Heathrow LHR using AwardFares." class="noborder"/>
 
-However, if you want to depart from New York, there are other airports to choose from, such as Newark (EWR) and La Guardia (LGA), as we can see below.
+However, if you want to depart from New York, there are other airports, such as Newark (EWR) and La Guardia (LGA), as shown below.
 
 <img src="../assets/img/wide-search-guide/nyc-airports.webp" alt="Airports in NYC metro area." class="noborder"/>
 
-If we try searching from these airports, we might find more award seats available, or even at a better redemption rate. One option is to add those airports in the **Where From/Origin** field in AwardFares. Simply add EWR and LGA to the list below, as we see in the picture below:
+If we try searching from these airports, we might find more award seats available or even at a better redemption rate. One option is to add those airports in the **Where From/Origin** field in AwardFares. Simply add EWR and LGA to the list below, as we see in the picture below:
 
 <img src="../assets/img/wide-search-guide/manual-traditional-map.webp" alt="NYC to LHR in AwardFares." class="noborder"/>
 
@@ -33,13 +33,13 @@ In the result list, you'll now see flights from all these airports
 
 <img src="../assets/img/wide-search-guide/manual-traiditional-list.webp" alt="NYC to LHR in AwardFares." class="noborder"/>
 
-However, this is cumbersome, as it forces us to know the names of the airports or cities in that area. The list can become lengthy, and we might not be aware of other airports in the area.
+However, this is cumbersome, as it forces us to know the names of the airports or cities in that area. The list can become lengthy, and we might not know other airports in the area.
 
-Wide Award Search changes this by allowing you to search for award flights between entire regions or areas, rather than specific cities. This approach broadens your search parameters, increasing your chances of finding available award seats.
+Wide Award Search changes this by allowing you to search for award flights between entire regions or areas rather than specific cities. This approach broadens your search parameters, increasing your chances of finding available award seats.
 
 ## How To Use Wide Search
 
-Instead of adding the airports manually, you can simply write the **name** of a Metropolitan area, for example, **type New York City (NYC)** for *any* airport in New York.
+Instead of adding the airports manually, you can write the **name** of a Metropolitan area, for example, type **New York City (NYC)** for *any* airport in New York.
 
 As you type, AwardFares' auto-suggest will clearly show you that it is a Metro Area option in the dropdown menu.
 
@@ -49,55 +49,53 @@ Immediately, as we zoom in, we see that searching from NYC also includes more ai
 
 <img src="../assets/img/wide-search-guide/nyc-metro-map.webp" alt="NYC to LHR in AwardFares." class="noborder"/>
 
-In a similar way, we can perform a wide search on our **Destination** city. In this case, we replace LHR for **London (LON)**, which will also search award flights beyond Heathrow, including airports like Gatwick (LGW), Standstedt (STN), and others.
+Similarly, we can search widely on our **Destination** city. In this case, we replace LHR with **London (LON)**, which will also search award flights beyond Heathrow, including airports like Gatwick (LGW), Stansted (STN), and others.
 
 <img src="../assets/img/wide-search-guide/lon-metro.webp" alt="NYC to LON in AwardFares." class="noborder"/>
 
-*ps. Wide searches also works for regions, such as countries (e.g., Belgium) or award chart zones/areas (e.g., Scandinavia).*
+In this example, thanks to the wide search, we can find a chepear alternative (in Economy) that does not depart from JFK, saving us 25% of the points!
+
+<img src="../assets/img/wide-search-guide/nyc-lon-results.webp" alt="NYC to LON in AwardFares." class="noborder"/>
+
+*Ps. Wide searches also work for regions, such as countries (e.g., Belgium) or award chart zones/areas (e.g., Scandinavia).*
 
 ## Examples of Known Metro Areas
 
-### New York Metropolitan Area, USA
+### [New York Metropolitan Area (NYC), USA](https://awardfares.com/search?area:NYC..)
 
 1. John F. Kennedy International Airport (JFK): JFK is the primary international airport serving New York City.
 2. LaGuardia Airport (LGA): Mainly handles domestic flights and is closer to Manhattan.
 3. Newark Liberty International Airport (EWR): Located in New Jersey, it serves both domestic and international flights.
 
-### Greater Tokyo Area, Japan
+### [Greater Tokyo Area (TYO), Japan](https://awardfares.com/search?area:TYO..)
 
 1. Tokyo Haneda Airport (HND): Handles a significant number of domestic flights and an increasing number of international flights.
 2. Narita International Airport (NRT): Primarily serves international flights and is located further from central Tokyo.
 
-### London Metropolitan Area, UK
+### [London Metropolitan Area (LON), UK](https://awardfares.com/search?area:NYC..)
 
 1. Heathrow Airport (LHR): London's main airport, handling the majority of international flights.
 2. Gatwick Airport (LGW): The second busiest airport in the UK, serving both international and domestic flights.
 3. London City Airport (LCY): Located in the heart of London, primarily serving business travelers.
 
-### Greater Paris (Île-de-France), France
+### G[reater Paris (PAR), France](https://awardfares.com/search?area:NYC..)
 
 1. Charles de Gaulle Airport (CDG): The largest airport in France and a major international hub.
 2. Orly Airport (ORY): Handles a mix of domestic and international flights, located closer to the city center.
 
-### Los Angeles Metropolitan Area, USA
-
-1. Los Angeles International Airport (LAX): The primary airport for international and domestic flights.
-2. Hollywood Burbank Airport (BUR): Serves domestic flights and is closer to the Hollywood area.
-3. Long Beach Airport (LGB): A smaller airport, mainly for domestic flights.
-
-### Greater Stockholm Metropolitan Area, Sweden
+### [Greater Stockholm Metropolitan Area (STO), Sweden](https://awardfares.com/search?area:NYC..)
 
 1. Arlanda Airport (ARN): This is the main international airport serving Stockholm. It is located in the Sigtuna Municipality, approximately 40 kilometers north of Stockholm city center. Arlanda handles the majority of international and long-haul flights to and from Stockholm.
 2. Bromma Airport (BMA): Bromma is located just 7.5 kilometers west of Stockholm city center and primarily serves domestic flights. It is the closest airport to the city center and is popular for short-haul flights.
 3. Skavsta Airport (NYO): Located near Nyköping, about 100 kilometers southwest of Stockholm, Skavsta primarily serves low-cost carriers and cargo operators. It is a popular choice for budget travelers.
 4. Västerås Airport (VST): Situated near Västerås, about 110 kilometers west of Stockholm, this airport is used by a few low-cost airlines and for general aviation.
 
-### São Paulo Metropolitan Area, Brazil
+### [São Paulo Metropolitan Area (SAO), Brazil](https://awardfares.com/search?area:NYC..)
 
 1. São Paulo/Guarulhos–Governador André Franco Montoro International Airport (GRU): The main international airport.
 2. Congonhas-São Paulo Airport (CGH): Mainly handles domestic flights and is located closer to the city center.
 
-### Greater Buenos Aires Metropolitan Area, Argentina
+### [Greater Buenos Aires Metropolitan Area (BUE), Argentina](https://awardfares.com/search?area:NYC..)
 
 1. Ministro Pistarini International Airport (EZE): Commonly known as Ezeiza International Airport, it is the main international gateway to Argentina. Located about 22 kilometers south-southwest of Buenos Aires, it handles the majority of the international traffic coming into and out of the country.
 2. Jorge Newbery Airfield (AEP): Also known as Aeroparque, this airport is located in the city of Buenos Aires itself, just a few kilometers from the downtown area. It mainly handles domestic flights and some regional flights to neighboring countries.
@@ -122,6 +120,5 @@ Our guides have all the information you need to be a pro travel hacker and explo
 
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
 - [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
