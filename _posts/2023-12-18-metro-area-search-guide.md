@@ -5,8 +5,6 @@ category: [Guide]
 tags: [Features]
 author: Germán
 image: /assets/img/metro-area-search-guide/cover.webp
-hidden: true
-sitemap: false
 ---
 
 AwardFares' **Metro Area Searches** are one of the most powerful features we've ever released: it lets you search for award flights between entire regions or areas simultaneously, which is a huge time saver. Interestingly, it's also one of the most underutilized ones.
