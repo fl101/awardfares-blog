@@ -9,7 +9,7 @@ hidden: true
 sitemap: false
 ---
 
-Although 2023 is almost coming to an end, our team is still working full-thrust to deliver convenient new features every week. This time, we are completely revamping our Journey Planner experience, which now allows you to work on multiple journeys in parallel, and share journeys with friends and family via URL (even to anonymous users!).
+Although 2023 is almost ending, our team is still working full-thrust to deliver convenient new features every week. This time, we are completely revamping our Journey Planner experience, allowing you to work on multiple journeys in parallel and share journeys with friends and family via URL (even to anonymous users!).
 
 ## What's New?
 
@@ -37,29 +37,29 @@ Immediately after, you will see a new *empty journey* under your list of journey
 
 ### Share a Journey
 
-This new feature becomes extremely handy when organizing a trip with a group of people. It helps evaluate different options while seeing exact information such as flight numbers, dates, and cities involved.
+This new feature becomes extremely handy when organizing a trip with a group. It helps evaluate different options while seeing exact information, such as flight numbers, dates, and cities involved.
 
-Once you are ready working on an itinerary, tap on **Share** to get a unique link you can send to friends and family.
+Once you are ready to work on an itinerary, tap on **Share** to get a unique link you can send to friends and family.
 
 <img src="../assets/img/share-journeys/journey-planner-share.webp" alt="Empty Journey in Journey planner." class="noborder"/>
 
-When opening the link, they will see a summary of your itinerary along with a map.
+They will see a summary of your itinerary and a map when opening the link.
 
 <img src="../assets/img/share-journeys/journey-planner-map.webp" alt="Empty Journey in Journey planner." class="noborder"/>
 
-Use the **Copy URL** button to recover the unique link URL at anytime.
+Use the **Copy URL** button to recover the unique link URL anytime.
 
 <img src="../assets/img/share-journeys/journey-planner-copy-url.webp" alt="Copy journey URL in AwardFares." class="noborder"/>
 
 ### Unshare a Journey
 
-If you ever want to stop sharing your itinerary, simply tap on **Unshare**.
+If you ever want to stop sharing your itinerary, tap on **Unshare**.
 
 <img src="../assets/img/share-journeys/journey-planner-unshare.webp" alt="Empty Journey in Journey planner." class="noborder"/>
 
 ### Copy to Clipboard
 
-The legacy **Copy to clipboard** option is still there in case you want to paste it into a note and have it at hand when calling a call center, or even saving more options.
+The legacy **Copy to clipboard** option is still there if you want to paste it into a note and have it at hand when calling a service center or just save your trips on the side.
 
 Remember you can also paste it back into AwardFares into a new journey.
 
@@ -73,9 +73,9 @@ Check our [complete tutorial here (Journey Planner)](https://blog.awardfares.com
 
 ## More Improvements: New Alliance Filter
 
-You can now filter results by entire airline alliances including One World, Star Alliance and SkyTeam.
+It's now possible to filter results by airline alliances, including One World, Star Alliance, and SkyTeam.
 
-Tap on **Airlines** and the options will show up at the top of the list.
+Tap on **Airlines**, and the options will appear at the top of the list.
 
 <img src="../assets/img/share-journeys/alliance-filter.webp" alt="Filter by Airline Alliance." class="noborder"/>
 
