@@ -5,8 +5,6 @@ category: [News]
 tags: [Features, Journey Planner]
 author: Germán
 image: /assets/img/share-journeys/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Although 2023 is almost ending, our team is still working full-thrust to deliver convenient new features every week. This time, we are completely revamping our Journey Planner experience, allowing you to work on multiple journeys in parallel and share journeys with friends and family via URL (even to anonymous users!).
