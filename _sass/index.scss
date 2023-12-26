@@ -88,9 +88,10 @@
 
 .latest-post img {
   border-radius: 10px;
-  max-height: 550px;
+  max-height: 300px;
   width: 100%;
   border: solid 1px #eee;
+  object-fit: cover;
 }
 
 .latest-post h2 {
