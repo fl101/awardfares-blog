@@ -9,18 +9,18 @@ image: /assets/img/sas-business-hnd/cover.webp
 
 I had been monitoring award availability to fly back to Europe for Christmas. During the middle of October (two months before the departure date), some Business class seats opened up on SK984, the SAS flight from Haneda (HND) to Copenhagen (CPH).
 
-<table>
+<table align="center">
 <tr>
   <td><b>Route</b></td>
-  <td>HND-CPH</td>
+  <td>[HND-CPH](https://awardfares.com/search?HND.CPH.;z:sas)</td>
 </tr>
 <tr>
   <td><b>Flight</b></td>
-  <td>SK984</td>
+  <td>[SK984](https://awardfares.com/search?..;f:sk948;z:sas)</td>
 </tr>
 <tr>
   <td><b>Cabin</b></td>
-  <td>Business</td>
+  <td>[Business](https://awardfares.com/search?..;c:business;f:sk948;z:sas#)</td>
 </tr>
 <tr>
   <td><b>Equipment</b></td>
