@@ -11,6 +11,15 @@ sitemap: false
 
 While Flying Blue remains one of the most basic pillars of SkyTeam award flight redemptions, First Class are still among the hardest ones to score. Today, we're diving into the world of First Class redemptions using Flying Blue, a topic that, at least for us, is both exciting and a bit complex.
 
+### In This Post
+
+- [First Things First: Which Airlines Offer First?](#first-things-first-which-airlines-offer-first)
+- [Flying to Fantasyland: The Good, the Bad, and the Status](#flying-to-fantasyland-the-good-the-bad-and-the-status)
+- [Finding First Class Awards With AwardFares](#finding-first-class-awards-with-awardfares)
+- [More Tips When Booking First Class Awards](#more-tips-when-booking-first-class-awards)
+- [Want More Award Travel Intel?](#want-more-award-travel-intel)
+- [Read More](#read-more)
+
 ## First Things First: Which Airlines Offer First?
 
 Not all SkyTeam airlines roll out the red carpet, but these six fly high with dedicated first cabins:
@@ -81,7 +90,7 @@ While technically classified as Business Class, Delta One on select Boeing 777-2
 
 The airline also boasts an excellent food and beverage selection, featuring dishes created by renowned chefs and a curated wine list. Additionally, Delta One passengers enjoy priority boarding, lounge access, and personalized service from a dedicated flight attendant.
 
-<img src="../assets/img/flying-blue-skyteam-first-class/delta-first.webp" alt="Delta Air Lines Delta One Buiness Class." class="noborder"/>
+<img src="../assets/img/flying-blue-skyteam-first-class/delta-one.webp" alt="Delta Air Lines Delta One Buiness Class." class="noborder"/>
 
 *Image from: Delta*
 
@@ -91,35 +100,52 @@ So, while not technically First Class, Delta One is a strong contender for those
 
 Now, here's the reality check: award availability in these First Class havens can be elusive. Let's break it down:
 
-* **Air France La Première**: Only Flying Blue Platinum members can unlock this secret menu (though some award seats open up closer to the flight date).
-* **Korean Air and Saudia**: Sadly, their First Class remains a no-fly zone for Flying Blue redemptions.
-* **The Rest**: Technically open to everyone, but finding award space feels like winning the lottery – rare and exhilarating.
+- **Air France La Première**: Only Flying Blue Platinum members can unlock this secret menu (though some award seats open up closer to the flight date).
+- **Korean Air and Saudia**: Sadly, their First Class remains a no-fly zone for Flying Blue redemptions.
+- **The Rest**: Technically open to everyone, but finding award space feels like winning the lottery – rare and exhilarating.
 
 ## Finding First Class Awards With AwardFares
 
-1. Go to [AwardFares](https://awardfares.com/signup).
-2. Under *Frequent Flyer Program*, choose **Flying Blue**.
-3. Tap on *Cabin* and select **First Class only**.
-4. Under *Departure* add an origin airport, for example **Shanghai (PVG)**.
-5. Do the same under *Destination*, e.g., **Melbourne (MEL)**.
-6. Choose a date, or use the Timeline view to explore flights for different dates.
-7. (Optional) Under *Airline* add your preferred airline, if necessary (e.g., China Eastern Airlines).
+### 1. Go to [AwardFares](https://awardfares.com/signup).
 
-### Garuda Indonesia: CGK-AMS
+### 2. Under *Frequent Flyer Program*, choose **Flying Blue**.
 
-### Xiamen Air: XMN-SIN, XMN-MEL, XMN-PKX, PVG-PKX.
+<img src="../assets/img/flying-blue-skyteam-first-class/delta-one.webp" alt="Delta Air Lines Delta One Buiness Class." class="noborder"/>
 
-### China Eastern: PVG-LHR, PVG-SIN, PVG-AKL.
+### 3. Tap on *Cabin* and select **First Class only**.
 
-## Tips for Treasure Hunters
+### 4. Under *Departure* add an origin airport, for example **Shanghai (PVG)**.
 
-Don't despair, intrepid explorers! Here's how to boost your first-class fortune:
+### 5. Do the same under *Destination*, e.g., **Melbourne (MEL)**.
 
-* Be Flexible: Dates, routes, even airlines!
-* Become a Booking Ninja: [Set up search alerts](https://blog.awardfares.com/alerts) on AwardFares for your dream flights. Pounce when they appear!
-* Fuel Your Mileage Machine: Flying Blue offers generous transfer options from many credit cards. Top up your stash!
-* Consider the "Curve": AwardFares easily lets you compare prices in miles and points, sometimes revealing hidden first-class gems.
-* Remember: While first-class may be the ultimate travel trophy, business class on many SkyTeam airlines is truly outstanding. Don't be afraid to adjust your sights if award gods are fickle.
+### 6. Choose a date, or use the Timeline view to explore flights for different dates.
+
+### 7. (Optional) Under *Airline* add your preferred airline, if necessary (e.g., China Eastern Airlines).
+
+### Routes We've Detected
+
+| Airline          | Route with Link                                                                                   |
+|------------------|----------------------------------------------------------------------------------------------------|
+| Garuda Indonesia | [CGK-AMS](https://awardfares.com/search?CGK.AMS.;c:first;z:flyingblue)                             |
+| Xiamen Air       | [XMN-SIN](https://awardfares.com/search?XMN.SIN.;c:first;z:flyingblue)                             |
+|                  | [XMN-MEL](https://awardfares.com/search?XMN.MEL.;c:first;z:flyingblue)                             |
+|                  | [XMN-PKX](https://awardfares.com/search?XMN.PKX.;c:first;z:flyingblue)                             |
+|                  | [PVG-PKX](https://awardfares.com/search?PVG.PKX.;c:first;z:flyingblue)                             |
+| China Eastern    | [PVG-LHR](https://awardfares.com/search?PVG.LHR.;c:first;z:flyingblue)                             |
+|                  | [PVG-SIN](https://awardfares.com/search?PVG.SIN.;c:first;z:flyingblue)                             |
+|                  | [PVG-AKL](https://awardfares.com/search?PVG.AKL.;c:first;z:flyingblue)                             |
+
+## More Tips When Booking First Class Awards
+
+**Be Flexible.** Dates, routes, even airlines!
+
+**Become a Booking Ninja.** [Set up search alerts](https://blog.awardfares.com/alerts) on AwardFares for your dream flights. Pounce when they appear!
+
+**Fuel Your Mileage Machine.** Flying Blue offers generous transfer options from many credit cards. Top up your stash!
+
+**Consider the "Curve".** AwardFares easily lets you compare prices in miles and points, sometimes revealing hidden first-class gems.
+
+**Business Can Feel Like First!** While First Class may be the ultimate travel trophy, business class on many SkyTeam airlines is truly outstanding. Don't be afraid to adjust your sights if award gods are fickle.
 
 ## Want More Award Travel Intel?
 
@@ -127,7 +153,7 @@ AwardFares is your one-stop shop. [Sign up for email alerts](https://awardfares.
 
 With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-## Read more
+## Read More
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
