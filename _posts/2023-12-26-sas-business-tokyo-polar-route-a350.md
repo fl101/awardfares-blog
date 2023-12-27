@@ -12,15 +12,15 @@ I had been monitoring award availability to fly back to Europe for Christmas. Du
 <table align="center">
 <tr>
   <td><b>Route</b></td>
-  <td>[HND-CPH](https://awardfares.com/search?HND.CPH.;z:sas)</td>
+  <td>HND-CPH</td>
 </tr>
 <tr>
   <td><b>Flight</b></td>
-  <td>[SK984](https://awardfares.com/search?..;f:sk948;z:sas)</td>
+  <td>SK984</td>
 </tr>
 <tr>
   <td><b>Cabin</b></td>
-  <td>[Business](https://awardfares.com/search?..;c:business;f:sk948;z:sas#)</td>
+  <td>Business</td>
 </tr>
 <tr>
   <td><b>Equipment</b></td>
