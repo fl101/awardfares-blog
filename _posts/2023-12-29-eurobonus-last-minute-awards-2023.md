@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Template"
+title: "Last-Minute EuroBonus Redemptions (For The Amex Companion Vouchers)"
 category: [Guide]
-tags: []
+tags: [EuroBonus]
 author: Germán
-image: /assets/img/folder/cover.webp
+image: /assets/img/eurobonus-last-minute-awards/cover.webp
 hidden: true
 sitemap: false
 ---
