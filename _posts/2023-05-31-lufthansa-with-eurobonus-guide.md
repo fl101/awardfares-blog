@@ -15,13 +15,13 @@ In this post, we cover why SAS EuroBonus is still a great program when redeeming
 
 ### In this post
 
-- [Available Long-haul Awards (In Realtime)](#realtime-awards)
-- [Why is SAS EuroBonus great for redeeming awards on Lufthansa?](#why-sas-for-lufthansa)
-- [How To Find Lufthansa Flights With EuroBonus Points](#how-to)
-- [Pros and Cons of Flying Lufthansa](#pros-and-cons)
-- [Best Frequent Flyer Programs to Redeem Lufthansa Awards](#best-ffqtv)
-- [Read More](#read-more)
-
+- [Example Lufthansa Award Flights - Right Now! {#realtime-awards}](#example-lufthansa-award-flights---right-now-realtime-awards)
+- [Why is SAS EuroBonus great for redeeming awards on Lufthansa? {#why-sas-for-lufthansa}](#why-is-sas-eurobonus-great-for-redeeming-awards-on-lufthansa-why-sas-for-lufthansa)
+- [How To Find Lufthansa Flights With EuroBonus Points {#how-to}](#how-to-find-lufthansa-flights-with-eurobonus-points-how-to)
+- [What we love and don't about Lufthansa {#pros-and-cons}](#what-we-love-and-dont-about-lufthansa-pros-and-cons)
+- [Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2023 {#best-ffqtv}](#best-frequent-flyer-programs-to-redeem-lufthansa-awards-in-2023-best-ffqtv)
+- [Get started and stay tuned.](#get-started-and-stay-tuned)
+- [Read more.](#read-more)
 
 ## Example Lufthansa Award Flights - Right Now! {#realtime-awards}
 
