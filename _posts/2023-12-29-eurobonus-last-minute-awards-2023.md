@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Last-Minute EuroBonus Redemption Gems (For The Amex Companion Vouchers)"
+title: "Last-Minute EuroBonus Redemption Gems (For The Amex 2-for-1 Vouchers)"
 category: [Guide]
 tags: [SAS EuroBonus, Star Alliance]
 author: Germán
@@ -9,9 +9,15 @@ hidden: true
 sitemap: false
 ---
 
-## Last-minute EuroBonus Awards At Great Value (Top Routes)
+Tick Tock, EuroBonus Clock! It's that time of the year again when many Amex 2-for-1 vouchers (or *companion tickets*) are about to expire, and if you're anything like us, you're probably scrambling to find the best way to use them.
 
-### 1. Lufthansa First Class for 87k points (Round trip)
+At AwardFares, we know how tricky it can be to snag those last-minute award redemptions, especially when you're trying to make the most out of your EuroBonus points. But don't worry, we've got your back.
+
+In this post, we compile a few of our favorite options, including different airlines, routes, and cabins, that will get you great rates and make good use of your vouchers. Let's start!
+
+## Last-minute EuroBonus Awards At Great Value (Our Favorites)
+
+### 1. Lufthansa First Class for 87k points (Round Trip)
 
 There are several LH First seats on a bunch of routes to the North America and Asia, connecting in Frankfurt and Munich. Standard round-trip prices for these awards are anywhere from 165k to 270k points, but when using a 2-for-1 voucher you can score them for **87k-135k points per passenger**.
 
@@ -42,9 +48,9 @@ Some routes with great availability in the next 2 weeks are:
 
 ### 2. Turkish Airlines A350 Business Class for 82k points (Round Trip)
 
-Turkish Airlines has an extremely competitive Business Class product (especially on their new A350s), a well connected network, a great new hub at Istanbul, and more-than-decent award prices with EB points. A killer combo!
+Turkish Airlines has an extremely competitive Business Class product (especially on their new A350s), a well-connected network, a great new hub at Istanbul, and more-than-decent award prices with EB points. A killer combo!
 
-These days, we are seeing great availability to destinations in North America and the Caribbean. Although, one of our favorites is from Europe to São Paulo, Brazil: a lenghty flight you can enjoy.
+These days, we are seeing great availability to destinations in North America and the Caribbean. Although, one of our favorites is from Europe to São Paulo, Brazil: a lengthy flight you can enjoy.
 
 <img src="../assets/img/eurobonus-last-minute-awards/ist-gru.webp" alt="Turkish Airlines A350 Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
 
@@ -53,6 +59,8 @@ These awards are typically 99k points one way, or 165k points round trip. When u
 The table below gets updated in real time and shows you the available award seats for the next 30 days on **Turkish Airlines Business Class** (all cabins) using SAS EuroBonus points.
 
 <table id="tk-business"></table>
+
+Some routes with great availability in the next 2 weeks are:
 
 * [Istanbul IST to São Paulo GRU](https://awardfares.com/search?IST.GRU.;c:business;a:TK;z:sas#)
 * [Cancún CUN to Istanbul IST](https://awardfares.com/search?CUN.IST.;c:business;a:TK;z:sas#)
@@ -63,13 +71,56 @@ The table below gets updated in real time and shows you the available award seat
 
 **Read more**: Check out our full guide on Turkish Airlines redemptions with EuroBonus points, including a thorough comparison of all their cabins.
 
-* [*Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points*](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
+* [*Booking Turkish Airlines Flights With SAS EuroBonus Points (Guide)*](https://blog.awardfares.com/turkish-with-eurobonus/)
 
-### 3. TAP A330-900neo Business Class for
+### 3. Thai Airways Business Class to Asia for 82k, to Australia for 137k points (Round Trip)
 
-### 4. 
+Thai's 777-300ER Business Class can be a solid choice when traveling to Asia and even connecting further into Oceania [[check our most recent review here](https://blog.awardfares.com/thai-business-review-2023/)].
 
-### 5. 
+<img src="../assets/img/eurobonus-last-minute-awards/thai.webp" alt="Thai Airways Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
+
+You can get particularly good rates when flying to Australia, for example, Europe to Melbourne or Sydney. Round trip award tickets in Business Class cost 275k EuroBonus points, but with an Amex voucher, that becomes 137k points per passenger. A super decent deal considering there is great availability, and those tickets are expensive in cash.
+
+<img src="../assets/img/eurobonus-last-minute-awards/cph-mel.webp" alt="Thai Airways Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
+
+Some routes with good availability during 2024, ready to book today:
+
+* [Copenhagen CPH to Bangkok BKK](https://awardfares.com/search?CPH.BKK.;c:business;a:TG;z:sas#)
+* [Copenhagen CPH to Melbourne MEL](https://awardfares.com/search?CPH.MEL.;c:business;a:TG;z:sas#)
+* [Stockholm to Bangkok BKK](https://awardfares.com/search?ARN.BKK.;c:business;a:TG;z:sas#)
+
+### 4. ANA Business Class "The Room" for 82k points (Round Trip)
+
+When thinking of ANA's The Room, imagine a private jet cabin shrunk onto a commercial plane. Wide, fully-flat seats with Nishikawa comfort, sliding doors for ultimate privacy, a 24-inch 4K screen, and direct aisle access from every seat. It's like your own little cocoon in the sky, perfect for work, relaxation, or just savoring the feeling of luxury. It's not cheap on points, but if you want pampering and unparalleled comfort on your next long-haul flight, ANA The Room might just be your EuroBonus dream redemption.
+
+Flights are also not easy to score as there are very few planes that have this reconfiguration.
+
+<img src="../assets/img/eurobonus-last-minute-awards/ana-the-ron.webp" alt="ANA The Room Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
+
+We've seen great availability on these routes for the upcoming weeks:
+
+* [Tokyo HND to London LHR (NH211/212)](https://awardfares.com/search?LHR.HND.;c:business;a:NH;f:NH211,NH212;z:sas)
+* [Tokyo HND to New York JFK (NH109/110 and NH159/160)](https://awardfares.com/search?HND.JFK.;c:business;a:NH;z:sas)
+* [Tokyo HND to San Francisco SFO (NH107/108)](https://awardfares.com/search?HND.SFO.;c:business;a:NH;z:sas)
+
+One of the reconfigured 777s is in a special Pokémon livery, which we [described in more detail in this post](https://blog.awardfares.com/ana-777-fleet/).
+
+<img src="../assets/img/eurobonus-last-minute-awards/lhr-hnd.webp" alt="ANA The Room London To Tokyo Haneda Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
+
+### 5. TAP A330-900neo Business Class for 65k points (Round Trip)
+
+TAP's A330-900neo is a fuel-efficient dream machine, boasting quieter cabins with mood lighting to ease jet lag, cutting-edge entertainment systems, and even aroma dispensers in the bathrooms! Its extended range opens up exciting long-haul destinations, although you'll find most available seats to North America.
+
+The standard rates are 78k points one-way and 130k points round trip. Using a voucher, you can get those tickets for **as low as 65k EuroBonus points per passenger**.
+
+<img src="../assets/img/eurobonus-last-minute-awards/tap.webp" alt="TAP A330-900neo Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
+
+Some routes with good availability during 2024 are:
+
+* [Lisbon LIS to Miami MIA](https://awardfares.com/search?LIS.MIA.;c:economy,premeco,first;a:TP;z:sas)
+* [Lisbon LIS to Toronto YYZ](https://awardfares.com/search?LIS.YYZ.;c:economy,premeco,first;a:TP;z:sas)
+* [Lisbon LIS to Boston BOS](https://awardfares.com/search?LIS.BOS.;c:economy,premeco,first;a:TP;z:sas)
+* [Lisbon LIS to New York EWR](https://awardfares.com/search?LIS.EWR.;c:economy,premeco,first;a:TP;z:sas)
 
 ## Want more award travel intel?
 
