@@ -106,21 +106,37 @@ Now, here's the reality check: award availability in these First Class havens ca
 
 ## Finding First Class Awards With AwardFares
 
-### 1. Go to [AwardFares](https://awardfares.com/signup).
+### 1. Go to [AwardFares](https://awardfares.com/signup)
 
-### 2. Under *Frequent Flyer Program*, choose **Flying Blue**.
+### 2. Under *Frequent Flyer Program*, choose **Flying Blue**
 
-<img src="../assets/img/flying-blue-skyteam-first-class/delta-one.webp" alt="Delta Air Lines Delta One Buiness Class." class="noborder"/>
+<img src="../assets/img/flying-blue-skyteam-first-class/ffp.webp" alt="Select Frequent Flyer Program in AwardFares." class="noborder"/>
 
-### 3. Tap on *Cabin* and select **First Class only**.
+### 3. Tap on *Cabin* and select **First Class only**
 
-### 4. Under *Departure* add an origin airport, for example **Shanghai (PVG)**.
+<img src="../assets/img/flying-blue-skyteam-first-class/cabin.webp" alt="Select Frequent Flyer Program in AwardFares." class="noborder"/>
 
-### 5. Do the same under *Destination*, e.g., **Melbourne (MEL)**.
+### 4. Under *Departure* and *Destination*, specify origin and arrival airport(s)
 
-### 6. Choose a date, or use the Timeline view to explore flights for different dates.
+For example **Shanghai (PVG)** to **Melbourne (MEL)**
 
-### 7. (Optional) Under *Airline* add your preferred airline, if necessary (e.g., China Eastern Airlines).
+<img src="../assets/img/flying-blue-skyteam-first-class/route.webp" alt="Select Frequent Flyer Program in AwardFares." class="noborder"/>
+
+### 5. Choose a date
+
+Or use the Timeline view to explore flights for different dates
+
+### 6. Expand details, filter by price
+
+Use the search results header to sort by price and see the cheapest redemptions on the top. Tap on any results to see the final price including taxes and fees.
+
+<img src="../assets/img/flying-blue-skyteam-first-class/price.webp" alt="Sort by price in AwardFares." class="noborder"/>
+
+### 7. Check seat maps
+
+Tap on the *Seat Map* icon to check available/occupied seats on the flight you are interested in.
+
+<img src="../assets/img/flying-blue-skyteam-first-class/first-seatmap.webp" alt="Seatmap view in AwardFares." class="noborder"/>
 
 ### Routes We've Detected
 
@@ -135,17 +151,17 @@ Now, here's the reality check: award availability in these First Class havens ca
 |                  | [PVG-SIN](https://awardfares.com/search?PVG.SIN.;c:first;z:flyingblue)                             |
 |                  | [PVG-AKL](https://awardfares.com/search?PVG.AKL.;c:first;z:flyingblue)                             |
 
+Example of Garuda Indonesia CGK to Amsterdam AMS in First Class, using Flying Blue miles:
+
+<img src="../assets/img/flying-blue-skyteam-first-class/garuda.webp" alt="Garudas." class="noborder"/>
+
 ## More Tips When Booking First Class Awards
 
-**Be Flexible.** Dates, routes, even airlines!
-
-**Become a Booking Ninja.** [Set up search alerts](https://blog.awardfares.com/alerts) on AwardFares for your dream flights. Pounce when they appear!
-
-**Fuel Your Mileage Machine.** Flying Blue offers generous transfer options from many credit cards. Top up your stash!
-
-**Consider the "Curve".** AwardFares easily lets you compare prices in miles and points, sometimes revealing hidden first-class gems.
-
-**Business Can Feel Like First!** While First Class may be the ultimate travel trophy, business class on many SkyTeam airlines is truly outstanding. Don't be afraid to adjust your sights if award gods are fickle.
+- **Be Flexible.** Dates, routes, even airlines!
+- **Become a Booking Ninja.** [Set up search alerts](https://blog.awardfares.com/alerts) on AwardFares for your dream flights. Pounce when they appear!
+- **Fuel Your Mileage Machine.** Flying Blue offers generous transfer options from many credit cards. Top up your stash!
+- **Consider the "Curve".** AwardFares easily lets you compare prices in miles and points, sometimes revealing hidden first-class gems
+- **Business Can Feel Like First!** While First Class may be the ultimate travel trophy, business class on many SkyTeam airlines is truly outstanding. Don't be afraid to adjust your sights if award gods are fickle.
 
 ## Want More Award Travel Intel?
 
