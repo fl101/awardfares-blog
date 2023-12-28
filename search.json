@@ -2,6 +2,7 @@
 ---
 {
   {% for post in site.posts %}
+  {% unless post.hidden %}
     "{{ post.url | slugify }}": {
       "id": "{{ post.url | slugify }}",
       "title": "{{ post.title | xml_escape }}",
@@ -9,10 +10,12 @@
       "date": "{{ post.date | date: '%B %-d, %Y' }}",
       "sortDate": "{{ post.date | date: '%Y-%m-%dT%H:%M:%S.%L%z' }}",
       "author": "{{ post.author | xml_escape }}",
-      "category": "{{ post.category | xml_escape }}",
+      "category": {{ post.category | jsonify }},
       "content": {{ post.content | strip_html | strip_newlines | truncate: 100 | jsonify }},
-      "url": "{{ post.url | xml_escape }}"
+      "url": "{{ post.url | xml_escape }}",
+      "image": "{{ post.image }}"
     }
     {% unless forloop.last %},{% endunless %}
+  {% endunless %}
   {% endfor %}
 }

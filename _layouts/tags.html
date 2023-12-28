@@ -16,7 +16,7 @@ layout: default
     </h2>
     {% for post in tag[1] %}
     {% unless post.hidden %}
-    <div>
+    <div class="tag-item">
       <a href="{{ post.url }}">{{ post.title }}</a>
       <div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
     </div>

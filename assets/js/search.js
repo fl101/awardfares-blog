@@ -39,15 +39,20 @@
   }
 
   function createPostListingHTML(postItem) {
-    var headingHTML =
-      "<a class='search-link' href='" +
-      postItem.url +
-      "''>" +
-      postItem.title +
-      "</a>";
-    var metaHTML = "<div class='date'>" + postItem.date + "</div>";
-    var descriptionHTML = ""; // "<p>" + postItem.content.substring(0, 150) + "...</p>";
-    return headingHTML + metaHTML + descriptionHTML;
+    const tags = postItem.category?.join ? postItem.category.join(', ') : postItem.category;
+    return `
+      <div class="search-link">
+        <div>
+          <a href="${postItem.url}">
+            <img src="${postItem.image}" />
+          </a>
+        </div>
+        <div>
+          <div><a href="${postItem.url}">${postItem.title}</a></div>
+          <div class="date">${postItem.date} ${tags ? `· ${tags}` : ''}</div>
+        </div>
+      </div>
+    `;
   }
 
   function displaySearchResults(results, store) {
@@ -63,8 +68,10 @@
     }
   }
 
+  var searchTerm = getSearchTerm();
+  setSearchBoxValue(searchTerm);
+
   function search(searchTerm) {
-    setSearchBoxValue(searchTerm);
 
     var lunrIndex = lunr(function () {
       this.field("id");
@@ -88,7 +95,6 @@
   fetch("/search.json").then((resp) => {
     resp.json().then((json) => {
       window.store = json;
-      var searchTerm = getSearchTerm();
       if (searchTerm) {
         search(searchTerm);
       }
