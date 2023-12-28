@@ -97,7 +97,7 @@ It's not cheap on points, but if you want pampering and unparalleled comfort on 
 
 Standard prices start a 99k points one-way and 165k points round trip. When using a voucher, you can score a seat for as low as 82.5k points round trip.
 
-<img src="../assets/img/eurobonus-last-minute-awards/ana-the-ron.webp" alt="ANA The Room Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
+<img src="../assets/img/eurobonus-last-minute-awards/ana-the-room.webp" alt="ANA The Room Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
 
 We've seen great availability on these routes for the upcoming weeks:
 
