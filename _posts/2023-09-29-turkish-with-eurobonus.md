@@ -8,20 +8,22 @@ image: /assets/img/turkish-with-eurobonus/cover.webp
 ---
 
 
-Turkish Airlines, the flag carrier of Turkey and a member of the Star Alliance network, has steadily risen in the ranks to become one of the world's leading airlines, renowned for its expansive route network and impeccable service. With its main hub in Istanbul, this airline bridges the gap between the East and the West, making it a favored choice for travelers from around the globe. 
+Turkish Airlines, the flag carrier of Turkey and a member of the Star Alliance network, has steadily risen in the ranks to become one of the world's leading airlines, renowned for its expansive route network and impeccable service. With its main hub in Istanbul, this airline bridges the gap between the East and the West, making it a favored choice for travelers from around the globe.
 
-For those holding SAS EuroBonus points, the good news is that these can be golden tickets to book award flights on Turkish Airlines at great rates, offering a fantastic opportunity to experience the airline's premium service while journeying to a multitude of destinations. 
+For those holding SAS EuroBonus points, the good news is that these can be golden tickets to book award flights on Turkish Airlines at great rates, offering a fantastic opportunity to experience the airline's premium service while journeying to a multitude of destinations.
 
 In this blog post, we'll guide you through the process of maximizing your EuroBonus points and securing your next trip with Turkish Airlines.
 
-
 ### In this post
 
-- [Why Use SAS EuroBonus Points on Turkish Airlines?](#why)
-- [Turkish Airlines Award Flights - Right Now!](#realtime-awards)
-- [Top Destinations](#destinations)
-- [How To Search Turkish Airlines Award Flights With EuroBonus Points](#how-to)
-- [Fleet and Cabins](#fleet)
+- [Why Use SAS EuroBonus Points on Turkish Airlines? {#why}](#why-use-sas-eurobonus-points-on-turkish-airlines-why)
+- [Turkish Airlines Award Flights - Right Now! {#realtime-awards}](#turkish-airlines-award-flights---right-now-realtime-awards)
+- [Top Turkish Airlines Destinations We Love {#destinations}](#top-turkish-airlines-destinations-we-love-destinations)
+- [How To Search Turkish Airlines Award Flights With EuroBonus Points {#how-to}](#how-to-search-turkish-airlines-award-flights-with-eurobonus-points-how-to)
+- [Setting Up Alerts](#setting-up-alerts)
+- [Turkish Airlines Fleet and Cabins: Watch Out! {#fleet}](#turkish-airlines-fleet-and-cabins-watch-out-fleet)
+- [Get started, and stay tuned.](#get-started-and-stay-tuned)
+- [Read more](#read-more)
 
 ## Why Use SAS EuroBonus Points on Turkish Airlines? {#why}
 
@@ -29,7 +31,6 @@ In this blog post, we'll guide you through the process of maximizing your EuroBo
 2. **Quality Service**: Known for its hospitality and quality, Turkish Airlines offers a comfortable journey, regardless of the class you’re flying in.
 3. **Istanbul Airport (IST)**: As Turkish Airlines' hub, IST is state-of-the-art and serves as a great connecting point for travelers. Plus, if you have a long layover, you can explore the historic and beautiful city of Istanbul.
 4. **Star Alliance Membership**: Being part of Star Alliance, Turkish Airlines flights can be easily booked using EuroBonus points, which is the loyalty program for other Star Alliance members such as SAS.
-
 
 ## Turkish Airlines Award Flights - Right Now! {#realtime-awards}
 
@@ -39,11 +40,9 @@ The lists below are updated in real time and show you the available award seats 
 
 <table id="tk-business"></table>
 
-
 ### Turkish Airlines Economy Class Seats (Top Long-haul Routes)
 
 <table id="tk-economy"></table>
-
 
 ## Top Turkish Airlines Destinations We Love {#destinations}
 
@@ -126,19 +125,15 @@ Easy-peasy! AwardFares, will show you all available flights on Turkish Airlines 
 
 <img src="../assets/img/turkish-with-eurobonus/results.webp" alt="Find award flights on Turkish Airlines with AwardFares" />
 
-
-
 ### Confirm availability on SAS website
 
 You can double-check the availability on SAS website with your own account, searching for the exact same flights and dates you found using AwardFares.
-
-
 
 ## Setting Up Alerts
 
 If you don’t see available seats on a given flight and date you are interested, don’t worry. Seat availability changes daily, as airlines release those seats on short notice. AwardFares has an alert feature that monitors the flights you want and notifies you via email once/if they become available.
 
-* [**Check this guide on how to set up alerts.**](https://blog.awardfares.com/alerts)
+- [**Check this guide on how to set up alerts.**](https://blog.awardfares.com/alerts)
 
 ## Turkish Airlines Fleet and Cabins: Watch Out! {#fleet}
 
@@ -152,28 +147,28 @@ Here is a summary of the cabins and amenities offered on some of Turkish Airline
 
 The Turkish Airlines A350 business class cabin is their most luxurious and spacious cabin so far, with a total of 32 seats arranged in a staggered 1-2-1 configuration. This means that every passenger has direct aisle access and plenty of personal space.
 
-The seats themselves are extremely comfortable, with a wide range of recline positions and a fully lie-flat bed. 
+The seats themselves are extremely comfortable, with a wide range of recline positions and a fully lie-flat bed.
 
-* Each seat has a 17-inch personal entertainment system with a wide selection of movies, TV shows, music, and games.
-* The seats are also equipped with a universal power outlet, a USB port, and a reading light.
-* The privacy screens between the seats can be raised or lowered to create a more private space.
-* The cabin has two lavatories, which are both equipped with shower facilities.
+- Each seat has a 17-inch personal entertainment system with a wide selection of movies, TV shows, music, and games.
+- The seats are also equipped with a universal power outlet, a USB port, and a reading light.
+- The privacy screens between the seats can be raised or lowered to create a more private space.
+- The cabin has two lavatories, which are both equipped with shower facilities.
 Passengers are provided with a welcome drink, amenity kit, and hot meal service.
 
 ### Boeing 777-300ER
 
-* Business Class: This cabin features lie-flat seats in a 2-3-2 configuration. The seats come with individual IFE screens, ample storage space, and enhanced privacy.
-* Economy Class: These seats are typically in a 3-3-3 configuration, with individual IFE screens, adjustable headrests, and standard amenities for long-haul flights.
+- Business Class: This cabin features lie-flat seats in a 2-3-2 configuration. The seats come with individual IFE screens, ample storage space, and enhanced privacy.
+- Economy Class: These seats are typically in a 3-3-3 configuration, with individual IFE screens, adjustable headrests, and standard amenities for long-haul flights.
 
 ### Boeing 787-9 Dreamliner
 
-* Business Class: The Dreamliner features a more modern 1-2-1 configuration for its Business Class, ensuring direct aisle access for every passenger. The seats can be converted into lie-flat beds and come with large IFE screens.
-* Economy Class: In a 3-3-3 configuration, the Economy Class offers individual IFE screens, USB ports, and standard long-haul amenities.
+- Business Class: The Dreamliner features a more modern 1-2-1 configuration for its Business Class, ensuring direct aisle access for every passenger. The seats can be converted into lie-flat beds and come with large IFE screens.
+- Economy Class: In a 3-3-3 configuration, the Economy Class offers individual IFE screens, USB ports, and standard long-haul amenities.
 
 ### Airbus A330 (-200 and -300)
 
-* Business Class: Lie-flat or angled-flat seats in a 2-2-2 layout.
-* Economy Class: These are in a 2-4-2 configuration and come equipped with personal IFE screens and standard amenities.
+- Business Class: Lie-flat or angled-flat seats in a 2-2-2 layout.
+- Economy Class: These are in a 2-4-2 configuration and come equipped with personal IFE screens and standard amenities.
 
 ## Get started, and stay tuned.
 
@@ -188,8 +183,6 @@ Make sure to also check these posts out
 - [10 Tips To Get The Most Out Of Your SAS EuroBonus Points](https://blog.awardfares.com/eurobonus-tips-2023/)
 - [SAS EuroBonus Analysis and Forecast (Free Tool)](https://blog.awardfares.com/eurobonus-analysis-and-forecast/)
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
-
-
 
 <script>
   (function () {

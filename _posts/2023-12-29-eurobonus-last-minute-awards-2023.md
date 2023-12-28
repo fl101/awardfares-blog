@@ -91,9 +91,11 @@ Some routes with good availability during 2024, ready to book today:
 
 ### 4. ANA Business Class "The Room" for 82k points (Round Trip)
 
-When thinking of ANA's The Room, imagine a private jet cabin shrunk onto a commercial plane. Wide, fully-flat seats with Nishikawa comfort, sliding doors for ultimate privacy, a 24-inch 4K screen, and direct aisle access from every seat. It's like your own little cocoon in the sky, perfect for work, relaxation, or just savoring the feeling of luxury. It's not cheap on points, but if you want pampering and unparalleled comfort on your next long-haul flight, ANA The Room might just be your EuroBonus dream redemption.
+When thinking of ANA's The Room, imagine a private jet cabin shrunk onto a commercial plane. Wide, fully-flat seats with Nishikawa comfort, sliding doors for ultimate privacy, a 24-inch 4K screen, and direct aisle access from every seat. It's like your own little cocoon in the sky, perfect for work, relaxation, or just savoring the feeling of luxury.
 
-Flights are also not easy to score as there are very few planes that have this reconfiguration.
+It's not cheap on points, but if you want pampering and unparalleled comfort on your next long-haul flight, ANA The Room might just be your EuroBonus dream redemption. Flights are also not easy to score as there are very few planes that have this reconfiguration.
+
+Standard prices start a 99k points one-way and 165k points round trip. When using a voucher, you can score a seat for as low as 82.5k points round trip.
 
 <img src="../assets/img/eurobonus-last-minute-awards/ana-the-ron.webp" alt="ANA The Room Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
 
