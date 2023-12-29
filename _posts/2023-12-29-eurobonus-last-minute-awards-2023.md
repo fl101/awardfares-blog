@@ -5,8 +5,6 @@ category: [Guide]
 tags: [SAS EuroBonus, Star Alliance]
 author: Germán
 image: /assets/img/eurobonus-last-minute-awards/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Tick Tock, EuroBonus Clock! It's that time of the year again when many Amex 2-for-1 vouchers (or *companion tickets*) are about to expire, and if you're anything like us, you're probably scrambling to find the best way to use them.
@@ -14,6 +12,8 @@ Tick Tock, EuroBonus Clock! It's that time of the year again when many Amex 2-fo
 At AwardFares, we know how tricky it can be to snag those last-minute award redemptions, especially when you're trying to make the most out of your EuroBonus points. But don't worry, we've got your back.
 
 In this post, we compile a few of our favorite options, including different airlines, routes, and cabins, that will get you great rates and make good use of your vouchers. Let's start!
+
+**NOTE:** The SAS Service Center is only open until Friday 29th, but online trips can be booked until midnight Sunday.
 
 ## Last-minute EuroBonus Awards At Great Value (Our Favorites)
 
@@ -123,6 +123,21 @@ Some routes with good availability during 2024 are:
 * [Lisbon LIS to Toronto YYZ](https://awardfares.com/search?LIS.YYZ.;c:economy,premeco,first;a:TP;z:sas)
 * [Lisbon LIS to Boston BOS](https://awardfares.com/search?LIS.BOS.;c:economy,premeco,first;a:TP;z:sas)
 * [Lisbon LIS to New York EWR](https://awardfares.com/search?LIS.EWR.;c:economy,premeco,first;a:TP;z:sas)
+
+### 6. EVA Air Business Class for 82k points (Round Trip)
+
+EVA Air not only has a fantastic Business Class product that feels like first. It also has great connections from/to almost everywhere via TPE, and it's a great gateway from Europe to Asia. In addition, there's often great availability on short-notice flights.
+
+Prices range 30k-99k one-way (depending on flight length), and up to 165k round trip. Using an Amex voucher that comes down to 82.5k points per passenger.
+
+Here are some of the routes we've seen with plenty of award space
+
+* [London LHR to Bangkok BKK](https://awardfares.com/search?LHR.BKK.;c:business;a:BR;z:sas)
+* [Taipei TPE to Los Angeles LAX](https://awardfares.com/search?TPE.LAX.;c:business;a:BR;z:sas)
+* [Munich MUC to Hong Kong HKG](https://awardfares.com/search?MUC.HKG.;c:business;a:BR;z:sas)
+* [Vienna VIE to Tokyo NRT](https://awardfares.com/search?VIE.NRT.;c:business;a:BR;z:sas)
+
+<img src="../assets/img/eurobonus-last-minute-awards/eva.webp" alt="EVA Air Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
 
 ## Want more award travel intel?
 
