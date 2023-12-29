@@ -126,7 +126,7 @@ Some routes with good availability during 2024 are:
 
 ### 6. EVA Air Business Class for 82k points (Round Trip)
 
-EVA Air not only has a fantastic Business Class product that feels like first. It also has great connections from/to almost everywhere via TPE, and it's a great gateway from Europe to Asia. In addition, there's often great availability on short-notice flights.
+EVA Air not only has a fantastic Business Class product that feels like first. It also has convenient connections from/to almost everywhere via TPE, and it's a great gateway from Europe to Asia. In addition, there's often decent availability on short-notice flights.
 
 Prices range 30k-99k one-way (depending on flight length), and up to 165k round trip. Using an Amex voucher that comes down to 82.5k points per passenger.
 
