@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Last-Minute EuroBonus Redemption Gems (For The Amex 2-for-1 Vouchers)"
+title: "Last-Minute EuroBonus Redemption Gems (For The Amex 2-for-1 Vouchers) [EXTENDED DEADLINE]"
 category: [Guide]
 tags: [SAS EuroBonus, Star Alliance]
 author: Germán
@@ -13,7 +13,13 @@ At AwardFares, we know how tricky it can be to snag those last-minute award rede
 
 In this post, we compile a few of our favorite options, including different airlines, routes, and cabins, that will get you great rates and make good use of your vouchers. Let's start!
 
-**NOTE:** The SAS Service Center is only open until Friday 29th, but online trips can be booked until midnight Sunday.
+<div data-countdown="2024-01-31T22:59:00.000+02:00">
+  (EXTENDED) DEADLINE FOR VOUCHERS
+</div>
+
+**UPDATE:** Due to high load and long wait time for the service center, SAS announced that it has extended the vouchers expirations until January 31st, 2024.
+
+<img src="../assets/img/eurobonus-last-minute-awards/amex-vouchers-extended.webp" alt="SAS extended the deadlines of the Amex 2-4-1 vouchers (companion tickets) until January 31st, 2024.." class="noborder"/>
 
 ## Last-minute EuroBonus Awards At Great Value (Our Favorites)
 
@@ -244,3 +250,6 @@ Our guides have all the information you need to be a pro travel hacker and explo
     }
   })();
 </script>
+
+
+<script src="/assets/js/countdown.js"></script>
