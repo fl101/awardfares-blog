@@ -9,7 +9,7 @@ image: /assets/img/klm-business-ams-cph/cover.webp
 
 I was looking to book a flight from Amsterdam (AMS) to Copenhagen (CPH) and remembered I still had some miles in my Delta SkyMiles account. Luckily, it was just enough for a one-way Economy redemption on KLM, which I found thanks to the [new Delta SkyMiles integration](/introducing-delta/) in AwardFares.
 
-<img src="/assets/img/klm-business-ams-cph/availability.png" />
+<img src="/assets/img/klm-business-ams-cph/availability.webp" />
 
 During check-in through the KLM app, I saw that there was an option to upgrade to Business class. I decided to try it since I hadn't tried KLM Business within Europe before.
 
