@@ -10,44 +10,38 @@ image: /assets/img/eurobonus-star-alliance-awards/cover.webp
 In light of the recent [announcent of SAS leaving Star Alliance](https://blog.awardfares.com/sas-acquisition/), we noticed an increase in traffic and EuroBonus searches at AwardFares. We are happy that our tool is helping you find your next dream award flight!
 
 In this **megapost**, we are compiling every single airline part of Star Alliance, together with its best airplanes, cabins, and routes you can book **right now** using SAS EuroBonus points. Note that we exclude some of the cabins that are bookable with this program (such as Singapore Suites, Swiss First, etc.).
- 
+
 In addition, we share all our tips, tricks, and comments from our experience as travelers. Make sure to check out the links to our detailed guides and resources under each section. Let's start!
 
 ### Quick Navigation
 
-- [Best Star Alliance Cabins To Book With SAS EuroBonus Points](#best-star-alliance-cabins-to-book-with-sas-eurobonus-points)
-  - [Aegean Airlines {#aegean}](#aegean-airlines-aegean)
-  - [Air Canada {#air-canada}](#air-canada-air-canada)
-  - [Air China {#air-china}](#air-china-air-china)
-  - [Air India {#air-india}](#air-india-air-india)
-  - [Air New Zealand {#air-new-zealand}](#air-new-zealand-air-new-zealand)
-  - [All Nippon Airways (ANA)](#all-nippon-airways-ana)
-  - [Asiana Airlines](#asiana-airlines)
-  - [Austrian Airlines](#austrian-airlines)
-  - [Avianca](#avianca)
-  - [Brussels Airlines](#brussels-airlines)
-  - [Copa Airlines](#copa-airlines)
-  - [Croatia Airlines](#croatia-airlines)
-  - [EgyptAir](#egyptair)
-  - [Ethiopian Airlines](#ethiopian-airlines)
-  - [EVA Air {#eva}](#eva-air-eva)
-  - [LOT Polish Airlines {#lot}](#lot-polish-airlines-lot)
-  - [Lufthansa {#lufthansa}](#lufthansa-lufthansa)
-  - [Singapore Airlines {#singapore}](#singapore-airlines-singapore)
-  - [South African Airways {#saa}](#south-african-airways-saa)
-  - [Swiss International Air Lines (SWISS)](#swiss-international-air-lines-swiss)
-  - [TAP Air Portugal](#tap-air-portugal)
-  - [Thai Airways International](#thai-airways-international)
-  - [Turkish Airlines {#turkish}](#turkish-airlines-turkish)
-- [\](https://blog.awardfares.com/turkish-with-eurobonus/)](#httpsblogawardfarescomturkish-with-eurobonus)
-  - [United Airlines {#united}](#united-airlines-united)
-- [Get started, and stay tuned.](#get-started-and-stay-tuned)
-- [Read more {#read-more}](#read-more-read-more)
-
+- [Aegean Airlines](#aegean-airlines)
+- [Air Canada](air-canada)
+- [Air China](air-china)
+- [Air India](#air-india)
+- [Air New Zealand](air-new-zealand)
+- [All Nippon Airways (ANA)](#all-nippon-airways)
+- [Asiana Airlines](#asiana-arlines)
+- [Austrian Airlines](#austrian-airlines)
+- [Avianca](#avianca)
+- [Brussels Airlines](#brussels-airlines)
+- [Copa Airlines](#copa-airlines)
+- [Croatia Airlines](#croatia-airlines)
+- [EgyptAir](#egyptair)
+- [Ethiopian Airlines](#ethiopian-airlines)
+- [EVA Air](#eva-air)
+- [LOT Polish Airlines](#lot-polish-airlines)
+- [Lufthansa](#lufthansa)
+- [Singapore Airlines](#singapore-airlines)
+- [South African Airways](#south-african-airways)
+- [Swiss International Air Lines (SWISS)](#swiss-international-air-lines-swiss)
+- [TAP Air Portugal](#tap-air-portugal)
+- [Thai Airways](#thai-airways)
+- [Turkish Airlines](#turkish-airlines)
 
 ## Best Star Alliance Cabins To Book With SAS EuroBonus Points
 
-### Aegean Airlines {#aegean}
+### Aegean Airlines
 
 Aegean Airlines, founded in 1987, is Greece's largest airline and flag carrier. It primarily operates out of Athens International Airport and serves both domestic destinations within Greece and international routes across Europe and other parts of the world. Known for its consistent quality service, Aegean has received several awards over the years for its excellence in the European regional aviation sector. 
 
@@ -59,8 +53,7 @@ The airline became a member of Star Alliance, the world's largest global airline
 
 *Image from Aegean's official website.*
 
-
-**Suggested Routes**: 
+**Suggested Routes**:
 
 * [Athens (ATH) to London (LHR)](https://awardfares.com/search?ATH.LHR.;a:A3;z:sas#): A major European route connecting the Greek capital to London.
 * [Thessaloniki (SKG) to Frankfurt (FRA)](https://awardfares.com/search?SKG.FRA.;a:A3;z:sas#): Connecting Greece's second-largest city to a major European hub.
@@ -70,9 +63,9 @@ The airline became a member of Star Alliance, the world's largest global airline
 
 ---
 
-### Air Canada {#air-canada}
+### Air Canada
 
-Air Canada, established in 1937, is the flag carrier and largest airline of Canada. Headquartered in Montreal, it provides scheduled and charter transportation for passengers and cargo to more than 200 destinations globally. 
+Air Canada, established in 1937, is the flag carrier and largest airline of Canada. Headquartered in Montreal, it provides scheduled and charter transportation for passengers and cargo to more than 200 destinations globally.
 
 As one of the founding members of Star Alliance, Air Canada has been a part of this collaborative network since its inception in May 1997. Over the years, the airline has been recognized for its commitment to safety, innovation, and customer service, solidifying its position as a leading player in the global aviation industry.
 
@@ -90,18 +83,16 @@ As one of the founding members of Star Alliance, Air Canada has been a part of t
 * [Montreal (YUL) to Paris (CDG)](https://awardfares.com/search?YUL.area:CDG.;a:AC;z:sas): A classic transatlantic route, which might provide good award availability and also features the Dreamliner on certain flights.
 * [Calgary (YYC) to London (LHR)](https://awardfares.com/search?YYC.area:LHR.;a:AC;z:sas): This route allows passengers to experience long-haul service from Canada's mountainous West to the UK.
 
-
 **More Posts**:
 
 * [Air Canada Business 737 MAX 8 YVR-SFO Trip Report](https://blog.awardfares.com/air-canada-business-yvr-sfo/)
 * [Air Canada Announces Route From Vancouver To Singapore](https://blog.awardfares.com/aircanada-singapore-route/)
 
-
 ---
 
-### Air China {#air-china}
+### Air China
 
-Air China, founded in 1988, is the flag carrier and one of the major airlines of the People's Republic of China. With its hub at Beijing Capital International Airport, Air China operates a vast network of domestic and international routes, playing a pivotal role in connecting China with the rest of the world. The airline is known for its expanding fleet, commitment to service, and its role in supporting China's rapid growth in global aviation. 
+Air China, founded in 1988, is the flag carrier and one of the major airlines of the People's Republic of China. With its hub at Beijing Capital International Airport, Air China operates a vast network of domestic and international routes, playing a pivotal role in connecting China with the rest of the world. The airline is known for its expanding fleet, commitment to service, and its role in supporting China's rapid growth in global aviation.
 
 Air China became a member of Star Alliance in December 2007.
 
@@ -120,9 +111,7 @@ Air China became a member of Star Alliance in December 2007.
 * [Chengdu (CTU) to San Francisco (SFO)](https://awardfares.com/search?CTU.SFO.;a:CA;z:sas): Serving as an important link between the tech and innovation hubs of Chengdu and Silicon Valley, this route is gaining popularity.
 * [Beijing (PEK) to New York (JFK)](https://awardfares.com/search?PEK.JFK.;a:CA;z:sas): This is one of Air China's flagship long-haul routes, connecting China's capital to the bustling metropolis of New York.
 
-
-
-### Air India {#air-india}
+### Air India
 
 Air India, founded in 1932, is the flag carrier of India and has played an instrumental role in connecting the vast subcontinent to the rest of the world. Headquartered in New Delhi, the airline stands as a symbol of India's rich history and its modern aspirations, providing services across domestic and international routes. Over the decades, Air India has become synonymous with the famed Indian hospitality, encapsulated by its iconic Maharajah mascot.
 
@@ -134,7 +123,7 @@ Air India became a member of Star Alliance in July 2014.
 
 *Image from Air India website*
 
-**Suggested Routes**: 
+**Suggested Routes**:
 
 * [Delhi (DEL) to New York (JFK/EWR)](https://awardfares.com/search?DEL.NYC.;a:AI;z:sas): This long-haul route provides an opportunity to experience Air India's service over a long duration, crossing the Atlantic.
 * [Mumbai (BOM) to London (LHR)](https://awardfares.com/search?BOM.LHR.;a:AI;z:sas): A key connection between India's financial capital and Europe, often operated with their flagship aircraft.
@@ -142,15 +131,13 @@ Air India became a member of Star Alliance in July 2014.
 * [Bengaluru (BLR) to Paris (CDG)](https://awardfares.com/search?BLR.CDG.;a:AI;z:sas): A strategic route linking the tech hub of India with one of Europe's main gateways.
 * [Delhi (DEL) to Sydney (SYD)](https://awardfares.com/search?DEL.SYD.;a:AI;z:sas): Connecting the subcontinent with Australia, this is a popular route for both business and leisure travelers.
 
-
 ---
 
-### Air New Zealand {#air-new-zealand}
+### Air New Zealand
 
-Air New Zealand, established in 1940, is the flag carrier of New Zealand and plays a pivotal role in connecting the island nation to the rest of the world. Known for its distinctive Kiwi hospitality, the airline offers a comprehensive range of domestic and international flights, ensuring travelers experience the breathtaking landscapes and vibrant cities of New Zealand. Its commitment to innovative in-flight services, environmental initiatives, and safety standards has garnered it numerous accolades in the aviation industry. 
+Air New Zealand, established in 1940, is the flag carrier of New Zealand and plays a pivotal role in connecting the island nation to the rest of the world. Known for its distinctive Kiwi hospitality, the airline offers a comprehensive range of domestic and international flights, ensuring travelers experience the breathtaking landscapes and vibrant cities of New Zealand. Its commitment to innovative in-flight services, environmental initiatives, and safety standards has garnered it numerous accolades in the aviation industry.
 
 Air New Zealand proudly became a member of Star Alliance in March 1999, further enhancing its global reach and network.
-
 
 **Best Cabins**: Long-haul Business Premier. Routes operated by the Boeing 787 Dreamliner or the refurbished Boeing 777-200/300ER.
 
@@ -178,9 +165,7 @@ The airline cemented its global connectivity and outreach by joining Star Allian
 
 <img src="../assets/img/eurobonus-star-alliance-awards/ana-cabin.avif" alt="Best Cabin using SAS EuroBonus Points on All Nippon Airlines (ANA)." />
 
-
 *Image from Air China's official website.*
-
 
 **Suggested Routes**:
 
@@ -406,10 +391,9 @@ Ethiopian Airlines became a member of Star Alliance in December 2011, further en
 
 * [SAS EuroBonus And Ethiopian Airlines Ghost Availability](https://blog.awardfares.com/ethiopian-ghost-availability/)
 
-
 ---
 
-### EVA Air {#eva}
+### EVA Air
 
 EVA Air, established in 1989, is a premier Taiwanese international airline with its headquarters in Taoyuan City. Renowned for its commitment to safety, innovation, and superior in-flight service, EVA Air has emerged as a significant player in the Asian aviation sector, connecting Taiwan to major destinations worldwide. The airline is particularly acclaimed for its luxurious premium cabins and innovative amenities that have garnered numerous accolades. 
 
@@ -441,7 +425,7 @@ EVA Air joined Star Alliance in June 2013.
 ---
 
 
-### LOT Polish Airlines {#lot}
+### LOT Polish Airlines
 
 LOT Polish Airlines, established in 1929, is the flag carrier of Poland and stands as one of the world's oldest airlines still in operation. With its headquarters in Warsaw, LOT has been a symbol of Polish pride and resilience in the aviation sector, navigating through various challenges while consistently expanding its network. Linking Poland to key destinations across Europe, North America, and Asia, the airline has played an instrumental role in promoting Polish culture, business, and tourism on the global stage. 
 
@@ -466,7 +450,7 @@ LOT Polish Airlines joined Star Alliance in October 2003.
 
 ---
 
-### Lufthansa {#lufthansa}
+### Lufthansa
 
 Lufthansa, officially known as Deutsche Lufthansa AG, was founded in 1953 and is the largest airline in Germany, playing a central role in European and global aviation. Headquartered in Cologne, Lufthansa is celebrated for its commitment to precision, innovation, and stellar in-flight services, solidifying its reputation as a leader in the aviation industry. Operating primarily from its hubs in Frankfurt and Munich, Lufthansa connects Germany to a multitude of international destinations, championing both the country's business interests and its rich cultural heritage. 
 
@@ -499,11 +483,9 @@ Lufthansa is set to introduce entirely new cabins in 2024, including Allegris Fi
 * [Lufthansa New Routes In 2023](https://blog.awardfares.com/lh-routes-2023/)
 * [Lufthansa's A350 Long-Haul Business Class (Avoid)](https://blog.awardfares.com/lufthansa-long-haul-business-a350/)
 
-
-
 ---
 
-### Singapore Airlines {#singapore}
+### Singapore Airlines
 
 **Known Issues with EuroBonus**: To our latest knowledge, these awards are not bookable at the moment (online nor via contact center), given that SAS and Singapore Airlines haven't been able to reach an agreement on the redemption terms.
 
@@ -532,11 +514,9 @@ Singapore Airlines became one of the founding members of Star Alliance when the 
 * [Singapore Airlines Partner Award Redemption Guide 2022](https://blog.awardfares.com/singapore-partner-redemptions/)
 * [Singapore Airlines Is Skytrax World's Best Airline In 2023. Here Are Our Favorite Routes.](https://blog.awardfares.com/singapore-skytrax-2023/)
 
-
-
 ---
 
-### South African Airways {#saa}
+### South African Airways
 
 South African Airways (SAA), established in 1934, serves as the national flag carrier of South Africa and has been a prominent symbol of the nation's presence in the global aviation landscape. Operating from its main hub in Johannesburg's O.R. Tambo International Airport, SAA has been instrumental in connecting the African continent with the world, underpinning its role with a commitment to excellence, safety, and world-renowned hospitality. The airline plays a pivotal role in fostering economic and tourism ties for the country, bridging South Africa with major global destinations. 
 
@@ -612,12 +592,11 @@ TAP Air Portugal joined Star Alliance in March 2005, cementing its commitment to
 * [Lisbon (LIS) to Luanda (LAD)](https://awardfares.com/search?LIS.LAD.;a:TP;z:sas): Serving as a crucial link between Portugal and Angola, this route has historical and economic significance.
 * [Lisbon (LIS) to Toronto (YYZ)](https://awardfares.com/search?LIS.YYZ.;a:TP;z:sas): Connecting Portugal with Canada, this route is popular among the large Portuguese diaspora in Toronto and those connecting onwards.
 
-
 ---
 
-### Thai Airways International
+### Thai Airways
 
-Thai Airways, established in 1960, stands as the flag carrier of Thailand, symbolizing the nation's warm hospitality and rich cultural heritage in the skies. Operating from its primary hub in Bangkok's Suvarnabhumi Airport, the airline is globally recognized for its exemplary service, refined in-flight experience, and the distinct Thai touch it brings to air travel. Over the years, Thai Airways has connected the Land of Smiles to numerous destinations worldwide, playing a crucial role in promoting tourism and trade. 
+Thai Airways, established in 1960, stands as the flag carrier of Thailand, symbolizing the nation's warm hospitality and rich cultural heritage in the skies. Operating from its primary hub in Bangkok's Suvarnabhumi Airport, the airline is globally recognized for its exemplary service, refined in-flight experience, and the distinct Thai touch it brings to air travel. Over the years, Thai Airways has connected the Land of Smiles to numerous destinations worldwide, playing a crucial role in promoting tourism and trade.
 
 Thai Airways became one of the founding members of Star Alliance when the alliance was inaugurated in May 1997, marking its commitment to international cooperation and enhanced passenger experiences.
 
@@ -627,7 +606,6 @@ Thai Airways became one of the founding members of Star Alliance when the allian
 
 *Image from Thai website.*
 
-
 **Suggested Routes**:
 
 * [Bangkok (BKK) to London (LHR)](https://awardfares.com/search?BKK.LHR.;a:TG;z:sas): One of Thai Airways' flagship routes, this offers a direct connection between Thailand's capital and one of Europe's primary hubs.
@@ -635,7 +613,6 @@ Thai Airways became one of the founding members of Star Alliance when the allian
 * [Bangkok (BKK) to Tokyo (HND/NRT)](https://awardfares.com/search?BKK.area:TYO.;a:TG;z:sas): Connecting two of Asia's major cities, this route is popular among both tourists and business travelers.
 * [Bangkok (BKK) to Zurich (ZRH)](https://awardfares.com/search?BKK.ZRH.;a:TG;z:sas): Another popular European destination, this route connects Thailand directly with Switzerland.
 * [Bangkok (BKK) to Frankfurt (FRA)](https://awardfares.com/search?BKK.FRA.;a:TG;z:sas): This key European link is frequented by business travelers and tourists alike.
-
 
 <img src="../assets/img/eurobonus-star-alliance-awards/thai-awards.webp" alt="Thai Airways award flights using SAS EuroBonus Points ." />
 
@@ -645,19 +622,17 @@ Thai Airways became one of the founding members of Star Alliance when the allian
 
 ---
 
-### Turkish Airlines {#turkish}
+### Turkish Airlines
 
 Turkish Airlines, established in 1933, is the national flag carrier of Turkey and operates from its hub at Istanbul Airport. Recognized for its vast network that spans continents, the airline seamlessly connects East and West, making it a central player in the global aviation landscape. Renowned for its exceptional in-flight service, diverse culinary offerings, and commitment to passenger comfort, Turkish Airlines has received numerous accolades over the years.
 
 Turkish Airlines became a member of Star Alliance in April 2008.
 
-
 **Best Cabins**: Target the Business Class on their Airbus A350 or their Boeing 777. Turkish's Business Class is known for its spacious layout, delectable onboard cuisine, and remarkable in-flight service, making it an exceptional experience for long-haul journeys
 
 <img src="../assets/img/eurobonus-star-alliance-awards/turkish-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Turkish Airlines." />
 
-*Image from Turksih Airlines website.*
-
+*Image from Turkish Airlines website.*
 
 **Suggested Routes**:
 
@@ -669,11 +644,11 @@ Turkish Airlines became a member of Star Alliance in April 2008.
 
 **More Posts**
 
-* [Booking Turkish Airlines Flights With SAS EuroBonus Points (Guide)
-](https://blog.awardfares.com/turkish-with-eurobonus/)
+* [Booking Turkish Airlines Flights With SAS EuroBonus Points (Guide)](https://blog.awardfares.com/turkish-with-eurobonus/)
+
 ---
 
-### United Airlines {#united}
+### United Airlines
 
 United Airlines, founded in 1926, is one of the major flag carriers of the United States with its headquarters in Chicago, Illinois. As one of the world's largest airlines, United plays a crucial role in connecting key domestic and international destinations, driven by its expansive fleet and comprehensive network. Over the decades, United has been at the forefront of numerous innovations in the aviation industry, consistently evolving to meet the changing needs of global travelers.
 
@@ -701,7 +676,7 @@ You can [try AwardFares for free](https://awardfares.com/). We are rolling out n
 
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when a certain route or flight gets opened, as well as check seat maps, flight schedules, and more.
 
-## Read more {#read-more}
+## Read more
 
 Make sure to also check these posts out
 
