@@ -42,7 +42,9 @@ Why it shines:
 
 <img src="../assets/img/ffp-2024/flyingblue.webp" style="max-width:150px;width:100%" align="right" alt="Air France-KLM Flying Blue." class="noborder"/>
 
-A rising star in European skies, [**Flying Blue**](https://www.flyingblue.us/en/home) stands out as a paragon of customer loyalty and rewards in the airline industry. Its strength lies in its vast network, encompassing not only Air France and KLM but also a wide array of partner airlines, offering extensive global reach to its members. The program's user-friendly interface and flexible options for spending miles, such as on flight upgrades, hotel stays, and car rentals, further enhance its appeal. Additionally, its regular promotions, like discounted award tickets, add exceptional value, making it a compelling choice for both frequent and occasional flyers.
+A rising star in European skies, [**Flying Blue**](https://www.flyingblue.us/en/home) stands out as a paragon of customer loyalty and rewards in the airline industry. Its strength lies in its vast network, encompassing not only Air France and KLM but also a wide array of partner airlines, offering extensive global reach to its members.
+
+The program's user-friendly interface and flexible options for spending miles, such as on flight upgrades, hotel stays, and car rentals, further enhance its appeal. Additionally, its regular promotions, like discounted award tickets, add exceptional value, making it a compelling choice for both frequent and occasional flyers.
 
 **Pro tip:** [Promo awards](https://www.flyingblue.com/en/spend/flights/rewards) show up in AwardFares! Our tools is the easiest way to explore Flying Blue's promo awards every month. [Give it a try here](https://awardfares.com/search?..;z:flyingblue).
 
@@ -77,7 +79,9 @@ Why it shines:
 
 <img src="../assets/img/ffp-2024/united.webp" style="max-width:150px;width:100%" align="right" alt="United MileagePlus Logo." class="noborder"/>
 
-A powerhouse for international travelers, [**United MileagePlus**](https://www.united.com/en/us/fly/mileageplus.html) offers a vast network and valuable upgrade options. This program boasts global reach and an impressive network of partners, including Star Alliance heavyweights like Lufthansa and Singapore Airlines. We'd say that MileagePlus serves all kinds of travelers, from beginners to advanced, and with diverse destinations in mind, especially those seeking long-haul upgrades to luxurious cabins.
+A powerhouse for international travelers, [**United MileagePlus**](https://www.united.com/en/us/fly/mileageplus.html) offers a vast network and valuable upgrade options. This program boasts global reach and an impressive network of partners, including Star Alliance heavyweights like Lufthansa and Singapore Airlines. 
+
+We'd say that MileagePlus serves all kinds of travelers, from beginners to advanced, and with diverse destinations in mind, especially those seeking long-haul upgrades to luxurious cabins.
 
 Why it shines:
 
