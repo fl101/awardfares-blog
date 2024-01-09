@@ -17,7 +17,7 @@ As a disclaimer, this list expresses AwardFares' team choices, and by no means i
 
 ### 1. SAS EuroBonus (Scandinavian Airlines)
 
-<img src="../assets/img/ffp-2024/eurobonus.webp" style="max-width:100px;width:100%" alt="SAS EuroBonus." class="noborder"/>
+<img src="../assets/img/ffp-2024/eurobonus.webp" style="max-width:150px;width:100%" align="left" alt="SAS EuroBonus." class="noborder"/>
 
 Still one of our favorites due to their high award availability and low devaluation of their points. SAS EuroBonus delivers a seamless travel experience across the Nordic region and beyond.
 
