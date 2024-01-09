@@ -11,7 +11,7 @@ sitemap: false
 
 As the world of air travel continues to evolve, 2024 positions ahead as yet-another year full of rapid changes. It might be a great time to re-think your strategy and consider venturing into new programs to get more value out of your miles. As it can be overwhelming to choose the one that best suits your travel needs and preferences, in this blog post we cover some of our favorite frequent flyer programs and why you should consider them for 2024.
 
-As a disclaimer, this list expresses AwardFares' team choices, and by no means is a comprehensive comparison of all programs that exists. The "best" frequent flyer program will depend on your individual travel habits and preferences. Consider factors such as your home airport, preferred airlines, and desired redemption options when choosing a program, as we did for this list.*
+As a disclaimer, this list expresses AwardFares' team choices, and by no means is a comprehensive comparison of all programs that exists. The "best" frequent flyer program will depend on your individual travel habits and preferences. Consider factors such as your home airport, preferred airlines, and desired redemption options when choosing a program, as we did for this list.
 
 ## Top Frequent Flyer Programs in 2024 (Our Picks)
 
