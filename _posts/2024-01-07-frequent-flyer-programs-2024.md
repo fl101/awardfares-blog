@@ -23,6 +23,8 @@ Still one of our favorites due to their high award availability and low devaluat
 
 While a [future shift to SkyTeam is pending](https://blog.awardfares.com/sas-acquisition), the program currently enjoys the benefits of Star Alliance, further expanding travel options. Overall, EuroBonus offers a rewarding and versatile experience for travelers of all types.
 
+**Pro tip:** Search for SAS EuroBonus awards using AwardFares. [Try here](https://awardfares.com/search?..;z:sas).
+
 Why it shines:
 
 * Great availability: Compared to other programs, SAS open a significant number of seats on every flight that you could book using points.
@@ -32,11 +34,16 @@ Why it shines:
 * Partners: Earn and redeem points on Star Alliance airlines, expanding your travel possibilities. We've tried many redemptions on EVA Air, ANA, Lufthansa, Austrian, Swiss, Copa, United, and more.
 * Target Region: Scandinavia and Europe, with worldwide reach through Star Alliance.
 
+<img src="../assets/img/ffp-2024/af-eurobonus.webp" alt="SAS EuroBonus Awards in AwardFares." class="noborder"/>
+
+
 ### 2. Air France-KLM Flying Blue
 
 <img src="../assets/img/ffp-2024/flyingblue.webp" style="max-width:150px;width:100%" align="right" alt="Air France-KLM Flying Blue." class="noborder"/>
 
 A rising star in European skies, [**Flying Blue**](https://www.flyingblue.us/en/home) stands out as a paragon of customer loyalty and rewards in the airline industry. Its strength lies in its vast network, encompassing not only Air France and KLM but also a wide array of partner airlines, offering extensive global reach to its members. The program's user-friendly interface and flexible options for spending miles, such as on flight upgrades, hotel stays, and car rentals, further enhance its appeal. Additionally, its regular promotions, like discounted award tickets, add exceptional value, making it a compelling choice for both frequent and occasional flyers.
+
+**Pro tip:** [Promo awards](https://www.flyingblue.com/en/spend/flights/rewards) show up in AwardFares! Our tools is the easiest way to explore Flying Blue's promo awards every month. [Give it a try here](https://awardfares.com/search?..;z:flyingblue).
 
 Why it shines:
 
@@ -45,6 +52,7 @@ Why it shines:
 * Flexible Reward Redemptions: Choose from award flights, upgrades, car rentals, hotel stays, and even merchandise, offering diverse options for spending your miles. Flying Blue's miles are quite flexible and let you use your points beyond flights easily. Value might not be the best, but it's straightforward.
 * Fast track to more miles: Earn miles on everyday purchases with co-branded credit cards and partner stores. Co-branded credit cards are available in several countries including France, Netherlands, Belgium, the US, and others.
 * Target Region: Europe, North America, and beyond with SkyTeam partners.
+
 
 ### 3. Alaska Airlines Mileage Plan
 
@@ -59,6 +67,8 @@ Why it shines:
 * Global reach: Access a vast network thanks to partners like Emirates, Japan Airlines, and Qantas. Alaska's array of partners is really interesting, full of opportunities for expert users.
 * Target region: Pacific Northwest, North America.
 
+<img src="../assets/img/ffp-2024/af-alaska.webp" alt="Alaska Mileage Plan Awards in AwardFares." class="noborder"/>
+
 ### 4. United MileagePlus
 
 <img src="../assets/img/ffp-2024/united.webp" style="max-width:150px;width:100%" align="right" alt="United MileagePlus Logo." class="noborder"/>
@@ -72,13 +82,17 @@ Why it shines:
 * Hub strength: Major hubs in Chicago, Newark, and San Francisco ease connections worldwide.
 * Target region: International travelers with a focus on Europe, Asia, and South America.
 
+<img src="../assets/img/ffp-2024/af-united.webp" alt="United MileagePlus Awards in AwardFares." class="noborder"/>
+
 ### 5. Air Canada Aeroplan
 
 <img src="../assets/img/ffp-2024/aeroplan.webp" style="max-width:150px;width:100%" align="right" alt="Air Canada Aeroplan Logo" class="noborder"/>
 
 Soaring to new heights in 2024, [**Air Canada's Aeroplan**](https://www.aircanada.com/ca/en/aco/home/aeroplan.html) takes its place as a top contender for Canadian travelers and beyond. Aeroplan has carved a niche for itself in the world of travel loyalty schemes. One of its standout strengths is its partnership with the Star Alliance network, granting members access to a vast array of airlines and destinations worldwide. This global reach is a significant advantage over many other programs, offering unparalleled flexibility in earning and redeeming points.
 
-Aeroplan's reward structure is particularly user-friendly, with a straightforward points system that allows for easy accumulation and redemption, including for upgrades and car rentals. Additionally, Aeroplan's integration with Air Canada's booking system allows for seamless award flight availability, making it easier for members to use their points effectively. 
+Aeroplan's reward structure is particularly user-friendly, with a straightforward points system that allows for easy accumulation and redemption, including for upgrades and car rentals. Additionally, Aeroplan's integration with Air Canada's booking system allows for seamless award flight availability, making it easier for members to use their points effectively.
+
+**Pro tip**: Aeroplan is a great program to search and book First Class cabins, such as Lufthansa First, [try searching with one click awards here](https://awardfares.com/search?..;z:aeroplan).
 
 Why it shines:
 
@@ -86,6 +100,8 @@ Why it shines:
 * Family-Friendly Perks: Enjoy generous benefits like free checked bags for the whole family, making travel more affordable.
 * Stopover Magic: Craft unique itineraries with the ability to add a stopover on round-trip award bookings, turning one trip into two adventures.
 * Target Region: Primarily Canada and North America, with extensive reach through Star Alliance partners.
+
+<img src="../assets/img/ffp-2024/af-aeroplan.webp" alt="Air Canada Aeroplan Awards in AwardFares." class="noborder"/>
 
 ### 6. American Airlines AAdvantage
 
@@ -100,6 +116,8 @@ Why it shines:
 * Flexible earning: Plenty of opportunities to earn miles on co-branded credit cards and everyday purchases.
 * Target region: Global network with strong presence in North America, Europe, and Asia.
 
+<img src="../assets/img/ffp-2024/af-aadvantage.webp" alt="American AAdvantage Award Flights in AwardFares." class="noborder"/>
+
 ### 7. Delta SkyMiles
 
 <img src="../assets/img/ffp-2024/delta.webp" style="max-width:150px;width:100%" align="right" alt="Delta SkyMiles" class="noborder"/>
@@ -112,6 +130,8 @@ Why it shines:
 * Qualification requirements: Starting 2024, earning top-tier status is more demanding on flights (and more on spending), potentially leading to fewer elite members and more benefits.
 * Extensive network: Fly Delta and partners like Air France-KLM, Virgin Atlantic, and Korean Air.
 * Target region: Global reach with a strong focus on North America and Europe.
+
+<img src="../assets/img/ffp-2024/af-skymiles.webp" alt="Delta SkyMiles Award Flights in AwardFares." class="noborder"/>
 
 ### 8. JetBlue True Blue
 
@@ -157,6 +177,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 * [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-* [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 * [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-* [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+* [Sky's (Almost) The Limit: Conquering First Class With Flying Blue](https://blog.awardfares.com/flying-blue-skyteam-first-class/)
+* [What To Do With 100k Delta SkyMiles? A 2024 Guide To Finding SkyMiles Sweet Spots](https://blog.awardfares.com/100k-skymiles/)
+* [What Airlines Have Changed Or Left Alliances? A History of Departures and Switches](https://blog.awardfares.com/airline-alliances-changes/)
