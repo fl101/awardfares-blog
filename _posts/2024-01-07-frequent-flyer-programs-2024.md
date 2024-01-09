@@ -148,23 +148,37 @@ Why it shines:
 * Bags Fly Free: Check your first bag for free on all JetBlue flights, saving you money on every trip.
 * Target Region: Domestic flights within the United States, the Caribbean, and select Latin American destinations.
 
-### Some other programs
+### Other programs worth looking into
 
-1. **Singapore Airlines KrisFlyer** (Asia-Pacific): Highly regarded for its excellent service and favorable redemption rates for premium cabins.
-2. **Cathay Pacific Asia Miles** (Asia-Pacific): Offers a good balance of earning and redemption options, especially within Asia.
-3. **EVA Air Infinity MileageLands** (Asia-Pacific): Provides generous mileage accrual and redemption options, particularly strong for travel in Asia and across the Pacific.
-4. **Emirates Skywards** (Middle East): Known for its luxurious flight options and good redemption opportunities, especially in premium classes.
-5. **Qatar Airways Privilege Club** (Middle East): Offers access to a wide network and is part of the Oneworld alliance.
-6. **Etihad Guest** (Middle East): Provides a range of benefits and has unique features like the ability to pool miles with family members.
-7. **GOL Smiles** (South America):
-8. **Avianca LifeMiles** (South America): Known for its good redemption rates, especially for Star Alliance flights.
-9. **LATAM Pass** (South America): Offers extensive coverage in South America and is part of the Oneworld alliance.
-10. **Aeromexico Club Premier** (South America): Part of the SkyTeam alliance, it offers good connectivity within Latin America and beyond.
-11.  **South African Airways Voyager** (Africa): Offers decent redemption options within Africa and is part of the Star Alliance.
-11. **Ethiopian Airlines ShebaMiles** (Africa): Good for travel within Africa and internationally, as part of the Star Alliance.
-12. **EgyptAir Plus** (Africa): Offers benefits for frequent travelers within the Middle East and Africa, and is a Star Alliance member.
-13. **Air New Zealand Airpoints** (Oceania): Offers good benefits for domestic and trans-Tasman flights.
-14. **Qantas Frequent Flyer** (Oceania): Also relevant in this region, especially for flights to and from Australia.
+#### Asia-Pacific
+
+* **Singapore Airlines KrisFlyer**: Highly regarded for its excellent service and favorable redemption rates for premium cabins
+* **Cathay Pacific Asia Miles**: Offers a good balance of earning and redemption options, especially within Asia.
+* **EVA Air Infinity MileageLands**: Provides generous mileage accrual and redemption options, particularly strong for travel in Asia and across the Pacific.
+
+#### Middle East
+
+* **Emirates Skywards**: Known for its luxurious flight options and good redemption opportunities, especially in premium classes
+* **Qatar Airways Privilege Club**: Offers access to a wide network and is part of the Oneworld alliance.
+* **Etihad Guest**: Provides a range of benefits and has unique features like the ability to pool miles with family members.
+
+#### South America
+
+* **Avianca LifeMiles**: Known for its good redemption rates, especially for Star Alliance flights.
+* **LATAM Pass**: Offers extensive coverage in South America and is part of the Oneworld alliance.
+* **Aeromexico Club Premier**: Part of the SkyTeam alliance, it offers good connectivity within Latin America and beyond.
+* * **GOL Smiles**
+
+#### Africa
+
+* **South African Airways Voyager**: Offers decent redemption options within Africa and is part of the Star Alliance.
+* **Ethiopian Airlines ShebaMiles**: Good for travel within Africa and internationally, as part of the Star Alliance.
+* **EgyptAir Plus**: Offers benefits for frequent travelers within the Middle East and Africa, and is a Star Alliance member.
+
+#### Oceania
+
+* **Air New Zealand Airpoints** (Oceania): Offers good benefits for domestic and trans-Tasman flights.
+* **Qantas Frequent Flyer** (Oceania): Also relevant in this region, especially for flights to and from Australia.
 
 ## Want more award travel intel?
 
