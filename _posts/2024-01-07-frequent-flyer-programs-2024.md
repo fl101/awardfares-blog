@@ -17,7 +17,7 @@ As a disclaimer, this list expresses AwardFares' team choices, and by no means i
 
 ### 1. SAS EuroBonus (Scandinavian Airlines)
 
-<img src="../assets/img/ffp-2024/eurobonus.webp" style="max-width:150px;width:100%" align="left" alt="SAS EuroBonus." class="noborder"/>
+<img src="../assets/img/ffp-2024/eurobonus.webp" style="max-width:150px;width:100%" align="right" alt="SAS EuroBonus." class="noborder"/>
 
 Still one of our favorites due to their high award availability and low devaluation of their points. SAS EuroBonus delivers a seamless travel experience across the Nordic region and beyond.
 
@@ -33,7 +33,7 @@ Why it shines:
 
 ### 2. Air France-KLM Flying Blue
 
-<img src="../assets/img/ffp-2024/flyingblue.webp" style="max-width:100px;width:100%" alt="Air France-KLM Flying Blue." class="noborder"/>
+<img src="../assets/img/ffp-2024/flyingblue.webp" style="max-width:150px;width:100%" align="right" alt="Air France-KLM Flying Blue." class="noborder"/>
 
 A rising star in European skies, Flying Blue offers flexibility and attractive perks for travelers venturing across the pond.
 
