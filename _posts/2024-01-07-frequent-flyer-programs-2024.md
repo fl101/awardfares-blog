@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Frequent Flyer Programs To Consider In 2024"
+title: "Top Frequent Flyer Programs To Consider In 2024 (Our Picks)"
 category: [Guide]
-tags: [Flying Blue, SAS EuroBonus, Alaska Mileage Plan,]
+tags: [Flying Blue, SAS EuroBonus, Alaska Mileage Plan, AAdvantage]
 author: Germán
 image: /assets/img/ffp-2024/cover.webp
 hidden: true
