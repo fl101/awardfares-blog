@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Flying Blue Award Search Now Available"
-category: [News]
-tags: [Flying Blue, Features]
+category: [News, Flying Blue]
+tags: [Features]
 author: Germán
 image: /assets/img/introducing-flying-blue/cover.webp
 ---

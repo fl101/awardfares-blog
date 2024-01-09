@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Sky's (Almost) The Limit: Conquering First Class With Flying Blue"
-category: [Guide]
-tags: [Flying Blue, First Class, SkyTeam]
+category: [Guide, Flying Blue]
+tags: [First Class, SkyTeam]
 author: Germán
 image: /assets/img/flying-blue-skyteam-first-class/cover.webp
 ---
