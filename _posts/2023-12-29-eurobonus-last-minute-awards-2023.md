@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Last-Minute EuroBonus Redemption Gems (For The Amex 2-for-1 Vouchers) [EXTENDED DEADLINE]"
-category: [Guide]
-tags: [SAS EuroBonus, Star Alliance]
+category: [Guide, SAS EuroBonus]
+tags: [SAS, Star Alliance]
 author: Germán
 image: /assets/img/eurobonus-last-minute-awards/cover.webp
 ---

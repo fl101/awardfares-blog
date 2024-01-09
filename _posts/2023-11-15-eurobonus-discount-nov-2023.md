@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "SAS EuroBonus Award Flights With 25% Discount (November 2023)"
-category: [News]
-tags: [SAS EuroBonus]
+category: [News, SAS EuroBonus]
+tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-discount-nov-2023/cover.webp
 ---
