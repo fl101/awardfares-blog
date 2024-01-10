@@ -89,7 +89,7 @@ Creating an account is optional, but it's also free, and it gives you access to 
 
 ### 2. Select your **Frequent Flyer Program**
 
-Tap on the **Loyalty Program** field and select your desired frequent flyer program. Use Flying Blue or Delta SkyMiles for China Eastern, and MileagePlus for Air China.
+Tap on the **Loyalty Program** field and select your desired frequent flyer program. Use Flying Blue or Delta SkyMiles for China Eastern, and MileagePlus or EuroBonus for Air China.
 
 <img src="../assets/img/comac-planes/ffp.webp" alt="Select Frequent Flyer Program in AwardFares." class="noborder"/>
 
