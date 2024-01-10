@@ -11,11 +11,22 @@ sitemap: false
 
 The skies are changing! Alongside established giants like Airbus and Boeing, new players are joining the game, and none are bigger than China's [COMAC](https://es.wikipedia.org/wiki/Comac). Their C919 and ARJ21-700 jets are poised to make waves in the aviation industry, and you, the savvy traveler, can be among the first to experience them. But how do you snag an award seat on these cutting-edge birds? This post is your roadmap to soaring in style on China's rising stars.
 
+### In This Post
+
+- [Meet the COMAC Fleet](#meet-the-comac-fleet)
+- [Booking COMAC Award Flights](#booking-comac-award-flights)
+- [Find COMAC Award Flights With AwardFares](#find-comac-award-flights-with-awardfares)
+- [Beyond Miles](#beyond-miles)
+- [Want more award travel intel?](#want-more-award-travel-intel)
+- [Read more](#read-more)
+
 ## Meet the COMAC Fleet
+
+COMAC's fleet currently reflects a company in transition. While their workhorse, the ARJ21 regional jet, boasts a modest but growing presence with airlines in China and beyond, the highly anticipated C919 narrow-body airliner remains in its infancy.
 
 ### C919
 
-C919: The C919 is COMAC's most prominent project, designed to compete with the Boeing 737 and Airbus A320, the workhorses of many global airlines. This narrow-body aircraft aims to serve the high-demand single-aisle market. It's designed to carry around 158 to 168 passengers with a range of approximately 4,075 to 5,555 kilometers, making it suitable for short to medium-haul flights.
+The C919 is COMAC's most prominent project, designed to compete with the Boeing 737 and Airbus A320, the workhorses of many global airlines. This narrow-body aircraft aims to serve the high-demand single-aisle market. It's designed to carry around 158 to 168 passengers with a range of approximately 4,075 to 5,555 kilometers, making it suitable for short to medium-haul flights.
 
 <img src="../assets/img/comac-planes/c919.webp" alt="COMAC C919." class="noborder"/>
 
@@ -44,9 +55,9 @@ COMAC is also believed to be working on other projects, including smaller region
 
 Now, the million-dollar question: how do you score an award seat on these beauties? While COMAC aircraft are relatively new, several frequent flyer programs offer exciting possibilities:
 
-* **Star Alliance**: Air China, the launch customer for the C919, is a Star Alliance member. Programs like United MileagePlus and Singapore Airlines KrisFlyer allow you to redeem miles for flights on Air China, potentially including the C919 in the future.
-* **SkyTeam**: China Eastern, another early adopter of the C919, belongs to SkyTeam. Delta SkyMiles and Air France-KLM Flying Blue are your gateways to booking award seats on China Eastern flights, potentially snagging you a Comac experience.
-* **Oneworld**: While no Chinese airlines currently fly the C919 within Oneworld, keep an eye on American AAdvantage and British Airways Avios. As COMAC expands its reach, partnerships with Oneworld airlines could blossom, opening up new award booking avenues.
+- **Star Alliance**: Air China, the launch customer for the C919, is a Star Alliance member. Programs like United MileagePlus and Singapore Airlines KrisFlyer allow you to redeem miles for flights on Air China, including the C919.
+- **SkyTeam**: China Eastern, another early adopter of the C919, belongs to SkyTeam. Delta SkyMiles and Air France-KLM Flying Blue are your gateways to booking award seats on China Eastern flights.
+- **Oneworld**: While no Chinese airlines currently fly the C919 within Oneworld, keep an eye on American AAdvantage and British Airways Avios. As COMAC expands its reach, partnerships with Oneworld airlines could blossom, opening up new award booking avenues.
   
 ## Find COMAC Award Flights With AwardFares
 
@@ -54,14 +65,14 @@ Now, the million-dollar question: how do you score an award seat on these beauti
 
 Since there are so few of these planes, it's essential that you are aware of the possible routes. Here are some of them:
 
-| Airline                     | Aircraft Type | Routes (Example)                |
+| Airline                     | Aircraft Type | Routes                          |
 |-----------------------------|---------------|---------------------------------|
 | Chengdu Airlines            | ARJ21-700     | Chengdu to Shanghai             |
 |                             |               | Chengdu to Beijing              |
 |                             |               | Chengdu to Guangzhou            |
 | China Eastern Airlines      | ARJ21-700     | Shanghai to Yantai              |
 |                             |               | Shanghai to Nanchang            |
-| China Eastern Airlines      | C919          | Shanghai to Beijing             |
+|                             | C919          | Shanghai to Beijing             |
 |                             |               | Shanghai to Guangzhou           |
 |                             |               | Shanghai to Shenzhen            |
 | Genghis Khan Airlines       | ARJ21-700     | Hohhot to Ulanhot               |
@@ -72,9 +83,61 @@ Since there are so few of these planes, it's essential that you are aware of the
 | China Southern Airlines (expected) | C919   | Guangzhou to Shanghai           |
 |                             |               | Guangzhou to Beijing            |
 
-### 1. Go to AwardFares (Check Availability)
+### 1. Go to [AwardFares](https://awardfares.com/signup)
 
-### 2.
+Creating an account is optional, but it's also free, and it gives you access to more features. Make sure to [sign up for one here](https://awardfares.com/signup).
+
+### 2. Select your **Frequent Flyer Program**
+
+Tap on the **Loyalty Program** field and select your desired frequent flyer program. Use Flying Blue or Delta SkyMiles for China Eastern, and MileagePlus for Air China. 
+
+<img src="../assets/img/comac-planes/ffp.webp" alt="Select Frequent Flyer Program in AwardFares." class="noborder"/>
+
+### 3. Add a Route
+
+Use the **Origin** and **Destination** fields to add the corresponding airports and search for flights operating that route.
+
+In the example below, we search for flights [between Shanghai and Chengdu](https://awardfares.com/search?SHA..;x:0;z:flyingblue).
+
+<img src="../assets/img/comac-planes/route.webp" alt="Finding award flights operated by COMAC planes using AwardFares." class="noborder"/>
+
+### 4. Filter by *Aircraft*
+
+It's possible to just display flights operated by COMAC planes. Tap on the *Equipment* filter and add Comac ARJ21-700 or Comac C919.
+
+<img src="../assets/img/comac-planes/equipment.webp" alt="Finding award flights operated by COMAC planes using AwardFares." class="noborder"/>
+
+Additionally, you tap on *Airline* and add a specific airline such as China Eastern, Air China etc.
+
+<img src="../assets/img/comac-planes/airline.webp" alt="Finding award flights operated by COMAC planes using AwardFares." class="noborder"/>
+
+### 4. Choose or explore dates
+
+If you have a particular date in mind, add it by tapping on the **Calendar** field.
+
+<img src="../assets/img/comac-planes/calendar.webp" alt="Finding award flights operated by COMAC planes using AwardFares." class="noborder"/>
+
+If you don't have a set date, you can take advantage of AwardFare's **Timeline View** to explore seat availability across different days. The Timeline View displays how many seats are available for each day of the week/month. The bars are color-coded, so it's easy to distinguish between cabin classes (Economy, Business, First). You can also trigger new searches by tapping the refresh icon underneath each day.
+
+Here are some example results when searching for flights on the C919
+
+<img src="../assets/img/comac-planes/sha-tfu-list.webp" alt="Finding award flights operated by COMAC planes using AwardFares." class="noborder"/>
+
+And some options for the ARJ21-700
+
+<img src="../assets/img/comac-planes/pek-inc.webp" alt="Finding award flights operated by COMAC planes using AwardFares." class="noborder"/>
+
+In addition, you can tap anywhere on the flight to display more details in an expanded view, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free versus occupied!
+
+<img src="../assets/img/comac-planes/sha-tfu-details.webp" alt="Finding award flights operated by COMAC planes using AwardFares." class="noborder"/>
+
+### 6. Book on the airline's website
+
+Once you have identified the flight(s) you want, tap on the **Book** button, and AwardFares will redirect you to Air France website, setting your query directly, so you don't have to redo the search. Simply login and complete the booking<sup>1</sup>.
+
+<img src="../assets/img/introducing-flying-blue/book.webp" alt="Go to Air France's website to book Flying Blue award flights." class="noborder"/>
+
+- *(1) Remember that AwardFares will never ask for the login credentials of your frequent flyer programs to work.*
 
 ## Beyond Miles
 
@@ -93,6 +156,6 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Award Flights On The A380: Airlines and Routes](https://blog.awardfares.com/a380-award-flights/)
+- [How To Book The New JAL Flagship A350 With Miles Or Points](https://blog.awardfares.com/jal-flagship-a350/)
+- [ANA 777 Liveries: How To Fly The Pokémon Jets And Other Spectacular Planes](https://blog.awardfares.com/ana-777-fleet/)
