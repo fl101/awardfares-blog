@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Book Award Flights on the Chinese COMAC Planes"
+title: "How To Book Award Flights On The Chinese COMAC Planes"
 category: [Guide]
 tags: []
 author: Germán
@@ -15,10 +15,10 @@ The skies are changing! Alongside established giants like Airbus and Boeing, new
 
 - [Meet the COMAC Fleet](#meet-the-comac-fleet)
 - [Booking COMAC Award Flights](#booking-comac-award-flights)
-- [Find COMAC Award Flights With AwardFares](#find-comac-award-flights-with-awardfares)
+- [Finding Availability With AwardFares](#finding-availability-with-awardfares)
 - [Beyond Miles](#beyond-miles)
-- [Want more award travel intel?](#want-more-award-travel-intel)
-- [Read more](#read-more)
+- [Want More Award Travel Intel?](#want-more-award-travel-intel)
+- [Read More](#read-more)
 
 ## Meet the COMAC Fleet
 
@@ -59,7 +59,7 @@ Now, the million-dollar question: how do you score an award seat on these beauti
 - **SkyTeam**: China Eastern, another early adopter of the C919, belongs to SkyTeam. Delta SkyMiles and Air France-KLM Flying Blue are your gateways to booking award seats on China Eastern flights.
 - **Oneworld**: While no Chinese airlines currently fly the C919 within Oneworld, keep an eye on American AAdvantage and British Airways Avios. As COMAC expands its reach, partnerships with Oneworld airlines could blossom, opening up new award booking avenues.
   
-## Find COMAC Award Flights With AwardFares
+## Finding Availability With AwardFares
 
 ### 0. Pre-step: Identify Routes
 
@@ -111,7 +111,7 @@ Additionally, you tap on *Airline* and add a specific airline such as China East
 
 <img src="../assets/img/comac-planes/airline.webp" alt="Finding award flights operated by COMAC planes using AwardFares." class="noborder"/>
 
-### 4. Choose or explore dates
+### 5. Choose or explore dates
 
 If you have a particular date in mind, add it by tapping on the **Calendar** field.
 
@@ -133,7 +133,7 @@ In addition, you can tap anywhere on the flight to display more details in an ex
 
 ### 6. Book on the airline's website
 
-Once you have identified the flight(s) you want, tap on the **Book** button, and AwardFares will redirect you to Air France website, setting your query directly, so you don't have to redo the search. Simply login and complete the booking<sup>1</sup>.
+Once you have identified the flight(s) you want, tap on the **Book** button, and AwardFares will redirect you to the airline France website, setting your query directly, so you don't have to redo the search. Simply login and complete the booking<sup>1</sup>.
 
 <img src="../assets/img/introducing-flying-blue/book.webp" alt="Go to Air France's website to book Flying Blue award flights." class="noborder"/>
 
@@ -145,13 +145,13 @@ Remember, award availability can be scarce, especially for new aircraft. Don't b
 
 Remember, this is just the beginning. As COMAC expands its reach and partnerships, the possibilities for booking award flights on their planes will only grow.
 
-## Want more award travel intel?
+## Want More Award Travel Intel?
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
 With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-## Read more
+## Read More
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
