@@ -9,18 +9,18 @@ hidden: true
 sitemap: false
 ---
 
-The skies are changing! Alongside established giants like Airbus and Boeing, new players are joining the game, and none are bigger than China's [COMAC](https://es.wikipedia.org/wiki/Comac). Their C919 and ARJ21-700 jets are poised to make waves in the aviation industry, and you, the savvy traveler, can be among the first to experience them. But how do you snag an award seat on these cutting-edge birds? This post is your roadmap to soaring in style on China's rising stars.
+The skies are changing! Alongside established giants like Airbus and Boeing, new players are joining the game, and none are bigger than China's [COMAC](https://es.wikipedia.org/wiki/Comac). Their C919 and ARJ21-700 jets are poised to make waves in the aviation industry, and yes, you can be among the first to experience them. But how do you snag an award seat on these cutting-edge birds? This post is a roadmap to surfing on China's rising stars, and how to redeem miles for flights on these planes.
 
 ### In This Post
 
-- [Meet the COMAC Fleet](#meet-the-comac-fleet)
+- [Meet The COMAC Fleet](#meet-the-comac-fleet)
 - [Booking COMAC Award Flights](#booking-comac-award-flights)
 - [Finding Availability With AwardFares](#finding-availability-with-awardfares)
 - [Beyond Miles](#beyond-miles)
 - [Want More Award Travel Intel?](#want-more-award-travel-intel)
 - [Read More](#read-more)
 
-## Meet the COMAC Fleet
+## Meet The COMAC Fleet
 
 COMAC's fleet currently reflects a company in transition. While their workhorse, the ARJ21 regional jet, boasts a modest but growing presence with airlines in China and beyond, the highly anticipated C919 narrow-body airliner remains in its infancy.
 
@@ -55,7 +55,7 @@ COMAC is also believed to be working on other projects, including smaller region
 
 Now, the million-dollar question: how do you score an award seat on these beauties? While COMAC aircraft are relatively new, several frequent flyer programs offer exciting possibilities:
 
-- **Star Alliance**: Air China, the launch customer for the C919, is a Star Alliance member. Programs like United MileagePlus and Singapore Airlines KrisFlyer allow you to redeem miles for flights on Air China, including the C919.
+- **Star Alliance**: Air China, the launch customer for the C919, is a Star Alliance member. Programs like SAS EuroBonus, United MileagePlus and Singapore Airlines KrisFlyer allow you to redeem miles for flights on Air China, including the C919.
 - **SkyTeam**: China Eastern, another early adopter of the C919, belongs to SkyTeam. Delta SkyMiles and Air France-KLM Flying Blue are your gateways to booking award seats on China Eastern flights.
 - **Oneworld**: While no Chinese airlines currently fly the C919 within Oneworld, keep an eye on American AAdvantage and British Airways Avios. As COMAC expands its reach, partnerships with Oneworld airlines could blossom, opening up new award booking avenues.
   
@@ -89,7 +89,7 @@ Creating an account is optional, but it's also free, and it gives you access to 
 
 ### 2. Select your **Frequent Flyer Program**
 
-Tap on the **Loyalty Program** field and select your desired frequent flyer program. Use Flying Blue or Delta SkyMiles for China Eastern, and MileagePlus for Air China. 
+Tap on the **Loyalty Program** field and select your desired frequent flyer program. Use Flying Blue or Delta SkyMiles for China Eastern, and MileagePlus for Air China.
 
 <img src="../assets/img/comac-planes/ffp.webp" alt="Select Frequent Flyer Program in AwardFares." class="noborder"/>
 
