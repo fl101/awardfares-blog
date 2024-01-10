@@ -5,8 +5,6 @@ category: [Guide]
 tags: [Flying Blue, SAS EuroBonus, Alaska Mileage Plan, AAdvantage]
 author: Germán
 image: /assets/img/ffp-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
 As the world of air travel continues to evolve, 2024 positions ahead as yet-another year full of rapid changes. It might be a great time to re-think your strategy and consider venturing into new programs to get more value out of your miles. As it can be overwhelming to choose the one that best suits your travel needs and preferences, in this blog post we cover some of our favorite frequent flyer programs and why you should consider them for 2024.
