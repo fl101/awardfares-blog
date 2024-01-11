@@ -25,7 +25,7 @@ First things first, let's talk about age. Airlines have specific policies for in
 
 | Airline | Lap Infants (Under 2) | Children (2-11) | Teens (12+) |
 |---|---|---|---|
-| SAS EuroBonus | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat (sometimes 75% on partners) | Full adult cost |
+| SAS EuroBonus | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat (on SAS flights). No discount on Star Alliance Partners | Full adult cost |
 | AAdvantage | Free, no seat, 1 free bag/stroller | 75% of adult cost, own seat (sometimes 100% on partners) | Full adult cost |
 | United MileagePlus | Free, no seat, 1 free bag/stroller | 75% of adult cost, own seat (exceptions may apply) | Full adult cost |
 | Alaska MileagePlan | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat (sometimes 75% on partners) | Full adult cost |
