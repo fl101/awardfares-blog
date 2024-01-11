@@ -19,7 +19,7 @@ Read more here:
 
 <a href=”https://blog.awardfares.com/sas-eurobonus-conscious-traveler/“><img src="../assets/img/eurobonus-updates-jan-2024/eb-conscious-traveler.webp" style="max-width:600px;width:100%" alt="SAS EuroBonus Conscious Traveler." class="noborder"/></a>
 
-### 2. SAS Amex Elite Goes Metal (Redesign)
+### 2. SAS Amex Elite Goes Metal And Increases Fees
 
 **Card Design & Renewal**: Starting March 14, 2024, the SAS Amex Elite card will boast a stunning precision cut metal design. If your next renewal falls after that date, you'll automatically receive the new card.
 
