@@ -60,7 +60,7 @@ Read more here:
 
 <a href=”https://blog.awardfares.com/sas-summer-2024/“><img src="../assets/img/eurobonus-updates-jan-2024/sas-summer-routes.webp" style="max-width:600px;width:100%" alt="SAS Opens 9 New Routes During Summer 2024." class="noborder"/></a>
 
-### Try the SAS A350 Business Class Between Copenhagen and Stockholm
+### 6. Try the SAS A350 Business Class Between Copenhagen and Stockholm
 
 SAS is offering A350 business class flights between Copenhagen and Stockholm until February 2024. The flights are available on Fridays and can be booked using SAS EuroBonus points. Prices start at 10,000 points for Economy and 15,000 points for Business/Plus. To book, search for SAS A350 flights on AwardFares.
 
