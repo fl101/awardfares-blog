@@ -15,11 +15,9 @@ Scandinavian Airlines (SAS) has rolled out several updates and changes that are 
 
 In an effort to align with global sustainability goals, SAS has introduced the 'EuroBonus Conscious Traveler' initiative. Earn points for opting for biofuel flights, choosing eco-friendly partners, and even incorporating green habits into your daily life. This gamified initiative promotes sustainable travel, inspires others to follow suit, and positions SAS as a leader in eco-conscious aviation.
 
-Read more here:
+Read more [in this post](https://blog.awardfares.com/sas-eurobonus-conscious-traveler/).
 
-<a href=”https://blog.awardfares.com/sas-eurobonus-conscious-traveler/“ target="_blank">
-    <img src="../assets/img/eurobonus-updates-jan-2024/eb-conscious-traveler.webp" style="max-width:400px;width:100%" alt="SAS EuroBonus Conscious Traveler." class="noborder"/>
-</a>
+<img src="../assets/img/eurobonus-updates-jan-2024/eb-conscious-traveler.webp" style="max-width:400px;width:100%" alt="SAS EuroBonus Conscious Traveler." class="noborder"/>
 
 ### 2. SAS Amex Elite Goes Metal And Increases Fees
 
@@ -48,9 +46,9 @@ The SAS Mastercard has introduced new changes in its terms and conditions regard
 
 After long queues at the SAS Service Center Before Dec 31st, 2023, SAS and Amex decided to extend the deadline for using the popular Amex 2-for-1 vouchers (or companion tickets). Members now have until January 31st, 2024, to utilize these vouchers. This extension provides a fantastic opportunity for EuroBonus members to plan trips with a companion while enjoying significant savings.
 
-Read more on our dedicated post here:
+Read more [on our dedicated post here](https://blog.awardfares.com/eurobonus-last-minute-awards-2023/).
 
-<a href=”https://blog.awardfares.com/eurobonus-last-minute-awards-2023/“><img src="../assets/img/eurobonus-updates-jan-2024/amex-vouchers.webp" style="max-width:600px;width:100%" alt="SAS Amex 2 for 1 Vouchers Deadline Extended." class="noborder"/></a>
+<img src="../assets/img/eurobonus-updates-jan-2024/amex-vouchers.webp" style="max-width:400px;width:100%" alt="SAS Amex 2 for 1 Vouchers Deadline Extended." class="noborder"/>
 
 ### 5. SAS Opens 9 New Routes During Summer 2024
 
@@ -58,15 +56,17 @@ Scandinavian Airlines (SAS) is gearing up for a busy summer season with nine new
 
 Domestic travelers haven't been forgotten, with SAS increasing frequencies on routes from Stockholm to various Swedish destinations, Copenhagen to Bergen, and Oslo to Aalborg and Billund. So whether you're looking for a taste of the Arctic in Tromsø, the Mediterranean charm of Genoa, or the summer buzz of Ibiza, SAS has a new route for you this summer.
 
-Read more here:
+[Read more here](https://blog.awardfares.com/sas-summer-2024/).
 
-<a href=”https://blog.awardfares.com/sas-summer-2024/“><img src="../assets/img/eurobonus-updates-jan-2024/sas-summer-routes.webp" style="max-width:600px;width:100%" alt="SAS Opens 9 New Routes During Summer 2024." class="noborder"/></a>
+<img src="../assets/img/eurobonus-updates-jan-2024/sas-summer-routes.webp" style="max-width:400px;width:100%" alt="SAS Opens 9 New Routes During Summer 2024." class="noborder"/>
 
 ### 6. Try the SAS A350 Business Class Between Copenhagen and Stockholm
 
 SAS is offering A350 business class flights between Copenhagen and Stockholm until February 2024. The flights are available on Fridays and can be booked using SAS EuroBonus points. Prices start at 10,000 points for Economy and 15,000 points for Business/Plus. To book, search for SAS A350 flights on AwardFares.
 
-<a href=”https://blog.awardfares.com/sas-summer-2024/“><img src="../assets/img/eurobonus-updates-jan-2024/sas-a350.webp" style="max-width:600px;width:100%" alt="Booking Award Flights with Children." class="noborder"/></a>
+[Read more here](https://blog.awardfares.com/sas-summer-2024/).
+
+<img src="../assets/img/eurobonus-updates-jan-2024/sas-a350.webp" style="max-width:400px;width:100%" alt="Booking Award Flights with Children." class="noborder"/>
 
 ## Want More Award Travel Intel?
 
