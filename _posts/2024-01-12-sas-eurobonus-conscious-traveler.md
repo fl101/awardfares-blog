@@ -9,7 +9,7 @@ hidden: true
 sitemap: false
 ---
 
-In response to growing environmental concerns, Scandinavian Airlines (SAS) has revamped its EuroBonus program, aligning it with sustainable travel practices. This initiative is called [**EuroBonus Conscious Traveler**](https://www.flysas.com/en/eurobonus/conscious-traveler/), is set to launch in January 2024, and it represents a significant shift in the airline's approach, moving beyond traditional loyalty programs to embrace environmental responsibility.
+In response to growing environmental concerns, Scandinavian Airlines (SAS) has revamped its EuroBonus program, aligning it with sustainable travel practices. This initiative is called [**EuroBonus Conscious Traveler** (read more here)](https://www.flysas.com/en/eurobonus/conscious-traveler/), is set to launch in January 2024, and it represents a significant shift in the airline's approach, moving beyond traditional loyalty programs to embrace environmental responsibility.
 
 With this movement, SAS not only rewards its customers but also contributes to the global effort to address climate change. As the program evolves, it is expected to inspire both travelers and other companies to consider the environmental implications of their travel choices, fostering a more sustainable future.
 
@@ -17,7 +17,17 @@ With this movement, SAS not only rewards its customers but also contributes to t
 
 ## The Genesis of EuroBonus Conscious Traveler
 
-SAS, known for its innovative approaches in the aviation sector, recognized the growing concern among its passengers about the environmental impact of air travel. The EuroBonus program, initially a loyalty scheme, has evolved into a platform that encourages and rewards sustainable travel choices. This transformation aligns with SAS's broader goal of reducing its carbon footprint and promoting eco-friendly travel habits.
+SAS, the Scandinavian airline, has been actively working towards a more sustainable future for the aviation industry for over a decade. Here are some of their key achievements:
+
+* **25% emissions reduction by 2025**: SAS has set an ambitious target of reducing its CO2 emissions by 25% by 2025, compared to 2005 levels. This is a significant goal, considering the challenges of reducing emissions in the aviation sector.
+* **Modern and fuel-efficient aircraft**: SAS is investing in a fleet of modern and fuel-efficient aircraft, such as the Airbus A350 and A320neo. These aircraft are significantly more fuel-efficient than older models, helping to reduce emissions.
+* **Sustainable aviation fuels (SAFs)**: SAS is actively using SAFs, which are made from renewable sources such as biomass and waste. While SAFs are currently more expensive than traditional jet fuel, their use can significantly reduce emissions.
+* **Waste reduction and recycling**: In 2022, they diverted 68.3% of operational waste and a staggering 99.9% of construction waste from landfills globally.
+* **Renewable energy**: SAS is investing in renewable energy sources, such as solar and wind power. They generated 3.4 million kWh of clean, renewable energy from rooftop and ground-mounted solar systems in 2022.
+* **Sustainable products and services**: SAS is offering more sustainable options to its customers, such as carbon-offsetting programs and eco-friendly meal choices.
+* **Community engagement**: SAS is actively engaged in various sustainability initiatives, such as supporting research into new technologies and working with communities to reduce their environmental impact.
+
+Now the EuroBonus program, initially a loyalty scheme, has evolved into a platform that encourages and rewards sustainable travel choices.
 
 ## How The Program Works
 
@@ -32,10 +42,10 @@ The EuroBonus Conscious Traveler initiative is intelligently designed (and gamif
 
 ### What To Do
 
-1. Sign up for SAS EuroBonus
-2. Complete ten or more of the steps listed below during a year (make sure to provide your EuroBonus number when completing a step)
-3. Pride yourself on being a Conscious Traveler and collect your rewards. And feel free to keep going beyond 10, every step counts!
-4. Repeat steps 2-3 again during next year to keep your title and claim new rewards.
+1. Sign up for SAS EuroBonus (if you are not already a member)
+2. Complete TEN or more of the steps listed below during a year (make sure to provide your EuroBonus number when completing a step)
+3. Collect your rewards. It's possible to achieve beyond 10 steps (all of them are counted).
+4. Repeat steps 2-3 again during the following year to keep your title and claim new rewards.
 
 <img src="../assets/img/eurobonus-conscious-traveler/steps.webp" alt="SAS EuroBonus Conscious Traveler Initiative (Set To Launch in Early 2024)." class="noborder"/>
 
@@ -75,11 +85,11 @@ Upon completing the 10 required steps, participants will maintain their Consciou
 
 The method of counting Conscious Steps varies based on the activity:
 
-- Learning about Biofuel: Watching the educational video on biofuel in the Conscious Traveler profile earns one step, with a maximum of one step per calendar year for this activity.
-- Flying with Biofuel: Each flight segment flown on a Go Smart Bio or Plus Pro Bio ticket earns one step. For instance, a journey from Oslo to Paris via Copenhagen on a Bio ticket would earn two steps. It's important to include the EuroBonus number in the booking.
-- Adding Biofuel as a Travel Extra: Adding biofuel to a trip earns one step per booking, regardless of the amount of biofuel added.
-- Donating Points to Charities: Steps are earned based on the amount of points donated, with specific thresholds outlined in the program details.
-- Purchasing Conscious Products: Each purchase of a Conscious Product from the EuroBonus Webshop earns one step, with the step counted up to 35 days post-purchase.
+* Learning about Biofuel: Watching the educational video on biofuel in the Conscious Traveler profile earns one step, with a maximum of one step per calendar year for this activity.
+* Flying with Biofuel: Each flight segment flown on a Go Smart Bio or Plus Pro Bio ticket earns one step. For instance, a journey from Oslo to Paris via Copenhagen on a Bio ticket would earn two steps. It's important to include the EuroBonus number in the booking.
+* Adding Biofuel as a Travel Extra: Adding biofuel to a trip earns one step per booking, regardless of the amount of biofuel added.
+* Donating Points to Charities: Steps are earned based on the amount of points donated, with specific thresholds outlined in the program details.
+* Purchasing Conscious Products: Each purchase of a Conscious Product from the EuroBonus Webshop earns one step, with the step counted up to 35 days post-purchase.
 
 ### Timing for Step Recognition in Profile
 
@@ -87,9 +97,9 @@ Steps are recognized based on the date of completion, not when they are recorded
 
 ### Retroactive Registration of Conscious Steps
 
-- Flying with Biofuel: Retroactive registration for EuroBonus points, and consequently Conscious Traveler steps, is possible up to six months post-trip if the EuroBonus number was not added at departure. This may take up to three weeks to reflect in the account.
-- Adding Biofuel as a Travel Extra: No retroactive registration is available for this step.
-- Other Steps: These require logging into the EuroBonus account to be completed.
+* Flying with Biofuel: Retroactive registration for EuroBonus points, and consequently Conscious Traveler steps, is possible up to six months post-trip if the EuroBonus number was not added at departure. This may take up to three weeks to reflect in the account.
+* Adding Biofuel as a Travel Extra: No retroactive registration is available for this step.
+* Other Steps: These require logging into the EuroBonus account to be completed.
 
 ### Processing Steps Across Calendar Years
 
@@ -109,7 +119,8 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
+- [5 EuroBonus Updates You Should Be Aware Of (January 2024)](https://blog.awardfares.com/eurobonus-updates-jan-2024/)
+- [Last-Minute EuroBonus Redemption Gems (For The Amex 2-for-1 Vouchers) [EXTENDED DEADLINE]](https://blog.awardfares.com/eurobonus-last-minute-awards-2023/)
+- [SAS Will Fly To 9 New Destinations During Summer 2024](https://blog.awardfares.com/sas-summer-2024/)
+- [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
