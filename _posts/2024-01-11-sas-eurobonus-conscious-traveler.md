@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "SAS EuroBonus Conscious Traveler Takes Off In 2024: Greener Flying, Greater Rewards"
-category: [Guide]
-tags: []
+category: [SAS EuroBonus]
+tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-conscious-traveler/cover.webp
-hidden: true
-sitemap: false
 ---
 
 In response to growing environmental concerns, Scandinavian Airlines (SAS) has revamped its EuroBonus program, aligning it with sustainable travel practices. This initiative is called [**EuroBonus Conscious Traveler** (read more here)](https://www.flysas.com/en/eurobonus/conscious-traveler/), is set to launch in January 2024, and it represents a significant shift in the airline's approach, moving beyond traditional loyalty programs to embrace environmental responsibility.

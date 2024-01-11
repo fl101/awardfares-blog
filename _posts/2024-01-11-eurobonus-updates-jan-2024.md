@@ -5,8 +5,6 @@ category: [News, SAS EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-jan-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Scandinavian Airlines (SAS) has rolled out several updates and changes that are set to enhance the travel experience for its members. From eco-conscious initiatives to exciting new routes, here are the top SAS EuroBonus updates you should be aware of in January 2024.
