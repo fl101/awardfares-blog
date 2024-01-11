@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 SAS Eurobonus Updates You Should Be Aware Of (January 2024)"
+title: "6 SAS Eurobonus Updates You Should Be Aware Of (January 2024)"
 category: [News, SAS EuroBonus]
 tags: [SAS]
 author: Germán
@@ -9,7 +9,7 @@ hidden: true
 sitemap: false
 ---
 
-Scandinavian Airlines (SAS) has rolled out several updates and changes that are set to enhance the travel experience for its members. From eco-conscious initiatives to exciting new routes, here are the top five SAS EuroBonus updates you should be aware of in January 2024.
+Scandinavian Airlines (SAS) has rolled out several updates and changes that are set to enhance the travel experience for its members. From eco-conscious initiatives to exciting new routes, here are the top SAS EuroBonus updates you should be aware of in January 2024.
 
 ### 1. The SAS EuroBonus Conscious Traveler
 
@@ -17,9 +17,7 @@ In an effort to align with global sustainability goals, SAS has introduced the '
 
 Read more here:
 
-<a href=”https://blog.awardfares.com/sas-eurobonus-conscious-traveler/“>
-<img src="../assets/img/eurobonus-updates-jan-2024/eb-conscious-traveler.webp" style="max-width:600px;width:100%" alt="SAS EuroBonus Conscious Traveler." class="noborder"/>
-</a>
+<a href=”https://blog.awardfares.com/sas-eurobonus-conscious-traveler/“><img src="../assets/img/eurobonus-updates-jan-2024/eb-conscious-traveler.webp" style="max-width:600px;width:100%" alt="SAS EuroBonus Conscious Traveler." class="noborder"/></a>
 
 ### 2. SAS Amex Elite Goes Metal (Redesign)
 
@@ -50,9 +48,7 @@ After long queues at the SAS Service Center Before Dec 31st, 2023, SAS and Amex 
 
 Read more on our dedicated post here:
 
-<a href=”https://blog.awardfares.com/eurobonus-last-minute-awards-2023/“>
-<img src="../assets/img/eurobonus-updates-jan-2024/amex-vouchers.webp" style="max-width:600px;width:100%" alt="SAS Amex 2 for 1 Vouchers Deadline Extended." class="noborder"/>
-</a>
+<a href=”https://blog.awardfares.com/eurobonus-last-minute-awards-2023/“><img src="../assets/img/eurobonus-updates-jan-2024/amex-vouchers.webp" style="max-width:600px;width:100%" alt="SAS Amex 2 for 1 Vouchers Deadline Extended." class="noborder"/></a>
 
 ### 5. SAS Opens 9 New Routes During Summer 2024
 
@@ -62,17 +58,13 @@ Domestic travelers haven't been forgotten, with SAS increasing frequencies on ro
 
 Read more here:
 
-<a href=”https://blog.awardfares.com/sas-summer-2024/“>
-<img src="../assets/img/eurobonus-updates-jan-2024/sas-summer-routes.webp" style="max-width:600px;width:100%" alt="SAS Opens 9 New Routes During Summer 2024." class="noborder"/>
-</a>
+<a href=”https://blog.awardfares.com/sas-summer-2024/“><img src="../assets/img/eurobonus-updates-jan-2024/sas-summer-routes.webp" style="max-width:600px;width:100%" alt="SAS Opens 9 New Routes During Summer 2024." class="noborder"/></a>
 
 ### Try the SAS A350 Business Class Between Copenhagen and Stockholm
 
 SAS is offering A350 business class flights between Copenhagen and Stockholm until February 2024. The flights are available on Fridays and can be booked using SAS EuroBonus points. Prices start at 10,000 points for Economy and 15,000 points for Business/Plus. To book, search for SAS A350 flights on AwardFares.
 
-<a href=”https://blog.awardfares.com/sas-summer-2024/“>
-<img src="../assets/img/eurobonus-updates-jan-2024/sas-a350.webp" style="max-width:600px;width:100%" alt="Booking Award Flights with Children." class="noborder"/>
-</a>
+<a href=”https://blog.awardfares.com/sas-summer-2024/“><img src="../assets/img/eurobonus-updates-jan-2024/sas-a350.webp" style="max-width:600px;width:100%" alt="Booking Award Flights with Children." class="noborder"/></a>
 
 ## Want More Award Travel Intel?
 
