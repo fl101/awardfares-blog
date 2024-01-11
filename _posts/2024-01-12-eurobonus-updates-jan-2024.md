@@ -17,7 +17,9 @@ In an effort to align with global sustainability goals, SAS has introduced the '
 
 Read more here:
 
-<a href=”https://blog.awardfares.com/sas-eurobonus-conscious-traveler/“><img src="../assets/img/eurobonus-updates-jan-2024/eb-conscious-traveler.webp" style="max-width:600px;width:100%" alt="SAS EuroBonus Conscious Traveler." class="noborder"/></a>
+<a href=”https://blog.awardfares.com/sas-eurobonus-conscious-traveler/“ target="_blank">
+    <img src="../assets/img/eurobonus-updates-jan-2024/eb-conscious-traveler.webp" style="max-width:400px;width:100%" alt="SAS EuroBonus Conscious Traveler." class="noborder"/>
+</a>
 
 ### 2. SAS Amex Elite Goes Metal And Increases Fees
 
