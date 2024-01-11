@@ -64,7 +64,7 @@ Domestic travelers haven't been forgotten, with SAS increasing frequencies on ro
 
 SAS is offering A350 business class flights between Copenhagen and Stockholm until February 2024. The flights are available on Fridays and can be booked using SAS EuroBonus points. Prices start at 10,000 points for Economy and 15,000 points for Business/Plus. To book, search for SAS A350 flights on AwardFares.
 
-[Read more here](https://blog.awardfares.com/sas-summer-2024/).
+[Read more here](https://blog.awardfares.com/sas-a350-arn-cph/).
 
 <img src="../assets/img/eurobonus-updates-jan-2024/sas-a350.webp" style="max-width:400px;width:100%" alt="Booking Award Flights with Children." class="noborder"/>
 
