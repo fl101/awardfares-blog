@@ -4,7 +4,7 @@ title: A review of China Railways High Speed Train Business Class Shanghai-Shenz
 category: [Trip Report]
 tags: [Review, Business, China Railways]
 author: Richard
-image: /assets/img/temp.png
+image: /assets/img/china-rail-high-speed-train/cover.jpeg
 hidden: true
 sitemap: false
 ---
