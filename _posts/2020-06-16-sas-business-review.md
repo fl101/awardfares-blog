@@ -79,7 +79,7 @@ SAS Business is the premium product I've flown the most over the years, it was a
 <a href="/assets/img/sas-business/norway2.jpeg"><img src="/assets/img/sas-business/norway2.jpeg" class="half"/></a>
 </figure>
 
-And finally, a great perk for flying from Norway is the beautiful wintery landscapes you get to see right after take off and the Norwegian fiords.
+And finally, a great perk for flying from Norway is the beautiful wintery landscapes you get to see right after take off and the Norwegian fjords.
 
 <script type="application/ld+json">
 {
