@@ -5,8 +5,6 @@ category: [Guide]
 tags: []
 author: Germán
 image: /assets/img/award-flights-with-kids/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Traveling with kids can be magical, but when it comes to booking flights, the magic can quickly fade into a stressful scramble. Flying with little ones throws a unique curveball. From age-specific policies to luggage logistics, navigating award flights with children requires a different kind of packing list (and time in front of your member dashboard).
