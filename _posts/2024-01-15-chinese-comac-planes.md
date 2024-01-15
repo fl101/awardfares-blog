@@ -2,11 +2,9 @@
 layout: post
 title: "How To Book Award Flights On The Chinese COMAC Planes"
 category: [Guide]
-tags: [Flying Blue, Delta SkyMiles, ]
+tags: []
 author: Germán
 image: /assets/img/comac-planes/cover.webp
-hidden: true
-sitemap: false
 ---
 
 The skies are changing! Alongside established giants like Airbus and Boeing, new players are joining the game, and none are bigger than China's [COMAC](https://es.wikipedia.org/wiki/Comac). Their C919 and ARJ21-700 jets are poised to make waves in the aviation industry, and yes, you can be among the first to experience them. But how do you snag an award seat on these cutting-edge birds? This post is a roadmap to surfing on China's rising stars, and how to redeem miles for flights on these planes.
