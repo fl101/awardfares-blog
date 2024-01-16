@@ -11,14 +11,14 @@ Waking up to more exciting news for SAS travelers and EuroBonus lovers! Scandina
 
 The flight schedule for the Copenhagen-Atlanta route will feature daily services with an Airbus A330 during the summer program and a slightly reduced frequency of five weekly flights with an Airbus A350 during the winter program.
 
-#### Schedule in Summer Program: Daily with Airbus A330
+#### Schedule in Summer: Daily with Airbus A330
 
 | Flight No. | Departure | STD    | Arrival | STA        |
 |------------|-----------|--------|---------|------------|
 | SK929      | CPH       | 13:10  | ATL     | 17:10      |
 | SK930      | ATL       | 19:00  | CPH     | 10:20 (+1) |
 
-#### Schedule in Winter Program: 5 Weekly with Airbus A350 (Mon, Wed, Fri, Sat, Sun)
+#### Schedule in Winter: 5 Weekly with Airbus A350 (Mon, Wed, Fri, Sat, Sun)
 
 | Flight No. | Departure | STD    | Arrival | STA        |
 |------------|-----------|--------|---------|------------|
