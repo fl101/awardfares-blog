@@ -66,7 +66,7 @@ From Copenhagen to Atlanta:
 From Atlanta to Copenhagen:
 
 * **Loyalty Program**: SAS EuroBonus
-* * **Origin**: Copenhagen (CPH)
+* **Origin**: Copenhagen (CPH)
 * **Destination**: Atlanta (ATL)
 * **Departure Date**: Pick your desired date starting June 17th.
 * **Wide Search**: Choose *Yes* if you have flexibility with the days you'd like to travel.
@@ -82,7 +82,7 @@ The upcoming summer program will see SAS serving a diverse range of destinations
 SAS has been actively expanding its global connectivity. In early June 2023, the airline signed a codeshare agreement with EL AL Israel Airlines, which became effective in February. Another significant partnership was with Etihad Airways in October. These codeshare agreements enhance passenger connectivity, providing access to a wide range of destinations worldwide. SAS now boasts 18 such agreements with various carriers globally.
 
 * **Read More**: [SAS Will Fly To 9 New Destinations During Summer 2024](https://blog.awardfares.com/sas-summer-2024/)
- 
+
 ## Want More Award Travel Intel?
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
