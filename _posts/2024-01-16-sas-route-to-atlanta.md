@@ -41,7 +41,7 @@ Atlanta's airport is not only the world's busiest in terms of passenger traffic 
 
 ## Book With EuroBonus: Set Up Alerts {#awards}
 
-Tickets were not available when the announcement came out, but as of today, there are available seats on this route (in all cabins) from August 17th, 2024.
+Tickets were not available when the announcement came out, but as of today, there are available seats on this route (in all cabins) [from August 17th, 2024 (search here).](https://awardfares.com/search?CPH.ATL.2024-08-17;o:duration;so:a;z:sas).
 
 <img src="../assets/img/sas-route-to-atlanta/atl-availability-new.webp" alt="SAS new route to Atlanta: Availability with EuroBonus points." class="noborder"/>
 
