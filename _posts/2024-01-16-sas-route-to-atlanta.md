@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAS's Ambitious New Direct Flight To Atlanta Takes Off In June"
+title: "SAS's Ambitious New Direct Flight To Atlanta Takes Off In June (Awards Now Available)"
 category: [News, SAS EuroBonus]
 tags: [SAS]
 author: Germán
@@ -10,6 +10,8 @@ image: /assets/img/sas-route-to-atlanta/cover.webp
 Waking up to more exciting news for SAS travelers and EuroBonus lovers! Scandinavian Airlines announced it will expand its North American network in the summer of 2024 by introducing a ninth destination: starting June 17th, there will be daily nonstop flights from [**Copenhagen to Atlanta**](https://www.sasgroup.net/newsroom/press-releases/2024/sas-expands-its-summer-program-to-include-atlanta/).
 
 The flight schedule for the Copenhagen-Atlanta route will feature daily services with an Airbus A330 during the summer program and a slightly reduced frequency of five weekly flights with an Airbus A350 during the winter program.
+
+**UPDATE (Jan 20)**: Award flights on the new Atlanta route started to become available using SAS EuroBonus points [(read here)](#awards).
 
 #### Schedule in Summer: Daily with Airbus A330
 
@@ -37,13 +39,13 @@ Hartsfield-Jackson Atlanta International Airport, where over 107 million passeng
 
 Atlanta's airport is not only the world's busiest in terms of passenger traffic but also **a major cargo hub**. With the proximity of the Port of Savannah, one of America's largest and fastest-growing container terminals, there is substantial potential for cargo transport alongside passenger services.
 
-## Book With EuroBonus: Set Up Alerts
+## Book With EuroBonus: Set Up Alerts {#awards}
 
-As of the announcement, tickets still need to be put on sale, and there are no signs of award availability using EuroBonus points (as seen below).
+Tickets were not available when the announcement came out, but as of today, there are available seats on this route (in all cabins) from August 17th, 2024.
 
-<img src="../assets/img/sas-route-to-atlanta/atl-availability.webp" alt="SAS new route to Atlanta: Availability with EuroBonus points." class="noborder"/>
+<img src="../assets/img/sas-route-to-atlanta/atl-availability-new.webp" alt="SAS new route to Atlanta: Availability with EuroBonus points." class="noborder"/>
 
-However, with AwardFares, it's easy to [set up an alert](https://blog.awardfares.com/alerts) and get notified via email when seats become available.
+With AwardFares, it's easy to [set up an alert](https://blog.awardfares.com/alerts) and get notified via email when seats become available.
 
 Simply [log in to your account](https://awardfares.com/login), go to **Alerts**, and tap on **Add Alert**.
 
