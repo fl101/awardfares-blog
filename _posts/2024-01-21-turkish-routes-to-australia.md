@@ -4,9 +4,7 @@ title: "Turkish Airlines Debuts Flights to Australia: Book With Points (2024)"
 category: [News]
 tags: [Turkish Airlines]
 author: Germán
-image: /assets/img/turkish-routes-to-australia/cover.webp
-hidden: true
-sitemap: false
+image: /assets/img/turkish-route-to-australia/cover.webp
 ---
 
 Turkish Airlines has officially announced its inaugural flights to Australia, beginning on March 15 with a thrice-weekly service from Istanbul to Melbourne, via Singapore Changi Airport. The initial flights will utilize Boeing 787-9 aircraft, transitioning to Airbus A350-900 from March 31.
@@ -30,11 +28,11 @@ As of today, awards seem to be available from the inaugural date, March 15th usi
 
 Keep in mind that availability differs between the programs, and, seats in premium cabins, such as Business Class, is more scarce than in Economy.
 
-Here's the availability up to date using SAS EuroBonus points:
+Here's the availability up to date using [**SAS EuroBonus points**](https://awardfares.com/search?IST.MEL.2024-03-15;a:TK;o:duration;so:a;z:sas):
 
 <img src="../assets/img/tk-route-to-australia/tk-australia-eurobonus.webp" alt="Turkish airlines new route to Australia: Availability with SAS EuroBonus points." class="noborder"/>
 
-And here it is with United MileagePlus:
+And here it is with [United MileagePlus](https://awardfares.com/search?IST.MEL.2024-03-15;a:TK;o:duration;so:a;z:united):
 
 <img src="../assets/img/tk-route-to-australia/tk-australia-united.webp" alt="Turkish airlines new route to Australia: Availability with United MileagePlus miles." class="noborder"/>
 
