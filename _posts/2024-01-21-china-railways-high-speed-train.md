@@ -5,8 +5,6 @@ category: [Trip Report]
 tags: [Review, Business, China Railways]
 author: Richard
 image: /assets/img/china-rail-high-speed-train/cover.jpeg
-hidden: true
-sitemap: false
 ---
 
 This review is a bit of an unusual one as we usually review airlines, but since China Rail offers a Business Class product on their high speed trains, which are also intended to compete with domestic air travel, we figured it would fit.
