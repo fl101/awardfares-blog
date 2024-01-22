@@ -5,11 +5,9 @@ category: [News]
 tags: [Features]
 author: Germán
 image: /assets/img/price-alerts/cover.webp
-hidden: true
-sitemap: false
 ---
 
-The days of refreshing search pages and missing out on dream deals are officially over. We're thrilled to announce two game-changing features that put you in the driver's seat of your award travel journey: **Price Alerts** and **Max Price Filters**.
+The days of refreshing search pages and missing out on dream deals are officially over. We're thrilled to announce two game-changing features that will heavily simplify how you find the best deals and maximize your points: **Price Alerts** and **Max Price Filters**.
 
 ## Never Miss a Price Drop Again with Price Alerts
 
@@ -33,7 +31,7 @@ We understand that planning a trip involves sticking to a budget. That's why we'
 
 ### How To Get Started
 
-Let's say we are exploring flights from Los Angeles to Europe using Flying Blue. We are looking for Business Class flights, since Flying Blue has a dynamic award chart, some of the award flights can become extremely expensive and definitely out of our reach. We see some options for over 700k miles one way!
+Let's say we are exploring flights from [**Los Angeles to Europe using Flying Blue**](https://awardfares.com/search?LAX.zone:Europe.;c:business;z:flyingblue). We are looking for Business Class flights, but since Flying Blue has a dynamic award chart, some flights can become extremely expensive and definitely out of our reach. We see some options for over 700k miles one way!
 
 <img src="../assets/img/price-alerts/lax-europe-fb.webp" alt="Award flights from Los Angeles to Europe using Flying Blue (AwardFares)" class="noborder"/>
 
