@@ -113,7 +113,7 @@ Make sure to also check these other review posts:
   "review": {
     "@type": "Review",
     "name": "Not worth the added cost over cheaper cabins",
-    "reviewBody": "Since the price difference from First Class (The best value in my opinion) is 1300 RMB and the only improvements are the seat, the lounge and the free food, you have to ask yourself are those 3 worth the 1300 RMB? In my opinion that's a resounding "No", the food costs 40¥ if you really want it (Though there are plenty of better options), the seat was terrible, and the lounge wasn't really that great.",
+    "reviewBody": "Since the price difference from First Class (The best value in my opinion) is 1300 RMB and the only improvements are the seat, the lounge and the free food, you have to ask yourself are those 3 worth the 1300 RMB? In my opinion that's a resounding \"No\", the food costs 40¥ if you really want it (Though there are plenty of better options), the seat was terrible, and the lounge wasn't really that great.",
     "reviewRating": {
       "@type": "Rating",
       "ratingValue": "2.0",
