@@ -4,7 +4,7 @@ title: "Turkish Airlines Debuts Flights to Australia: Book With Points (2024)"
 category: [News]
 tags: [Turkish Airlines]
 author: Germán
-image: /assets/img/turkish-route-to-australia/cover.webp
+image: /assets/img/tk-route-to-australia/cover.webp
 ---
 
 Turkish Airlines has officially announced its inaugural flights to Australia, beginning on March 15 with a thrice-weekly service from Istanbul to Melbourne, via Singapore Changi Airport. The initial flights will utilize Boeing 787-9 aircraft, transitioning to Airbus A350-900 from March 31.
