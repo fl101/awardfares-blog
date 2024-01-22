@@ -2,7 +2,7 @@
 layout: post
 title: "Turkish Airlines Debuts Flights to Australia: Book With Points (2024)"
 category: [News]
-tags: [Turkish Airlines]
+tags: [Turkish Airlines, Routes]
 author: Germán
 image: /assets/img/tk-route-to-australia/cover.webp
 ---
