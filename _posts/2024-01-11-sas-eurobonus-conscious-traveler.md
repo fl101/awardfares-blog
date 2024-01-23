@@ -11,6 +11,8 @@ In response to growing environmental concerns, Scandinavian Airlines (SAS) has r
 
 With this movement, SAS not only rewards its customers but also contributes to the global effort to address climate change. As the program evolves, it is expected to inspire both travelers and other companies to consider the environmental implications of their travel choices, fostering a more sustainable future.
 
+**UPDATE (Jan 23rd)**: The EuroBonus Conscious Traveler program is now live! [Read more here](https://www.sas.se/conscious-traveler/).
+
 <img src="../assets/img/eurobonus-conscious-traveler/eb-home.webp" alt="SAS EuroBonus Conscious Traveler Initiative (Set To Launch in Early 2024)." class="noborder"/>
 
 ## The Genesis of EuroBonus Conscious Traveler
@@ -105,7 +107,7 @@ Steps completed in one year but processed in the next will be counted towards th
 
 ### Claiming Conscious Traveler Rewards
 
-Rewards for Conscious Travelers will be announced at the program's launch in early 2024, offering exciting benefits to participants.
+Rewards for Conscious Travelers [are now live here (updated as of January 23rd, 2024)](https://www.sas.se/conscious-traveler/).
 
 ## Want More Award Travel Intel?
 
