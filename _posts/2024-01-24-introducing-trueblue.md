@@ -21,6 +21,8 @@ We have some thrilling news to share that we believe will make your award travel
 - [Getting Started](#getting-started)
 - [Read More](#read-more)
 
+<img src="../assets/img/introducing-trueblue/jetblue-banner-1.webp" alt="Introducing JetBlue TrueBlue awards at AwardFares." class="noborder"/>
+
 ## Expanding Your Award Travel Horizons
 
 At AwardFares, we have always been committed to providing the most comprehensive and user-friendly award search tool. The addition of JetBlue TrueBlue awards is a significant milestone for us. JetBlue is a beloved airline, known for its customer-friendly services and extensive route network, and we are excited to bring their award options to your fingertips.
@@ -49,6 +51,8 @@ TrueBlue continues to uphold its policy of no blackout dates for award flights. 
 ### 3. Family Pooling of Points
 
 JetBlue TrueBlue's family pooling feature, which allows families or small groups to combine points, is still a unique offering in the airline industry. This system enables families to accumulate points more quickly and use them more effectively, making it easier to plan family vacations or group trips.
+
+<img src="../assets/img/introducing-trueblue/jetblue-banner-2.webp" alt="Introducing JetBlue TrueBlue awards at AwardFares." class="noborder"/>
 
 ### 4. Partnerships and Expanding Network
 
@@ -96,6 +100,10 @@ If you don't have a set date, you can take advantage of AwardFares' **Timeline V
 
 <img src="../assets/img/introducing-trueblue/timeline-view.webp" alt="Explore JetBlue TrueBlue awards for different dates in AwardFares." class="noborder"/>
 
+You'll see the result list right below:
+
+<img src="../assets/img/introducing-trueblue/jfk-lax-list.webp" alt="Explore JetBlue TrueBlue awards for different dates in AwardFares." class="noborder"/>
+
 In addition, you can tap anywhere on the flight to display more details in an expanded view, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free or occupied.
 
 <img src="../assets/img/introducing-trueblue/details.webp" alt="Select a route when searching a TrueBlue award in AwardFares." class="noborder"/>
@@ -104,7 +112,7 @@ In addition, you can tap anywhere on the flight to display more details in an ex
 
 Whether you are exploring dates using the Timeline View or have selected a specific day, AwardFares will show you the available seats (with real-time data) within seconds in the result list below.
 
-You can tap on the different header columns to sort the results by price. Use the **Eco**, **Prem**, **Biz**, and **First** class tags to find cheap awards across multiple dates, itineraries, and airlines.
+You can tap on the different header columns to sort the results by price. Use the **Eco**, or **Biz** tags to find cheap awards across multiple dates, itineraries, and airlines.
 
 <img src="../assets/img/introducing-trueblue/jetblue-sort-by-price.gif" alt="Find the cheapest JetBlue TrueBlue awards with AwardFares." class="noborder"/>
 
@@ -156,7 +164,11 @@ JetBlue Mint is offered on select flights between:
 - **Caribbean**: Enjoy Mint service on seasonal flights to select destinations like Barbados, Punta Cana, and St. Lucia.
 - **Europe**: Fly in style on transatlantic routes between New York and London (Heathrow and Gatwick), Dublin, Edinburgh, Amsterdam, and Paris.
 
-<img src="../assets/img/introducing-trueblue/jetblue-sort-by-price.gif" alt="Find the cheapest JetBlue TrueBlue awards with AwardFares." class="noborder"/>
+Once you've identified the Mint award you are looking for in AwardFares, make sure you double check the cabin and seats on the JetBlue TrueBlue site once you are redirected to the booking page.
+
+In this case, we see that this A321 is equipped with Mint on our selected flight from New York to Los Angeles.
+
+<img src="../assets/img/introducing-trueblue/mint-jetblue-site.webp" alt="Booking JetBlue Mint on TrueBlue site." class="noborder"/>
 
 ## Getting Started
 
@@ -168,8 +180,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
+- [Top Frequent Flyer Programs To Consider In 2024 (Our Picks)](https://blog.awardfares.com/frequent-flyer-programs-2024/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Delta SkyMiles Award Search Now Available (New Features)](https://blog.awardfares.com/introducing-delta/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Never Miss a Deal Again: Score the Perfect Fare with New Price Alerts and Filters](https://blog.awardfares.com/price-alerts/)
