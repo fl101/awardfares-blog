@@ -5,8 +5,6 @@ category: [News, TrueBlue]
 tags: [Features, JetBlue]
 author: Germán
 image: /assets/img/introducing-trueblue/cover.webp
-hidden: true
-sitemap: false
 ---
 
 We have some thrilling news to share that we believe will make your award travel planning even more exciting and efficient. After much anticipation and hard work, we are proud to announce the integration of **JetBlue TrueBlue** awards into AwardFares!
