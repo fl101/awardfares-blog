@@ -9,7 +9,7 @@ hidden: true
 sitemap: false
 ---
 
-We have some thrilling news to share that we believe will make your award travel planning even more exciting and efficient. After much anticipation and hard work, we are proud to announce the integration of JetBlue TrueBlue awards into AwardFares!
+We have some thrilling news to share that we believe will make your award travel planning even more exciting and efficient. After much anticipation and hard work, we are proud to announce the integration of **JetBlue TrueBlue** awards into AwardFares!
 
 ### What's New?
 
@@ -21,11 +21,9 @@ We have some thrilling news to share that we believe will make your award travel
 - [Getting Started](#getting-started)
 - [Read More](#read-more)
 
-<img src="../assets/img/introducing-trueblue/jetblue-banner-1.webp" alt="Introducing JetBlue TrueBlue awards at AwardFares." class="noborder"/>
-
 ## Expanding Your Award Travel Horizons
 
-At AwardFares, we have always been committed to providing the most comprehensive and user-friendly award search tool. The addition of JetBlue TrueBlue awards is a significant milestone for us. JetBlue is a beloved airline, known for its customer-friendly services and extensive route network, and we are excited to bring their award options to your fingertips.
+At AwardFares, we have always been committed to providing the most comprehensive and user-friendly award search tool. The addition of [**JetBlue TrueBlue**](https://trueblue.jetblue.com/login) awards is a significant milestone for us. JetBlue is a beloved airline, known for its customer-friendly services and extensive route network, and we are excited to bring their award options to your fingertips.
 
 For our users who are JetBlue TrueBlue members or earn points through various partner programs and credit cards, this integration means a whole new world of possibilities. You can now easily find the best ways to redeem your points for JetBlue flights, right alongside searches for other airlines.
 
@@ -36,9 +34,11 @@ Our platform's new feature includes:
 - **More choices, better decisions**: With JetBlue added to our platform, you can compare more options across different airlines and loyalty programs.
 - **Maximizing your points**: AwardFares helps you sort and find the most value-efficient ways to use your points.
 
+<img src="../assets/img/introducing-trueblue/jetblue-banner-1.webp" alt="Introducing JetBlue TrueBlue awards at AwardFares." class="noborder"/>
+
 ## Why JetBlue
 
-JetBlue's TrueBlue program is popular for its straightforward points system and no blackout dates. This fits perfectly with our mission to make award travel accessible and straightforward. With TrueBlue, you get:
+JetBlue's TrueBlue program is popular for its straightforward points system and no blackout dates. This fits perfectly with our mission to make award travel accessible and simple. With TrueBlue, you get:
 
 ### 1. User-Friendly Points System
 
