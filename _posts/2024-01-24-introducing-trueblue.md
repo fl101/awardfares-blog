@@ -58,15 +58,13 @@ JetBlue TrueBlue's family pooling feature, which allows families or small groups
 
 As of 2024, TrueBlue has expanded its network of partnerships, allowing members to earn and redeem points with a wider range of airlines, hotels, and other travel-related services. This expansion provides greater flexibility and choice for members, enhancing the value of the points they earn.
 
+**Airline partners**: Hawaiian Airlines, Qatar Airways, Emirates, Aer Lingus, Cape Air, Icelandair, South African Airways, and Silver Airways.
+
 ### 5. Tiered Membership Benefits
 
 TrueBlue offers tiered membership levels, including Mosaic, which provide additional benefits such as expedited security, early boarding, and bonus points earnings. These tiers cater to frequent flyers, offering perks that make travel more comfortable and efficient.
 
-### 6. Innovative Rewards and Experiences
-
-TrueBlue continually innovates its rewards, offering not just flights but also unique experiences and products. In 2024, they have further diversified these options, catering to a broader range of interests and preferences among their members.
-
-### 7. Commitment to Sustainability
+### 6. Commitment to Sustainability
 
 JetBlue's commitment to sustainability also extends to its TrueBlue program. Members are increasingly looking for environmentally responsible travel options, and TrueBlue has responded by offering opportunities to earn points through sustainable travel choices and to use points for eco-friendly initiatives.
 
