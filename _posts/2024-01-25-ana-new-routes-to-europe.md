@@ -11,13 +11,17 @@ sitemap: false
 
 All Nippon Airways (ANA) is launching new flights to Milan, Stockholm, and Istanbul in the latter half of 2024. This is great news for travelers looking to experience the best of Japan, as these new routes will provide more convenient access to the country.
 
-ANA is one of the most awarded airlines in the world, and is known for its excellent service and comfortable cabins. With the launch of these new routes, ANA is looking to tap into renewed post-pandemic demand for travel to Japan. The airline had previously planned to launch service to these cities before the pandemic, but those plans were put on hold due to travel restrictions.
+ANA is one of the most awarded airlines in the world, and is known for its excellent service and comfortable cabins. With the launch of these new routes, ANA is looking to tap into renewed post-pandemic demand for travel to Japan. The airline had previously planned to [launch service to these cities before the pandemic](https://blog.awardfares.com/ana-arn-hnd-award-availability/), but those plans were put on hold due to travel restrictions.
 
 ## ANA New Flights to Milan, Stockholm, and Istanbul
 
 Here are some additional details about the new routes. As seen on their website, the routes were postponed from a pre-pandemic expansion plan, and they are scheduled to be relaunched between October 2024 and March 2025.
 
 <img src="../assets/img/ana-new-routes-to-europe/ana-2024-routes.webp" alt="ANA Introduces flights to Stockholm, Milan and Istanbul." class="noborder"/>
+
+As flights are not yet on sale, there's no award availability on these routes. We'll keep monitoring them and updating this post as seats become available.
+
+<img src="../assets/img/ana-new-routes-to-europe/ana-availability.webp" alt="ANA Introduces flights to Stockholm, Milan and Istanbul." class="noborder"/>
 
 ### Milan (NH207/NH208)
 
