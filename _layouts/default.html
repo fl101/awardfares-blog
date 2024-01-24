@@ -83,4 +83,28 @@
         }
       })();
     </script>
+    <link rel="stylesheet" href="/assets/css/cookieconsent.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+    <script>
+      if (window.cookieconsent) {
+        window.cookieconsent.initialise({
+          theme: "classic",
+          content: { href: "https://awardfares.com/privacy" },
+          palette: {
+            popup: { background: "#fff" },
+            button: { background: "#2e5c8a" },
+          },
+          onPopupOpen: () => {
+            document.querySelector("footer")?.classList.add("cookieconsent");
+          },
+          onPopupClose: () => {
+            document.querySelector("footer")?.classList.remove("cookieconsent");
+          },
+          onStatusChange: () => {
+            const host = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';  
+            void fetch(`${host}/api/extend-cookieconsent`);
+          },
+        });
+      }
+    </script>
 </html>
