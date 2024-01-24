@@ -35,6 +35,10 @@ Flights will operate twice per week between Stockholm Arlanda Airport (ARN) and 
 
 Flights will operate three times per week between Istanbul Airport (IST) and Tokyo Haneda Airport (HND).
 
+## More Expansion Plans
+
+ANA will also resume and increase frequencies on several existing routes. Seasonal flights from Haneda to Vienna will restart on August 2, for the first time since May 2022, and will operate thrice weekly. Daily flights to Munich and Paris Charles de Gaulle will begin from July 1, up from four times weekly and three times weekly, respectively.
+
 ## Don't forget about THE ROOM
 
 If you are after an unparalleled flying experience, try looking for ANA's THE ROOM, their premium business class cabin available on select Boeing 777-300ER aircraft. THE ROOM includes spacious, private "mini-suites" with sliding doors, wide seats that convert into full-flat lie-flat beds, and a 24-inch 4K monitor for your entertainment pleasure. Meals are gourmet-style, with premium beverages served on elegant tableware.
