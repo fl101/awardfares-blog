@@ -165,7 +165,7 @@ The airline cemented its global connectivity and outreach by joining Star Allian
 
 <img src="../assets/img/eurobonus-star-alliance-awards/ana-cabin.avif" alt="Best Cabin using SAS EuroBonus Points on All Nippon Airlines (ANA)." />
 
-*Image from Air China's official website.*
+*Image from ANA's official website.*
 
 **Suggested Routes**:
 
