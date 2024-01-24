@@ -43,6 +43,12 @@ Immediately, we see that there are flights from Los Angeles to Copenhagen with K
 
 <img src="../assets/img/price-alerts/lax-europe-fb-filtered.webp" alt="Award flights from Los Angeles to Europe using Flying Blue, maximum 135k miles (AwardFares)" class="noborder"/>
 
+## More Improvements: Alerts Based On Flight Number
+
+We are also rolling out a *Flight Number* filter along with this update. While creating an alert, tap on *Flight* and add your desired flight number. Alternatively, on the Search page, if you add a flight number to the filters and then tap on *Track*, the setting will be preserved in the alert created.
+
+<img src="../assets/img/price-alerts/flight-number-alert.webp" alt="Set up an alert based on Flight Number in AwardFares." class="noborder"/>
+
 ## Your Feedback Matters
 
 At AwardFares, we're committed to enhancing your travel experience. We'd love to hear your feedback on these new features. Try them out on your next award flight search and share your thoughts with us. Your input helps us continue to innovate and serve you better.
