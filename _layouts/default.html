@@ -86,7 +86,6 @@
     <link rel="stylesheet" href="/assets/css/cookieconsent.min.css" />
     <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
     <script>
-      console.log("cookieconsent", window.cookieconsent);
       if (window.cookieconsent) {
         window.cookieconsent.initialise({
           theme: "classic",
@@ -102,7 +101,8 @@
             document.querySelector("footer")?.classList.remove("cookieconsent");
           },
           onStatusChange: () => {
-            void fetch("http://localhost:3000/api/extend-cookieconsent");
+            const host = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';  
+            void fetch(`${host}/api/extend-cookieconsent`);
           },
         });
       }
