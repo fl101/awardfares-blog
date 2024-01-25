@@ -5,8 +5,6 @@ category: [News]
 tags: [ANA, Routes]
 author: Germán
 image: /assets/img/ana-new-routes-to-europe/cover.webp
-hidden: true
-sitemap: false
 ---
 
 All Nippon Airways (ANA) is launching new flights to Milan, Stockholm, and Istanbul in the latter half of 2024. This is great news for travelers looking to experience the best of Japan, as these new routes will provide more convenient access to the country.
