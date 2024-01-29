@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "United Airlines announces largest summer schedule in a decade, adding over 100 new flights"
+title: "United Airlines Adds 100+ New Flights And Announces The Largest Summer Schedule in a Decade"
 category: [News]
 tags: [United]
 author: Germán
@@ -50,7 +50,7 @@ Furthermore, United is introducing new routes from other major airports:
 
 ## Awards Available With United MileagePlus
 
-With AwardFares, checking if award flights on the new routes are available is straightforward and takes less than five clicks! There are plenty of options to choose from throghout the entire summer, even on their A321neo.
+With [AwardFares](https://awardfares.com/search?..;z:united), checking if award flights on the new routes are available is straightforward. It takes less than five clicks! There are plenty of options to choose from throughout the entire summer, even on their A321neo.
 
 Keep in mind that since United switched to a [dynamic award chart](https://blog.awardfares.com/demystifying-award-charts/), the price of the awards might depend on the demand and time you book it, even if it's the same route (as we see below).
 
