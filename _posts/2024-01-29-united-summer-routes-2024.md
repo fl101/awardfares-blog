@@ -5,8 +5,6 @@ category: [News]
 tags: [United]
 author: Germán
 image: /assets/img/united-summer-routes-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
 United Airlines announced a significant expansion of its flight network across North America, adding over 100 daily departures during summer 2024, and targeting popular outdoor destinations. The move comes after noticing the rising interest in nature-centric travel post-pandemic.
