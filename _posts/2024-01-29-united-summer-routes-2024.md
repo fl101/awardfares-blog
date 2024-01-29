@@ -48,6 +48,14 @@ Furthermore, United is introducing new routes from other major airports:
 
 <img src="../assets/img/united-summer-routes-2024/united-a321neo.webp" alt="United A321neo." class="noborder"/>
 
+## Awards Available With United MileagePlus
+
+With AwardFares, checking if award flights on the new routes are available is straightforward and takes less than five clicks! There are plenty of options to choose from throghout the entire summer, even on their A321neo.
+
+Keep in mind that since United switched to a [dynamic award chart](https://blog.awardfares.com/demystifying-award-charts/), the price of the awards might depend on the demand and time you book it, even if it's the same route (as we see below).
+
+<img src="../assets/img/united-summer-routes-2024/availability.webp" alt="United A321neo Awards Available with MileagePlus." class="noborder"/>
+
 ## Want More Award Travel Intel?
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
