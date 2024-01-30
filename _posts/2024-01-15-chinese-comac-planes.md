@@ -2,7 +2,7 @@
 layout: post
 title: "How To Book Award Flights On The Chinese COMAC Planes"
 category: [Guide]
-tags: []
+tags: [COMAC]
 author: Germán
 image: /assets/img/comac-planes/cover.webp
 ---
