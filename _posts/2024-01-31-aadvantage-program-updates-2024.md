@@ -5,11 +5,9 @@ category: [News, AAdvantage]
 tags: [American Airlines]
 author: Germán
 image: /assets/img/aadvantage-program-updates-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
-American Airlines is set to enhance the travel experience for AAdvantage members in 2024, introducing a range of new benefits and changes. Let's go through some of the changes!
+American Airlines is set to enhance the travel experience for AAdvantage members in 2024, introducing a range of new benefits and changes. Let's go through some of the updates!
 
 ## AAdvantage Changes in 2024: What You Need To Know
 
@@ -25,25 +23,26 @@ From March 1, 2024, the privilege of same-day standby for earlier flights will b
 
 ### Enhanced Member-Only Benefits
 
-Later in 2024, AAdvantage® members will gain access to more exclusive travel benefits:
+Later in 2024, AAdvantage members will gain access to more benefits:
 
-- Extended Trip Credit: Members will have an additional six months to use Trip Credit for canceled online travel.
-- Admirals Club One-Day Passes: These will be exclusively purchasable by AAdvantage members.
-- Flagship Lounge Single Visit Passes: Members can buy passes to enjoy the premium lounge.
-- 24-hour Trip Hold: Members can hold flights free of charge for up to 24 hours.
+- **Extended Trip Credit**: Members will have an additional six months to use Trip Credit for canceled online travel.
+- **Admirals Club One-Day Passes**: These will be exclusively purchasable by AAdvantage members.
+- **Flagship Lounge Single Visit Passes**: Members can buy passes to enjoy the premium lounge.
+- **24-hour Trip Hold**: Members can hold flights free of charge for up to 24 hours.
 - Members will continue enjoying early boarding with Group 6 and exclusive access to American Airlines Vacations packages, among other benefits.
 
 ### Upgraded Miles Earning and Redemption
 
-- Earn Miles on Upgrades: Members can soon earn miles when paying with cash for premium cabin upgrades.
-- Partner Airline Upgrades: In 2024, members can redeem miles for upgrades with selected airline partners.
-- Online Systemwide Upgrades Management: Members will have the ability to request systemwide upgrades online.
+- **Earn Miles on Upgrades**: Members can soon earn miles when paying with cash for premium cabin upgrades.
+- **Partner Airline Upgrades**: Stating in 2024, members will be able to redeem miles for upgrades with selected airline partners.
+- **Online Systemwide Upgrades Management**: Members will have the ability to request systemwide upgrades online.
 
 ### New Loyalty Point Reward Choices
 
 From March 1, 2024, members can select Loyalty Points toward AAdvantage status as a reward choice at specific Loyalty Point Reward levels, ranging from 1,000 to 15,000 points.
 
 ### Enhanced Dining Experiences
+
 AAdvantage Platinum Pro members will soon be able to redeem miles for Flagship First Dining passes, offering a luxurious airport dining experience.
 
 ### Companion Upgrade Prioritization
@@ -53,6 +52,8 @@ Members can sponsor a companion for the same type of upgrade, maintaining priori
 ### Prioritization in Upgrade Requests
 
 Upgrade requests will be prioritized based on AAdvantage status, the type of upgrade, and 12-month Rolling Loyalty Points, followed by the booking code and the date/time of the request.
+
+<img src="../assets/img/aadvantage-program-updates-2024/aa-stock-2.webp" alt="AAdvantage Program Updates in 2024." class="noborder"/>
 
 ### Rolling Loyalty Points
 
