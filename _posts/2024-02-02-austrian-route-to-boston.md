@@ -5,8 +5,6 @@ category: [News]
 tags: [Austrian]
 author: Germán
 image: /assets/img/austrian-route-to-boston/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Austrian Airlines introduced a new direct flight connecting Vienna Airport (VIE) to Boston Logan International Airport (BOS). This significant addition, set to start in the summer, establishes the first nonstop link between Boston and the Austrian capital. The service, beginning July 1, will operate between five to six times weekly, enriching the travel choices for those looking to explore Vienna or venture further into Europe.
@@ -19,7 +17,7 @@ This initiative is a part of Lufthansa Group's strategy to enhance its network, 
 
 ## Operation & Schedule
 
-Austrian Airlines will deploy its Boeing 767-300ER aircraft for the Boston-Vienna route, accommodating 211 passengers across three classes: Business, Premium Economy, and Economy. A highlight of the travel experience on this route is the airline's unique "Flying Chef" program in the business class, where passengers can enjoy meals crafted onboard by chefs, complemented by wine pairings suggested by sommeliers.
+Austrian Airlines will deploy its Boeing 767-300ER aircraft for the Boston-Vienna route, accommodating 211 passengers across three classes: Business, Premium Economy, and Economy. A highlight of the travel experience on this route is the airline's unique *Flying Chef* program in business class, where passengers can enjoy meals crafted onboard by chefs, complemented by wine pairings suggested by sommeliers.
 
 | Flight Direction | Departure Time | Arrival Time        | Days of Operation                                   |
 |------------------|----------------|---------------------|-----------------------------------------------------|
@@ -30,7 +28,7 @@ Austrian Airlines will deploy its Boeing 767-300ER aircraft for the Boston-Vienn
 
 ## Awards Available
 
-As of today, there are award seats available using both SAS EuroBonus points and United MileagePlus miles. There are no seats in Economy, but a couple of seats in Business Class for several dates starting July 3rd, 2024.
+Currently, award seats are available using both SAS EuroBonus points and United MileagePlus miles. There are no seats in Economy, but a few seats in Business Class for several dates starting July 3, 2024.
 
 <img src="../assets/img/austrian-route-to-boston/vie-bos-timeline.webp" alt="Austrian New Route To Boston availability." class="noborder"/>
 
@@ -38,9 +36,9 @@ As of today, there are award seats available using both SAS EuroBonus points and
 
 ### Price
 
-AwardFares let you easily check and compare the prices for award flights across frequent flyer programs. Simply tap on the result list to expand the details.
+AwardFares lets you quickly check and compare the prices for award flights across frequent flyer programs. Tap on the result list to expand the details.
 
-In this case, we see that it costs 78k EuroBonus points (one-way), or 130k round trip for a Business Class ticket. With United MileagePlus, the saver award one-way costs 88k miles.
+In this case, it costs 78k EuroBonus points (one-way), or 130k round trip for a Business Class ticket. With United MileagePlus, the saver award one-way costs 88k miles.
 
 <img src="../assets/img/austrian-route-to-boston/vie-bos-price.webp" alt="Austrian New Route To Boston price with points or miles." class="noborder"/>
 
