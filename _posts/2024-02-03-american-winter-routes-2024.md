@@ -5,13 +5,15 @@ category: [News, AAdvantage]
 tags: [American]
 author: Germán
 image: /assets/img/american-winter-routes-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
-American Airlines just announced an expansion to its flight schedule introducing new services, including a notable route to Brisbane, Australia (BNE), starting in October, using the Boeing 787-9 aircraft equipped with Flagship Suite seats. This expansion also includes the launch of flights to Veracruz, Mexico (VER), further broadening its already massive domestic and short-haul international network. The airline will also resume its service to Kona, Hawaii (KOA) from its Dallas-Fort Worth (DFW) hub.
+American Airlines just announced an expansion to its flight schedule introducing new services, including a notable route to Brisbane, Australia (BNE), starting in October, using the Boeing 787-9 aircraft equipped with Flagship Suite seats (new Business Class). This expansion also includes the launch of flights to Veracruz, Mexico (VER), further broadening its already massive domestic and short-haul international network. The airline will also resume its service to Kona, Hawaii (KOA) from its Dallas-Fort Worth (DFW) hub.
 
 Tickets will be on sale starting Monday, February 5th, hence we see no available flights in AwardFares. We'll keep this post updated as the first seats appear.
+
+### About Flagship Suites
+
+The new flight to Brisbane marks the first route announced for American Airlines highly anticipated Flagship Suites product, announced back in 2022, offering a significant upgrade to their premium cabin experience. These private havens, featuring sliding doors for ultimate seclusion, will initially be available on brand new Airbus A321XLR and Boeing 787-9 aircraft. Passengers can expect chaise lounge seating for luxurious comfort, ample personal storage, and other amenities designed to enhance the journey. Later in the year, American will start retrofitting their long-haul Boeing 777-300ERs fleet with a staggering 70 Flagship Suites each.
 
 <img src="../assets/img/american-winter-routes-2024/aa-flagship-suite.webp" alt="American Airlines New Flagship Suites (Business Class) Starts In 2024" class="noborder"/>
 
