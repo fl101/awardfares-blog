@@ -5,8 +5,6 @@ category: [News, SAS EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/sas-destination-unknown/cover.webp
-hidden: true
-sitemap: false
 ---
 
 SAS Scandinavian Airlines is introducing an exhilarating twist to the conventional award booking. The airline has announced a cool promotion called ***Destination Unknown***. This particular offer challenges passengers to sign-up on a journey to an undisclosed location, igniting the spirit of adventure that lies within us all.
@@ -49,7 +47,7 @@ All we know is taken from the [airline's official landing page here](https://www
 - Traveler must be 18+ years old
 - Accommodation offers will be available
 
-## Book Better EuroBonus Flights With AwardFares
+## Book Better EuroBonus Awards With AwardFares
 
 Do you want to learn how to find and book better EuroBonus award flights? You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
