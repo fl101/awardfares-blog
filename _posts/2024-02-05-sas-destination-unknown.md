@@ -9,7 +9,7 @@ hidden: true
 sitemap: false
 ---
 
-SAS Scandinavian Airlines is introducing an exhilarating twist to the conventional award booking. The airline has announced a cool promotion called *Destination Unknown*. This particular offer challenges passengers to sign-up on a journey to an undisclosed location, igniting the spirit of adventure that lies within us all.
+SAS Scandinavian Airlines is introducing an exhilarating twist to the conventional award booking. The airline has announced a cool promotion called ***Destination Unknown***. This particular offer challenges passengers to sign-up on a journey to an undisclosed location, igniting the spirit of adventure that lies within us all.
 
 The promotion is only valid for 24 hours! So mark your calendar if you'd like to sign up for it.
 
@@ -23,7 +23,6 @@ On February 12, SAS Scandinavian Airlines will unveil a limited opportunity for 
 
 <img src="../assets/img/sas-destination-unknown/destination-unknown-app.webp" alt="SAS Destination Unknown campaign February 2024." class="noborder"/>
 
-
 ## How to Join
 
 To participate in this unique experience, do this:
@@ -34,6 +33,8 @@ To participate in this unique experience, do this:
 4. Sign up and wait!
 
 ## Official Information
+
+All we know is taken from the [airline's official landing page here](https://www.sas.se/special-offers/destination-unknown/).
 
 - Flight departs Friday 5 April and returns Monday 8 April
 - All seats on this flight are dedicated to EuroBonus members
@@ -48,9 +49,9 @@ To participate in this unique experience, do this:
 - Traveler must be 18+ years old
 - Accommodation offers will be available
 
-## Want More Award Travel Intel?
+## Book Better EuroBonus Flights With AwardFares
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+Do you want to learn how to find and book better EuroBonus award flights? You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
 With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
