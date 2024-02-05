@@ -5,8 +5,6 @@ category: [News]
 tags: [Oneworld]
 author: Germán
 image: /assets/img/oneworld-25-years/cover.webp
-hidden: true
-sitemap: false
 ---
 
 The [**oneworld alliance**](https://www.oneworld.com/), a global network of some of the world's leading airlines, is celebrating a major milestone today: its 25th anniversary. Launched in 1999 with four founding members – American Airlines, British Airways, Cathay Pacific, and Qantas – the alliance has grown to encompass 13 member airlines, serving over 900 destinations across 170 territories.
@@ -23,7 +21,7 @@ The alliance was founded by American Airlines, British Airways, Cathay Pacific, 
 
 ### 2. Introduction of the oneworld Explorer (2000s)
 
-oneworld was the first airline alliance to offer a round-the-world ticket. This innovative product revolutionized round-the-world travel by offering flexible fares based on the number of continents visited, rather than the distance flown, making globe-trotting more accessible.
+oneworld was the first airline alliance to offer a [round-the-world ticket](https://www.oneworld.com/world-travel). This innovative product revolutionized round-the-world travel by offering flexible fares based on the number of continents visited, rather than the distance flown, making globe-trotting more accessible.
 
 <img src="../assets/img/oneworld-25-years/american777.webp" alt="American Airlines Boeing 777-300ER oneworld livery." class="noborder"/>
 
@@ -35,13 +33,13 @@ oneworld has been pioneering in providing streamlined connections. In 2005, it i
 
 The alliance's introduction of a three-tier frequent flyer status system was a game-changer, allowing elite status benefits to be recognized across the entire network, a move that greatly enhanced loyalty and customer satisfaction.
 
-### 5. Adoption of Technological Innovations
+### 5. Technological Innovations
 
-In 2019, oneworld announced plans to launch a digital platform that would enable customers to enjoy a range of services, including booking flights on all member airlines through a single app, marking a significant step towards digital integration.
+In 2019, oneworld launched a digital platform that would enable customers to enjoy a range of services, including booking flights on all member airlines through a single app, marking a significant step towards digital integration.
 
 ### 6. Commitment to the Environment
 
-In 2020, oneworld became the first global airline alliance to commit to achieving net-zero carbon emissions by 2050, showcasing its leadership in the fight against climate change within the aviation sector.
+In 2020, oneworld became the first global airline alliance to [commit to achieving net-zero carbon emissions by 2050](https://www.oneworld.com/sustainability), showcasing its leadership in the fight against climate change within the aviation sector.
 
 ### 7. Awards
 
@@ -55,7 +53,7 @@ In response to the COVID-19 pandemic, oneworld, alongside its member airlines, l
 
 ### 9. oneworld Connect (2018)
 
-This innovative membership platform was introduced to extend the alliance's global reach by incorporating smaller regional airlines, such as Fiji Airways, its first oneworld connect partner, thus offering passengers more destinations.
+This [innovative membership platform](https://www.oneworld.com/oneworld-connect) was introduced to extend the alliance's global reach by incorporating smaller regional airlines, such as Fiji Airways, its first oneworld connect partner, thus offering passengers more destinations.
 
 ### 10. Code-share Agreements and Partnerships
 
