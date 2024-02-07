@@ -5,8 +5,6 @@ category: [News, Delta SkyMiles]
 tags: [Routes, Delta]
 author: Germán
 image: /assets/img/delta-winter-routes-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Delta Air Lines is making it easier for people to visit warm places in Latin America and the Caribbean by increasing its flights from Atlanta, New York-JFK, and Minneapolis/St. Paul. The airline will start flying to new places like Barbados, Puerto Plata, Mazatlán, and will fly more often to Curaçao.
