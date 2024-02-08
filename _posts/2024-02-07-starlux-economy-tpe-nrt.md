@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STARLUX A321neo Economy Class from Taipei to Tokyo Narita (2024)"
+title: "STARLUX A321neo Economy Class from Taipei to Tokyo (2024)"
 category: [Trip Report]
 tags: [Review, Economy, STARLUX]
 author: Philip
@@ -129,12 +129,13 @@ Make sure to also check these posts out
 - [Lufthansa's A350 Long-Haul Business Class (Avoid)](https://blog.awardfares.com/lufthansa-long-haul-business-a350/)
 <script type="application/ld+json">
 
+<script type="application/ld+json">
 {
-  "@context": "https://schema.org/",
-  "@type": "Product",
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
   "name": "STARLUX A321neo Economy Class",
   "image": "https://blog.awardfares.com/assets/img/starlux-economy-tpe-nrt/cover.webp",
-  "description": "STARLUX Economy Class on the A321neo from Taipei TPE to Tokyo NRT",
+  "description": "STARLUX Economy Class on the A321neo from Taiwan TPE to Tokyo NRT",
   "brand": {
     "@type": "Brand",
     "name": "STARLUX"
@@ -151,10 +152,10 @@ Make sure to also check these posts out
     "@type": "Review",
     "name": "Great food, modern design, and great service. Slightly expensive.",
     "reviewBody": "While on a recent trip between Taipei and Tokyo, I had the opportunity to finally experience STARLUX Airlines in economy class on their A321neo. While not without minor drawbacks, the overall experience left a positive impression.
-    
-    The cabin itself impressed with its modern design, comfortable seating, and spacious legroom. The in-flight entertainment system provided ample options, and the attentive crew catered to my needs with a smile. My INSIGHTER status granted access to the airline's lounge, which, while compact, offered a delightful culinary selection. The boarding process, however, involved a lengthy walk from the lounge due to a bus gate departure. Despite this, my status enabled boarding on a dedicated shuttle, adding a touch of exclusivity. The flight itself was smooth and enjoyable, with a delicious meal served, though delivery was slightly delayed in the back of the plane.
-    
-    In conclusion, my STARLUX economy experience was positive overall. While price remains a crucial factor on this route, particularly considering minor inconveniences like the lounge size and bus gate boarding, the airline's modern fleet, comfortable cabins, and attentive service make it a viable option. I eagerly await the opportunity to explore their wide-body jets or business class offerings in the future.",
+
+The cabin itself impressed with its modern design, comfortable seating, and spacious legroom. The in-flight entertainment system provided ample options, and the attentive crew catered to my needs with a smile. My INSIGHTER status granted access to the airline's lounge, which, while compact, offered a delightful culinary selection. The boarding process, however, involved a lengthy walk from the lounge due to a bus gate departure. Despite this, my status enabled boarding on a dedicated shuttle, adding a touch of exclusivity. The flight itself was smooth and enjoyable, with a delicious meal served, though delivery was slightly delayed in the back of the plane.
+
+In conclusion, my STARLUX economy experience was positive overall. While price remains a crucial factor on this route, particularly considering minor inconveniences like the lounge size and bus gate boarding, the airline's modern fleet, comfortable cabins, and attentive service make it a viable option. I eagerly await the opportunity to explore their wide-body jets or business class offerings in the future.",
     "reviewRating": {
       "@type": "Rating",
       "ratingValue": "4.5",
