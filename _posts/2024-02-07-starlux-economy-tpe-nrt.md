@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "STARLUX A321neo Economy Class from Taiwán to Tokyo Narita (2024)"
+title: "STARLUX A321neo Economy Class from Taipei to Tokyo Narita (2024)"
 category: [Trip Report]
 tags: [Review, Economy, STARLUX]
 author: Philip
 image: /assets/img/starlux-economy-tpe-nrt/cover.webp
-hidden: true
-sitemap: false
 ---
 
 I had to make a last-minute flight booking on a recent trip between Taipei and Tokyo. There are many airlines on this route, with Japanese airlines like ANA and JAL and Taiwanese carriers like EVA Air, China Airlines, and STARLUX. Unfortunately, STARLUX tickets are usually much more expensive, but the prices were roughly the same on this occasion, so it was a perfect time to finally get to try STARLUX. The narrow-body A321neo was the cheapest option, but STARLUX actually operates all of their different aircraft types on this route, including the A350 and A330-300neo.
@@ -136,7 +134,7 @@ Make sure to also check these posts out
   "@type": "Product",
   "name": "STARLUX A321neo Economy Class",
   "image": "https://blog.awardfares.com/assets/img/starlux-economy-tpe-nrt/cover.webp",
-  "description": "STARLUX Economy Class on the A321neo from Taiwan TPE to Tokyo NRT",
+  "description": "STARLUX Economy Class on the A321neo from Taipei TPE to Tokyo NRT",
   "brand": {
     "@type": "Brand",
     "name": "STARLUX"
