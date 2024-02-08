@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STARLUX A321neo Economy Class (TPE-NRT)"
+title: "STARLUX A321neo Economy Class: Taiwán to Tokyo Narita"
 category: [Trip Report]
 tags: [Review, Economy, STARLUX]
 author: Philip
