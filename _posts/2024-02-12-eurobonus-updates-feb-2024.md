@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "SAS Eurobonus Updates (Fanuary 2024)"
-category: [News, SAS EuroBonus]
+title: "Updates For SAS EuroBonus Members (February 2024)"
+category: [SAS EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-feb-2024/cover.webp
