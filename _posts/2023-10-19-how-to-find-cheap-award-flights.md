@@ -7,7 +7,6 @@ author: Germán
 image: /assets/img/cheap-award-flights/cover.webp
 ---
 
-
 We hear you; the world of award flights sometimes feels like trying to crack a secret code. Our team members at AwardFares have over 15 years of experience redeeming "free" flights across different frequent flyer programs and airlines, and it still is a challenging game. That's why we crafted our tool AwardFares with love and strive to help fellow travelers like us with some of the issues we struggle with.
 
 However, with the fluctuating value of miles and points, the shift to dynamic award charts, new blackout dates, and the heavy changes in airline alliances, booking an award flight and determining good versus bad redemptions is more challenging than ever.
@@ -18,11 +17,13 @@ This guide tells you exactly how to leverage AwardFares to search and find cheap
 
 ### In This Post
 
-- [Getting Started](#preread)
-- [How To Find Cheap Award Flights (Step-by-step)](#how-to)
-- [How To Determine If You Are Getting A Good Redemption?](#eval)
+- [Getting Started: Pre-reads](#getting-started-pre-reads)
+- [How To Find Cheap Award Flights (In Economy, Business, and First Class)](#how-to-find-cheap-award-flights-in-economy-business-and-first-class)
+- [How To Determine If You Are Getting A Good Redemption?](#how-to-determine-if-you-are-getting-a-good-redemption)
+- [Get Started With AwardFares](#get-started-with-awardfares)
+- [Read More](#read-more)
 
-## Getting Started: Pre-reads {#preread}
+## Getting Started: Pre-reads
 
 These are optional, but if you want to get familiar with how frequent flyer programs work and how they determine the prices of award flights, check these posts.
 
@@ -30,7 +31,7 @@ These are optional, but if you want to get familiar with how frequent flyer prog
 - [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
 - [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 
-## How To Find Cheap Award Flights (In Economy, Business, and First Class) {#how-to}
+## How To Find Cheap Award Flights (In Economy, Business, and First Class)
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup)
 
@@ -122,10 +123,9 @@ In this case, from New York to London, we sort by price by tapping on the **Firs
 
 Once you have identified the flights you want (or built an itinerary using our Journey Planner), go to the airline's website and make the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards on SAS EuroBonus). In those situations, you will need to call their service center.
 
+## How To Determine If You Are Getting A Good Redemption?
 
-## How To Determine If You Are Getting A Good Redemption? {#eval}
-
-Traveling on award flights is a rewarding experience, but not all redemptions are the same, particularly with most programs switching to dynamic award charts. Some offer significantly better value than others. 
+Traveling on award flights is a rewarding experience, but not all redemptions are the same, particularly with most programs switching to dynamic award charts. Some offer significantly better value than others.
 
 So, how can you be sure you're getting a good deal with your hard-earned miles or points? Here are a few things to remember that will help you determine the worthiness of an award flight redemption.
 
@@ -193,7 +193,6 @@ With AwardFares, comparing the prices in different programs is extremely simple.
 
 <img src="../assets/img/prices-and-mixed-cabins/prices.webp" alt="AwardFares Award Prices Expanded View." />
 
-
 ### Understand Seasonality and Demand
 
 Awards during peak travel times require more miles. Travel during off-peak seasons for better availability and value.
@@ -214,13 +213,13 @@ While the CPM calculation is handy, sometimes the value of an award booking is m
 
 Determining the value of an award flight isn't solely about mathematics; it's also about personal value and the experiences that travel brings. Always weigh the quantitative and qualitative aspects to choose your travel needs and wishes best.
 
-## Get started, and stay tuned
+## Get Started With AwardFares
 
 With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
-## Read more
+## Read More
 
 Make sure to also check these posts out
 
@@ -236,7 +235,6 @@ Make sure to also check these posts out
         document.getElementById("result").value = cpm.toFixed(2);
     }
 </script>
-
 
 <script type="application/ld+json">
 {
