@@ -13,7 +13,7 @@ Scandinavian Airlines (SAS) has rolled out several updates and changes that are 
 
 ### 1. Sign Up For 'Destination Unknown': Mystery Ticket for 30.000 EuroBonus Points
 
-Today (February 12), SAS Scandinavian Airlines will unveil a limited opportunity for travelers to book a flight without knowing the destination. The concept is simple yet thrilling: a round trip mystery ticket to an unknown destination that costs 30.000 EuroBonus points. The plane will depart on April 5 and return April 8.
+Today (February 12), SAS Scandinavian Airlines will unveil a limited opportunity for travelers to book a flight without knowing the destination. The concept is simple yet thrilling: a round-trip mystery ticket to an unknown destination costs 30.000 EuroBonus points. The plane will depart on April 5 and return on April 8.
 
 The promotion **STARTS TODAY at 12:00 PM CET**, and is only valid for 24 hours, so hurry up and grab your ticket.
 
@@ -40,11 +40,13 @@ The SAS EuroBonus World Mastercard Premium card will still offer the following b
 
 *Source: [saseurobonusmastercard.se](https://saseurobonusmastercard.se/)*
 
-### 3. New Route to Atlanta and Cooperationg with Delta
+### 3. New Route to Atlanta and Cooperation with Delta
 
 SAS announced a new route from Copenhagen to Atlanta starting June 17, 2024. This route will allow passengers to connect to Delta Air Lines' network in the USA, the Caribbean, and Latin America. SAS also hinted at a closer cooperation with Delta Air Lines on other US routes.
 
-When SAS announced the new route, they also mentioned a tighter collaboration with Delta Air Lines for onward connections from Atlanta. This suggests that SAS customers will soon be using Delta Air Lines more frequently for onward connections.
+When SAS announced the new route, they also mentioned a tighter collaboration with Delta Air Lines for onward connections from Atlanta. It all suggests that SAS customers will soon use Delta Air Lines more frequently for onward connections.
+
+<img src="../assets/img/eurobonus-updates-feb-2024/cph-las-delta.webp" style="max-width:400px;width:100%" alt="SAS tightens cooperation and connections with Delta Air Lines." class="noborder"/>
 
 There are indications that the partnership between SAS and Delta Air Lines goes beyond just the Atlanta route. On SAS' website, Delta Air Lines is now offered as the onward connection for many destinations, including Las Vegas, Denver, Minneapolis, Boston, New York, Washington DC, and Los Angeles.
 
@@ -59,19 +61,19 @@ Surprise your loved ones with the freedom to explore over 100 SAS destinations w
 **How it works:**
 
 1. Go to [SAS website](https://www.sas.se/giftcard/).
-2. Select a value: Choose the desired amount you want to gift.
+2. Select a value: Choose the desired amount to gift.
 3. Customize: Add a personal touch with a photo and a message.
 4. Retrieve & Send: Receive a link to access the gift card and send it via email or print it for a physical gift.
 
 <img src="../assets/img/eurobonus-updates-feb-2024/sas-gift-cards.webp" style="max-width:400px;width:100%" alt="SAS Launches Gift Cards For Valentine's Day 2024." class="noborder"/>
 
-### 5. Reintroduction of Airbus A350
+### 5. Reintroduction of the Airbus A350
 
 SAS is bringing back an Airbus A350 it had previously rejected just over a year ago. The decision comes as the airline seeks to increase its widebody capacity. This particular A350-900, which once operated under the SAS registration SE-RSC between 2020 and 2022, will fly again under a new registration (VP-COC).
 
 The move follows SAS filing for bankruptcy in July 2022. As part of restructuring efforts, the airline significantly reduced its fleet size by ending several aircraft leasing agreements early. This included letting go of **three A350s**, leaving them with only three remaining in the fleet.
 
-It will be interesting to see how this re-introduction impacts SAS's operations and whether they consider bringing back the other two previously rejected A350s in the future. It will also be interesting to watch out the fleet development after the acquisition from Air France-KLM and others.
+It will be interesting to see how this reintroduction impacts SAS's operations and whether they will consider returning the other two previously rejected A350s. It will also be interesting to watch out for fleet development after the acquisition from Air France-KLM and others.
 
 <img src="../assets/img/eurobonus-updates-feb-2024/se-rsc.webp" style="max-width:400px;width:100%" alt="SAS will reintroduce an A350-900, SE-RSC." class="noborder"/>
 
@@ -79,9 +81,9 @@ It will be interesting to see how this re-introduction impacts SAS's operations 
 
 ### 6. SAS Partners With Airbus For Hydrogen-Powered Flights
 
-Airbus, SAS, Swedavia, Vattenfall and Avinor join forces to explore hydrogen-powered flights in Norway and Sweden. A major collaboration has been announced to investigate the feasibility of hydrogen-fueled aircraft, the goal is to develop a framework for the rollout of hydrogen-powered flights in both countries.
+Airbus, SAS, Swedavia, Vattenfall, and Avinor join forces to explore hydrogen-powered flights in Norway and Sweden. A significant collaboration has been announced to investigate the feasibility of hydrogen-fueled aircraft; the goal is to develop a framework for the rollout of hydrogen-powered flights in both countries.
 
-Hydrogen is seen as a promising alternative to fossil fuels for aviation, as it produces zero carbon dioxide emissions when produced from renewable electricity. The partnership will study hydrogen aircraft concepts and operations, regulatory requirements, infrastructure, supply, fuel storage and refueling at airports.
+Hydrogen is seen as a promising alternative to fossil fuels for aviation, as it produces zero carbon dioxide emissions from renewable electricity. The partnership will study hydrogen aircraft concepts and operations, regulatory requirements, infrastructure, supply, fuel storage, and airport refueling.
 
 <img src="../assets/img/eurobonus-updates-feb-2024/airbus-h2.webp" style="max-width:400px;width:100%" alt="Airbus and SAS will cooperate on hydrogen-powered flights." class="noborder"/>
 
@@ -103,4 +105,3 @@ Our guides have all the information you need to be a pro travel hacker and explo
 * [SAS Ambitious New Direct Flight To Atlanta Takes Off In June (Awards Now Available)](https://blog.awardfares.com/sas-route-to-atlanta/)
 * [SAS Will Fly To 9 New Destinations During Summer 2024](https://blog.awardfares.com/sas-summer-2024/)
 * [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
-* [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
