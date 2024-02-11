@@ -56,6 +56,8 @@ When SAS announced the new route, they also mentioned a tighter collaboration wi
 
 There are indications that the partnership between SAS and Delta Air Lines goes beyond just the Atlanta route. On SAS' website, Delta Air Lines is now offered as the onward connection for many destinations, including Las Vegas, Denver, Minneapolis, Boston, New York, Washington DC, and Los Angeles.
 
+Keep in mind that while these routes/itineraries are convenient, they do not accrue points in the EuroBonus programs yet, for the legs operated by Delta.
+
 Read more [in this post](https://blog.awardfares.com/sas-route-to-atlanta/).
 
 <img src="../assets/img/eurobonus-updates-feb-2024/sas-atlanta.webp" style="max-width:400px;width:100%" alt="SAS Opens New Route To Atlanta And Cooperation With Delta." class="noborder"/>
