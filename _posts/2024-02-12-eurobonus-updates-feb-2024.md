@@ -11,19 +11,21 @@ sitemap: false
 
 Another month, another roundup: welcome to the latest edition of our SAS EuroBonus Updates. Each month, we explore the most recent developments and offerings from SAS Scandinavian Airlines' loyalty program, so you don't have to.
 
-February has plenty to uncover, from thrilling mystery tickets and partnerships with Delta Air Lines to updates on credit card fees and exciting ventures into hydrogen-powered flights, there's plenty to uncover. Let's start!
+February has plenty to unpack, from thrilling mystery tickets and partnerships with Delta Air Lines to updates on credit card fees and exciting ventures into hydrogen-powered flights. Let's start!
 
 ## SAS EuroBonus Updates (February 2024)
 
 ### 1. Sign Up For 'Destination Unknown': Mystery Ticket for 30.000 EuroBonus Points
 
-Today (February 12), SAS Scandinavian Airlines will unveil a limited opportunity for travelers to book a flight without knowing the destination. The concept is simple yet thrilling: a round-trip mystery ticket to an unknown destination costs 30.000 EuroBonus points. The plane will depart on April 5 and return on April 8.
+Today (February 12), SAS Scandinavian Airlines will unveil a limited opportunity for EuroBonus members. The concept is simple yet thrilling: a round-trip mystery ticket to an unknown destination that costs 30.000 EuroBonus points. The plane will depart on April 5 and return on April 8.
 
 The promotion **STARTS TODAY at 12:00 PM CET**, and is only valid for 24 hours, so hurry up and grab your ticket.
 
 Read more [in this post](https://blog.awardfares.com/sas-destination-unknown/).
 
 <img src="../assets/img/eurobonus-updates-feb-2024/sas-destination-unknown.webp" style="max-width:400px;width:100%" alt="SAS Destination Unknown Mystery Ticket." class="noborder"/>
+
+As a funny note, the campaign caused such a massive speculation, that members almost [blew up the CEO's inbox (Anko van der Werff) asking where the flight is going to](https://flysmart24.no/2024/02/10/sas-stunt-har-sprengt-toppsjefens-epostkasse/). LOL.
 
 ### 2. Higher Fees For The SAS EuroBonus World Mastercard Premium
 
@@ -36,11 +38,11 @@ To sugarcoat the impact of the price increase, the card also announced (somewhat
 
 The SAS EuroBonus World Mastercard Premium card will still offer the following benefits:
 
-- Fly Premium: bonus trips in SAS Plus at the points price of SAS Go
-- Status points when you use the card
-- Up to 25 Extra Points per SEK 100 on all purchases
-- Points campaigns several times a year
-- Supplementary travel insurance with cancellation protection
+- Fly Premium: bonus trips in SAS Business and SAS Plus at the points price of SAS Go (upgrade for free).
+- Status points each month you use the card.
+- Up to 25 Extra Points per SEK 100 on all purchases.
+- Double points campaigns several times a year.
+- Supplementary travel insurance with cancellation protection.
 
 *Source: [saseurobonusmastercard.se](https://saseurobonusmastercard.se/)*
 
