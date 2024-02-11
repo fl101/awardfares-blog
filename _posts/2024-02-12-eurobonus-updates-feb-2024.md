@@ -48,7 +48,7 @@ The SAS EuroBonus World Mastercard Premium card will still offer the following b
 
 SAS announced a new route from Copenhagen to Atlanta starting June 17, 2024. This route will allow passengers to connect to Delta Air Lines' network in the USA, the Caribbean, and Latin America. SAS also hinted at a closer cooperation with Delta Air Lines on other US routes.
 
-When SAS announced the new route, they also mentioned a tighter collaboration with Delta Air Lines for onward connections from Atlanta. It all suggests that SAS customers will soon use Delta Air Lines more frequently for onward connections.
+When SAS announced the new route, they also mentioned a tighter collaboration with Delta Air Lines for onward connections from Atlanta. It all suggests that SAS customers will soon use Delta Air Lines more frequently for onward connections, [most likely even more if SAS joins SkyTeam](https://blog.awardfares.com/sas-and-skyteam/).
 
 <img src="../assets/img/eurobonus-updates-feb-2024/cph-las-delta.webp" style="max-width:400px;width:100%" alt="SAS tightens cooperation and connections with Delta Air Lines." class="noborder"/>
 
@@ -77,7 +77,7 @@ SAS is bringing back an Airbus A350 it had previously rejected just over a year 
 
 The move follows SAS filing for bankruptcy in July 2022. As part of restructuring efforts, the airline significantly reduced its fleet size by ending several aircraft leasing agreements early. This included letting go of **three A350s**, leaving them with only three remaining in the fleet.
 
-It will be interesting to see how this reintroduction impacts SAS's operations and whether they will consider returning the other two previously rejected A350s. It will also be interesting to watch out for fleet development after the acquisition from Air France-KLM and others.
+It will be interesting to see how this reintroduction impacts SAS's operations and whether they will consider returning the other two previously rejected A350s. It will also be interesting to watch out for fleet development after [the announced acquisition by Air France-KLM and others](https://blog.awardfares.com/sas-acquisition/).
 
 <img src="../assets/img/eurobonus-updates-feb-2024/se-rsc.webp" style="max-width:400px;width:100%" alt="SAS will reintroduce an A350-900, SE-RSC." class="noborder"/>
 
