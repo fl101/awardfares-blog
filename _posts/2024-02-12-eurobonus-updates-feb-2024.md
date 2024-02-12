@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Updates For SAS EuroBonus Members (February 2024)"
-category: [SAS EuroBonus]
+category: [News, SAS EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-feb-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Another month, another roundup: welcome to the latest edition of our SAS EuroBonus Updates. Each month, we explore the most recent developments and offerings from SAS Scandinavian Airlines' loyalty program, so you don't have to.
