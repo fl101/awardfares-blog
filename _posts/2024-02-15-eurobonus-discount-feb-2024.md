@@ -7,7 +7,7 @@ author: Germán
 image: /assets/img/eurobonus-discount-feb-2024/cover.webp
 ---
 
-SAS launched a new campaign for EuroBonus members with a 25% points discount on [SAS Go and SAS Plus](https://flysas.com/)trips to selected destinations in Scandinavia.
+SAS launched a new campaign for EuroBonus members with a 25% points discount on [SAS Go and SAS Plus](https://flysas.com/)  trips to selected destinations in Scandinavia.
 
 Hurry up, because there's only a few days left to book. The offer applies to both one-way and return journeys in SAS Go Bonus and SAS Plus Bonus. Children 2-11 years old get 50% of the point price, even on the already discounted price.
 
