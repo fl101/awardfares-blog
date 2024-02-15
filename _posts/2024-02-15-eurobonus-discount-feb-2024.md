@@ -9,7 +9,7 @@ hidden: true
 sitemap: false
 ---
 
-SAS EuroBonus launched a new campaign with a 25% points discount on [SAS Go and SAS Plus](https://flysas.com/) Bonus trips from Sweden to
+SAS launched a new campaign for EuroBonus members with a 25% points discount on [SAS Go and SAS Plus](https://flysas.com/)trips to selected destinations in Scandinavia.
 
 Hurry up, because there's only a few days left to book. The offer applies to both one-way and return journeys in SAS Go Bonus and SAS Plus Bonus. Children 2-11 years old get 50% of the point price, even on the already discounted price.
 
@@ -22,19 +22,19 @@ Hurry up, because there's only a few days left to book. The offer applies to bot
 * Discount: **25% OFF** in SAS Go Bonus and SAS Plus Bonus
 * Book by **20 February 2024**
 * Travel period: 1 March – 31 May 2024
-* From Sweden to: Malmö, Visby
-* From Norway to: Bergen, Evenes
-* From Denmark to: Aalborg, Faroe Islands
+* From **Sweden** to: [**Malmö**](https://awardfares.com/search?country:SE.MMX.;a:SK;z:sas), [**Visby**](https://awardfares.com/search?country:SE.VBY.;a:SK;z:sas)
+* From **Norway** to: [**Bergen**](https://awardfares.com/search?country:NO.BGO.;a:SK;z:sas), [**Evenes**](https://awardfares.com/search?country:NO.EVE.;a:SK;z:sas)
+* From **Denmark** to: [**Aalborg**](https://awardfares.com/search?country:DK.AAL.;a:SK;z:sas), [**Faroe Islands**](https://awardfares.com/search?country:DK.FAE.;a:SK;z:sas)
 
-## SAS EuroBonus Award Flights With 25% Discount
+## SAS EuroBonus 25% Discount (February 2024)
 
 There are plenty of seats available to all destinations. **Note that** you'll see the discount applied once you are logged in to your EuroBonus account:
 
 <img src="../assets/img/eurobonus-discount-feb-2024/arn-vby-sas.webp" alt="EuroBonus Award From Stockholm to Visby with Discount (February 2024)." />
 
-If you are are a SAS Mastercard cardholder and have the Fly Premium benefit, it's also possible to combine this benefit with the point discount, as seen in the image above.
+If you are a SAS Mastercard cardholder and have the Fly Premium benefit, it's also possible to combine this benefit with the point discount, as seen in the image above.
 
-Also, keep in mind that there most destinations don't have available seats over Easter 2024 (March 28 to April 1st).
+Also, remember that there most destinations don't have available seats over Easter 2024 (March 28 to April 1).
 
 ### 1. [Visby, Sweden](https://awardfares.com/search?country:SE.VBY.;a:SK;z:sas)
 
@@ -50,31 +50,31 @@ Several seats available from many cities in Sweden, including Stockholm.
 
 <img src="../assets/img/eurobonus-discount-feb-2024/arn-mmx.webp" alt="EuroBonus Award From Stockholm to Malmö with Discount (February 2024)." />
 
-### 3. Bergen (Norway)
+### 3. [Bergen (Norway)](https://awardfares.com/search?country:NO.BGO.;a:SK;z:sas)
 
 <img src="../assets/img/eurobonus-discount-feb-2024/osl-bgo-timeline.webp" alt="EuroBonus Award From Oslo to Bergen with Discount (February 2024)." />
 
 <img src="../assets/img/eurobonus-discount-feb-2024/osl-bgo.webp" alt="EuroBonus Award From Oslo to Bergen with Discount (February 2024)." />
 
-### 4. Evenes (Norway)
+### 4. [Evenes (Norway)](https://awardfares.com/search?country:NO.EVE.;a:SK;z:sas)
 
 This one is a tricky one. There are almost no seats, a few of them showing up right after Easter 2024.
 
 <img src="../assets/img/eurobonus-discount-feb-2024/osl-eve-timeline.webp" alt="EuroBonus Award From Oslo to Bergen with Discount (February 2024)." />
 
-### 5. AAlborg (Denmark)
+### 5. [AAlborg (Denmark)](https://awardfares.com/search?country:DK.AAL.;a:SK;z:sas)
 
 <img src="../assets/img/eurobonus-discount-feb-2024/cph-aal-timeline.webp" alt="EuroBonus Award From Copenhagen to Aalborg with Discount (February 2024)." />
 
 <img src="../assets/img/eurobonus-discount-feb-2024/cph-aal.webp" alt="EuroBonus Award From Copenhagen to Aalborg with Discount (February 2024)." />
 
-### 6. Faroe Islands (Denmark)
+### 6. [Faroe Islands (Denmark)](https://awardfares.com/search?country:DK.FAE.;a:SK;z:sas)
 
 <img src="../assets/img/eurobonus-discount-feb-2024/cph-fae-timeline.webp" alt="EuroBonus Award From Copenhagen to the Faroe Islands with Discount (February 2024)." />
 
 <img src="../assets/img/eurobonus-discount-feb-2024/cph-fae.webp" alt="EuroBonus Award From Copenhagen to the Faroe Islands with Discount (February 2024)." />
 
-## Search for Seats with AwardFares?
+## Search for seats with AwardFares?
 
 1. Go to [AwardFares](https://awardfares.com/signup).
 2. Under Frequent Flyer Program, choose **SAS EuroBonus only**.
