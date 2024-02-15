@@ -5,8 +5,6 @@ category: [News]
 tags: [SAS EuroBonus]
 author: Germán
 image: /assets/img/eurobonus-discount-feb-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
 SAS launched a new campaign for EuroBonus members with a 25% points discount on [SAS Go and SAS Plus](https://flysas.com/)trips to selected destinations in Scandinavia.
@@ -74,7 +72,7 @@ This one is a tricky one. There are almost no seats, a few of them showing up ri
 
 <img src="../assets/img/eurobonus-discount-feb-2024/cph-fae.webp" alt="EuroBonus Award From Copenhagen to the Faroe Islands with Discount (February 2024)." />
 
-## Search for seats with AwardFares?
+## Search For Seats With AwardFares
 
 1. Go to [AwardFares](https://awardfares.com/signup).
 2. Under Frequent Flyer Program, choose **SAS EuroBonus only**.
