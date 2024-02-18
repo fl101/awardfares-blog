@@ -137,6 +137,6 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Make sure to also check these posts out
 
-- [How To Find EVA Air Sweets Spots](https://blog.awardfares.com/eva-air-sweet-spots/)
+- [Best Redemptions on EVA Air (2023)](https://blog.awardfares.com/eva-air-best-redemptions-2023/)
 - [EVA Air Award Redemption Guide](https://blog.awardfares.com/eva-air-award-redemption/)
 - [EVA Business 787-9 Dreamliner Business Class (TPE-ICN)](https://blog.awardfares.com/eva-business-tpe-icn/)

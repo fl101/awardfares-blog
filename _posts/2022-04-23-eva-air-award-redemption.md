@@ -13,14 +13,14 @@ EVA Air award redemptions are quirky. I recently made my first award redemption 
 
 ### In This Post
 
-- [1. Searching Redemptions On EVA Air](#1-searching-redemptions-on-eva-air)
-- [2. Mileage Cost (EVA Air Miles Redemption Chart)](#2-mileage-cost-eva-air-miles-redemption-chart)
-- [3. Booking with a travel companion](#3-booking-with-a-travel-companion)
-- [4. Booking the tickets](#4-booking-the-tickets)
+- [Searching Redemptions On EVA Air](#searching-redemptions-on-eva-air)
+- [Mileage Cost (EVA Air Miles Redemption Chart)](#mileage-cost-eva-air-miles-redemption-chart)
+- [Booking with a Travel Companion](#booking-with-a-travel-companion)
+- [Booking the Tickets](#booking-the-tickets)
 - [Become a Pro](#become-a-pro)
 - [Read More](#read-more)
 
-## 1. Searching Redemptions On EVA Air
+## Searching Redemptions On EVA Air
 
 [AwardFares](https://awardfares.com) is the easiest and fastest way to search award seat availability. Even though it doesn't have direct support for EVA Air's frequent flyer program, it still provides a good way to estimate availability. In my case, I was able to find two Business seats on the EVA Air flight between Kuala Lumpur (KUL) and Taipei (TPE), which I could confirm were also available in EVA Air's system.
 
@@ -38,7 +38,7 @@ Even though I was trying to book an EVA Air flight, I was not able to find the s
 
 *Another interesting note, while several frequent flyer programs, like United MileagePlus and SAS EuroBonus, are currently not offering redemptions with Singapore Airlines, EVA Air does.*
 
-## 2. Mileage Cost (EVA Air Miles Redemption Chart)
+## Mileage Cost (EVA Air Miles Redemption Chart)
 
 As with most airlines, award redemptions with a partner airline (Star Alliance) are normally more expensive. In this case, a Star Alliance redemption between Taiwan-South East Asia would cost 70,000 miles (round-trip).
 
@@ -48,7 +48,7 @@ Whereas a redemption with EVA Air only costs 50,000 miles. A one-way ticket is h
 
 <img src="/assets/img/eva-air-redemption/eva-table.webp" />
 
-## 3. Booking with a travel companion
+## Booking with a Travel Companion
 
 EVA Air is weird in that you can't just book an award redemption for someone else. The first thing you will notice is that there is no option to select the number of passengers you want to book for. Instead, you can enter the membership number and password(!) of up to 3 travel companions. Yes, you will need the login credentials for your travel companion (or ask them to type it in for you), which just isn't great.
 
@@ -90,7 +90,7 @@ So to summarize:
 
 <img src="/assets/img/eva-air-redemption/transfer-miles.webp" />
 
-## 4. Booking the tickets
+## Booking the Tickets
 
 Now that the mileage situation was sorted out, the actual process for booking the tickets was quite simple and fast. I started the search process again, entered our membership numbers, found the flight, and now finally I could proceed to the payment screen. I was able to verify that we both have the correct amount of miles to proceed.
 
@@ -118,6 +118,6 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Make sure to also check these posts out
 
-- [How To Find EVA Air Sweets Spots](https://blog.awardfares.com/eva-air-sweet-spots/)
+- [Best Redemptions on EVA Air (2023)](https://blog.awardfares.com/eva-air-best-redemptions-2023/)
 - [EVA Air Award Redemption Guide](https://blog.awardfares.com/eva-air-award-redemption/)
 - [EVA Business 787-9 Dreamliner Business Class (TPE-ICN)](https://blog.awardfares.com/eva-business-tpe-icn/)

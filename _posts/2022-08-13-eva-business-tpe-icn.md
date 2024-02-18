@@ -88,3 +88,17 @@ As of August 2022, arrival PCR testing is mandatory for all arriving passengers.
 There are two queues, one for reservations and one for walk-ins. Unfortunately I didn't have a reservation and had to queue up for quite some time. So, be sure to make a reservation online at [Safe2GO](https://safe2gopass.com/) before to skip the queue. It doesn't seem to matter what time your reservation is. If you have a reservation you skip the main queue.
 
 <img src="/assets/img/eva-biz-tpe-icn/arrival.webp" class="half" />
+
+## Become a Pro
+
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
+
+## Read More
+
+Make sure to also check these posts out
+
+- [Best Redemptions on EVA Air (2023)](https://blog.awardfares.com/eva-air-best-redemptions-2023/)
+- [EVA Air Award Redemption Guide](https://blog.awardfares.com/eva-air-award-redemption/)
+- [EVA Business 787-9 Dreamliner Business Class (TPE-ICN)](https://blog.awardfares.com/eva-business-tpe-icn/)
