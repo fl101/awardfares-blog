@@ -13,7 +13,7 @@ EVA Air award redemptions are quirky. I recently made my first award redemption 
 
 ## 1. Searching redemptions on EVA Air
 
-[AwardFares](https://awardfares.com) is the easiest and fastest way to search award seat availability. Even though AwardFares doesn't have direct support for EVA Air's frequent flyer program, it still provides a good way to estimate availability. In my case, I was able to find two Business seats on the EVA Air flight between Kuala Lumpur (KUL) and Taipei (TPE), which I could confirm were also available in EVA Air's system.
+[AwardFares](https://awardfares.com) is the easiest and fastest way to search award seat availability. Even though it doesn't have direct support for EVA Air's frequent flyer program, it still provides a good way to estimate availability. In my case, I was able to find two Business seats on the EVA Air flight between Kuala Lumpur (KUL) and Taipei (TPE), which I could confirm were also available in EVA Air's system.
 
 <img src="/assets/img/eva-air-redemption/availability.webp" />
 
@@ -98,3 +98,18 @@ In any case, I proceeded with Online ticketing and that seemed to do the trick. 
 <img src="/assets/img/eva-air-redemption/complete.webp" />
 
 I guess the moral of the story is, if you are collecting EVA Air miles and potentially plan to book a redemption with travel companions in the future, make sure you prepare in advance!
+
+## Become a Pro
+
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
+
+## Read More
+
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
+
+- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
+- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
+- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
