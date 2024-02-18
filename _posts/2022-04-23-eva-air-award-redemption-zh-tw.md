@@ -23,7 +23,7 @@ seo:
 <br/>
 而在長榮的網站上如果只選擇**單程**，則必須一天一天重新搜尋，才有辦法找到想要的機位。例如4/15長榮有開吉隆坡—台北的里程機位，但我們預先不知道4/15有這個航班，那唯一找出這個里程機位的方式就是猜測哪天有，如果運氣不好，就會需要從4/1開始搜尋，一路從4/1,4/2,4/3……一路按到4/15才有結果，在目前航班並不穩定的時候，真的會很困擾。AwardFare的功能就是為了解決這個問題而開發的，能直接幫我們找到4/15長榮可能有開放吉隆坡—台北的兌換機位，目前測試出的準確度很高。
 
-<img src="../assets/img/eva-air-redemption/availability.png" />
+<img src="../assets/img/eva-air-redemption/availability.webp" />
 
 <br/>
 
@@ -32,15 +32,15 @@ seo:
 
 路徑：無限萬哩遊>哩程獎勵計畫>哩程兌換>酬賓機票兌換>長榮/立榮航空
 
-<img src="../assets/img/eva-air-redemption/star-alliance.png" />
+<img src="../assets/img/eva-air-redemption/star-alliance..webp" />
 
 儘管這次我想訂的機票是長榮運營的，但我在剛剛提到的**長榮/立榮航空**系統上卻找不到我想找的機位，在**星空聯盟**的系統上卻能找到這個機位。
 
 Note:要開始搜尋機位需要點擊 *行程定位* 的按鈕，也需要預先登入會員帳戶.
 
-<img src="../assets/img/eva-air-redemption/start.png" />
+<img src="../assets/img/eva-air-redemption/start.webp" />
 
-<img src="../assets/img/eva-air-redemption/flight-result.png" />
+<img src="../assets/img/eva-air-redemption/flight-result.webp" />
 
 *另一件有趣的事：最近一些航空聯盟像是 United MileagePlus（美聯的萬里飛行常客計劃）和 SAS EuroBonus都沒有提供兌換新加坡航空的機位，但在長榮航空系統上卻是可以用哩程兌換新加坡航空機位的*
 
@@ -48,11 +48,11 @@ Note:要開始搜尋機位需要點擊 *行程定位* 的按鈕，也需要預�
 
 大部分的航空公司都會在會員用自家哩程兌換其他聯盟成員機票時，要求用更多的哩程點數兌換（例如用長榮的哩程兌換其他星空聯盟航空的機票，就會比訂長榮的扣更多點），一般用星空聯盟里程兌換台灣到東南亞的商務艙機票要扣抵70,000哩（來回機票）。
 
-<img src="../assets/img/eva-air-redemption/star-alliance-table.png" />
+<img src="../assets/img/eva-air-redemption/star-alliance-table.webp" />
 
 但如果想要兌換**長榮航空的來回商務艙機位**就只需要扣50,000哩，單程只要一半（25,000哩）。這裡可以留意一下，即使是用長榮網站上*星空聯盟* 的搜尋功能而非*長榮/立榮航空*的搜尋功能，只要你是訂**長榮航空** 的機票，就可以用比較少的哩程點數兌換。
 
-<img src="../assets/img/eva-air-redemption/eva-table.png" />
+<img src="../assets/img/eva-air-redemption/eva-table.webp" />
 
 ## 3. 用哩程幫同行夥伴訂位
 
@@ -61,11 +61,11 @@ Note:要開始搜尋機位需要點擊 *行程定位* 的按鈕，也需要預�
 對，你因此會需要同行夥伴的登入資訊和授權（當然你也可以請他們幫你輸入），這個聽起來就不太妥當……。
 
 
-<img src="../assets/img/eva-air-redemption/travel-companions.png" />
+<img src="../assets/img/eva-air-redemption/travel-companions.webp" />
 
 不過幸好我和我的同行夥伴都有長榮航空的會員帳號（雖然我們只有一個人有在長榮航空上累積哩程），我在系統上輸入了我們的個人資訊也找到了機位，但當我要繼續下一步時，卻跳出了紅字訊息顯示 *「您的哩程不足（Your mileage is not eligible）」* 。老實說這非常奇怪，因為我確定我們的哩程超過了需要扣抵的點數，絕對可以兌換兩個人的機位。
 
-<img src="../assets/img/eva-air-redemption/mileage-not-eligible-zh-tw.png" />
+<img src="../assets/img/eva-air-redemption/mileage-not-eligible-zh-tw.webp" />
 
 到這個關頭我決定聯絡長榮航空客服來了解卡關的原因。我先打了電話到台灣辦公室，不過他們剛好因為連假不在服務時間（台灣的週一），接著我試著打到美國辦公室，不過他們週日也不營業，最後我打了澳洲的客服電話，非常開心他們立刻接了，剛好一個非常親切的客服正在線上。
 
@@ -78,17 +78,17 @@ Note:要開始搜尋機位需要點擊 *行程定位* 的按鈕，也需要預�
 路徑：無限萬哩遊>帳戶管理>受讓人清單管理
 
 
-<img src="../assets/img/eva-air-redemption/form.png" />
+<img src="../assets/img/eva-air-redemption/form.webp" />
 
 於是我快速回填了表單寄回去，幸運的是大約過了一個小時就收到「網路服務已開通」的email。
 
 接著**我需要把我的同行夥伴設為受讓人**，但不幸的是這個程序**可能會需要24小時**才能完成，這點還滿煩的，因為你不知道這段期間中會不會有人突然佔走了你的機位。
 
-<img src="../assets/img/eva-air-redemption/nominee-registration.png" />
+<img src="../assets/img/eva-air-redemption/nominee-registration.webp" />
 
 最後這個受讓人在申請隔天凌晨順利被建立（台灣時間）。我在台灣時間4/4申請，等到4/5台灣過半夜才總算啟用了！
 
-<img src="../assets/img/eva-air-redemption/nominee-effective.png" />
+<img src="../assets/img/eva-air-redemption/nominee-effective.webp" />
 
 再來就要開始轉讓哩程了！我先確認哩程機位還是有效，接著設定轉讓旅程給同行夥伴，這時我有點擔心這個步驟也要花一點時間，不過所幸這一步倒是立刻就轉好了，而且沒有扣其他手續費用。
 
@@ -102,23 +102,23 @@ Note:要開始搜尋機位需要點擊 *行程定位* 的按鈕，也需要預�
 4. 受讓人登記的生效時間會是台灣時間的第二天，或者最多等候24小時
 5. 轉讓足夠的哩程給同行夥伴
 
-<img src="../assets/img/eva-air-redemption/transfer-miles.png" />
+<img src="../assets/img/eva-air-redemption/transfer-miles.webp" />
 
 ## 4. 訂機位
 
 好了，現在哩程的狀況都解決了，終於可以開始訂機票了，這個階段的實際作業其實就很簡單也很快速，我再次開始搜尋機位、填寫好會員號碼、找到機位之後就來到了付款畫面，這時也能看到兩個乘客都有足夠的哩程來抵扣了。
 
-<img src="../assets/img/eva-air-redemption/mileage-deduction.png" />
+<img src="../assets/img/eva-air-redemption/mileage-deduction.webp" />
 
 接著也能順利填寫乘客資訊、確認訂位資料，並支付其他稅金。這個費用算是非常合理，兩個人大概只需要再多付$140美金，對一趟五小時的商務艙旅程來說，這價格並不壞。
 
 最後一個畫面稍微有點讓我困惑，你有兩個選項，一個是線上開票，另一個是行程訂位，對我來說差別不大……
 
-<img src="../assets/img/eva-air-redemption/online-ticketing.png" />
+<img src="../assets/img/eva-air-redemption/online-ticketing.webp" />
 
 不管怎麼樣，我點了線上開票，看起來是對的，很快就收到了我的電子機票和訂位資訊。
 
 
-<img src="../assets/img/eva-air-redemption/complete.png" />
+<img src="../assets/img/eva-air-redemption/complete.webp" />
 
-我想這個故事告訴我們的是，如果你正在累積長榮航空的哩程點數，並且有計劃要用長榮航空的點數兌換哩程，請記得要提前作業，不要等到最後一刻了！
+我想這個故事告訴我們的是，如果你正在累積長榮航空的哩程點數，並且有計劃要用長榮航空的點數兌換哩程，請記得要提前作業，不要等到最後一刻了
