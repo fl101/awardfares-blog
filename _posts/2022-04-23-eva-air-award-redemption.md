@@ -2,7 +2,7 @@
 layout: post
 title: "EVA Air Award Redemption Guide"
 category: [Guide]
-tags: [EVA, Guide]
+tags: [EVA Air, Guide]
 author: Philip
 image: /assets/img/eva-air-redemption/cover.webp
 seo:
@@ -11,7 +11,16 @@ seo:
 
 EVA Air award redemptions are quirky. I recently made my first award redemption using their frequent flyer program, and the process was not easy, especially since I was booking a flight for two people, myself and a travel companion.
 
-## 1. Searching redemptions on EVA Air
+### In This Post
+
+- [1. Searching Redemptions On EVA Air](#1-searching-redemptions-on-eva-air)
+- [2. Mileage Cost (EVA Air Miles Redemption Chart)](#2-mileage-cost-eva-air-miles-redemption-chart)
+- [3. Booking with a travel companion](#3-booking-with-a-travel-companion)
+- [4. Booking the tickets](#4-booking-the-tickets)
+- [Become a Pro](#become-a-pro)
+- [Read More](#read-more)
+
+## 1. Searching Redemptions On EVA Air
 
 [AwardFares](https://awardfares.com) is the easiest and fastest way to search award seat availability. Even though it doesn't have direct support for EVA Air's frequent flyer program, it still provides a good way to estimate availability. In my case, I was able to find two Business seats on the EVA Air flight between Kuala Lumpur (KUL) and Taipei (TPE), which I could confirm were also available in EVA Air's system.
 
@@ -29,7 +38,7 @@ Even though I was trying to book an EVA Air flight, I was not able to find the s
 
 *Another interesting note, while several frequent flyer programs, like United MileagePlus and SAS EuroBonus, are currently not offering redemptions with Singapore Airlines, EVA Air does.*
 
-## 2. Mileage cost
+## 2. Mileage Cost (EVA Air Miles Redemption Chart)
 
 As with most airlines, award redemptions with a partner airline (Star Alliance) are normally more expensive. In this case, a Star Alliance redemption between Taiwan-South East Asia would cost 70,000 miles (round-trip).
 
@@ -107,9 +116,8 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 ## Read More
 
-Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
+Make sure to also check these posts out
 
-- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [How To Find EVA Air Sweets Spots](https://blog.awardfares.com/eva-air-sweet-spots/)
+- [EVA Air Award Redemption Guide](https://blog.awardfares.com/eva-air-award-redemption/)
+- [EVA Business 787-9 Dreamliner Business Class (TPE-ICN)](https://blog.awardfares.com/eva-business-tpe-icn/)
