@@ -27,9 +27,9 @@ Throughout the COVID pandemic Taoyuan airport has felt pretty deserted, and this
 
 ## Lounge
 
-The lounge experience at TPE has improved some what. The only lounge available today was The Star, which is the main EVA lounge for business class and Star Alliance gold passengers. Even though I was traveling in EVA Business (Royal Laurel Class), The Infinity lounge was not open (I'm not sure if it's still temporarily closed, or just not open at the time of my flight).
+The lounge experience at TPE has improved somewhat. The only lounge available today was The Star, which is the main EVA lounge for business class and Star Alliance gold passengers. Even though I was traveling in EVA Business (Royal Laurel Class), The Infinity lounge was not open (I'm not sure if it's still temporarily closed, or just not open at the time of my flight).
 
-Anyways, at least there was a proper selection of food, drinks, snacks, and alcoholic beverages available today. During all of my previous visits during the past 2 years, the only thing served was a bottle of water. The food was good, with the BBQ ribs being the highlight. Definitely worth trying!
+Anyway, at least there was a proper selection of food, drinks, snacks, and alcoholic beverages available today. During all of my previous visits during the past 2 years, the only thing served was a bottle of water. The food was good, with the BBQ ribs being the highlight. Definitely worth trying!
 
 <figure>
   <img src="/assets/img/eva-biz-tpe-icn/lounge1.webp" class="half" />

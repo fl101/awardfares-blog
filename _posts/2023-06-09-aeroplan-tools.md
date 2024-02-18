@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "5 Essential Tools Every Aeroplan Member Needs"
-category: [Air Canada Aeroplan, Guide]
+category: [Aeroplan, Guide]
 author: Germán
 image: /assets/img/aeroplan-tools/cover.webp
+seo:
+  date_modified: 2024-02-18
 ---
 
-Being an Aeroplan member can open up a world of travel opportunities. However, to truly make the most of this program, there are several tools you might consider using. These tools can help you both earn and redeem Aeroplan miles more efficiently, find award availability, and plan your dream trips. 
+Being an Aeroplan member can open up a world of travel opportunities. However, to truly make the most of this program, there are several tools you might consider using. These tools can help you both earn and redeem Aeroplan miles more efficiently, find award availability, and plan your dream trips.
 
 If you are a serious Aeroplan member, here are our top five essential tools every Aeroplan member should have in their arsenal.
 
@@ -52,10 +54,16 @@ Finally, an Air Canada/Aeroplan co-branded credit card is a tool that can signif
 <img src="/assets/img/aeroplan-tools/aeroplan-credit-cards.webp" alt="Aeroplan Credit Cards." />
 </figure>
 
+## Become an Aeroplan Pro
+
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
 ## Read More
 
-Make sure to also check these posts out
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-* [How To Find First-class Award Flights Using Aeroplan Miles (With Realtime Updates)](https://blog.awardfares.com/aeroplan-first-class-awards/)
 * [How To Find The Best Aeroplan Award Flights (9 Sweet Spots)](https://blog.awardfares.com/aeroplan-guide/)
+* [Aeroplan First-Class Awards](https://blog.awardfares.com/aeroplan-first-class-awards/)
+* [The Cowtool Alternative With Superpowers](https://blog.awardfares.com/awardfares-vs-cowtool/)
