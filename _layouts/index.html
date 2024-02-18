@@ -18,7 +18,7 @@ layout: default
       </a>
     </div>
     <div>
-      <div class="date">{{ latest.date | date: "%B %-d, %Y" }} </div>
+      <div class="date">{% include date.html post=latest %}</div>
       <a href="{{ latest.url }}">
         <h2>{{ latest.title }}</h2>
       </a>
@@ -42,7 +42,7 @@ layout: default
         <a href="{{ post.url }}">
           <img src="{{ post.image }}" loading="lazy" alt="Cover image for {{ post.title }}" />
         </a>
-        <div class="date">{{ post.date | date: "%B %-d, %Y" }} </div>
+        <div class="date">{% include date.html post=post %}</div>
         <a href="{{ post.url }}">
           <h3>{{ post.title }}</h3>
         </a>
@@ -70,7 +70,7 @@ layout: default
         <a href="{{ post.url }}">
           <img src="{{ post.image }}" loading="lazy" alt="Cover image for {{ post.title }}" />
         </a>
-        <div class="date">{{ post.date | date: "%B %-d, %Y" }} </div>
+        <div class="date">{% include date.html post=post %}</div>
         <a href="{{ post.url }}">
           <h3>{{ post.title }}</h3>
         </a>
@@ -95,7 +95,7 @@ layout: default
         <a href="{{ post.url }}">
           <img src="{{ post.image }}" loading="lazy" alt="Cover image for {{ post.title }}" />
         </a>
-        <div class="date">{{ post.date | date: "%B %-d, %Y" }} </div>
+        <div class="date">{% include date.html post=post %}</div>
         <a href="{{ post.url }}">
           <h3>{{ post.title }}</h3>
         </a>

@@ -7,7 +7,7 @@
       "id": "{{ post.url | slugify }}",
       "title": "{{ post.title | xml_escape }}",
       "tags": "{{ post.tags | join: ', ' }}",
-      "date": "{{ post.date | date: '%B %-d, %Y' }}",
+      "date": "{% include date.html post=post %}",
       "sortDate": "{{ post.date | date: '%Y-%m-%dT%H:%M:%S.%L%z' }}",
       "author": "{{ post.author | xml_escape }}",
       "category": {{ post.category | jsonify }},

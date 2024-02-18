@@ -8,7 +8,7 @@ layout: default
 
 <div class="post {{ page.lang }}">
   <div class="post-title">
-    <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
+    <span class="date">{% include date.html post=page %}</span>
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}
     <h2 class="subtitle">{{ page.subtitle }}</h2>
