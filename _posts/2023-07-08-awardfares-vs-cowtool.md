@@ -19,14 +19,14 @@ This guide closely examines the key differences between AwardFares and Cowtool.
 
 ### Contents
 
-- [What is Cowtool? {#what-is-cowtool}](#what-is-cowtool-what-is-cowtool)
-- [AwardFares vs. Cowtool: What are the differences? {#key-differences}](#awardfares-vs-cowtool-what-are-the-differences-key-differences)
+- [What is Cowtool?](#what-is-cowtool)
+- [AwardFares vs. Cowtool: What are the differences?](#awardfares-vs-cowtool-what-are-the-differences)
 - [In a nutshell](#in-a-nutshell)
 - [Conclusion](#conclusion)
-- [Get started](#get-started)
-- [Read more {#read-more}](#read-more-read-more)
+- [Become an Aeroplan Pro](#become-an-aeroplan-pro)
+- [Read More](#read-more)
 
-## What is Cowtool? {#what-is-cowtool}
+## What is Cowtool?
 
 [Cowtool](https://cowtool.com) is a tool that provides information about fare classes and seat availability for different flights, and it has been particularly useful for Air Canada Aeroplan members to understand pricing, seat categories and upgrade opportunities.
 
@@ -36,7 +36,7 @@ The tool also uses codes to denote different cabin classes, such as "J" for busi
 
 <img src="/assets/img/awardfares-vs-cowtool/cowtool-home.webp" alt="Cowtool Home Page (2023)" />
 
-## AwardFares vs. Cowtool: What are the differences? {#key-differences}
+## AwardFares vs. Cowtool: What are the differences?
 
 ### 1. User Interface: AwardFares has a modern UI and beautiful charts {#user-interface}
 
@@ -98,7 +98,7 @@ Customer support is at the core of AwardFares’ principles. That’s why some U
 <img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" class="half" />
 </figure>
 
-### 6. Pricing {#pricing}
+### 6. Pricing
 
 Both Cowtool and AwardFares are subscription-based and have free and paid tiers.
 
@@ -136,16 +136,18 @@ On the other hand, AwardFares provides a stunning, **modern user interface**, me
 
 Overall, AwardFares can be a great upgrade for both beginners and advanced Aeroplan members looking for a more powerful and intuitive way of leveraging their miles.
 
-## Get started
+## Become an Aeroplan Pro
 
-You can try searching for award flights on Singapore Airlines [using AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro-tips!
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
-## Read more {#read-more}
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-Make sure to also check these posts out
+## Read More
 
-- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
-- [AwardFares vs. Point.me](https://blog.awardfares.com/awardfares-vs-point-me/)
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
+
 - [How To Find The Best Aeroplan Award Flights](https://blog.awardfares.com/aeroplan-guide/)
 - [5 Essential Tools Every Aeroplan Member Needs](https://blog.awardfares.com/aeroplan-tools/)
 - [How To Find First-class Award Flights Using Aeroplan Miles (With Realtime Updates)](https://blog.awardfares.com/aeroplan-first-class-awards/)
+- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
+- [AwardFares vs. Point.me](https://blog.awardfares.com/awardfares-vs-point-me/)

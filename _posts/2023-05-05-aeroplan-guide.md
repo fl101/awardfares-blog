@@ -19,7 +19,8 @@ In this guide, we'll show you how AwardFares simplifies this process, and share 
 - [How To Find Aeroplan Sweet Spots In 2024](#how-to-find-aeroplan-sweet-spots-in-2024)
 - [Bonus: Find Emirates Awards](#bonus-find-emirates-awards)
 - [Aeroplan Award Chart (2024)](#aeroplan-award-chart-2024)
-- [Get Started and Stay Tuned](#get-started-and-stay-tuned)
+- [Become an Aeroplan Pro](#become-an-aeroplan-pro)
+- [Read More](#read-more)
 
 ## What is Aeroplan?
 
@@ -257,6 +258,17 @@ With AwardFares, it’s easy to identify available award flights on Emirates. Si
 
 Check the complete and [updated Aeroplan award chart on Air Canada’s website](https://www.aircanada.com/content/dam/aircanada/loyalty-content/documents/flight-rewards-chart-en.pdf).
 
-## Get Started and Stay Tuned
+## Become an Aeroplan Pro
 
-We are rolling out new features and improvements regularly, so make sure to [create a (free) account](https://awardfares.com/signup) to stay on top of the latest news, announcements and guide through our newsletter.
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
+
+## Read More
+
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
+
+* [How To Find The Best Aeroplan Award Flights In 2024 (Sweet Spots)](https://blog.awardfares.com/aeroplan-guide/)
+* [Aeroplan First-Class Awards](https://blog.awardfares.com/aeroplan-first-class-awards/)
+* [The Cowtool Alternative With Superpowers](https://blog.awardfares.com/awardfares-vs-cowtool/)
+* [5 Essential Tools Every Aeroplan Member Needs](https://blog.awardfares.com/aeroplan-tools/)
