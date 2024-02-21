@@ -5,13 +5,11 @@ category: [News, AAdvantage]
 tags: [American]
 author: Germán
 image: /assets/img/american-updates-feb-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
-Flying with American Airlines? Starting February 20, 2024, the airline is implementing several changes that will impact how you pack, earn miles, and book your next trip.
+Flying with American Airlines? Starting February 20, 2024, the airline is implementing several changes that will impact how you pack, earn miles, and book your next trip. These changes aim to reward loyalty and incentivize booking directly with American Airlines. AAdvantage members will enjoy additional benefits, while some fees will increase for non-direct bookings.
 
-These changes aim to reward loyalty and incentivize booking directly with American Airlines. AAdvantage members will enjoy additional benefits, while some fees will increase for non-direct bookings.
+Let's have a quick look at the updates!
 
 ## American Airlines Changes (February 2024)
 
@@ -47,6 +45,8 @@ Want more details? Check out [the full article on American Airlines' website](ht
 ## Your Gateway To AAdvantage Awards
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+
+<img src="../assets/img/american-updates-feb-2024/aadvantage-landing.webp" alt="Use AwardFares to find AAdvantage Award Availability." class="noborder"/>
 
 With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
