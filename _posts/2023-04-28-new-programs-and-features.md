@@ -8,11 +8,11 @@ image: /assets/img/new-programs-and-features-apr-2023/cover.webp
 
 We're thrilled to announce the rollout of some great new features that we know you're going to love! As we continue to innovate and improve our platform, we had the chance to incorporate some of your feedback in this new version of AwardFares. 
 
-1. [Two New Frequent Flyer Programs](#new-providers-american-and-alaska)
-2. [Area Search](#area-search)
-3. [Improved Frequent Flyer Program Picker](#improved-frequent-flyer-program-picker)
-4. [First Class Search With SAS EuroBonus](#bonus-first-class-search-with-sas-eurobonus)
-
+- [New Providers: American and Alaska](#new-providers-american-and-alaska)
+- [Area Search](#area-search)
+- [Improved Frequent Flyer Program Picker](#improved-frequent-flyer-program-picker)
+- [Bonus: First-class Search With SAS EuroBonus](#bonus-first-class-search-with-sas-eurobonus)
+- [Get Started and Stay Tuned](#get-started-and-stay-tuned)
 
 ## New Providers: American and Alaska
 

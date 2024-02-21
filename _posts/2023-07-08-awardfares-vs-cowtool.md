@@ -68,17 +68,15 @@ Cowtool shines in its depth of data and information. The platform offers a compr
 
 Cowtool offers a collection of five very-targeted tools for Air Canada flyers and Aeroplan members.
 
-* **AC Reward Searcher**. Unofficial tool for searching Aeroplan flight redemptions. It allows searching multiple dates, origins, and destinations, and has extremely advanced filtering to help you find the perfect itinerary. You must be signed in to use this.
-* **Air Canada (AC) PNR Viewer**. Unofficial tool for viewing a PNR. It shows all pertinent data about your PNR in a concise format.
-* **Air Canada Schedule Change Notifier**. Unofficial tool to notify you have AC schedule changes. It looks for any AC operated, and many AC marketed flights in your TripIt account that have times or aircraft types that are different than what's currently on AC's schedule, and sends an email if it finds anything.
-* **Air Canada SQD/SQM Calculator**. Unofficial AC SQD/SQM calculator. Built by various FlyerTalkers using a database of crowd-sourced distances for numerous city pairs, it will tell you exactly how much SQD/SQM you'll earn, per segment, for any itineraries you can come up with. This is also the same code that the PNR Viewer uses to determine the SQD/SQM breakdowns.
-* **Air Canada Flight Status**. View flight status, seat maps, menus, and departure/arrival information. Some information is only available as departure time gets closer.
-
+- **AC Reward Searcher**. Unofficial tool for searching Aeroplan flight redemptions. It allows searching multiple dates, origins, and destinations, and has extremely advanced filtering to help you find the perfect itinerary. You must be signed in to use this.
+- **Air Canada (AC) PNR Viewer**. Unofficial tool for viewing a PNR. It shows all pertinent data about your PNR in a concise format.
+- **Air Canada Schedule Change Notifier**. Unofficial tool to notify you have AC schedule changes. It looks for any AC operated, and many AC marketed flights in your TripIt account that have times or aircraft types that are different than what's currently on AC's schedule, and sends an email if it finds anything.
+- **Air Canada SQD/SQM Calculator**. Unofficial AC SQD/SQM calculator. Built by various FlyerTalkers using a database of crowd-sourced distances for numerous city pairs, it will tell you exactly how much SQD/SQM you'll earn, per segment, for any itineraries you can come up with. This is also the same code that the PNR Viewer uses to determine the SQD/SQM breakdowns.
+- **Air Canada Flight Status**. View flight status, seat maps, menus, and departure/arrival information. Some information is only available as departure time gets closer.
 
 ### 3. Frequent Flyer Programs {#ffps}
 
 While Cowtool is mainly targeted to Air Canada Aeroplan members, AwardFares covers a selection of major airlines from Star Alliance, Oneworld, and other airlines. As of July 2023, we support American AAdvantage, Air Canada Aeroplan, Avianca LifeMiles, Alaska Mileage Plan, United MileagePlus and SAS EuroBonus.
-
 
 ### 4. Mobile Experience {#mobile}
 
