@@ -4,29 +4,27 @@ title: "Avianca LifeMiles Sweet Spots And How To Find Them (2023)"
 category: [Avianca LifeMiles, Guide]
 author: Germán
 image: /assets/img/lifemiles-sweet-spots/cover.webp
+hidden: true
+sitemap: false
 ---
 
 The LifeMiles award chart can be one of the most lucrative ones for frequent flyers, so much, that it has increasingly gained popularity among Europeans and residents of the United States.
 
 The value of Avianca LifeMiles has remained quite stable over the past few years, and redemptions in premium cabins (Business Class and First) are slightly cheaper compared to other programs.
 
-**But can you find seats available?** In this post, we cover the best Avianca LifeMiles awards with *real* availability, including our favorite picks.
+**But can you find seats available?** In this post, we cover the best Avianca LifeMiles awards with _real_ availability, including our favorite picks.
 
 ## Avianca LifeMiles Sweet Spots (Our Top Picks) {#sweet-spots}
 
 Here are our top Avianca LifeMiles redemptions, and how to find them using AwardFares (click to search).
 
-
 ### 1. [New York to Europe in Business Class](https://awardfares.com/search?area:NYC.zone:Europe.;c:business;z:lifemiles)
 
-You can fly this route on many Star Alliance partners including Lufthansa, Austrian and even Singapore Airlines for around 63,000 miles, a great deal for a premium cabin award, as it's significantly cheaper than many other programs. 
-
+You can fly this route on many Star Alliance partners including Lufthansa, Austrian and even Singapore Airlines for around 63,000 miles, a great deal for a premium cabin award, as it's significantly cheaper than many other programs.
 
 <img src="/assets/img/lifemiles-sweet-spots/us-europe.webp" alt="New York to Europe in Business Class using LifeMiles (AwardFares)." />
 
 <img src="/assets/img/lifemiles-sweet-spots/us-europe-timeline.webp" alt="New York to Europe in Business Class using LifeMiles (AwardFares)." />
-
-
 
 ### 2. [Europe to Tokyo on ANA Business Class](https://awardfares.com/search?area:LON.area:TYO.;c:business;z:lifemiles)
 
@@ -36,21 +34,17 @@ This flight is a rare find, with only a few seats released close to the date, bu
 
 <img src="/assets/img/lifemiles-sweet-spots/europe-tyo.webp" alt="Europe to Tokyo Haneda on ANA Business Class using LifeMiles (AwardFares)." />
 
-
 ### 3. [Intra-Europe Flights](https://awardfares.com/search?zone:Europe.zone:Europe.;z:lifemiles)
 
 Flying across Europe during the summer can be quite expensive. But for 10,000-30,0000 miles you can get a ton of value during peak season, especially on premium cabins such as Lufthansa or Brussels Airlines Business Class.
 
-
 <img src="/assets/img/lifemiles-sweet-spots/intra-europe.webp" alt="LifeMiles Sweet Spots: Intra-Europe award flights (AwardFares)." />
-
 
 ### 4. [Los Angeles to Syndey on United](https://awardfares.com/search?LAX.SYD.;a:UA;z:lifemiles#)
 
 Economy Class fares can easily be well over USD $2,000, but for just 40,000 miles you can score a seat on this 15h flight and explore Australia.
 
 <img src="/assets/img/lifemiles-sweet-spots/lax-syd.webp" alt="LifeMiles Sweet Spots: Los Angeles to Sydney on United Airlines (AwardFares)." />
-
 
 ### 5. [Lufthansa First Class](https://awardfares.com/search?..;c:first;a:LH,UA;z:lifemiles)
 
@@ -60,7 +54,6 @@ Without surcharges and for only up to 87,000 miles​​ (one-way), this is one 
 
 <img src="/assets/img/lifemiles-sweet-spots/lh-first-list.webp" alt="LifeMiles Sweet Spots: Lufthansa First Class for up to 87,000  miles (AwardFares)." />
 
-
 ### 6. [Miami to Santiago de Chile](https://awardfares.com/search?MIA.SCL.;z:lifemiles)
 
 At just 50,000 miles for a Business Class seat, these awards are at great value compared to deep-South America cash prices. There are options with Copa Airlines and Avianca on all three classes: Economy, Business and First (domestic).
@@ -69,29 +62,23 @@ At just 50,000 miles for a Business Class seat, these awards are at great value 
 
 <img src="/assets/img/lifemiles-sweet-spots/mia-scl-timeline.webp" alt="LifeMiles Sweet Spots: Miami to Santiago de Chile (AwardFares)." />
 
-
 ### 7. [Santiago or Buenos Aires to New York](https://awardfares.com/search?SCL,area:BUE.area:NYC.;z:lifemiles)
 
 Similarly, there are plenty of flights from Santiago and Buenos Aires to New York via Panama (PTY) and Bogota (BOG).
 
 <img src="/assets/img/lifemiles-sweet-spots/scl-jfk.webp" alt="LifeMiles Sweet Spots: Santiago or Buenos Aires to New York (AwardFares)." />
 
-
-
 ### 8. [Los Angeles to Taipei](https://awardfares.com/search?LAX.TPE.;z:lifemiles)
 
-At 40,000 miles in Economy and 70,000 miles in Business Class, these are great options to explore Asia with EVA Air, Asiana or even ANA. Note that for the same price, you can find options to other destinations such as Tokyo, Bangkok, or Hong Kong. 
+At 40,000 miles in Economy and 70,000 miles in Business Class, these are great options to explore Asia with EVA Air, Asiana or even ANA. Note that for the same price, you can find options to other destinations such as Tokyo, Bangkok, or Hong Kong.
 
 <img src="/assets/img/lifemiles-sweet-spots/lax-tpe.webp" alt="LifeMiles Sweet Spots: Los Angeles to Taipei (AwardFares)." />
-
 
 ### 9. [Europe to Bangkok with Thai Airways](https://awardfares.com/search?zone:Europe.BKK.;a:TG;z:lifemiles#)
 
 There's plenty of available seats on both Economy and Business Class from many cities in Europe, including Paris, London, Zurich, and Stockholm.
 
 <img src="/assets/img/lifemiles-sweet-spots/europe-bkk.webp" alt="LifeMiles Sweet Spots: Europe to Bangkok on Thai Airways (AwardFares)." />
-
-
 
 ## How to find Avianca LifeMiles Awards using AwardFares (Step-by-step) {#how-to}
 
@@ -115,7 +102,6 @@ Optional: you can also perform broad searches from an entire area, region, or me
 <img src="/assets/img/lifemiles-sweet-spots/2-route.gif" alt="Select the route." />
 </figure>
 
-
 ### 4. Add travel dates (optional).
 
 If you know your travel dates, try adding them to the search field. Once selected, AwardFares will start searching for available flights for that date, and will display them in a list below.
@@ -125,7 +111,6 @@ If you know your travel dates, try adding them to the search field. Once selecte
 </figure>
 
 Alternatively, if you don't have a set travel date, you can select the **Timeline View** to explore the availability for multiple days simultaneously. The bars show different classes in different colors.
-
 
 ### 5. Add more filters (optional).
 
@@ -141,13 +126,11 @@ And here's another example of filtering results by airline, to only show flights
 <img src="/assets/img/lifemiles-sweet-spots/5-airline.gif" alt="Filter results by airline." />
 </figure>
 
-
 There are many more filters you can explore adding, such as number of passengers, aircraft type, number of stops and even flight number!
 
 ### 6. Done.
 
 That’s it! Pretty easy, huh? With only a few clicks, you can see LifeMiles inventory on both Avianca Airlines as well as partners.
-
 
 ## Upgrade for more features
 
