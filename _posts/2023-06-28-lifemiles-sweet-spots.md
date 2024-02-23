@@ -5,8 +5,9 @@ category: [Avianca LifeMiles, Guide]
 author: Germán
 image: /assets/img/lifemiles-sweet-spots/cover.webp
 hidden: true
-sitemap: false
 ---
+
+**UPDATE: As of 2024, we stopped supporting Avianca LifeMiles due to recent changes in the connectiong to the program. You can still search for awards on Avianca using other providers.**
 
 The LifeMiles award chart can be one of the most lucrative ones for frequent flyers, so much, that it has increasingly gained popularity among Europeans and residents of the United States.
 
