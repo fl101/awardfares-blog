@@ -2,7 +2,6 @@
 layout: post
 title: New Pricing and New Features
 category: [Tutorial]
-tags: [News]
 author: Philip
 image: /assets/img/new-pricing-and-new-features/overview.png
 ---

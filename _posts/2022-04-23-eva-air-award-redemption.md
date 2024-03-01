@@ -2,7 +2,7 @@
 layout: post
 title: "EVA Air Award Redemption Guide"
 category: [Guide]
-tags: [EVA Air, Guide]
+tags: [EVA Air]
 author: Philip
 image: /assets/img/eva-air-redemption/cover.webp
 seo:

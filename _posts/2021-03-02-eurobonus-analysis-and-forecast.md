@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SAS EuroBonus Analysis and Forecast (Free Tool)
-category: [Tools, SAS EuroBonus]
-tags: []
+category: [Tools, EuroBonus]
+tags: [SAS]
 author: Philip
 image: /assets/img/eurobonus-analysis-and-forecast/cover.webp
 hide_image_in_post: true

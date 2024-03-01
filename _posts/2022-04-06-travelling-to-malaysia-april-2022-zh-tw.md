@@ -2,7 +2,7 @@
 layout: post
 title: 2022年4月—馬來西亞解除入境管制，2022年馬來西亞入境經驗分享
 category: [Guide]
-tags: [Guide, COVID-19]
+tags: [COVID-19]
 author: Philip
 image: /assets/img/malaysia-border-april-2022/mysafetravel.png
 lang: zh-TW

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lufthansa First Available 30 Days in Advance
-category: News
+category: [News]
 tags: [Lufthansa]
 author: Philip
 image: /assets/img/lufthansa-first/map.png
