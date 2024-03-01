@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alaska Mileage Plan Updates (June 2023)"
-category: [Alaska Mileage Plan, Guide]
+category: [Mileage Plan, Guide]
 author: Germán
 image: /assets/img/alaska-mileageplan-updates-june-2023/cover.webp
 ---
@@ -10,12 +10,13 @@ Alaska Airlines just announced new partners, routes and redemptions starting in 
 
 ### In a nutshell
 
-- [New Partner STARLUX Airlines](#starlux)
-- [Seattle to Paris on Air Tahiti Nui](#air-tahiti)
-- [Seattle to Helsinki on Finnair](#finnair)
-- [San Francisco or Los Angeles to Madrid on Iberia](#iberia)
-- [San Francisco To Sydney On Qantas](#qantas)
-- [Bonus: Earn double miles on Qatar Airlines](#qatar)
+- [New Partner STARLUX Airlines {#starlux}](#new-partner-starlux-airlines-starlux)
+- [Seattle to Paris on Air Tahiti Nui {#air-tahiti}](#seattle-to-paris-on-air-tahiti-nui-air-tahiti)
+- [Seattle to Helsinki on Finnair {#finnair}](#seattle-to-helsinki-on-finnair-finnair)
+- [San Francisco or Los Angeles to Madrid on Iberia {#iberia}](#san-francisco-or-los-angeles-to-madrid-on-iberia-iberia)
+- [San Francisco To Sydney on Qantas {#qantas}](#san-francisco-to-sydney-on-qantas-qantas)
+- [Bonus: Earn double miles on Qatar Airlines {#qatar}](#bonus-earn-double-miles-on-qatar-airlines-qatar)
+- [Read More](#read-more)
 
 ## New Partner STARLUX Airlines {#starlux}
 

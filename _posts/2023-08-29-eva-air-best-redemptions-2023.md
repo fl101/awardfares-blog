@@ -7,7 +7,7 @@ author: Germán
 image: /assets/img/eva-air-best-redemptions-2023/cover.webp
 ---
 
-[EVA Air](https://www.evaair.com/), a member of the Star Alliance, offers world-renowned service and has a stellar reputation in the aviation industry. Whether you're traveling for leisure or business, there are some routes that stand out for the exceptional in-flight experience they offer. 
+[EVA Air](https://www.evaair.com/), a member of the Star Alliance, offers world-renowned service and has a stellar reputation in the aviation industry. Whether you're traveling for leisure or business, there are some routes that stand out for the exceptional in-flight experience they offer.
 
 In this post, we dive into the top EVA Air routes you should consider trying, how to search them using AwardFares, and how to book those award flights.
 

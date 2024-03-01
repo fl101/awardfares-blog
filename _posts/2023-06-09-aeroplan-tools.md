@@ -2,6 +2,7 @@
 layout: post
 title: "5 Essential Tools Every Aeroplan Member Needs"
 category: [Aeroplan, Guide]
+tags: [Air Canada]
 author: Germán
 image: /assets/img/aeroplan-tools/cover.webp
 seo:

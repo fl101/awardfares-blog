@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Try These EuroBonus Award Flights Before SAS Leaves Star Alliance"
-category: [SAS EuroBonus]
+category: [EuroBonus]
 tags: [Star Alliance, SkyTeam]
 author: Germán
 image: /assets/img/eurobonus-star-alliance-awards/cover.webp

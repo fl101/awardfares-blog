@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Mistakes When Searching Avianca LifeMiles Award Flights (And How To Fix Them)"
-category: [Avianca LifeMiles, Guide]
+category: [LifeMiles, Guide]
 author: Germán
 image: /assets/img/lifemiles-mistakes/cover.webp
 hidden: true
@@ -15,9 +15,11 @@ In this post, we dive into five common errors LifeMiles enthusiasts encounter an
 
 ### In this post
 
-- [5 Mistakes When Searching LifeMiles Award](#mistakes)
-- [How to Search LifeMiles Award Availability](#how-to)
-- [Best uses of LifeMiles](#examples)
+- [5 Mistakes When Searching LifeMiles Awards {#mistakes}](#5-mistakes-when-searching-lifemiles-awards-mistakes)
+- [How To Search LifeMiles Award Availability (The Easy Way) {#how-to}](#how-to-search-lifemiles-award-availability-the-easy-way-how-to)
+- [Best Uses Of LifeMiles {#examples}](#best-uses-of-lifemiles-examples)
+- [Upgrade for more.](#upgrade-for-more)
+- [Read more.](#read-more)
 
 
 ## 5 Mistakes When Searching LifeMiles Awards {#mistakes}

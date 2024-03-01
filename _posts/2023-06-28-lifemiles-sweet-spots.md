@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Avianca LifeMiles Sweet Spots And How To Find Them (2023)"
-category: [Avianca LifeMiles, Guide]
+category: [LifeMiles, Guide]
 author: Germán
 image: /assets/img/lifemiles-sweet-spots/cover.webp
 hidden: true

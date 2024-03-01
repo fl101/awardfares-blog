@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 Tips To Get The Most Out Of Your SAS EuroBonus Points (2023)"
-category: [SAS EuroBonus]
+category: [EuroBonus]
 tags: []
 author: Germán
 image: /assets/img/eurobonus-tips-2023/cover.webp

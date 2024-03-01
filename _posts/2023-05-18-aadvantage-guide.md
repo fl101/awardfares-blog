@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "How To Find AAdvantage Awards In 2024"
-category: [AAdvantage, American Airlines]
+category: [AAdvantage]
+tags: [American Airlines]
 author: Germán
 image: /assets/img/aadvantage-guide/cover.webp
 seo:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "SAS EuroBonus Award Flights With 30% Discount (September 2023)"
-category: [News]
-tags: [SAS EuroBonus]
+category: [News, EuroBonus]
+tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-discount-sept-2023/cover.webp
 ---

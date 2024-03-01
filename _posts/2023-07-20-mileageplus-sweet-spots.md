@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "United MileagePlus Sweet Spots In 2023"
-category: [United MileagePlus]
-tags: [United, Sweet Spots]
+category: [MileagePlus]
+tags: [United]
 author: Germán
 image: /assets/img/mileageplus-sweet-spots/cover.webp
 ---

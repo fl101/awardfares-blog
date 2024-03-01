@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SAS EuroBonus And Ethiopian Airlines Ghost Availability"
-category: [SAS EuroBonus]
+category: [EuroBonus]
 tags: [Ethiopian Airlines]
 author: Germán
 image: /assets/img/ethiopian-ghost-availability/cover.webp

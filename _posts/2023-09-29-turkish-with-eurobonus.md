@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Booking Turkish Airlines Flights With SAS EuroBonus Points (Guide)"
-category: [SAS EuroBonus]
+category: [EuroBonus]
 tags: [Turkish Airlines]
 author: Germán
 image: /assets/img/turkish-with-eurobonus/cover.webp

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "STARLUX Announces New Route To San Francisco (Award Seats Available)"
-category: [News, Alaska Mileage Plan]
+category: [News, Mileage Plan]
 tags: [STARLUX]
 author: Germán
 image: /assets/img/starlux-tpe-sfo/cover.webp

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "5 New SAS Routes You Can Book Using EuroBonus Points (July 2023) "
-category: [SAS EuroBonus, News]
-tags: [SAS, Sweet Spots]
+category: [News, EuroBonus]
+tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-july-2023/cover.webp
 ---

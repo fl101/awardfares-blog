@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Air Canada Announces Route From Vancouver To Singapore"
-category: [News]
+category: [News, Aeroplan]
 tags: [Air Canada, Routes]
 author: Germán
 image: /assets/img/aircanada-singapore-route/cover.webp

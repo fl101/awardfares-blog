@@ -2,11 +2,12 @@
 layout: post
 title: "Introducing New Frequent Flyer Programs, Area Searches & More Exciting Features"
 category: [Tutorial]
+tags: [Features]
 author: Philip
 image: /assets/img/new-programs-and-features-apr-2023/cover.webp
 ---
 
-We're thrilled to announce the rollout of some great new features that we know you're going to love! As we continue to innovate and improve our platform, we had the chance to incorporate some of your feedback in this new version of AwardFares. 
+We're thrilled to announce the rollout of some great new features that we know you're going to love! As we continue to innovate and improve our platform, we had the chance to incorporate some of your feedback in this new version of AwardFares.
 
 - [New Providers: American and Alaska](#new-providers-american-and-alaska)
 - [Area Search](#area-search)

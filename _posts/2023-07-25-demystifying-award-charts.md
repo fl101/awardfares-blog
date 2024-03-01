@@ -4,6 +4,8 @@ title: "Demystifying Award Charts: All You Need To Know (2024)"
 category: [Guide]
 author: Germán
 image: /assets/img/demystifying-award-charts/cover.webp
+seo:
+    date_modified: 2024-03-01
 ---
 
 For frequent travelers, airline loyalty programs offer a myriad of benefits that not only enhance the travel experience but make it more cost-effective. Since American Airlines introduced the very first frequent flyer program in the 80s, it became clear that staying loyal to one airline could reward customers a long way.

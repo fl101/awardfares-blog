@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best EuroBonus Redemptions (April 2023)
-category: [SAS EuroBonus, Guide]
+category: [EuroBonus, Guide]
 author: Germán
 image: /assets/img/best-eurobonus-redemptions-april-2023/cover.webp
 ---

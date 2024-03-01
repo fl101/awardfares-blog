@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Cowtool Alternative With Superpowers (2023)"
-category: [Guide]
-tags: [Aeroplan, Cowtool]
+category: [Guide, Aeroplan]
+tags: [Air Canada, Cowtool]
 author: Germán
 image: /assets/img/awardfares-vs-cowtool/cover.webp
 seo:

@@ -1,27 +1,27 @@
 ---
 layout: post
-title: "Alaska Airlines Mileage Plan Partner Redemptions Made Easy (2023)"
-category: [Alaska Mileage Plan, Guide]
+title: "Alaska Airlines Mileage Plan Partner Redemptions Made Easy (2024)"
+category: [Mileage Plan, Guide]
+tags: [Alaska Airlines]
 author: Germán
 image: /assets/img/alaska-partners-2023/cover.webp
+seo:
+    date_modified: 2024-03-01
 ---
 
 Alaska Airlines has been rolling out a new search UI for Mileage Plan which currently does not support searching Business and First Class redemptions with partner airlines: it only works for Alaska Airlines. There are no known date or official statement from the airline for when this features will be back.
 
-That's a significant setback. Mileage Plan can be one of the most convenient programs for booking premium cabins, as they have a great number of partner airlines beyond alliances. Recently [they added STARLUX airlines](https://blog.awardfares.com/alaska-mileageplan-updates-june-2023/), and they keep expanding. 
+That's a significant setback. Mileage Plan can be one of the most convenient programs for booking premium cabins, as they have a great number of partner airlines beyond alliances. Recently [they added STARLUX airlines](https://blog.awardfares.com/alaska-mileageplan-updates-june-2023/), and they keep expanding.
 
 **But hey**, we have a solution! Our tool AwardFares is the easiest and quickest way to display available seats on Mileage Plan, and it is very intuitive to apply filters to only display partner airlines. Here's a step-by-step guide.
 
 <img src="/assets/img/alaska-partners-2023/new-ui.webp" alt="Alaska Mileage Plan New Search UI for Award Flights." />
 
-
 ## The Easiest Way To Find Mileage Plan Partner Awards (Guide)
-
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup)
 
 Creating an account is optional, but it's also free and it gives you access to more features. Make sure to [sign up for one here](https://awardfares.com/signup).
-
 
 ### 2. Select Mileage Plan in the Frequent Flyer Program Picker
 
@@ -41,7 +41,6 @@ This step is optional, you can explore available routes within our cached result
 
 <img src="/assets/img/alaska-partners-2023/route.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Search for a route." />
 
-
 ### 6. Explore dates
 
 If you know the dates aready, you can try setting it up in the calendar view.
@@ -56,9 +55,7 @@ In addition, you can also use the **+** button on AwardFares to get more details
 
 <img src="/assets/img/alaska-partners-2023/flight-details.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Flight details." />
 
-
 ## Alaska Mileage Plan Sweet Spots: Business And First Class
-
 
 ### 1. Europe to Asia on Finnair Business Class (62,000 miles)
 
@@ -66,11 +63,9 @@ There's great availability with Finnair from Helsinki and several other European
 
 <img src="/assets/img/alaska-partners-2023/europe-asia-finnair.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Europe to Asia with Finnair." />
 
-
 ### 2. Europe to Doha in Business Class with Qatar Airways (50,000 miles)
 
 <img src="/assets/img/alaska-partners-2023/europe-doh-qatar.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Europe to Doha with Qatar Airways." />
-
 
 ### 3. U.S. to Sydney in Economy Class with Quantas (42,500 miles)
 
@@ -88,9 +83,7 @@ Visit Fiji and Australia for the same price. You can add a free stopover when re
 
 <img src="/assets/img/alaska-partners-2023/lax-syd-fiji.webp" alt="Alaska Airlines Mileage Plan partner redemptions in 2023: Free stopover with Fiji Airways." />
 
-
-## Mileage Plan Award Chart For Partner Redemptions (2023)
-
+## Mileage Plan Award Chart For Partner Redemptions (2024)
 
 ### From North America
 
@@ -110,8 +103,7 @@ Notes:
 * Award seats are not always available, so it's important to book your flights in advance.
 * There are a few other factors that can affect the number of miles you need for an award redemption, such as the date of travel and the fare class of the flight.
 
-
-## Get started, and stay tuned
+## Become a Milage Plan Pro
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
