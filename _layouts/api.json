@@ -6,7 +6,7 @@ layout: null
     {%- if category[0] == page.category -%}
   {%- for post in category[1] -%}
     ,{
-      "title": "{{ post.title | escape }}",
+      "title": "{{ post.title }}",
       "url": "{{ site.url }}{{ post.url }}",
       "date": "{{ post.date | date: "%Y-%m-%dT%H:%M:%S.000Z" }}",
       "image": "{{ post.image }}"
