@@ -1,7 +1,7 @@
 ---
 layout: post
 title: United 767-400 Polaris Business Class From Washington To Sao Paulo (2023)
-category: [Trip Report]
+category: [Trip Report, MileagePlus]
 tags: [Review, Business, United]
 author: Richard
 image: /assets/img/united-polaris-review/cover.webp

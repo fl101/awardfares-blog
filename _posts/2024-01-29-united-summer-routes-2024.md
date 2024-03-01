@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "United Airlines Adds 100+ New Flights And Announces The Largest Summer Schedule in a Decade"
-category: [News]
+category: [News, MileagePlus]
 tags: [United]
 author: Germán
 image: /assets/img/united-summer-routes-2024/cover.webp
