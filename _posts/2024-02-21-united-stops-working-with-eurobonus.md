@@ -1,17 +1,24 @@
 ---
 layout: post
-title: "Booking United Flights with EuroBonus Points No Longer an Option? (Unconfirmed)"
+title: "Booking United Flights with EuroBonus Points No Longer an Option?"
 category: [News, EuroBonus]
 tags: [United]
 author: Germán
 image: /assets/img/united-stops-working-with-eurobonus/cover.webp
+seo:
+    date_modified: 2024-03-01
 ---
 
 Today, we woke up to some unexpected developments in the SAS EuroBonus saga. It appears that booking flights on United Airlines using EuroBonus points is no longer an option. Their system fails to display any itineraries that include United flights. These changes could be linked to the recent slowdowns observed in their search engine and are likely associated with the new partnership with Delta Air Lines and the intention to join SkyTeam.
 
 Let's review what we know so far! If you have additional information, please make sure to share it with us.
 
-*Note: This story is being developed. There's no official statement or confirmation from SAS/EuroBonus. The information in this post is based on current data and user feedback*
+**UPDATE Mar 1st, 2024**: Air France confirms that SAS will leave Star Alliance during Q2, 2024, joining SkyTeam immediately. There are still very little information regarding the implementation of the transition.
+
+**UPDATE Feb 27th, 2024**: SAS confirms the issue with a note at the top of the EuroBonus booking portal.
+
+<img src="../assets/img/united-stops-working-with-eurobonus/sas-united-issues.webp" alt="It's not possible to book United flights with SAS EuroBonus." class="noborder"/>
+
 
 ## United Disappears from EuroBonus Bookings (What We Know)
 
