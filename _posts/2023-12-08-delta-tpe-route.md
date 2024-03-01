@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Delta Announces New Route To Taipei (Awards Available)"
-category: [News]
-tags: [Routes, Delta, Delta SkyMiles]
+category: [News, SkyMiles]
+tags: [Routes, Delta]
 author: Germán
 image: /assets/img/delta-tpe-route/cover.webp
 ---

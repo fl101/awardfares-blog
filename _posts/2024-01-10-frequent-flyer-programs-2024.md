@@ -2,7 +2,7 @@
 layout: post
 title: "Top Frequent Flyer Programs To Consider In 2024 (Our Picks)"
 category: [Guide]
-tags: [Flying Blue, SAS EuroBonus, Alaska Mileage Plan, AAdvantage]
+tags: [Flying Blue, EuroBonus, Mileage Plan, MileagePlus, TrueBlue AAdvantage]
 author: Germán
 image: /assets/img/ffp-2024/cover.webp
 ---
@@ -147,9 +147,9 @@ Why it shines:
 
 *Check out more of our [SkyMiles resources here](https://blog.awardfares.com/categories/#Delta%20SkyMiles)*
 
-### 8. JetBlue True Blue
+### 8. JetBlue TrueBlue
 
-<img src="../assets/img/ffp-2024/jetblue.webp" style="max-width:150px;width:100%" align="right" alt="JetBlue True Blue Logo" class="noborder"/>
+<img src="../assets/img/ffp-2024/jetblue.webp" style="max-width:150px;width:100%" align="right" alt="JetBlue TrueBlue Logo" class="noborder"/>
 
 [**JetBlue's TrueBlue**](https://www.jetblue.com/trueblue) program stands out with its customer-centric approach and simplicity. One of its primary strengths is the absence of blackout dates for award flights, a feature that sets it apart from many competitors and offers unparalleled flexibility for members. Points in the TrueBlue program are earned based on dollars spent rather than miles flown, which benefits passengers who purchase higher-priced tickets rather than those who fly longer distances.
 

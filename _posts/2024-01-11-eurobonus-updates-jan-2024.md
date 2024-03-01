@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6 SAS Eurobonus Updates You Should Be Aware Of (January 2024)"
-category: [News, SAS EuroBonus]
+category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-jan-2024/cover.webp

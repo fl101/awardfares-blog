@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "EuroBonus Deal: 25% Discount To Selected Destinations (February 2024)"
-category: [News]
-tags: [SAS EuroBonus]
+category: [News, EuroBonus]
+tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-discount-feb-2024/cover.webp
 ---

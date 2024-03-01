@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delta Winter 2024 Schedule: More Flights to Latin America and the Caribbean"
-category: [News, Delta SkyMiles]
+category: [News, SkyMiles]
 tags: [Routes, Delta]
 author: Germán
 image: /assets/img/delta-winter-routes-2024/cover.webp

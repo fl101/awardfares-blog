@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alaska Airlines Acquires Hawaiian! A Game-Changer for Mileage Plan Members"
-category: [Alaska Mileage Plan]
+category: [Mileage Plan]
 tags: [Hawaiian Airlines]
 author: Germán
 image: /assets/img/alaska-hawaiian-merger/cover.webp

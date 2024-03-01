@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SAS Ambitious New Direct Flight To Atlanta Takes Off In June (Awards Now Available)"
-category: [News, SAS EuroBonus]
+category: [News, EuroBonus]
 tags: [SAS, Routes]
 author: Germán
 image: /assets/img/sas-route-to-atlanta/cover.webp

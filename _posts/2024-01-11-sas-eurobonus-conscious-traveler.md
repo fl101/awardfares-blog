@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SAS EuroBonus Conscious Traveler Takes Off In 2024: Greener Flying, Greater Rewards"
-category: [SAS EuroBonus]
+category: [EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-conscious-traveler/cover.webp

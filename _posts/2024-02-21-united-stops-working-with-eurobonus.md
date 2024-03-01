@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Booking United Flights with EuroBonus Points No Longer an Option? (Unconfirmed)"
-category: [News, SAS EuroBonus]
+category: [News, EuroBonus]
 tags: [United]
 author: Germán
 image: /assets/img/united-stops-working-with-eurobonus/cover.webp

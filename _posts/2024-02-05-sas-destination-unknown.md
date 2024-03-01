@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SAS Launches 'Destination Unknown': Mystery Ticket For 30.000 EuroBonus Points"
-category: [News, SAS EuroBonus]
+category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/sas-destination-unknown/cover.webp

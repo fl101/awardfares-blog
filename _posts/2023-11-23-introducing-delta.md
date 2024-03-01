@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delta SkyMiles Award Search Now Available (New Features)"
-category: [News, Delta SkyMiles]
+category: [News, SkyMiles]
 tags: [Features]
 author: Germán
 image: /assets/img/introducing-delta/cover.webp
