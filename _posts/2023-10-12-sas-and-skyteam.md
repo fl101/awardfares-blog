@@ -5,20 +5,26 @@ category: [News]
 tags: [SAS, SkyTeam, Star Alliance]
 author: Germán
 image: /assets/img/sas-and-skyteam/cover.webp
+seo:
+    date_modified: 2024-03-01
 ---
 
 With all the buzz around SAS joining SkyTeam [after being acquired by Air France-KLM](https://blog.awardfares.com/sas-acquisition/) and others, we read many negative comments about this transition. At AwardFares, we are focused on helping EuroBonus members navigate this new phase by bringing the latest tools and information we have at hand.
 
 We also strive for a positive, more resilient mindset during unsettling times like this one. Sure, there are aspects we will miss from Star Alliance, but we are taking our first step towards embracing change. In this post, we look at the bright side and cover some opportunities that will come once SAS is a member of SkyTeam.
 
+**UPDATE (MARCH 2024):** *According to recent statements from SAS and Air France, SAS will leave Star Alliance during Q2, 2024, joining SkyTeam immediately. There are still very little information regarding the implementation of the transition.*
+
 ### In This Post
 
-- [Star Alliance vs. SkyTeam](#versus)
-- [SAS In SkyTeam: The Bright Side](#sas-in-skyteam)
-- [Best SkyTeam Cabins And Redemptions](#best)
-- [Things We'll Miss About SAS in Star Alliance](#sas-star-alliance)
+- [Star Alliance vs. SkyTeam (In A Nutshell)](#star-alliance-vs-skyteam-in-a-nutshell)
+- [SAS in SkyTeam: The Bright Side](#sas-in-skyteam-the-bright-side)
+- [Best SkyTeam Cabins and Redemptions](#best-skyteam-cabins-and-redemptions)
+- [Things We'll Miss About SAS In Star Alliance](#things-well-miss-about-sas-in-star-alliance)
+- [Become a SkyTeam Pro](#become-a-skyteam-pro)
+- [Read More](#read-more)
 
-## Star Alliance vs. SkyTeam (In A Nutshell) {#versus}
+## Star Alliance vs. SkyTeam (In A Nutshell)
 
 | Criterion             | Star Alliance       | SkyTeam             |
 |-----------------------|---------------------|---------------------|
@@ -32,7 +38,7 @@ We also strive for a positive, more resilient mindset during unsettling times li
 | **Lounges**           | Access to over 1,000 lounges worldwide | Access to over 750 lounges worldwide |
 | **Major Hubs**        | Chicago, Frankfurt, Singapore, Tokyo-Narita | Amsterdam, Atlanta, Paris-CDG, Seoul-Incheon |
 
-## SAS in SkyTeam: The Bright Side {#sas-in-skyteam}
+## SAS in SkyTeam: The Bright Side
 
 ### 1. Heavy investment from Air France-KLM
 
@@ -81,7 +87,7 @@ Operating primarily out of London's Heathrow and Gatwick airports, as well as Ma
 
 Virgin Atlantic is on a mission to be carbon neutral by 2050, and has recently introduced new Business Class cabins on their A330neo aircraft.
 
-## Best SkyTeam Cabins and Redemptions (We Look Forward To) {#best}
+## Best SkyTeam Cabins and Redemptions
 
 ### 1. Delta One Suites
 
@@ -128,7 +134,7 @@ ITA Airways' A350 business class provides a comfortable and stylish experience f
 
 <img src="../assets/img/sas-and-skyteam/ita-cabin.webp" alt="ITA Airways A350 Business Class Cabins (2023)." />
 
-## Things We'll Miss About SAS In Star Alliance {#sas-star-alliance}
+## Things We'll Miss About SAS In Star Alliance
 
 We are all going to miss certain perks from SAS being a Star Alliance member. Here's our top list. What's on yours? Feel free to send us your suggestions!
 
@@ -142,13 +148,13 @@ We are all going to miss certain perks from SAS being a Star Alliance member. He
 6. [Cheap Business Class awards on Copa Airlines (737 MAX)](https://awardfares.com/search?..;c:business;a:CM;e:7M8,7M9;z:sas).
 7. [Redemptions on Air Canada's 787](https://awardfares.com/search?..;c:business;a:AC;e:781,787,788,789;z:sas).
 
-## Get started, and stay tuned.
+## Become a SkyTeam Pro
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when a certain route or flight gets opened, as well as check seat maps, flight schedules, and more.
 
-## Read more {#read-more}
+## Read More
 
 Make sure to also check these posts out
 
