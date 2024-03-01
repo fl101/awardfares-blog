@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)"
+title: "Try These EuroBonus Award Flights Before SAS Leaves Star Alliance"
 category: [SAS EuroBonus]
 tags: [Star Alliance, SkyTeam]
 author: Germán
 image: /assets/img/eurobonus-star-alliance-awards/cover.webp
+seo:
+    date_modified: 2024-03-01
 ---
 
 In light of the recent [announcent of SAS leaving Star Alliance](https://blog.awardfares.com/sas-acquisition/), we noticed an increase in traffic and EuroBonus searches at AwardFares. We are happy that our tool is helping you find your next dream award flight!
@@ -12,6 +14,8 @@ In light of the recent [announcent of SAS leaving Star Alliance](https://blog.aw
 In this **megapost**, we are compiling every single airline part of Star Alliance, together with its best airplanes, cabins, and routes you can book **right now** using SAS EuroBonus points. Note that we exclude some of the cabins that are bookable with this program (such as Singapore Suites, Swiss First, etc.).
 
 In addition, we share all our tips, tricks, and comments from our experience as travelers. Make sure to check out the links to our detailed guides and resources under each section. Let's start!
+
+**UPDATE (MARCH 2024):** *According to recent statements, SAS is scheduled to leave Star Alliance during Q2, 2024, joining SkyTeam immediately. There are still very little information regarding the implementation of the transition, but we recommend redeeming EuroBonus awards on Star Alliance Partner Airlines soon.*
 
 ### Quick Navigation
 
@@ -43,7 +47,7 @@ In addition, we share all our tips, tricks, and comments from our experience as 
 
 ### Aegean Airlines
 
-Aegean Airlines, founded in 1987, is Greece's largest airline and flag carrier. It primarily operates out of Athens International Airport and serves both domestic destinations within Greece and international routes across Europe and other parts of the world. Known for its consistent quality service, Aegean has received several awards over the years for its excellence in the European regional aviation sector. 
+Aegean Airlines, founded in 1987, is Greece's largest airline and flag carrier. It primarily operates out of Athens International Airport and serves both domestic destinations within Greece and international routes across Europe and other parts of the world. Known for its consistent quality service, Aegean has received several awards over the years for its excellence in the European regional aviation sector.
 
 The airline became a member of Star Alliance, the world's largest global airline alliance, in June 2010.
 
@@ -670,13 +674,13 @@ United Airlines was one of the founding members of Star Alliance when it was est
 
 **Known Issues with EuroBonus**: It's not possible to book mixed-cabin awards online.
 
-## Get started, and stay tuned.
+## Get started, and stay tuned
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when a certain route or flight gets opened, as well as check seat maps, flight schedules, and more.
 
-## Read more
+## Read More
 
 Make sure to also check these posts out
 
