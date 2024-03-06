@@ -2,7 +2,7 @@
 layout: post
 title: AwardFares 101 - 開始使用
 category: [Tutorial, Guide]
-tags: []]
+tags: []
 author: Philip
 image: /assets/img/awardfares-101-zh-tw/overview.png
 lang: zh-TW
