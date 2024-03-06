@@ -1,9 +1,9 @@
 (function () {
-  var SEARCH_BOX_ID = "search-box";
+  var SEARCH_INPUT_SELECTOR = ".search-input";
   var NO_RESULTS_MESSAGE_ID = "not-found";
   var SEARCH_RESULTS_CONTAINER_ID = "search-results";
   var QUERY_VARIABLE_URL_STRING = "query";
-  var SEARCH_QUERY_ID = "search-query";
+  var SEARCH_TITLE_ID = "search-title";
 
   function getQueryVariable(queryParam) {
     var query = window.location.search.substring(1);
@@ -16,6 +16,7 @@
         return decodeURIComponent(value.replace(/\+/g, "%20"));
       }
     }
+    return '';
   }
 
   function getSearchTerm() {
@@ -24,9 +25,9 @@
 
   function setSearchBoxValue(searchBoxValue) {
     document
-      .getElementById(SEARCH_BOX_ID)
-      .setAttribute("value", searchBoxValue);
-    document.getElementById(SEARCH_QUERY_ID).innerText = searchBoxValue;
+      .querySelectorAll(SEARCH_INPUT_SELECTOR)
+      .forEach((el) => el.setAttribute("value", searchBoxValue));
+    document.getElementById(SEARCH_TITLE_ID).innerText = 'Results for: ' + searchBoxValue;
   }
 
   function showNoResultsMessage() {
@@ -64,12 +65,17 @@
       }
       setSearchResultsHTML(postsListingHTML);
     } else {
+      setSearchResultsHTML('');
       showNoResultsMessage();
     }
   }
 
   var searchTerm = getSearchTerm();
-  setSearchBoxValue(searchTerm);
+  if (searchTerm) {
+    setSearchBoxValue(searchTerm);
+  } else {
+    setSearchResultsHTML('')
+  }
 
   function search(searchTerm) {
 
@@ -84,11 +90,7 @@
       }
     });
 
-    var results = lunrIndex.search(searchTerm).sort((a, b) => {
-      const aValue = store[a.ref];
-      const bValue = store[b.ref];
-      return new Date(bValue.sortDate) - new Date(aValue.sortDate);
-    });
+    var results = lunrIndex.search(searchTerm);
     displaySearchResults(results, window.store);
   }
 

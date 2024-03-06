@@ -18,16 +18,13 @@
         <a href="https://awardfares.com?utm_medium=blog&utm_source={{utm_source}}&utm_content=logo" target="_blank" class="brand">
           <img src="/assets/img/logo.png" srcset="/assets/img/logo@2x.png 2x" alt="AwardFares Logo" />
         </a>
-        <div class="search">
+        <div class="search-box">
           <form action="/search/" method="get">
-            <input type="text" autocomplete="off" spellcheck="false" maxlength="256" name="query" id="search-box" value="" />
+            <input type="text" autocomplete="off" spellcheck="false" maxlength="256" name="query" class="search-input" value="" />
           </form>
         </div>
         <div class="icons">
-          <a href="https://www.instagram.com/awardfares" target="_blank" title="YouTube Channel"><i class="fa fa-youtube-play"></i></a>
-          <a href="https://www.facebook.com/awardfares" target="_blank" title="Facebook Page"><i class="fa fa-facebook"></i></a>
-          <a href="https://www.instagram.com/awardfares" target="_blank" title="Instagram Profile"><i class="fa fa-instagram"></i></a>
-          <a href="{{ "/feed.xml" | relative_url }}" title="Follow RSS Feed" title="Follow RSS Feed"><i class="fa fa-fw fa-rss"></i></a>
+          <a href="/search/" title="Search"><i class="fa fa-search"></i></a>
         </div>
         <a class="primary" href="https://awardfares.com/signup?utm_medium=blog&utm_source={{ utm_source }}&utm_content=header" target="_blank">Try for free</a>
       </nav>

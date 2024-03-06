@@ -6,9 +6,18 @@ layout: default
   <a href="/"><i class="fa fa-long-arrow-left"></i> Blog</a>
 </div>
 
-<div class="tags">
-  <h1>Results for: <span id="search-query"></span></h1>
-  <div id="search-results">Searching...</div>
+<div class="search">
+
+  <h1>Search</h1>
+  <div class="search-box">
+    <form action="/search/" method="get">
+      <input type="text" autocomplete="off" spellcheck="false" maxlength="256" name="query" class="search-input" value="" />
+      <button class="primary" type="submit">Search</button>
+    </form>
+  </div>
+
+  <h2 id="search-title"></h2>
+  <div id="search-results"></div>
   <p id="not-found" style="display: none">
     No search results...
   </p>

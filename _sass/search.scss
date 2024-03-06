@@ -1,0 +1,58 @@
+
+.search-box {
+  flex-grow: 1;
+
+  input {
+    width: 100%;
+    background: #F7F8FA 8px 50%/20px url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjAiIHk9IjAiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPgoJPHN0eWxlPi5zdDB7ZmlsbDpub25lO3N0cm9rZTojYWViOGM5O3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZH08L3N0eWxlPgoJPGNpcmNsZSBjbGFzcz0ic3QwIiBjeD0iMTEiIGN5PSIxMSIgcj0iOCIgLz4KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Im0yMSAyMS00LjM1LTQuMzUiIC8+Cjwvc3ZnPgo=) no-repeat;
+    border: 1.5px solid #d2ddec;
+    border-radius: 15px;
+    padding: 5px 5px 5px 35px;
+    box-sizing: border-box;
+  }
+}
+
+.search-link {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+
+  div:first-child {
+    flex-shrink: 0;
+  }
+
+  img {
+    width: 180px;
+    max-width: 100%;
+    height: 90px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-right: 10px;
+    display: block;
+  }
+
+  .date {
+    margin-top: 3px;
+  }
+  
+  @media screen and (max-width: 600px) {
+    & {
+      display: block;
+    }
+
+    img {
+      display: none;
+    }
+  }
+}
+
+.search button.primary {
+  margin: 10px 0 0 0;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 600px) {
+  .search .search-box {
+    display: none;
+  }
+}
