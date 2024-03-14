@@ -9,6 +9,7 @@ layout: null
       "title": "{{ post.title }}",
       "url": "{{ site.url }}{{ post.url }}",
       "date": "{{ post.date | date: "%Y-%m-%dT%H:%M:%S.000Z" }}",
+      "displayDate": "{%- if post.seo.date_modified -%}{{- post.seo.date_modified | date: '%B %-d, %Y' -}}{% else %}{{- post.date | date: '%B %-d, %Y' -}}{% endif %}",
       "image": "{{ post.image }}"
     }
   {%- endfor -%}
