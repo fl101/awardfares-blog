@@ -186,7 +186,7 @@ Tap on the different header columns classes (**Eco**, **Prem**, **Biz**, and **F
 
 You can also tap on the **Stops** header to display the shortest trips first (among similarly priced flights)
 
-##### Cheapest Award Flights in Business & First Class
+**Cheapest Award Flights in Business & First Class**
 
 AwardFares' quick sorting feature is very useful when trying to book premium cabins such as Business and First, and specially when the award charts use dynamic pricing. This might be your secret weapon to maximizing the value of your EuroBouns points if it shifts to a dynamic pricing scheme, like Flying Blue.
 
