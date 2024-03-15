@@ -28,7 +28,7 @@ This year marks a giant leap for Scandinavian Airlines, particularly for SAS Eur
 - [How To Find Cheap EuroBonus Award Flights (Step-by-step)](#how-to-find-cheap-eurobonus-award-flights-step-by-step)
   - [Booking SAS Flights](#booking-sas-flights)
   - [Booking Star Alliance Flights](#booking-star-alliance-flights)
-- [Become an EuroBonus Pro](#become-an-eurobonus-pro)
+- [Become a EuroBonus Pro](#become-a-eurobonus-pro)
 
 ## SAS Transition to SkyTeam (Our Thoughts)
 
@@ -156,89 +156,45 @@ You can also tap on the **Stops** header to display the shortest trips first (am
 
 Once you have identified the flights you want (or built an itinerary using our [Journey Planner](https://blog.awardfares.com/journey-planner/)), go to the EuroBonus portal on SAS website and proceed with the booking.
 
+-------
+
 ### Booking Star Alliance Flights
 
 #### 1. Under *Airlines*, select **Star Alliance only**
 
 From now on, you will only see available award seats operated by Star Alliance partners on the results list. You will also see SAS results unless you exclude it from the results explicitly.
 
-<img src="../assets/img/eurobonus-guide/airline-star-alliance.webp" alt="Select Star Alliance as under Airlines in AwardFares." />
+<img src="../assets/img/eurobonus-guide/airline-sa.webp" alt="Select Star Alliance as under Airlines in AwardFares." />
 
 #### 2. Add a Route
 
-In the **Origin** and **Destination** fields, add one or more airports to search for flights between those locations. AwardFares will search for award flights regardless of the number of stops. You can use the **Stops** filter to only search for direct/non-stop flights.
+Same as above, use the **Origin** and **Destination** fields to add one or more airports to search for flights between those locations.
 
-In the example below, we search for flights [between Copenhagen and New York](https://awardfares.com/search?CPH.area:NYC.;a:SK;z:sas). Note that we use the metropolitan area codes **NYC** to get results to and from any airport in New York (JFK, EWR, LGA).
+In the example below, we search for flights [between Boston and Munich](https://awardfares.com/search?BOS.MUC.;a:A3,AC,AI,AV,BR,CA,CM,ET,LH,LO,LX,MS,NH,NZ,OS,OU,OZ,SA,SK,SN,SQ,TG,TK,TP,UA,ZH;z:sas).
 
-<img src="../assets/img/eurobonus-guide/route-sas.webp" alt="Select EuroBonus as Frequent Flyer Program in AwardFares." />
+<img src="../assets/img/eurobonus-guide/route-sa.webp" alt="Flights between Boston and Munich with SAS EuroBonus points in AwardFares." />
 
-#### 4. Explore dates
-
-If you have a particular date in mind, add it by tapping on the **Calendar** field.
-
-Alternatively, you can use AwardFares **Timeline View** to explore the seat availability on different dates. The Timeline View displays how many seats are available for each day of the week/month. The bars are color-coded, so it's easy to distinguish between cabin classes (Economy, Business, First). You can also trigger new searches by tapping the refresh icon underneath each day.
-
-<img src="../assets/img/eurobonus-guide/timeline-sas.webp" alt="Timeline View of EuroBonus award flights in AwardFares." />
-
-<img src="../assets/img/eurobonus-guide/results-sas.webp" alt="EuroBonus Results in AwardFares." />
-
-In addition, you can also tap anywhere on the flight to display more details in an expanded view, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free versus occupied!
-
-<img src="../assets/img/eurobonus-guide/details.webp" alt="EuroBonus award flight details." />
-
-#### 5. Sort by Price or Stops
+#### 3. Explore and Sort Results
 
 Whether you are exploring dates using the Timeline View or have selected a specific day, AwardFares will show you the available seats (with real-time data) within seconds in the result list below.
 
-You can tap on the different header columns to sort the results by price. Use the **Eco**, **Prem**, **Biz**, and **First** class tags to find cheap awards across multiple dates, itineraries, and airlines.
+<img src="../assets/img/eurobonus-guide/results-sa.webp" alt="EuroBonus Award Flights Results in AwardFares" />
 
-<img src="../assets/img/eurobonus-guide/sort-by-price-sas.gif" alt="Sorting EuroBonus Award Flights by Price in AwardFares" />
+Tap on the different header columns classes (**Eco**, **Prem**, **Biz**, and **First**) to sort the results by price.
+
+<img src="../assets/img/eurobonus-guide/sort-sa.gif" alt="Sorting EuroBonus Award Flights by Price in AwardFares" />
 
 You can also tap on the **Stops** header to display the shortest trips first (among similarly priced flights)
 
-##### Cheapest Award Flights in Economy & Premium Economy
-
-In this case, we want to understand the cheapest days to fly in Economy Class using United MileagePlus miles from New York to London.
-
-With the Timeline View, we see there are plenty of available seats. We tap on the **Eco** column and sort award fights by price in Economy Class.
-
-AwardFares will show you all available seats sorted by price, and then by date.
-
-<img src="../assets/img/cheap-award-flights/sort-by-price-eco.webp" alt="How to find cheaps award flight using AwardFares." />
-
-As we see, the cheapest flights start on November 9th, with multiple options. You can tap the anywhere on the flight to show the detailed view.
-
-In this case, we see that a *saver* award in Economy is just 21.7k miles plus USD 5.6 in taxes, and there are over nine seats available.
-
-<img src="../assets/img/cheap-award-flights/sort-by-price-eco-details.webp" alt="How to find cheaps award flight using AwardFares." />
-
-Similarly, you can explore other options (nonstop and with stopovers) going back to the result list.
-
-##### Cheapest Award Flights in Premium Economy
-
-Similarly, you can explore other options (nonstop and with stopovers) by returning to the result list.
-
-We can repeat the process but now tap on the **Prem** column. Now, AwardFares will sort results based on the prices for the Premium Economy cabin.
-
-As we can see, this cabin's cheapest options start on October 18th. All the options include at least one stopover, and most itineraries are mixed-cabin (which means there is at least one segment in another cabin, such as Economy).
-
-By skimming through the results, you can quickly identify the most convenient options at this price point (50k miles).
-
-You can also keep scrolling to find more dates or use the filters to exclude mixed cabin itineraries.
-
-<img src="../assets/img/cheap-award-flights/sort-by-price-prem.webp" alt="How to find cheaps award flight using AwardFares." />
-
 ##### Cheapest Award Flights in Business & First Class
 
-Similarly, by tapping the **Biz** header, flights will be sorted by price in the Business Class cabin. In this case, we see plenty of seats at this price point (80k miles) almost daily.
-
-<img src="../assets/img/cheap-award-flights/sort-by-price-biz.webp" alt="How to find cheaps award flight using AwardFares." />
+AwardFares' quick sorting feature is very useful when trying to book premium cabins such as Business and First, and specially when the award charts use dynamic pricing. This might be your secret weapon to maximizing the value of your EuroBouns points if it shifts to a dynamic pricing scheme, like Flying Blue.
 
 #### 6. Book on the EuroBonus Star Alliance Portal
 
-Once you have identified the flights you want go to the airline's website and make the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards on SAS EuroBonus). In those situations, you will need to call their service center.
+Once you have identified the flights you want go to SAS website, [log-in and choose *Star Alliance Bonus Trips*](https://www.flysas.com/nl-en/eurobonus/star-alliance-award-trips/) to proceed with the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards). In those situations, you will need to call SAS service center.
 
-## Become an EuroBonus Pro
+## Become a EuroBonus Pro
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
