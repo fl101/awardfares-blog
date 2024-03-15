@@ -15,15 +15,28 @@ Historically, there have been many EuroBonus sweet spots on Lufthansa, including
 
 In this post, we cover why SAS EuroBonus is still a great program when redeeming award flights on Lufthansa, and a step-by-step guide to finding and booking Lufthansa flights with EuroBonus points using AwardFares.
 
-<div update-banner="SAS will be leaving Star Alliance and joining SkyTeam during Q2, 2024. Details of the transition haven't been disclosed yet, but this means that it will no longer be possible to book award flights on Star Alliance partners using SAS EuroBonus points. [Read more here](https://blog.awardfares.com/eurobonus-guide).  ">
-  15 MARCH 2024
+<div data-countdown>
+  **UPDATE 15 MARCH 2024**
+  SAS will be leaving Star Alliance and joining SkyTeam during Q2, 2024. Details of the transition haven't been disclosed yet, but this means that it will no longer be possible to book award flights on Star Alliance partners using SAS EuroBonus points. [Read more here](https://blog.awardfares.com/eurobonus-guide).
 </div>
 
 ### In This Post
 
 - [Available Seats on Lufthansa - Right Now!](#available-seats-on-lufthansa---right-now)
+  - [Lufthansa First Class With SAS EuroBonus Points (Top Long-haul Routes)](#lufthansa-first-class-with-sas-eurobonus-points-top-long-haul-routes)
+  - [Lufthansa Business Class With SAS EuroBonus Points (Top Long-haul Routes)](#lufthansa-business-class-with-sas-eurobonus-points-top-long-haul-routes)
+  - [Lufthansa Economy Class With SAS EuroBonus Points (Top Long-haul Routes)](#lufthansa-economy-class-with-sas-eurobonus-points-top-long-haul-routes)
 - [EuroBonus was great for awards on Lufthansa. Now what?](#eurobonus-was-great-for-awards-on-lufthansa-now-what)
 - [How to Find Lufthansa Flights with EuroBonus Points](#how-to-find-lufthansa-flights-with-eurobonus-points)
+  - [1. Go to AwardFares](#1-go-to-awardfares)
+  - [2. Select SAS EuroBonus as your Frequent Flyer Program](#2-select-sas-eurobonus-as-your-frequent-flyer-program)
+  - [3. Filter out by Airline](#3-filter-out-by-airline)
+  - [4. Select the Route](#4-select-the-route)
+  - [5. Perform a broad search](#5-perform-a-broad-search)
+  - [6. Filter out by cabin (optional)](#6-filter-out-by-cabin-optional)
+  - [7. Confirm availability on SAS website](#7-confirm-availability-on-sas-website)
+  - [8. Set-up alerts (optional)](#8-set-up-alerts-optional)
+  - [9. Book on SAS Website](#9-book-on-sas-website)
 - [What we love and don't about Lufthansa](#what-we-love-and-dont-about-lufthansa)
 - [Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2024](#best-frequent-flyer-programs-to-redeem-lufthansa-awards-in-2024)
 - [Become a EuroBonus Pro](#become-a-eurobonus-pro)
