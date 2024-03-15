@@ -15,7 +15,9 @@ Historically, there have been many EuroBonus sweet spots on Lufthansa, including
 
 In this post, we cover why SAS EuroBonus is still a great program when redeeming award flights on Lufthansa, and a step-by-step guide to finding and booking Lufthansa flights with EuroBonus points using AwardFares.
 
-**UPDATE 15 MAR 2024:** SAS will be leaving Star Alliance and joining SkyTeam during Q2, 2024. Details of the transition haven't been disclosed yet, but this means that it will no longer be possible to book award flights on Star Alliance partners using SAS EuroBonus points. [Read more here](https://blog.awardfares.com/eurobonus-guide).  
+<div update-banner="SAS will be leaving Star Alliance and joining SkyTeam during Q2, 2024. Details of the transition haven't been disclosed yet, but this means that it will no longer be possible to book award flights on Star Alliance partners using SAS EuroBonus points. [Read more here](https://blog.awardfares.com/eurobonus-guide).  ">
+  15 MARCH 2024
+</div>
 
 ### In This Post
 

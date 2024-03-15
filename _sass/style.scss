@@ -141,6 +141,19 @@ a.banner {
   box-sizing: border-box;
 }
 
+[update-block] {
+  text-align: center;
+  background: #01c6fd5d;
+  padding: 20px 10px;
+  border-radius: 10px;
+  display: block;
+  text-decoration: none;
+}
+
+[update-block] h3 {
+  margin: 0 0 5px 0;
+}
+
 [data-countdown] {
   text-align: center;
   background: #eee;
