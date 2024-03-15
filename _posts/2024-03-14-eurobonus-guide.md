@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guide To Using SAS EuroBonus Points (Before They Join SkyTeam)"
+title: "Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)"
 category: [EuroBonus, Guide]
 tags: [SAS, Star Alliance]
 author: Germán
@@ -14,7 +14,7 @@ This year marks a giant leap for Scandinavian Airlines, particularly for SAS Eur
 **How to prepare for the transition?** Don't worry—we've got you covered. That's why we prepared this post as the Ultimate Guide to Using SAS EuroBonus Points. The intention is to help you find the best (free) flights on SAS and Star Alliance before the airline leaves and, ultimately, on SkyTeam partners once the airline enters the new alliance and integrates with those partners.
 
 <div data-countdown="2024-03-31T22:59:00.000+02:00">
-  TIME UNTIL Q2
+  TIME UNTIL Q2 2024
 </div>
 
 ## Thoughts and Wild Guesses
@@ -45,29 +45,29 @@ The EuroBonus [award chart is zone-based](https://blog.awardfares.com/demystifyi
 
 ### Earning EuroBonus Points
 
-**On SAS**: No changes in the short term.
+* **On SAS**: No changes in the short term.
 
-**On Star Alliance Partners**: Be prepared to stop accruing points for flights on Star Alliance airlines taken as soon as the new agreement with SkyTeam becomes effective.
+* **On Star Alliance Partners**: Be prepared to stop accruing points for flights on Star Alliance airlines taken as soon as the new agreement with SkyTeam becomes effective.
 
 <img src="../assets/img/eurobonus-guide/earn-sas-partners.webp" alt="Earning EuroBonus points on Star Alliance Flights will stop by Q2." />
 
 <img src="../assets/img/eurobonus-guide/earn-sas-partners-airlines.webp" alt="Earning EuroBonus points on Star Alliance Flights will stop by Q2." />
 
-**On SkyTeam Partners**: In an ideal scenario, once SAS is officially part of SkyTeam, it is possible to earn points on partners' flights right away. Hold on, it could be more straightforward. Implementing accrual and redemptions takes time, months, and sometimes even years.
+* **On SkyTeam Partners**: In an ideal scenario, once SAS is officially part of SkyTeam, it is possible to earn points on partners' flights right away. Hold on, it could be more straightforward. Implementing accrual and redemptions takes time, months, and sometimes even years.
 
 We have already seen some integration between SAS and Delta when booking revenue tickets so that the changes might happen sooner for significant partners such as DL, Air France, and KLM.
 
 ### EuroBonus Award Search Portal
 
-**For SAS Flights**: Probably the same in the beginning. Same as we know already.
+* **For SAS Flights**: Probably the same in the beginning. Same as we know already.
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sas.webp" alt="EuroBonus Search Portal for Award Flights on SAS (2024)." />
 
-**For Redemptions on Star Alliance**: These will be turned off immediately after SAS joins SkyTeam. Members will no longer be able to search and redeem for flights on Lufthansa, ANA,
+* **For Redemptions on Star Alliance**: These will be turned off immediately after SAS joins SkyTeam. Members will no longer be able to search and redeem for flights on Lufthansa, ANA,
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sa.webp" alt="EuroBonus Search Portal for Award Flights on Star Alliance. Will disappear on Q2, 2024." />
 
-**For Redemptions on SkyTeam Partners**: Not at launch, but we have hopes that some portal will appear for SkyTeam flights during Q2-Q3, at least for a handful of partners.
+* **For Redemptions on SkyTeam Partners**: Not at launch, but we have hopes that some portal will appear for SkyTeam flights during Q2-Q3, at least for a handful of partners.
 
 ### Amex 2-for-1 Vouchers / Companion Tickets
 
@@ -81,6 +81,12 @@ It's safer to assume that vouchers will only be usable on SAS flights from the m
 
 If you have unused vouchers and are looking into flying with Star Alliance Airlines, this might be a good time to consolidate bookings. For example, it might be a good time to try cabins such as Lufthansa First, ANA The Room, etc.
 
+### Award Release Dates
+
+While the general timeframe of 330-359 days likely applies, specific release dates for EuroBonus members will depend on how SAS and SkyTeam airlines integrate their loyalty programs.
+
+We will keep monitoring the situation and updating our [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/) accordingly.
+ 
 ## How To Find Cheap EuroBonus Award Flights (Step-by-step)
 
 ### Booking flights on SAS
@@ -137,10 +143,9 @@ You can also tap on the **Stops** header to display the shortest trips first (am
 
 Once you have identified the flights you want (or built an itinerary using our [Journey Planner](https://blog.awardfares.com/journey-planner/)), go to the airline's website and make the booking.
 
+### Book on Star Alliance
 
-### Book on Star Alliance partner
-
-##### Cheapest Award Flights in SAS Go (Economy)
+##### Cheapest Award Flights in Economy
 
 In this case, we want to understand the cheapest days to fly in Economy Class using United MileagePlus miles from New York to London.
 
@@ -181,7 +186,6 @@ Similarly, by tapping the **Biz** header, flights will be sorted by price in the
 ### 6. Book on the SAS EuroBonus Portal
 
 Once you have identified the flights you want (or built an itinerary using our Journey Planner), go to the airline's website and make the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards on SAS EuroBonus). In those situations, you will need to call their service center.
-
 
 
 ## How To Determine If You Are Getting A Good Redemption?
@@ -284,9 +288,9 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Booking United Flights with EuroBonus Points No Longer an Option?](https://blog.awardfares.com/united-stops-working-with-eurobonus/)
+- [SAS Will Leave Star Alliance! Here’s What To Do Next](https://blog.awardfares.com/sas-acquisition/)
+- [SAS EuroBonus Conscious Traveler Takes Off In 2024: Greener Flying, Greater Rewards](https://blog.awardfares.com/sas-eurobonus-conscious-traveler/)
+- [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
 
 <script src="/assets/js/countdown.js"></script> 
