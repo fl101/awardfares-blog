@@ -1,29 +1,32 @@
 ---
 layout: post
-title: "Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points"
+title: "Essential Guide to Book Lufthansa Flights with SAS EuroBonus Points"
 category: [EuroBonus, Guide]
 tags: [SAS, Lufthansa]
 author: Germán
 image: /assets/img/lufthansa-with-eurobonus-guide/cover.webp
+seo:
+    date_modified: 2024-03-15
 ---
 
 Lufthansa is one of the world's leading carriers, with access to nearly 1,300 destinations worldwide, an extensive global network, and high-quality service. It is a very reliable alternative, especially when you are flying premium cabins such as Business and First Class. As a founding member of Star Alliance, it’s possible to book Lufthansa flights from other frequent flyer programs, such as SAS EuroBonus.
 
-Historically, there have been many EuroBonus sweet spots on Lufthansa, including good redemptions on Lufthansa First Class, and low fuel surcharges and fees on Business Class. But what’s the status in 2023?
+Historically, there have been many EuroBonus sweet spots on Lufthansa, including good redemptions on Lufthansa First Class, and low fuel surcharges and fees on Business Class. But what’s the status in 2024?
 
 In this post, we cover why SAS EuroBonus is still a great program when redeeming award flights on Lufthansa, and a step-by-step guide to finding and booking Lufthansa flights with EuroBonus points using AwardFares.
 
-### In this post
+**UPDATE 15 MAR 2024:** SAS will be leaving Star Alliance and joining SkyTeam during Q2, 2024. Details of the transition haven't been disclosed yet, but this means that it will no longer be possible to book award flights on Star Alliance partners using SAS EuroBonus points. [Read more here](https://blog.awardfares.com/eurobonus-guide).  
 
-- [Example Lufthansa Award Flights - Right Now! {#realtime-awards}](#example-lufthansa-award-flights---right-now-realtime-awards)
-- [Why is SAS EuroBonus great for redeeming awards on Lufthansa? {#why-sas-for-lufthansa}](#why-is-sas-eurobonus-great-for-redeeming-awards-on-lufthansa-why-sas-for-lufthansa)
-- [How To Find Lufthansa Flights With EuroBonus Points {#how-to}](#how-to-find-lufthansa-flights-with-eurobonus-points-how-to)
-- [What we love and don't about Lufthansa {#pros-and-cons}](#what-we-love-and-dont-about-lufthansa-pros-and-cons)
-- [Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2023 {#best-ffqtv}](#best-frequent-flyer-programs-to-redeem-lufthansa-awards-in-2023-best-ffqtv)
-- [Get started and stay tuned.](#get-started-and-stay-tuned)
-- [Read more.](#read-more)
+### In This Post
 
-## Example Lufthansa Award Flights - Right Now! {#realtime-awards}
+- [Available Seats on Lufthansa - Right Now!](#available-seats-on-lufthansa---right-now)
+- [EuroBonus was great for awards on Lufthansa. Now what?](#eurobonus-was-great-for-awards-on-lufthansa-now-what)
+- [How to Find Lufthansa Flights with EuroBonus Points](#how-to-find-lufthansa-flights-with-eurobonus-points)
+- [What we love and don't about Lufthansa](#what-we-love-and-dont-about-lufthansa)
+- [Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2024](#best-frequent-flyer-programs-to-redeem-lufthansa-awards-in-2024)
+- [Become a EuroBonus Pro](#become-a-eurobonus-pro)
+
+## Available Seats on Lufthansa - Right Now!
 
 The lists below are updated in real time and show you the available award seats for the next 30 days on Lufthansa using SAS EuroBonus points.
 
@@ -35,29 +38,29 @@ The lists below are updated in real time and show you the available award seats 
 
 <table id="lh-business"></table>
 
-### Lufthansa Economy Class With SAS EuroBonus Points (Top Lonh-haul Routes)
+### Lufthansa Economy Class With SAS EuroBonus Points (Top Long-haul Routes)
 
 <table id="lh-economy"></table>
 
 ---
 
-## Why is SAS EuroBonus great for redeeming awards on Lufthansa? {#why-sas-for-lufthansa}
+## EuroBonus was great for awards on Lufthansa. Now what?
 
-There may be several reasons why you might find SAS EuroBonus to be more beneficial for redeeming awards on Lufthansa flights.
+In 2023, SAS announced that it will be acquired by Air France-KLM and others, leaving Star Alliance and joining SkyTeam. This event marks the first time
 
-1. **Award Availability:** SAS EuroBonus members sometimes have access to greater award availability compared to Miles & More. This is especially true for business class awards on Lufthansa.
-2. **Lower Fuel Surcharges:** Another significant advantage can be the fuel surcharge imposed on award tickets. In some cases, the surcharges may be lower when you book through SAS EuroBonus compared to Miles & More.
-3. **Better Redemption Rates:** SAS EuroBonus may offer better redemption rates for certain flights, particularly on partner airlines like Lufthansa.
-4. **Star Alliance Network:** Both airlines are part of the Star Alliance network, so you can earn and redeem points across a wide range of airlines, not just Lufthansa and SAS.
-5. **Flexible Points Earned:** EuroBonus points can be earned in a variety of ways, not just from flying. You can earn points from hotel stays, car rentals, and everyday purchases if you have a co-branded credit card.
+Redeeming awards on Lufthansa and Swiss has always been a solid options for SAS EuroBonus members. A huge network, great frequencies, solid onboard products and high availability were some of the key highlights of the golden age of the Lufthansa Group and EB. It was also a great opportunity to use Amex 2 for 1 vouchers (companion tickets), on First Class. Those days will be soon long gone.
 
+Our two cents:
 
-## How To Find Lufthansa Flights With EuroBonus Points {#how-to}
+1. Try booking outstanding flights now if you have leftover points or vouchers, and were looking to fly LH one last time.
+2. If you will still be primarily flying with Star Alliance partners and accruing in EuroBonus, try switching to another program. United MileagePlus is a great option along with Aeroplan for both European and US-based members.
+3. If you are based in the Nordics and earn most points through flying SAS or credit card spending, then it's most likely that you will soon be able to start redeeming awards on Air France and KLM. Don't worry, they also have a large network, great options to the US and America in general, and offer excellent service onboard (often better than Lufthansa).
 
-### 1. Create an AwardFares account and log-in
+## How to Find Lufthansa Flights with EuroBonus Points
 
-Go to AwardFares’ sign-up page and create an account. You’ll need to enter an email address and a password.After completing the form, you will receive an email with a link to activate your account. Once the account is activated, you are ready to start searching!
+### 1. Go to AwardFares
 
+Creating an account is optional, but it's also free, and it gives you access to more features. Make sure to [sign up for one here](https://awardfares.com/signup).
 
 ### 2. Select SAS EuroBonus as your Frequent Flyer Program
 
@@ -99,14 +102,11 @@ Using the **Cabin** filter you can select **First Class** **Only**. This will re
 <img src="/assets/img/lufthansa-with-eurobonus-guide/filter-cabin.gif" alt="Filter award flights by cabin in AwardFares" />
 </figure>
 
-
 **Note**: Lufthansa partner redemptions are restricted to 14 days in advance for First class and 85 days for long-haul business. If you are curious about how early Lufthansa releases award seats, check our [guide here](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/).
-
 
 ### 7. Confirm availability on SAS website
 
 Once you have selected the options, you can double-check the availability on SAS website with your own account, searching for the exact same flights and dates you found using AwardFares.
-
 
 ### 8. Set-up alerts (optional)
 
@@ -114,14 +114,11 @@ If you don’t see available seats on a given flight and date you are interested
 
 To set up an Alert, just tap on **Alerts** > **Add Alert** > and fill out the required information, such as route, dates, passengers, cabin.
 
-
-### 9. Done!
+### 9. Book on SAS Website
 
 Simple, huh? AwardFares, lets you see all the available flights on Lufthansa ready to be booked with SAS EuroBonus points. Keep in mind that most flights you can book directly on SAS website through the Star Alliance award portal. To book certain cabins, such as First Class or Premium economy, you need to call the service center.
 
-Remember that some of the features and limits are improved if you upgrade to a Gold or Diamond package.
-
-## What we love and don't about Lufthansa {#pros-and-cons}
+## What we love and don't about Lufthansa
 
 Here are some of our pros and cons of flying with Lufthansa
 
@@ -133,33 +130,30 @@ Here are some of our pros and cons of flying with Lufthansa
 | **Still flying 747 and A380** | **Can be crowded** |
 | **Frankfurt and Munich are easy to connect** | **High cash fares** |
 
+## Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2024
 
-## Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2023 {#best-ffqtv}
-
-At [AwardFares](https://awardfares.com/signup) we love all frequent flyer programs, but we also need to stay on top of the game, understanding how award charts change over time and identifying the best redemptions so you can make the most out of your points. 
+At [AwardFares](https://awardfares.com/signup) we love all frequent flyer programs, but we also need to stay on top of the game, understanding how award charts change over time and identifying the best redemptions so you can make the most out of your points.
 
 When redeeming Lufthansa awards, here are some of our favorite picks
 
-
-
-1. **Miles & More:** This is Lufthansa's own frequent flyer program. It often provides the most extensive availability for award seats, especially for First Class tickets and flights operated by Lufthansa.
-2. [**SAS EuroBonus:**](https://awardfares.com/search?..;z:eurobonus) As discussed earlier, this program might offer better redemption rates and lower fuel surcharges on certain flights.
-3. [**United MileagePlus:**](https://awardfares.com/search?..;z:united) United's program often offers good availability for Star Alliance award seats, including on Lufthansa. Its interactive award chart can make it easier to find and book awards. Recently, United has removed its traditional award chart and moved to dynamic pricing, but it remains a solid option for Star Alliance redemptions.
-4. [**Avianca LifeMiles:**](https://awardfares.com/search?..;z:lifemiles) Avianca's frequent flyer program has competitive redemption rates for Lufthansa flights, and often does not add surcharges on award tickets. This can make it a cost-effective choice for redeeming Lufthansa flights.
-5. [**Air Canada Aeroplan:**](https://awardfares.com/search?..;z:aeroplan) This program offers competitive redemption rates for flights on Star Alliance airlines, including Lufthansa, with a zone-based award chart. However, note that fuel surcharges may be added to Lufthansa flights.
+1. [**Air Canada Aeroplan:**](https://awardfares.com/search?..;z:aeroplan) This program offers competitive redemption rates for flights on Star Alliance airlines, including Lufthansa, with a zone-based award chart. However, note that fuel surcharges may be added to Lufthansa flights.
+2. [**United MileagePlus:**](https://awardfares.com/search?..;z:united) United's program often offers good availability for Star Alliance award seats, including on Lufthansa. Its interactive award chart can make it easier to find and book awards. Recently, United has removed its traditional award chart and moved to dynamic pricing, but it remains a solid option for Star Alliance redemptions.
+3. [**SAS EuroBonus (until Q2 2024):**](https://awardfares.com/search?..;z:eurobonus) As discussed earlier, this program might offer better redemption rates and lower fuel surcharges on certain flights.
+4. **Avianca LifeMiles:** Avianca's frequent flyer program has competitive redemption rates for Lufthansa flights, and often does not add surcharges on award tickets. This can make it a cost-effective choice for redeeming Lufthansa flights.
+5. **Miles & More:** This is Lufthansa's own frequent flyer program. It often provides the most extensive availability for award seats, especially for First Class tickets and flights operated by Lufthansa.
 
 Regardless of the program you choose, AwardFares can help you understand the available seats at any time, and even alert you when a given route or cabin opens.
 
+## Become a EuroBonus Pro
 
-## Get started and stay tuned.
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
-You can [create an account](https://awardfares.com/signup) and try AwardFares for free. We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-## Read more.
-
-Make sure to also check these posts
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 * [Lufthansa New Routes In 2023](https://blog.awardfares.com/lh-routes-2023/)
+* [Lufthansa's A350 Long-Haul Business Class (Avoid)](https://blog.awardfares.com/lufthansa-long-haul-business-a350/)
 * [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
 
 <script>
