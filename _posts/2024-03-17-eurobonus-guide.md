@@ -5,8 +5,6 @@ category: [EuroBonus, Guide]
 tags: [SAS, Star Alliance]
 author: Germán
 image: /assets/img/eurobonus-guide/cover.webp
-hidden: true
-sitemap: false
 ---
 
 This year marks a giant leap for Scandinavian Airlines, particularly for SAS EuroBonus members. The airline will be acquired, among others, by Air France-KLM, leaving Star Alliance in Q2 2024 and joining SkyTeam immediately! (recently confirmed during a press statement.) This means the game for frequent travelers will change very soon: award flights you can redeem using SAS EuroBonus points will be different forever.
@@ -20,14 +18,7 @@ This year marks a giant leap for Scandinavian Airlines, particularly for SAS Eur
 ### In This Post
 
 - [SAS Transition to SkyTeam (Our Thoughts)](#sas-transition-to-skyteam-our-thoughts)
-  - [EuroBonus Award Chart](#eurobonus-award-chart)
-  - [Earning EuroBonus Points](#earning-eurobonus-points)
-  - [EuroBonus Award Search Portal](#eurobonus-award-search-portal)
-  - [Amex 2-for-1 Vouchers / Companion Tickets](#amex-2-for-1-vouchers--companion-tickets)
-  - [Award Release Dates](#award-release-dates)
 - [How To Find Cheap EuroBonus Award Flights (Step-by-step)](#how-to-find-cheap-eurobonus-award-flights-step-by-step)
-  - [Booking SAS Flights](#booking-sas-flights)
-  - [Booking Star Alliance Flights](#booking-star-alliance-flights)
 - [Become a EuroBonus Pro](#become-a-eurobonus-pro)
 
 ## SAS Transition to SkyTeam (Our Thoughts)
