@@ -19,7 +19,6 @@ Let's review what we know so far! If you have additional information, please mak
 
 <img src="../assets/img/united-stops-working-with-eurobonus/sas-united-issues.webp" alt="It's not possible to book United flights with SAS EuroBonus." class="noborder"/>
 
-
 ## United Disappears from EuroBonus Bookings (What We Know)
 
 Booking United flights directly through EuroBonus seems to be a thing of the past. While the official reason remains unclear, we can assume it's related to a change in the partnership dynamics.

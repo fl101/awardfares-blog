@@ -4,7 +4,7 @@ title: "Updates For SAS EuroBonus Members (March 2024)"
 category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
-image: /assets/img/eurobonus-updates-march-2024/cover.webp
+image: /assets/img/eurobonus-updates-mar-2024/cover.webp
 hidden: true
 sitemap: false
 ---
@@ -52,7 +52,7 @@ Here are the conditions
 
 It appears that booking flights on United Airlines using EuroBonus points is no longer an option. Their system fails to display any itineraries that include United flights. These changes could be linked to the recent slowdowns observed in their search engine and are likely associated with the new partnership with Delta Air Lines and the intention to join SkyTeam.
 
-<img src="../assets/img/eurobonus-updates-mar-2024/sas-amex-elite-60k.webp" alt="EuroBonus stops showing United flights." class="noborder"/>
+<img src="../assets/img/united-stops-working-with-eurobonus/sas-united-issues.webp" alt="It's not possible to book United flights with SAS EuroBonus." class="noborder"/>
 
 Read more [in this post](https://blog.awardfares.com/united-stops-working-with-eurobonus/).
 
