@@ -29,11 +29,15 @@ Read more [here](https://blog.awardfares.com/eurobonus-guide/).
 
 ### 2. Free Trip to Asia with SAS Amex Elite (Get 60.000 EB Points)
 
-American Express and SAS are offering a new promotion with an insane welcome bonus when applying to the SAS Amex Elite (their highest tier) credit card. This time they offer 60.000 EuroBonus points, and the bonus is comparable to what premium cards offer in the United States. Typically, it ranges between 12k and 30k points.
+American Express and SAS are offering a new promotion with an insane welcome bonus when applying to the SAS Amex Elite (their highest tier) credit card. This time they offer **60.000 EuroBonus points**, and the bonus is comparable to what premium cards offer in the United States. Typically, it ranges between 12k and 30k points.
 
 The 60k points are enough for a return trip with SAS Go Bonus to/from Asia and North America.
 
-Here are the conditions
+<div data-countdown="2024-03-31T22:59:00.000+02:00">
+  TIME LEFT TO APPLY
+</div>
+
+Here are the conditions:
 
 * The offer is only valid [via the link on SAS website and channels during March 2024](https://www.americanexpress.com/se/kreditkort/sas-eurobonus-elite/?ieep=05MC2993&cpid=100537334).
 * The offer only applies to people who have not been card **or extra card member**s in the past 12 months.
@@ -44,17 +48,13 @@ Here are the conditions
 
 <img src="../assets/img/eurobonus-updates-mar-2024/sas-amex-elite-60k.webp" alt="Get 60.000 EuroBonus Points when applying for the SAS Amex Elite in March 2024." class="noborder"/>
 
-<div data-countdown="2024-03-31T22:59:00.000+02:00">
-  TIME LEFT TO APPLY
-</div>
-
-### 3. United Disappears from EuroBonus Booking Portal (What We Know)
+### 3. United Disappears from EuroBonus Booking Portal
 
 It appears that booking flights on United Airlines using EuroBonus points is no longer an option. Their system fails to display any itineraries that include United flights. These changes could be linked to the recent slowdowns observed in their search engine and are likely associated with the new partnership with Delta Air Lines and the intention to join SkyTeam.
 
-<img src="../assets/img/united-stops-working-with-eurobonus/sas-united-issues.webp" alt="It's not possible to book United flights with SAS EuroBonus." class="noborder"/>
-
 Read more [in this post](https://blog.awardfares.com/united-stops-working-with-eurobonus/).
+
+<img src="../assets/img/united-stops-working-with-eurobonus/sas-united-issues.webp" alt="It's not possible to book United flights with SAS EuroBonus." class="noborder"/>
 
 <img src="../assets/img/eurobonus-updates-mar-2024/eurobonus-breaks-united.webp" style="max-width:400px;width:100%" alt="Ultimate Gudie To Using SAS EuroBonus Points." class="noborder"/>
 
