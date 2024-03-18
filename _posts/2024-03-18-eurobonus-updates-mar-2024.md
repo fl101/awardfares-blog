@@ -25,7 +25,7 @@ Recently, it was stated in a press release that SAS is planning on leaving Star 
 
 ### 2. Free Trip to Asia with SAS Amex Elite (Get 60.000 EB Points)
 
-American Express and SAS offer a new promotion with an insane welcome bonus when applying to the SAS Amex Elite (their highest tier) credit card. This time they offer **60.000 EuroBonus points**, which is comparable to what premium cards offer in the United States. Typically, it ranges between 12k and 30k points.
+American Express and SAS offer a new promotion with an insane welcome bonus when applying to the SAS Amex Elite (their highest tier) credit card. This time they offer **60.000 EuroBonus points** (15 000 in Norway), which is comparable to what premium cards offer in the United States. Typically, it ranges between 12k and 30k points.
 
 The 60k points are enough for a return trip with SAS Go Bonus to/from Asia and North America.
 
@@ -35,12 +35,12 @@ The 60k points are enough for a return trip with SAS Go Bonus to/from Asia and N
 
 Here are the conditions:
 
-* The offer is only valid [via the link on the SAS website and channels during March 2024](https://www.americanexpress.com/se/kreditkort/sas-eurobonus-elite/?ieep=05MC2993&cpid=100537334).
-* The offer only applies to people who have not been card **or extra card members** in the past 12 months.
-* To get the bonus, you must spend at least SEK 45,000 until June 30, 2024.
-* The points are transferred by August 31, 2024.
-* The card must be active when the bonus is distributed.
-* **Important**: If you cancel or downgrade the card within 12 months of being granted, your account will be debited with the value of your received welcome bonus. This prevents people from applying, getting the bonus, and canceling before the entire year.
+- The offer is only valid [via the link on the SAS website and channels during March 2024](https://www.americanexpress.com/se/kreditkort/sas-eurobonus-elite/?ieep=05MC2993&cpid=100537334).
+- The offer only applies to people who have not been card **or extra card members** in the past 12 months.
+- To get the bonus, you must spend at least SEK 45,000 until June 30, 2024.
+- The points are transferred by August 31, 2024.
+- The card must be active when the bonus is distributed.
+- **Important**: If you cancel or downgrade the card within 12 months of being granted, your account will be debited with the value of your received welcome bonus. This prevents people from applying, getting the bonus, and canceling before the entire year.
 
 <img src="../assets/img/eurobonus-updates-mar-2024/sas-amex-elite-60k.webp" alt="Get 60.000 EuroBonus Points when applying for the SAS Amex Elite in March 2024." class="noborder"/>
 
@@ -62,8 +62,8 @@ Every month, SAS puts together discounted prices for a handful of destinations. 
 
 Check it out and see if there's something you like. Also, hurry up to book because the promotion ends **today**.
 
-* **Book by**: 18 March 2024
-* **Travel Period**: 1 April – 18 December, 2024
+- **Book by**: 18 March 2024
+- **Travel Period**: 1 April – 18 December, 2024
 
 <div data-countdown="2024-03-18T22:59:00.000+02:00">
   TIME LEFT TO BOOK
@@ -77,7 +77,7 @@ Availability is also excellent for the following days during June 2024. You can 
 
 <img src="../assets/img/eurobonus-updates-mar-2024/cph-atl.webp" alt="Book SAS' inaugural flight to Atlanta using EuroBonus points." class="noborder"/>
 
-Make sure to add *SAS* and *nonstop* to the filters when you search for award seats.
+Make sure to add _SAS_ and _nonstop_ to the filters when you search for award seats.
 
 ### 6. 15% Discount and 5k Points on Car Rentals
 
@@ -99,10 +99,10 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-* [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
-* [SAS EuroBonus Conscious Traveler Takes Off In 2024: Greener Flying, Greater Rewards](https://blog.awardfares.com/sas-eurobonus-conscious-traveler/)
-* [SAS Ambitious New Direct Flight To Atlanta Takes Off In June (Awards Now Available)](https://blog.awardfares.com/sas-route-to-atlanta/)
-* [SAS Will Fly To 9 New Destinations During Summer 2024](https://blog.awardfares.com/sas-summer-2024/)
-* [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
+- [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
+- [SAS EuroBonus Conscious Traveler Takes Off In 2024: Greener Flying, Greater Rewards](https://blog.awardfares.com/sas-eurobonus-conscious-traveler/)
+- [SAS Ambitious New Direct Flight To Atlanta Takes Off In June (Awards Now Available)](https://blog.awardfares.com/sas-route-to-atlanta/)
+- [SAS Will Fly To 9 New Destinations During Summer 2024](https://blog.awardfares.com/sas-summer-2024/)
+- [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
 
-<script src="/assets/js/countdown.js"></script> 
+<script src="/assets/js/countdown.js"></script>
