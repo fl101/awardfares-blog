@@ -67,7 +67,7 @@ We have already seen some integration between SAS and Delta when booking revenue
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sas.webp" alt="EuroBonus Search Portal for Award Flights on SAS (2024)." />
 
-* **For Redemptions on Star Alliance**: These will be turned off immediately after SAS joins SkyTeam. Members will no longer be able to search and redeem for flights on Lufthansa, ANA,
+* **For Redemptions on Star Alliance**: These will be turned off immediately after SAS joins SkyTeam. Members will no longer be able to search and redeem for flights on Lufthansa, ANA, EVA Air, Thai Airways.
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sa.webp" alt="EuroBonus Search Portal for Award Flights on Star Alliance. Will disappear on Q2, 2024." />
 
