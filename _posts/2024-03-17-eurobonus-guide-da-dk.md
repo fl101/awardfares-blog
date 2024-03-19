@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)"
+title: "Guide til brug af SAS EuroBonus-point (Før & Efter De Tiltræder SkyTeam)"
 category: [EuroBonus, Guide]
 tags: [SAS, Star Alliance]
 author: Germán
-image: /assets/img/eurobonus-guide/cover.webp
+image: /assets/img/eurobonus-guide/cover-dk.webp
 lang: da-DK
 hidden: true
 sitemap: false
@@ -15,7 +15,7 @@ I dette år markerer et kæmpe spring for Scandinavian Airlines, især for SAS E
 Hvordan forbereder man sig til overgangen? Bare rolig – vi har dig dækket. Det er derfor, vi har forberedt dette indlæg som den ultimative guide til brug af SAS EuroBonus-point. Hensigten er at hjælpe dig med at finde de bedste (gratis) flyrejser på SAS og Star Alliance, før flyselskabet forlader og i sidste ende på SkyTeam-partnere, når flyselskabet træder ind i den nye alliance og integreres med disse partnere.
 
 <div data-countdown="2024-03-31T22:59:00.000+02:00">
-  TIME UNTIL Q2 2024
+  TID TIL Q2 2024
 </div>
 
 ### I dette indlæg
@@ -32,15 +32,16 @@ I stedet giver det fra et teknisk perspektiv mere mening, at flyselskabet(tene) 
 
 ### EuroBonus Award Chart
 
-The award charts show how many points you need for a free flight. On SAS flights, the airline may adjust the numbers (bumping them up), making flights cost more. These devaluations are easy to do and typically happen on short notice (effective the month after or so).
+Præmietabellerne viser, hvor mange point du har brug for en gratis flyrejse. På SAS-flyvninger kan flyselskabet justere tallene (bump dem op), hvilket gør flyvninger dyrere. Disse devalueringer er nemme at gøre og sker typisk med kort varsel (træder i kraft måneden efter eller sådan).
 
-As of today, the table below shows how many EuroBonus points you would need for a one-way flight with SAS and Widerøe, excluding taxes and fees.
+Pr. i dag viser tabellen nedenfor, hvor mange EuroBonus-point du ville have brug for en enkeltrejse med SAS og Widerøe, eksklusive skatter og gebyrer.
+
 
 <img src="../assets/img/eurobonus-guide/eb-award-chart-sas.webp" alt="EuroBonus Award Chart on SAS (2024)." />
 
-The Star Alliance part of the chart will be removed immediately, as redemptions will be stopped right away. A new chart for redemptions on SkyTeam partners should come simultaneously or soon, depending on how fast they implement redemptions on those partners.
+Den del af tabellen for Star Alliance vil blive fjernet øjeblikkeligt, da indløsninger vil blive stoppet med det samme. En ny tabel for indløsninger på SkyTeam-partnere bør komme samtidigt eller snart, afhængigt af hvor hurtigt de implementerer indløsninger på disse partnere.
 
-The table below shows how many EuroBonus points you would need for a round trip flight on Star Alliance airlines as of today, excluding taxes and carrier-imposed fees. The price in points depends on your destination and travel class.
+Tabellen nedenfor viser, hvor mange EuroBonus-point du ville have brug for en returrejse på Star Alliance-flyselskaber pr. i dag, eksklusive skatter og gebyrer pålagt af flyselskabet. Prisen i point afhænger af din destination og rejsklasse.
 
 <img src="../assets/img/eurobonus-guide/eb-award-chart-europe.webp" alt="EuroBonus Award Chart on Star Alliance (Ending in Q2, 2024)." />
 
@@ -52,29 +53,29 @@ EuroBonus [præmietabellen er zonebaseret](https://blog.awardfares.com/demystify
 
 ### Optjening af EuroBonus-point
 
-* **På SAS**: Ingen ændringer på kort sigt.
+- **På SAS**: Ingen ændringer på kort sigt.
 
-* **På Star Alliance-partnere**: Vær forberedt på at stoppe med at optjene point for flyvninger på Star Alliance-flyselskaber, så snart den nye aftale med SkyTeam træder i kraft.
+- **På Star Alliance-partnere**: Vær forberedt på at stoppe med at optjene point for flyvninger på Star Alliance-flyselskaber, så snart den nye aftale med SkyTeam træder i kraft.
 
 <img src="../assets/img/eurobonus-guide/earn-sas-partners.webp" alt="Earning EuroBonus points on Star Alliance Flights will stop by Q2." />
 
 <img src="../assets/img/eurobonus-guide/earn-sas-partners-airlines.webp" alt="Earning EuroBonus points on Star Alliance Flights will stop by Q2." />
 
-* **På SkyTeam-partnere**: I et ideelt scenarie, når SAS officielt er en del af SkyTeam, vil det være muligt at optjene point på partnerflyvninger med det samme. Hold på, det kunne være mere ligetil. Implementering af optjening og indløsninger tager tid, måneder og undertiden endda år.
+- **På SkyTeam-partnere**: I et ideelt scenarie, når SAS officielt er en del af SkyTeam, vil det være muligt at optjene point på partnerflyvninger med det samme. Hold på, det kunne være mere ligetil. Implementering af optjening og indløsninger tager tid, måneder og undertiden endda år.
 
 Vi har allerede set noget integration mellem SAS og Delta, når der bookes billetter med indtægter, så ændringerne kan ske tidligere for betydelige partnere som DL, Air France og KLM.
 
 ### EuroBonus-præmiesøgeportal
 
-* **For SAS-flyvninger**: Sandsynligvis det samme i starten. Som vi allerede kender det.
+- **For SAS-flyvninger**: Sandsynligvis det samme i starten. Som vi allerede kender det.
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sas.webp" alt="EuroBonus Search Portal for Award Flights on SAS (2024)." />
 
-* **For indløsninger på Star Alliance**: Disse vil blive slukket øjeblikkeligt efter SAS tilslutter sig SkyTeam. Medlemmer vil ikke længere kunne søge og indløse for flyvninger på Lufthansa, ANA, EVA Air, Thai Airways.
+- **For indløsninger på Star Alliance**: Disse vil blive slukket øjeblikkeligt efter SAS tilslutter sig SkyTeam. Medlemmer vil ikke længere kunne søge og indløse for flyvninger på Lufthansa, ANA, EVA Air, Thai Airways.
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sa.webp" alt="EuroBonus Search Portal for Award Flights on Star Alliance. Will disappear on Q2, 2024." />
 
-* **For indløsninger på SkyTeam-partnere**: Ikke ved lanceringen, men vi har håb om, at en portal vil dukke op for SkyTeam-flyvninger i løbet af 2. og 3. kvartal, i det mindste for en håndfuld partnere.
+- **For indløsninger på SkyTeam-partnere**: Ikke ved lanceringen, men vi har håb om, at en portal vil dukke op for SkyTeam-flyvninger i løbet af 2. og 3. kvartal, i det mindste for en håndfuld partnere.
 
 ### Amex 2-for-1 Vouchers / Følgesedler
 
