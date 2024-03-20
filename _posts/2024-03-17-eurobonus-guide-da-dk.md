@@ -77,18 +77,6 @@ Vi har allerede set noget integration mellem SAS og Delta, når der bookes bille
 
 - **For indløsninger på SkyTeam-partnere**: Ikke ved lanceringen, men vi har håb om, at en portal vil dukke op for SkyTeam-flyvninger i løbet af 2. og 3. kvartal, i det mindste for en håndfuld partnere.
 
-### Amex 2-for-1 Vouchers / Følgesedler
-
-For beboere i Norge og Sverige og indehavere af SAS American Express Elite-kortet, forbliver et spørgsmål: hvordan påvirker overgangen 2-for-1 vouchers også gyldige på Star Alliance-flyvninger?
-
-Formuleringen på American Express-webstedet forbliver uændret (indtil flere detaljer er kendt).
-
-<img src="../assets/img/eurobonus-guide/amex-voucher.webp" alt="SAS Amex Elite 2 for 1 vouchers will stop working for Star Alliance. Will they work for SkyTeam?." />
-
-Det er sikrere at antage, at vouchers kun vil være brugbare på SAS-flyvninger fra det øjeblik, det tilslutter sig SkyTeam. Som vi sagde tidligere, er det uklart, om/hvornår indløsninger på SkyTeam-partnere vil blive tilgængelige, og om vouchers vil kunne bruges på disse eller ej.
-
-Hvis du har ubrugte vouchers og overvejer at flyve med Star Alliance Airlines, kan dette være et godt tidspunkt at konsolidere bookinger. For eksempel kan det være et godt tidspunkt at prøve kabiner som Lufthansa First, ANA The Room osv.
-
 ### Udgivelsesdatoer for Præmier
 
 Mens den generelle tidsramme på 330-359 dage sandsynligvis gælder, vil specifikke udgivelsesdatoer for EuroBonus-medlemmer afhænge af, hvordan SAS og SkyTeam-flyselskaber integrerer deres loyalitetsprogrammer.
@@ -123,7 +111,7 @@ I eksemplet nedenfor søger vi efter flyvninger mellem [København og New York](
 
 <img src="../assets/img/eurobonus-guide/route-sas.webp" alt="Select EuroBonus as Frequent Flyer Program in AwardFares." />
 
-#### 4. Udforsk datoer
+#### 5. Udforsk datoer
 
 Hvis du har en bestemt dato i tankerne, tilføj den ved at trykke på **Calendar**-feltet.
 
@@ -135,7 +123,7 @@ Alternativt kan du bruge AwardFares' Tidslinjevisning (**Timeline View**) til at
 
 <img src="../assets/img/eurobonus-guide/details.webp" alt="EuroBonus award flight details." />
 
-#### 5. Sorter efter Pris eller Stop
+#### 6. Sorter efter Pris eller Stop
 
 Uanset om du udforsker datoer ved hjælp af Tidslinjevisningen eller har valgt en specifik dag, vil AwardFares vise dig de tilgængelige sæder (med realtidsdata) inden for sekunder i resultatlisten nedenfor.
 
@@ -145,7 +133,7 @@ Du kan trykke på de forskellige kolonneoverskrifter for at sortere resultaterne
 
 Du kan også trykke på **Stops**-overskriften for at vise de korteste ture først (blandt lignende prissatte flyvninger).
 
-#### 6. Book på SAS EuroBonus Portal
+#### 7. Book på SAS EuroBonus Portal
 
 Når du har identificeret de flyvninger, du ønsker (eller har bygget en rejseplan ved hjælp af vores [Journey Planner](https://blog.awardfares.com/journey-planner/)), gå til EuroBonus-portalen på SAS' hjemmeside og fortsæt med bookingen.
 

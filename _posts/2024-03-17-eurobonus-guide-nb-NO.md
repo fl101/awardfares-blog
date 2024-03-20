@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)"
+title: "Guide til SAS EuroBonus Bonusreiser (Før og Etter De Bli Med i SkyTeam)"
 category: [EuroBonus, Guide]
 tags: [SAS, Star Alliance]
 author: Germán
-image: /assets/img/eurobonus-guide/cover.webp
+image: /assets/img/eurobonus-guide/cover-no.webp
+lang: nb-NO
+hidden: true
+sitemap: false
 ---
 
 This year marks a giant leap for Scandinavian Airlines, particularly for SAS EuroBonus members. The airline will be acquired, among others, by Air France-KLM, leaving Star Alliance (planned for Q2 2024) and joining SkyTeam immediately! This means the game for frequent travelers will change very soon: award flights you can redeem using SAS EuroBonus points will be different forever.
@@ -119,7 +122,7 @@ In the example below, we search for flights [between Copenhagen and New York](ht
 
 <img src="../assets/img/eurobonus-guide/route-sas.webp" alt="Select EuroBonus as Frequent Flyer Program in AwardFares." />
 
-#### 5. Explore dates
+#### 4. Explore dates
 
 If you have a particular date in mind, add it by tapping on the **Calendar** field.
 
@@ -133,7 +136,7 @@ In addition, you can also tap anywhere on the flight to display more details in 
 
 <img src="../assets/img/eurobonus-guide/details.webp" alt="EuroBonus award flight details." />
 
-#### 6. Sort by Price or Stops
+#### 5. Sort by Price or Stops
 
 Whether you are exploring dates using the Timeline View or have selected a specific day, AwardFares will show you the available seats (with real-time data) within seconds in the result list below.
 
@@ -143,7 +146,7 @@ You can tap on the different header columns to sort the results by price. Use th
 
 You can also tap on the **Stops** header to display the shortest trips first (among similarly priced flights)
 
-#### 7. Book on the SAS EuroBonus Portal
+#### 6. Book on the SAS EuroBonus Portal
 
 Once you have identified the flights you want (or built an itinerary using our [Journey Planner](https://blog.awardfares.com/journey-planner/)), go to the EuroBonus portal on SAS website and proceed with the booking.
 
