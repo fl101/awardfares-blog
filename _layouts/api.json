@@ -7,10 +7,10 @@ layout: null
   {%- for post in category[1] -%}
     ,{
       "title": "{{ post.title }}",
-      "url": "{{ site.url }}{{ post.url }}",
+      "url": "{{ post.url | absolute_url }}",
       "date": "{{ post.date | date: "%Y-%m-%dT%H:%M:%S.000Z" }}",
       "displayDate": "{%- if post.seo.date_modified -%}{{- post.seo.date_modified | date: '%B %-d, %Y' -}}{% else %}{{- post.date | date: '%B %-d, %Y' -}}{% endif %}",
-      "image": "{{ post.image }}"
+      "image": "{{ post.image | absolute_url }}"
     }
   {%- endfor -%}
 {%- endif -%}
