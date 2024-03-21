@@ -1,0 +1,19 @@
+---
+layout: null
+---
+{% capture json %}
+{%- for category in site.categories -%}
+    {%- if category[0] == page.category -%}
+  {%- for post in category[1] -%}
+    ,{
+      "title": "{{ post.title }}",
+      "url": "{{ site.url }}{{ post.url }}",
+      "date": "{{ post.date | date: "%Y-%m-%dT%H:%M:%S.000Z" }}",
+      "displayDate": "{%- if post.seo.date_modified -%}{{- post.seo.date_modified | date: '%B %-d, %Y' -}}{% else %}{{- post.date | date: '%B %-d, %Y' -}}{% endif %}",
+      "image": "{{ post.image }}"
+    }
+  {%- endfor -%}
+{%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{"posts":[{{ json | strip | remove_first: "," | remove: "      " | remove: "    " | strip_newlines }}]}
