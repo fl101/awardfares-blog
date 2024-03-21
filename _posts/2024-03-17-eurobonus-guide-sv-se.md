@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guide till SAS EuroBonus Bonusresor (Före & Efter de går med i SkyTeam)
+title: Guide till SAS EuroBonus Bonusresor (Före & Efter SkyTeam)"
 category: [EuroBonus, Guide]
 tags: [SAS, Star Alliance]
 author: Germán
