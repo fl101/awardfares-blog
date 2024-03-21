@@ -5,6 +5,8 @@ layout: null
 {%- for category in site.categories -%}
     {%- if category[0] == page.category -%}
   {%- for post in category[1] -%}
+    {%- unless post.lang == "zh_TW" -%}
+    {%- unless post.hidden -%}
     ,{
       "title": {{ post.title | jsonify }},
       "url": "{{ post.url | absolute_url }}",
@@ -12,6 +14,8 @@ layout: null
       "displayDate": "{%- if post.seo.date_modified -%}{{- post.seo.date_modified | date: '%B %-d, %Y' -}}{% else %}{{- post.date | date: '%B %-d, %Y' -}}{% endif %}",
       "image": "{{ post.image | absolute_url }}"
     }
+    {%- endunless -%}
+    {%- endunless -%}
   {%- endfor -%}
 {%- endif -%}
   {%- endfor -%}
