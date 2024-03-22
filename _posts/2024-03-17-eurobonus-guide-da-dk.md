@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guide til brug af SAS EuroBonus-point (Før & Efter De Tiltræder SkyTeam)"
+title: "Guide til SAS EuroBonus Points (Før og Efter SkyTeam)"
 category: [EuroBonus, Guide]
 tags: [SAS, Star Alliance]
 author: Germán

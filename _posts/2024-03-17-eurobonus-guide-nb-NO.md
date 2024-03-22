@@ -22,7 +22,8 @@ I dette året markerer et stort sprang for Scandinavian Airlines, spesielt for S
 
 - [SAS Overgang til SkyTeam (Våre Tanker)](#sas-overgang-til-skyteam-våre-tanker)
 - [Hvordan Finne Billige EuroBonus Prisflyvninger (Steg-for-steg)](#hvordan-finne-billige-eurobonus-prisflyvninger-steg-for-steg)
-- [Become a EuroBonus Pro](#become-a-eurobonus-pro)
+- [Når du har identifisert flyvningene du ønsker (eller bygget en reiserute ved hjelp av vår Journey Planner), gå til EuroBonus-portalen på SAS' nettsted og fortsett med bookingen.](#når-du-har-identifisert-flyvningene-du-ønsker-eller-bygget-en-reiserute-ved-hjelp-av-vår-journey-planner-gå-til-eurobonus-portalen-på-sas-nettsted-og-fortsett-med-bookingen)
+- [Bli en EuroBonus Pro](#bli-en-eurobonus-pro)
 
 ## SAS Overgang til SkyTeam (Våre Tanker)
 
@@ -107,100 +108,98 @@ Vi vil fortsette å overvåke situasjonen og oppdatere vår [Ultimate Guide to A
 
 Trykk på **Loyalty Program** og velg SAS EuroBonus
 
-
 <img src="../assets/img/eurobonus-guide/ffp-eb.webp" alt="Select EuroBonus as Frequent Flyer Program in AwardFares." />
 
-#### 3. Under *Airlines*, select **SAS only**
+#### 3. Under *Airlines*, velg **SAS only**
 
-From now on, you will only see available award seats operated by SAS on the results list.
+Fra nå av vil du kun se tilgjengelige bonusseter operert av SAS i resultatlisten.
 
 <img src="../assets/img/eurobonus-guide/airline-sas.webp" alt="Select SAS as under Airlines to show bonus trips on SAS only." />
 
-#### 4. Add a Route
+#### 4. Legg til en Rute
 
-In the **Origin** and **Destination** fields, add one or more airports to search for flights between those locations. AwardFares will search for award flights regardless of the number of stops. You can use the **Stops** filter to only search for direct/non-stop flights.
+I **Origin** og **Destination**-feltene, legg til en eller flere flyplasser for å søke etter flyvninger mellom disse stedene. AwardFares vil søke etter prisflyvninger uavhengig av antall stopp. Du kan bruke **Stops**-filteret for kun å søke etter direkte/non-stop-flyvninger.
 
-In the example below, we search for flights [between Copenhagen and New York](https://awardfares.com/search?CPH.area:NYC.;a:SK;z:sas). Note that we use the metropolitan area codes **NYC** to get results to and from any airport in New York (JFK, EWR, LGA).
+I eksemplet nedenfor, søker vi etter flyvninger [mellom København og New York](https://awardfares.com/search?CPH.area:NYC.;a:SK;z:sas). Merk at vi bruker de metropolitiske områdekodene NYC for å få resultater til og fra hvilken som helst flyplass i New York (JFK, EWR, LGA).
 
 <img src="../assets/img/eurobonus-guide/route-sas.webp" alt="Select EuroBonus as Frequent Flyer Program in AwardFares." />
 
-#### 4. Explore dates
+#### 4. Utforsk Datoer
 
-If you have a particular date in mind, add it by tapping on the **Calendar** field.
+Hvis du har en spesifikk dato i tankene, legg den til ved å trykke på **Calendar**-feltet.
 
-Alternatively, you can use AwardFares **Timeline View** to explore the seat availability on different dates. The Timeline View displays how many seats are available for each day of the week/month. The bars are color-coded, so it's easy to distinguish between cabin classes (Economy, Business, First). You can also trigger new searches by tapping the refresh icon underneath each day.
+Alternativt kan du bruke AwardFares **Timeline View** for å utforske setetilgjengeligheten på forskjellige datoer. Tidslinjevisningen viser hvor mange seter som er tilgjengelige for hver dag i uken/måneden. Stolpene er fargekodet, så det er enkelt å skille mellom kabin klasser (Økonomi, Business, Første). Du kan også utløse nye søk ved å trykke på oppdateringsikonet under hver dag.
 
 <img src="../assets/img/eurobonus-guide/timeline-sas.webp" alt="Timeline View of EuroBonus award flights in AwardFares." />
 
 <img src="../assets/img/eurobonus-guide/results-sas.webp" alt="EuroBonus Results in AwardFares." />
 
-In addition, you can also tap anywhere on the flight to display more details in an expanded view, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free versus occupied!
+I tillegg kan du også trykke hvor som helst på flyvningen for å vise flere detaljer i en utvidet visning, som flytype, og til og med [få de nåværende setekartene](https://blog.awardfares.com/seatmaps-guide/) for å se hvilke seter som er ledige kontra opptatte!
 
 <img src="../assets/img/eurobonus-guide/details.webp" alt="EuroBonus award flight details." />
 
-#### 5. Sort by Price or Stops
+#### 5. Sorter etter Pris eller Stopp
 
-Whether you are exploring dates using the Timeline View or have selected a specific day, AwardFares will show you the available seats (with real-time data) within seconds in the result list below.
+Uansett om du utforsker datoer ved bruk av Tidslinjevisningen eller har valgt en spesifikk dag, vil AwardFares vise deg de tilgjengelige setene (med sanntidsdata) innen sekunder i resultatlisten nedenfor.
 
-You can tap on the different header columns to sort the results by price. Use the **Eco**, **Prem**, **Biz**, and **First** class tags to find cheap awards across multiple dates, itineraries, and airlines.
+Du kan trykke på de forskjellige overskriftskolonnene for å sortere resultatene etter pris. Bruk **Eco**, **Prem**, **Biz**, og **First** klassetagene for å finne billige priser på tvers av flere datoer, reiseruter og flyselskaper.
 
 <img src="../assets/img/eurobonus-guide/sort-by-price-sas.gif" alt="Sorting EuroBonus Award Flights by Price in AwardFares" />
 
-You can also tap on the **Stops** header to display the shortest trips first (among similarly priced flights)
+Du kan også trykke på **Stops**-overskriften for å vise de korteste turene først (blant lignende prisede flyvninger)
 
-#### 6. Book on the SAS EuroBonus Portal
+#### 6. Bestill på SAS EuroBonus Portal
 
-Once you have identified the flights you want (or built an itinerary using our [Journey Planner](https://blog.awardfares.com/journey-planner/)), go to the EuroBonus portal on SAS website and proceed with the booking.
-
+Når du har identifisert flyvningene du ønsker (eller bygget en reiserute ved hjelp av vår [Journey Planner](https://blog.awardfares.com/journey-planner/)), gå til EuroBonus-portalen på SAS' nettsted og fortsett med bookingen.
 -------
 
-### Booking Star Alliance Flights
+### Booking av Star Alliance-flyvninger
 
-#### 1. Under *Airlines*, select **Star Alliance only**
+#### 1. Under *Airlines*, velg **Star Alliance only**
 
-From now on, you will only see available award seats operated by Star Alliance partners on the results list. You will also see SAS results unless you exclude it from the results explicitly.
+Fra nå av vil du kun se tilgjengelige bonusseter operert av Star Alliance-partnere i resultatlisten. Du vil også se SAS-resultater med mindre du eksplisitt ekskluderer det fra resultatene.
 
 <img src="../assets/img/eurobonus-guide/airline-sa.webp" alt="Select Star Alliance as under Airlines in AwardFares." />
 
-#### 2. Add a Route
+#### 2. Legg til en Rute
 
-Same as above, use the **Origin** and **Destination** fields to add one or more airports to search for flights between those locations.
+Samme som ovenfor, bruk **Origin** og **Destination**-feltene for å legge til en eller flere flyplasser for å søke etter flyvninger mellom disse stedene.
 
-In the example below, we search for flights [between Boston and Munich](https://awardfares.com/search?BOS.MUC.;a:A3,AC,AI,AV,BR,CA,CM,ET,LH,LO,LX,MS,NH,NZ,OS,OU,OZ,SA,SK,SN,SQ,TG,TK,TP,UA,ZH;z:sas).
+I eksemplet nedenfor, søker vi etter flyvninger [mellom Boston og München](https://awardfares.com/search?BOS.MUC.;a:A3,AC,AI,AV,BR,CA,CM,ET,LH,LO,LX,MS,NH,NZ,OS,OU,OZ,SA,SK,SN,SQ,TG,TK,TP,UA,ZH;z:sas).
 
 <img src="../assets/img/eurobonus-guide/route-sa.webp" alt="Flights between Boston and Munich with SAS EuroBonus points in AwardFares." />
 
-#### 3. Explore and Sort Results
+#### 3. Utforsk og Sorter Resultater
 
-Whether you are exploring dates using the Timeline View or have selected a specific day, AwardFares will show you the available seats (with real-time data) within seconds in the result list below.
+Enten du utforsker datoer ved bruk av Tidslinjevisningen eller har valgt en spesifikk dag, vil AwardFares vise deg de tilgjengelige setene (med sanntidsdata) innen sekunder i resultatlisten nedenfor.
 
 <img src="../assets/img/eurobonus-guide/results-sa.webp" alt="EuroBonus Award Flights Results in AwardFares" />
 
-Tap on the different header columns classes (**Eco**, **Prem**, **Biz**, and **First**) to sort the results by price.
+Trykk på de forskjellige overskriftskolonnene klasser (**Eco**, **Prem**, **Biz**, og **First**) for å sortere resultatene etter pris.
 
 <img src="../assets/img/eurobonus-guide/sort-sa.gif" alt="Sorting EuroBonus Award Flights by Price in AwardFares" />
 
-You can also tap on the **Stops** header to display the shortest trips first (among similarly priced flights)
+Du kan også trykke på **Stops**-overskriften for å vise de korteste turene først (blant lignende prisede flyvninger)
 
-**Cheapest Award Flights in Business & First Class**
+**Billigste Prisflyvninger i Business & Første Klasse**
 
-AwardFares' quick sorting feature is very useful when trying to book premium cabins such as Business and First, and specially when the award charts use dynamic pricing. This might be your secret weapon to maximizing the value of your EuroBouns points if it shifts to a dynamic pricing scheme, like Flying Blue.
+AwardFares' hurtigsorteringsfunksjon er svært nyttig når du prøver å bestille premiumkabiner som Business og Første, spesielt når pristabellene bruker dynamisk prissetting. Dette kan være din hemmelige våpen for å maksimere verdien av dine EuroBonus-poeng hvis det skifter til et dynamisk prissettingssystem, som Flying Blue.
 
-#### 6. Book on the EuroBonus Star Alliance Portal
+#### 6. Bestill på EuroBonus Star Alliance Portal
 
-Once you have identified the flights you want go to SAS website, [log-in and choose *Star Alliance Bonus Trips*](https://www.flysas.com/nl-en/eurobonus/star-alliance-award-trips/) to proceed with the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards). In those situations, you will need to call SAS service center.
+Når du har identifisert flyvningene du ønsker, gå til SAS' nettsted, [logg inn og velg Star Alliance Bonus Trips](https://www.flysas.com/nl-en/eurobonus/star-alliance-award-trips/) for å fortsette med bookingen. Husk at noen av disse reiserutene ikke er bookbare online for spesifikke programmer (f.eks. mixed-cabin awards). I disse situasjon ene, må du ringe SAS' kundeservice.
 
-## Become a EuroBonus Pro
+## Bli en EuroBonus Pro
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
+Du kan prøve [AwardFares gratis](https://awardfares.com/). Vi lanserer nye funksjoner og forbedringer jevnlig, så [registrer deg for vårt månedlige nyhetsbrev](https://awardfares.com/newsletter) for å holde deg oppdatert på de siste nyhetene, kunngjøringene og profftipsene.
 
-With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
+Med våre [Gull- og Diamantnivåer](https://awardfares.com/pricing), kan du få tilgang til premiumfunksjoner som ubegrensede daglige søk, varsler, setekart, flyplaner og mer!
 
-Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
+Våre guider har all den informasjonen du trenger for å bli en proff reisehacker og utforske verden med poeng. Her er noen relaterte innlegg du kanskje liker:
 
 - [Booking United Flights with EuroBonus Points No Longer an Option?](https://blog.awardfares.com/united-stops-working-with-eurobonus/)
 - [SAS Will Leave Star Alliance! Here’s What To Do Next](https://blog.awardfares.com/sas-acquisition/)
 - [SAS EuroBonus Conscious Traveler Takes Off In 2024: Greener Flying, Greater Rewards](https://blog.awardfares.com/sas-eurobonus-conscious-traveler/)
 - [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
 
-<script src="/assets/js/countdown.js"></script> 
+<script src="/assets/js/countdown.js"></script>
