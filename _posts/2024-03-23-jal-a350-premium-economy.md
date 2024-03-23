@@ -69,6 +69,8 @@ Intro
 
 <img src="../assets/img/jal-a350-jfk-hnd/19-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
 
+<img src="../assets/img/jal-a350-jfk-hnd/36-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+
 <img src="../assets/img/jal-a350-jfk-hnd/20-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
 
 ## IFE
@@ -80,6 +82,10 @@ Intro
 <img src="../assets/img/jal-a350-jfk-hnd/21-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
 </figure>
 
+## Amenities
+
+<img src="../assets/img/jal-a350-jfk-hnd/45-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+
 ## WIFI
 
 <figure>
@@ -87,18 +93,59 @@ Intro
 <img src="../assets/img/jal-a350-jfk-hnd/25-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
 <img src="../assets/img/jal-a350-jfk-hnd/27-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
 <img src="../assets/img/jal-a350-jfk-hnd/28-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
-<img src="../assets/img/jal-a350-jfk-hnd/29-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+</figure>
+
+## Restroom
+
+<figure>
+<img src="../assets/img/jal-a350-jfk-hnd/33-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+<img src="../assets/img/jal-a350-jfk-hnd/34-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+<img src="../assets/img/jal-a350-jfk-hnd/35-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
 </figure>
 
 ## Meals
 
+### Menu
+
 <figure>
-<img src="../assets/img/jal-a350-jfk-hnd/11-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
-<img src="../assets/img/jal-a350-jfk-hnd/13-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
-<img src="../assets/img/jal-a350-jfk-hnd/14-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
-<img src="../assets/img/jal-a350-jfk-hnd/15-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
-<img src="../assets/img/jal-a350-jfk-hnd/16-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+<img src="../assets/img/jal-a350-jfk-hnd/22-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+<img src="../assets/img/jal-a350-jfk-hnd/23-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
 </figure>
+
+### Welcome Drink
+
+<figure>
+<img src="../assets/img/jal-a350-jfk-hnd/31-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+<img src="../assets/img/jal-a350-jfk-hnd/32-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+</figure>
+
+### Lunch
+
+<figure>
+<img src="../assets/img/jal-a350-jfk-hnd/38-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+<img src="../assets/img/jal-a350-jfk-hnd/39-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+<img src="../assets/img/jal-a350-jfk-hnd/40-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+</figure>
+
+### Dessert
+
+<img src="../assets/img/jal-a350-jfk-hnd/41-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+
+### Meal 2. Udon Snack
+
+<figure>
+<img src="../assets/img/jal-a350-jfk-hnd/49-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+<img src="../assets/img/jal-a350-jfk-hnd/50-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+</figure>
+
+### Meal 3. Pre Arrival
+
+<figure>
+<img src="../assets/img/jal-a350-jfk-hnd/52-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+<img src="../assets/img/jal-a350-jfk-hnd/53-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
+</figure>
+
+## Arrival
 
 
 ## Read More
