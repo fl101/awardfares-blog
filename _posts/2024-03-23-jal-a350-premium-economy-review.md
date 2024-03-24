@@ -109,7 +109,7 @@ When it comes to the design, the seat has a myriad of details that make it feel 
 
 ### Cabin
 
-The Premium Economy cabin was tiny, with only three rows. It felt very private and cozy and had direct access to the toilets behind it. The seats in the middle of the plane had extra privacy in the center, so the layout was perfect. You were traveling in pairs or groups of 2.
+The Premium Economy cabin was tiny, with only three rows. It felt very private and cozy and had direct access to the toilets behind it. The seats in the middle of the plane have extra privacy in the center, so the layout is perfect if you were traveling in pairs or groups of 2.
 
 <figure>
 <img src="../assets/img/jal-a350-jfk-hnd/19-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
@@ -218,7 +218,7 @@ About one and a half hours before arrival, they served a 'light dinner'. I went 
 
 ## Arrival
 
-The approach and landing in Tokyo were beautiful. It was cloudy initially, but for moments, you could see the entire city, even Mt. Fuji. Again, it was great to
+The approach and landing in Tokyo were beautiful. It was cloudy initially, but for moments, you could see the entire city, even Mt. Fuji.
 
 <figure>
 <img src="../assets/img/jal-a350-jfk-hnd/55-jala350.webp" alt="JAL Flagship A350-1000 Premium Economy Review" />
