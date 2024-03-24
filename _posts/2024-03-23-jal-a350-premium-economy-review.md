@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "JAL's New A350-1000 Premium Economy Review: New York To Tokyo"
+title: "JAL A350-1000 Premium Economy: New York To Tokyo"
 category: [Trip Report]
 tags: [Review, Premium Economy, JAL]
 author: Germán
 image: /assets/img/jal-a350-jfk-hnd/cover.webp
-hidden: true
-sitemap: false
 ---
 
 I recently had the chance to make my first round-the-world trip, starting from the south of Argentina, going to Tokyo and back. As I was assembling the itinerary, I realized there was an opportunity to go via New York (JFK) and take Japan Airlines to Tokyo Haneda, operated by their new flagship, A350-1000. The flight runs daily, but some days are still operated by a 777, so even though the plan was exciting, there was still a chance that they changed the equipment last minute.
