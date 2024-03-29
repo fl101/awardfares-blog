@@ -5,6 +5,8 @@ category: [Guide]
 tags: [Point.me]
 author: Germán
 image: /assets/img/awardfares-vs-point-me/cover.webp
+seo:
+    date_modified: 2024-03-29
 ---
 
 AwardFares is the easiest way to search and find your next free flight using points or miles. In just a few clicks and with a modern user interface, you can search award availability across multiple frequent flyer programs, setup alerts, lookup seat maps and flight schedules.
@@ -15,21 +17,20 @@ In this guide, we delve into the 5 key differences between AwardFares and Point.
 
 ### In this post
 
-- [What is Point.me? {#point-me}](#what-is-pointme-point-me)
-- [AwardFares vs. Point.me: Key Differences {#differences}](#awardfares-vs-pointme-key-differences-differences)
+- [What is Point.me?](#what-is-pointme)
+- [AwardFares vs. Point.me: Key Differences](#awardfares-vs-pointme-key-differences)
 - [Conclusion](#conclusion)
-- [Get started](#get-started)
-- [Read more](#read-more)
+- [Become a Pro Travel Hacker](#become-a-pro-travel-hacker)
 
-## What is Point.me? {#point-me}
+## What is Point.me?
 
 [Point.me](https://www.point.me/) is an online search tool designed to assist users in finding the best use for their travel reward points or miles. It aims to simplify the process of award travel booking by showing users how they can leverage their points across various frequent flyer programs. Point.me also offers a forum and a concierge service that can help book award flights and hotels.
 
 The New York-based startup was founded in 2019 by their CEO Adam Morvitz and president Tiffany Funk. In September 2023, [Point.me has raised $10 million in Series A funding](https://techcrunch.com/2023/09/05/real-time-flight-rewards-search-engine-point-me-raises-10m/) led by Thayer Ventures.
 
-## AwardFares vs. Point.me: Key Differences {#differences}
+## AwardFares vs. Point.me: Key Differences
 
-### 1. Simplified User Interface {#one}
+### 1. Simplified User Interface
 
 AwardFares is all about simplicity. The platform has been designed with a user-first approach, prioritizing a clean and intuitive interface. For users who want quick answers without wading through unnecessary details, AwardFares provides a straightforward experience. Color-coded charts and clear graphics ensure that even beginners in the miles game can understand at a glance.
 
@@ -39,8 +40,7 @@ In addition, AwardFares has been meant for mobile from day one. It doesn’t com
 
 <img src="../assets/img/awardfares-vs-point-me/af-mobile.webp" alt="AwardFares Mobile App" class="noborder" />
 
-
-### 2. Top-Notch Alert System {#two}
+### 2. Top-Notch Alert System
 
 When you're planning for that dream trip and need to catch the best award seat once it becomes available, AwardFares doesn’t disappoint. Their alert system is robust, allowing users to set up specific notifications for routes, ensuring they never miss an opportunity. The immediacy and accuracy of these alerts give AwardFares users a definite advantage.
 
@@ -48,7 +48,7 @@ When you're planning for that dream trip and need to catch the best award seat o
 
 > Read our [complete Alerts tutorial here](https://blog.awardfares.com/alerts/).
 
-### 3. Simple Pricing {#three}
+### 3. Simple Pricing
 
 AwardFares’ subscription-based model means users know exactly what they’re getting into. The free version offers a taste of the platform’s capabilities, while the premium versions unlock more features. This clear, tiered system allows travelers to choose exactly what they need without surprises.
 
@@ -60,7 +60,7 @@ AwardFares Pricing Tiers:
 
 <img src="../assets/img/awardfares-vs-point-me/af-pricing.webp" alt="AwardFares Pricing" />
 
-### 4. Free Trials And Better Insights {#four}
+### 4. Free Trials And Better Insights
 
 Yes! You can try any AwardFares package for 24 hours before committing, to get a taste of the extra features.
 
@@ -68,7 +68,7 @@ In addition, beyond just notifying about available seats, AwardFares goes the ex
 
 <img src="../assets/img/awardfares-vs-point-me/af-list.webp" alt="AwardFares Alerts" />
 
-### 5. Journey Planner {#five}
+### 5. Journey Planner
 
 One of the most amazing features is the Journey Planner. This powerful feature lets you unlock itineraries to your dream destination, by planning multiple segments in a quick and convenient way. In just a few clicks, users can select add or remove legs, find connections within 24 hours, duplicate journeys, and see the itinerary on a map.
 
@@ -78,7 +78,7 @@ One of the most amazing features is the Journey Planner. This powerful feature l
 
 > Read our [complete Journey Planner tutorial here](https://blog.awardfares.com/journey-planner/).
 
-### 6. Blog and Free Resources {#six}
+### 6. Blog and Free Resources
 
 At AwardFares, we spent significant time crafting state-of-the-art guides and updated resources with what our users are looking for. The best flight redemptions, per-program sweet spots, tips to build perfect award trips, and feature deep-dives are available on our amazing blog and monthly newsletter.
 
@@ -86,14 +86,16 @@ At AwardFares, we spent significant time crafting state-of-the-art guides and up
 
 Both AwardFares and Point.me offer travelers the tools to unlock the best of award travel. However, for those who prioritize a direct user interface, consistent alliance data, a top-notch alert system, clear pricing, and valuable travel insights, AwardFares is a cut above the rest. Whether you're a seasoned miles collector or just starting out, it's always good to have AwardFares in your toolkit. Happy journeying!
 
-## Get started
+## Become a Pro Travel Hacker
 
-You can try searching for award flights on Singapore Airlines [using AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
-## Read more
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-Make sure to also check these posts out
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
+- [AwardFares vs. seats.aero](https://blog.awardfares.com/awardfares-vs-seats-aero/)
 - [AwardFares vs. Cowtool](https://blog.awardfares.com/awardfares-vs-cowtool/)
+- [AwardFares & AwardHacker: A Dynamic Duo for Maximizing Your Miles and Points](https://blog.awardfares.com/awardhacker/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
