@@ -5,6 +5,8 @@ category: [Tools]
 tags: [Guide]
 author: Philip
 image: /assets/img/award-dates/image.png
+seo:
+    date_modified: 2024-03-29
 ---
 
 One of the best ways of booking your perfect award trip is to plan far in advance. Even though most airlines generally release new award space continuously throughout the year, it is always best to book as far in advance as possible. This guide will help you answer the question of how long in advance airlines such as Lufthansa release award seats?
@@ -26,14 +28,16 @@ Here are the number of days in advance that some popular frequent flyer program 
 
 | Frequent Flyer Program | Days in advance | Date from today |
 | ---------------------- | --------------- | --------------- |
-| [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan)    | 365             | <span></span>   |
+| [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan)    | 355             | <span></span>   |
 | [American AAdvantage](https://awardfares.com/search?..;z:aadvantage)    | 331             | <span></span>   |
 | [Alaska Mileage Plan](https://awardfares.com/search?..;z:alaska)    | 330             | <span></span>   |
 | [United MileagePlus](https://awardfares.com/search?..;z:united)     | 337             | <span></span>   |
 | [SAS EuroBonus](https://awardfares.com/search?..;z:sas)          | 360             | <span></span>   |
-| [Avianca LifeMiles](https://awardfares.com/search?..;z:lifemiles)      | 360             | <span></span>   |
-| Delta Skymiles         | 331             | <span></span>   |
-| Air France-KLM Flying Blue | 359         | <span></span>   |
+| [Delta SkyMiles](https://awardfares.com/search?..;z:delta)         | 331             | <span></span>   |
+| [Air France-KLM Flying Blue](https://awardfares.com/search?..;z:flyingblue) | 359         | <span></span>   |
+| [JetBlue TrueBlue](https://awardfares.com/search?..;z:jetblue) | 331         | <span></span>   |
+| [Virgin Atlantic Flying Club](https://awardfares.com/search?..;z:flyingclub) | 331         | <span></span>   |
+| Avianca LifeMiles   | 360             | <span></span>   |
 
 ### By Airline
 
@@ -75,10 +79,9 @@ Notes:
 - (2) Lufthansa long-haul First partner redemptions are released 30 days in advance. Members of Miles & More can book up to 180 days in advance.
 - (3) SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
 - (4) Aeroplan and EuroBonus limited to 180 days in advance.
-- (5) [SAS announced it will leave Star Alliance and join Skyteam](https://blog.awardfares.com/sas-acquisition). Date is undefined.
+- (5) [SAS announced it will leave Star Alliance and join SkyTeam](https://blog.awardfares.com/sas-acquisition). The airline plans to make the transition during Q2, 2024.
 
 #### Oneworld
-
 
 | Airline                                     | Days in advance         | Date from today |
 | ------------------------------------------- | ----------------------- | --------------- |
@@ -159,7 +162,6 @@ Make sure to also check these posts out
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-
 
 <script>
 (function () {

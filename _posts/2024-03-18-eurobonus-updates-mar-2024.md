@@ -5,6 +5,8 @@ category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-mar-2024/cover.webp
+seo:
+    date_modified: 2024-03-29
 ---
 
 Welcome to our SAS EuroBonus monthly updates, March edition! The EuroBonus front is very hot right now, with lots of things going on. Each month, we explore and summarize the most recent developments so you don't have to.
@@ -25,7 +27,7 @@ Recently, it was stated in a press release that SAS is planning on leaving Star 
 
 ### 2. Free Trip to Asia with SAS Amex Elite (Get 60.000 EB Points)
 
-American Express and SAS offer a new promotion with an insane welcome bonus when applying to the SAS Amex Elite (their highest tier) credit card. This time they offer **60.000 EuroBonus points** (15 000 in Norway), which is comparable to what premium cards offer in the United States. Typically, it ranges between 12k and 30k points.
+American Express and SAS offer a new promotion with an insane welcome bonus when applying to the SAS Amex Elite (their highest tier) credit card. This time they offer **60.000 EuroBonus points** (both valid in Sweden and Norway), which is comparable to what premium cards offer in the United States. Typically, it ranges between 12k and 30k points.
 
 The 60k points are enough for a return trip with SAS Go Bonus to/from Asia and North America.
 
