@@ -5,8 +5,6 @@ category: [Guide]
 tags: [seats.aero]
 author: Germán
 image: /assets/img/awardfares-vs-seats-aero/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Traveling on points and miles is a fantastic way to experience the world, but finding award availability can feel like deciphering ancient scrolls. That's where award search tools come in. AwardFares is one of the easiest ways to search for your next free flight using points or miles. With a few clicks, you can search and gather helpful information without logging in to your frequent flyer account or dealing with slow award search portals. AwardFares's modern user interface allows search availability across multiple frequent flyer programs, set up alerts, look at seat maps, and plan journeys in a few minutes.

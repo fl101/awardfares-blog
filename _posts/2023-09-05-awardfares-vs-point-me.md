@@ -11,7 +11,7 @@ seo:
 
 AwardFares is the easiest way to search and find your next free flight using points or miles. In just a few clicks and with a modern user interface, you can search award availability across multiple frequent flyer programs, setup alerts, lookup seat maps and flight schedules.
 
-In a similar way, [Point.me](https://www.point.me/) is a travel hacking tool that helps you find the best ways to use your points and miles, and has been growing in popularity. While both platforms have their merits, there are specific differences that are worth mentioning. 
+In a similar way, [Point.me](https://www.point.me/) is a travel hacking tool that helps you find the best ways to use your points and miles, and has been growing in popularity. While both platforms have their merits, there are specific differences that are worth mentioning.
 
 In this guide, we delve into the 5 key differences between AwardFares and Point.me.
 
