@@ -36,7 +36,7 @@ AwardFares is all about simplicity. The platform has been designed with a user-f
 
 <img src="../assets/img/awardfares-vs-point-me/af-timeline.webp" alt="AwardFares Home Page (2023)" />
 
-In addition, AwardFares has been meant for mobile from day one. It doesn’t compromise the intuitive searches nor the beautiful user interface when going mobile, and you can even [install on your phone](https://blog.awardfares.com/awardfares-mobile-app/).
+In addition, AwardFares has been meant for mobile from day one. It doesn’t compromise the intuitive searches nor the beautiful user interface when going mobile, and you can even [install it on your phone](https://blog.awardfares.com/awardfares-mobile-app/).
 
 <img src="../assets/img/awardfares-vs-point-me/af-mobile.webp" alt="AwardFares Mobile App" class="noborder" />
 
