@@ -90,5 +90,5 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
 - [AwardFares & AwardHacker: A Dynamic Duo for Maximizing Your Miles and Points](https://blog.awardfares.com/awardhacker/)
 - [AwardFares vs. Cowtool](https://blog.awardfares.com/awardfares-vs-cowtool/)
-- [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
+- [Demystifying Award Charts: All You Need To Know](https://blog.awardfares.com/demystifying-award-charts/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)

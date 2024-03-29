@@ -98,4 +98,4 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [AwardFares vs. seats.aero](https://blog.awardfares.com/awardfares-vs-seats-aero/)
 - [AwardFares vs. Cowtool](https://blog.awardfares.com/awardfares-vs-cowtool/)
 - [AwardFares & AwardHacker: A Dynamic Duo for Maximizing Your Miles and Points](https://blog.awardfares.com/awardhacker/)
-- [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
+- [Demystifying Award Charts: All You Need To Know](https://blog.awardfares.com/demystifying-award-charts/)
