@@ -24,7 +24,7 @@ This integration brings a world of new possibilities to our users who are Flying
 
 ## Why Virgin Atlantic Flying Club?
 
-For frequent flyers across the Atlantic, **Virgin Atlantic Flying Club** offers a compelling loyalty program. Beyond standard mileage accrual, the Club's strength lies in its tier structure. Upper tiers unlock benefits like complimentary upgrades on flights operated by Virgin Atlantic itself - important as partner airlines often have limited upgrade availability. Virgin Atlantic also boasts a unique partnership with Delta Air Lines, allowing for status matching and earning/redeeming miles on both carriers' extensive networks.
+For frequent flyers across the Atlantic, [**Virgin Atlantic Flying Club**](https://flywith.virginatlantic.com/gb/en/flying-club.html) offers a compelling loyalty program. Beyond standard mileage accrual, the Club's strength lies in its tier structure. Upper tiers unlock benefits like complimentary upgrades on flights operated by Virgin Atlantic itself - important as partner airlines often have limited upgrade availability. Virgin Atlantic also boasts a unique partnership with Delta Air Lines, allowing for status matching and earning/redeeming miles on both carriers' extensive networks.
 
 <img src="../assets/img/introducing-flying-club/va-delta.webp" alt="Virgin Atlantic partnership with Delta lasted for over 10 years." class="noborder"/>
 
@@ -37,8 +37,7 @@ For frequent flyers across the Atlantic, **Virgin Atlantic Flying Club** offers 
 
 ## Finding Virgin Atlantic Award Flights with AwardFares
 
-**AwardFares never asks for your frequent flyer program login credentials.
-**
+*AwardFares never asks for your frequent flyer program login credentials.*
 
 ### 1. Visit [AwardFares](https://awardfares.com/signup)
 
