@@ -78,7 +78,7 @@ For this short evening flight, they served pasta salad with smoked salmon. With 
 
 ## Summary
 
-I definitely wouldn't go out of my way paying for a KLM intra-Europe business class flight, but it was fun to try. In terms of service and food, it was quite similar to [Lufthansa](lufthansa-business-class-to-lisbon/), although at least Lufthansa serves their food on a tray rather than in a box. It isn't easy to compete with [Austrian](/austrian-short-haul-business/), which probably has the best food and service in Europe business class among all the European airlines I've tried.
+I definitely wouldn't go out of my way paying for a KLM intra-Europe business class flight, but it was fun to try. In terms of service and food, it was quite similar to [Lufthansa](https://blog.awardfares.com/lufthansa-business-class-to-lisbon/), although at least Lufthansa serves their food on a tray rather than in a box. It isn't easy to compete with [Austrian](https://blog.awardfares.com/austrian-short-haul-business/), which probably has the best food and service in Europe business class among all the European airlines I've tried.
 
 ## Want more award travel intel?
 

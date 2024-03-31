@@ -32,7 +32,7 @@ seo:
 
 路徑：無限萬哩遊>哩程獎勵計畫>哩程兌換>酬賓機票兌換>長榮/立榮航空
 
-<img src="../assets/img/eva-air-redemption/star-alliance..webp" />
+<img src="../assets/img/eva-air-redemption/star-alliance.webp" />
 
 儘管這次我想訂的機票是長榮運營的，但我在剛剛提到的**長榮/立榮航空**系統上卻找不到我想找的機位，在**星空聯盟**的系統上卻能找到這個機位。
 
