@@ -5,7 +5,8 @@ category: [Tutorial]
 tags: [Features, Journey Planner]
 author: Germán
 image: /assets/img/journey-planner/cover.webp
-video: https://www.youtube.com/embed/zJIOeHatqQg
+seo:
+    date_modified: 2024-03-31
 ---
 
 Booking flights with points or miles is fun, but finding the perfect trip to your desired destination can be tricky, especially when the journey involves multiple segments, or across different airlines.
@@ -97,7 +98,7 @@ If we go to the top, we can tap the **Map** button to view the full itinerary.
 
 ### Copy and Paste Journey
 
-You can leverage the **Copy journey** button to copy the itinerary information to your clipboard.
+You can leverage the **Copy to Clipboard** button to copy the itinerary information.
 
 <figure>
 <img src="../assets/img/journey-planner/copy-journey.webp" />
@@ -125,13 +126,43 @@ If, by any chance, you add the wrong leg to your journey, AwardFares will detect
 <img src="../assets/img/journey-planner/impossible-journey.webp" />
 </figure>
 
+### Share Journeys
+
+This new feature becomes extremely handy when organizing a trip with a group. It helps evaluate different options while seeing exact information, such as flight numbers, dates, and cities involved.
+
+Once you are ready to work on an itinerary, tap on **Share** to get a unique link you can send to friends and family.
+
+<img src="../assets/img/share-journeys/journey-planner-share.webp" alt="Empty Journey in Journey planner." class="noborder"/>
+
+They will see a summary of your itinerary and a map when opening the link.
+
+<img src="../assets/img/share-journeys/journey-planner-map.webp" alt="Empty Journey in Journey planner." class="noborder"/>
+
+Use the **Copy URL** button to recover the unique link URL anytime.
+
+<img src="../assets/img/share-journeys/journey-planner-copy-url.webp" alt="Copy journey URL in AwardFares." class="noborder"/>
+
+### Unshare a Journey
+
+If you ever want to stop sharing your itinerary, tap on **Unshare**.
+
+<img src="../assets/img/share-journeys/journey-planner-unshare.webp" alt="Empty Journey in Journey planner." class="noborder"/>
+
 ## Journey Planner FAQ
 
 ### Can I build multiple journeys at once?
 
-You can build **one** journey at a time. To save the journey you have been working on, use the **Copy** and **Paste** functions. It's possible to copy each journey on a note or document. Then, to recover your journey, simply paste it back on an AwardFares tab in your browser (it also works on the phone!).
+Yes! It's now possible to work on multiple journeys at once. Tap on the first button (Journey List) to see your active/saved journeys and switch between them.
 
-You can use the **Clear** button to start from scratch.
+<img src="../assets/img/share-journeys/journey-planner-list.webp" alt="List of journeys in AwardFares." class="noborder"/>
+
+Tap on **New** to start working on a new Journey:
+
+<img src="../assets/img/share-journeys/journey-planner-new.webp" alt="Create a new journey." class="noborder"/>
+
+Immediately after, you will see a new *empty journey* under your list of journeys:
+
+<img src="../assets/img/share-journeys/journey-planner-empty.webp" alt="Empty Journey in Journey planner." class="noborder"/>
 
 ### Can I mix cabin classes?
 
@@ -143,17 +174,15 @@ As long as you see available seats in AwardFares, you can book those flights and
 
 The conditions depend on your frequent flyer program. As a rule of thumb, connecting flights within 24 hrs are most often considered part of the same journey. Some airlines offer up to 72 hrs stopovers.
 
-## Upgrade for more.
+## Become a Pro
 
 The Journey Planner is included in all our packages, including Basic (Free), [**Gold**](https://awardfares.com/pricing) and [**Diamond**](https://awardfares.com/pricing) members.
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+You can [try AwardFares for free](https://awardfares.com/). We regularly roll out new features and improvements, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
-## Read more.
-
-Make sure to also check these posts out
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
+- [[Alerts](https://blog.awardfares.com/alerts/)]
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
 - [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
