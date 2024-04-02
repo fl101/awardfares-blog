@@ -28,16 +28,16 @@ Let's get started!
 
 ### Key Features of Roame.travel
 
-* Fast and Efficient Search.
-* Widespread Airline Coverage.
-* Points Optimization.
-* Metro Area Search.
-* Roundtrip Award Bookings.
-* Freemium Model.
+- Fast and Efficient Search.
+- Widespread Airline Coverage.
+- Points Optimization.
+- Metro Area Search.
+- Roundtrip Award Bookings.
+- Freemium Model.
 
 <img src="../assets/img/roame-travel/roame-travel-home.webp" alt="Roame.travel Homepage." />
 
-*Image: Roame.travel Homepage.*
+_Image: Roame.travel Homepage._
 
 ### What is AwardFares?
 
@@ -45,13 +45,13 @@ While Roame.travel can help you identify round trips and guide you through credi
 
 ### Key Features of AwardFares
 
-* Real-time award seat availability for major airlines.
-* Award prices and mixed-cabins.
-* Blazing fast performance.
-* Alerts for specific routes and classes, notifying users when seats become available.
-* Timeline view, displays availability for a range of dates at once.
-* User-friendly interface with beautiful and clear visualizations of available seats.
-* Great experience on mobile.
+- Real-time award seat availability for major airlines.
+- Award prices and mixed-cabins.
+- Blazing fast performance.
+- Alerts for specific routes and classes, notifying users when seats become available.
+- Timeline view, displays availability for a range of dates at once.
+- User-friendly interface with beautiful and clear visualizations of available seats.
+- Great experience on mobile.
 
 ## 7 Ways AwardFares Boosts Your Roame.travel Search Experience
 
@@ -87,7 +87,7 @@ Once you have an idea of potential routes and programs, you can hop onto **Award
 
 <img src="../assets/img/award-hacker/journey-planner.webp" alt="Plan flights and itineraries exploring routes and award flights with AwardFares and AwardHacker." />
 
-*Image: AwardFares Journey Planner and Map View.*
+_Image: AwardFares Journey Planner and Map View._
 
 ### 4. Saver vs. Non-saver Awards
 
@@ -111,7 +111,7 @@ AwardFares and Roame work great on mobile, which means you can find the best awa
 
 ### 7. Subscription Value Maximization
 
-For travelers concerned about the cost of maintaining multiple subscriptions, using Roame in tandem with AwardFares can be cost-effective. You could use *Roame.travel Community* (free) to casually research potential award travel and then activate an AwardFares subscription during periods of serious booking. This approach ensures that you’re only paying for what you need when you need it, maximizing the value from both services.
+For travelers concerned about the cost of maintaining multiple subscriptions, using Roame in tandem with AwardFares can be cost-effective. You could use _Roame.travel Community_ (free) to casually research potential award travel and then activate an AwardFares subscription during periods of serious booking. This approach ensures that you’re only paying for what you need when you need it, maximizing the value from both services.
 
 AwardFares Pricing Tiers (Monthly):
 
@@ -141,5 +141,5 @@ Make sure to also check these posts out
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
 - [AwardFares vs. Point.me](https://blog.awardfares.com/awardfares-vs-point-me/)
-- [AwardFares & AwardHacker](https://blog.awardfares.com/awardhacker)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [AwardFares & AwardHacker](https://blog.awardfares.com/awardhacker/)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

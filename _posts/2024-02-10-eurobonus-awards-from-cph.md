@@ -19,8 +19,8 @@ There are a plethora of exciting long-haul routes from CPH, from bustling metrop
 
 Embark on a journey to the Land of the Rising Sun by booking a flight from Copenhagen to Tokyo Narita Airport. Experience the vibrant energy of Tokyo, explore traditional temples, indulge in world-class cuisine, and immerse yourself in the unique culture of Japan.
 
-* **Best Flights**: Non-stop with SAS to Haneda (HND)
-* **Prices**: 
+- **Best Flights**: Non-stop with SAS to Haneda (HND)
+- **Prices**:
 
 ### 2. Copenhagen to Los Angeles
 
@@ -30,8 +30,8 @@ Dreaming of sunny California? Use your EuroBonus points to book a flight from Co
 
 Escape to the bustling streets and vibrant markets of Bangkok by redeeming your EuroBonus points for a flight from Copenhagen. Experience the rich culture, delicious street food, and awe-inspiring temples that make Thailand's capital city a must-visit destination.
 
-* **Best Flights**: Non-stop options with SAS,
-* **Prices**: From 100k points
+- **Best Flights**: Non-stop options with SAS,
+- **Prices**: From 100k points
 
 ### 4. Copenhagen to Singapore
 
@@ -74,4 +74,4 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

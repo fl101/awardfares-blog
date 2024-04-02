@@ -7,7 +7,6 @@ author: Germán
 image: /assets/img/award-hacker/cover.webp
 ---
 
-
 The world of airline miles and credit card points offers a myriad of opportunities. Whether it's jet-setting to a luxury destination on first-class tickets or scoring a free short-haul trip, redeeming miles effectively can save travelers thousands of dollars.
 
 [AwardHacker](https://www.awardhacker.com/), a great online tool, helps thousands of travelers every year find out how many miles are needed for specific award flights between two cities, across various frequent flyer program.
@@ -16,7 +15,7 @@ In this post, we show how **AwardFares** is an excellent complement to AwardHack
 
 Let's get started!
 
-*Note: As the name of both tools are quite similar, we will denote **AwardFares** in bold, to make it more clear.*
+_Note: As the name of both tools are quite similar, we will denote **AwardFares** in bold, to make it more clear._
 
 ## The Basics
 
@@ -26,27 +25,27 @@ Let's get started!
 
 ### Key Features of AwardHacker
 
-* Comprehensive database of major frequent flyer programs.
-* Ability to filter results based on one-way, round trip, or multi-city trips.
-* Shows results for economy, premium economy, business, and first-class.
-* Direct links to the relevant frequent flyer program for booking.
+- Comprehensive database of major frequent flyer programs.
+- Ability to filter results based on one-way, round trip, or multi-city trips.
+- Shows results for economy, premium economy, business, and first-class.
+- Direct links to the relevant frequent flyer program for booking.
 
 <img src="../assets/img/award-hacker/award-hacker-home.webp" alt="AwardHacker and Award Fares." />
 
-*Image: AwardHacker Homepage.*
+_Image: AwardHacker Homepage._
 
 ### What is AwardFares?
 
 While AwardHacker tells you the theoretical cost of award flights, **AwardFares** goes a step further by showing actual availability. You can try it for free, and also upgrade to more premium tiers that are packed with features such as advanced filtering capabilities, alerts, seat maps, journey planner, and more. **AwardFares** is key to scoring long-haul business and first class award seats, which are extremely competitive.
- 
+
 ### Key Features of AwardFares
 
-* Real-time award seat availability for major airlines.
-* Blazing fast performance.
-* Ability to set up alerts for specific routes and classes, notifying users when seats become available.
-* Displays availability for a range of dates, ideal for flexible travelers.
-* User-friendly interface with beautiful and clear visualizations of available seats.
-* Great experience on mobile.
+- Real-time award seat availability for major airlines.
+- Blazing fast performance.
+- Ability to set up alerts for specific routes and classes, notifying users when seats become available.
+- Displays availability for a range of dates, ideal for flexible travelers.
+- User-friendly interface with beautiful and clear visualizations of available seats.
+- Great experience on mobile.
 
 ## Combining AwardHacker with AwardFares: 5 Reasons
 
@@ -62,7 +61,7 @@ AwardHacker provides a broad overview of how many miles are needed across variou
 
 <img src="../assets/img/award-hacker/award-hacker-results.webp" alt="AwardHacker Search Results." />
 
-*Image: AwardHacker Search Results*
+_Image: AwardHacker Search Results_
 
 ### 2. Route Planning and Strategy Formulation
 
@@ -72,7 +71,7 @@ If you’re flexible with your destinations or are planning multi-city trips, Aw
 
 <img src="../assets/img/award-hacker/journey-planner.webp" alt="Plan flights and itineraries exploring routes and award flights with AwardFares and AwardHacker." />
 
-*Image: AwardFares Journey Planner and Map View.*
+_Image: AwardFares Journey Planner and Map View._
 
 **Read more** about [AwardFares' Journey Planner feature here](https://blog.awardfares.com/journey-planner/).
 
@@ -84,7 +83,7 @@ For those with credit card points, AwardHacker’s overview allows users to see 
 
 <img src="../assets/img/award-hacker/award-hacker-transfers.webp" alt="Use AwardHacker and AwardFares to make point transfer decisions from credit cards to frequent flyer programs." />
 
-*Image: AwardHacker Filter Searches By Loyalty Programs.*
+_Image: AwardHacker Filter Searches By Loyalty Programs._
 
 ### 4. Flexibility with Class Preferences
 
@@ -94,7 +93,7 @@ AwardHacker displays the mileage requirements for economy, premium economy, busi
 
 <img src="../assets/img/award-hacker/mixed-cabin-awards.webp" alt="See mixed cabin award flights with AwardFares." />
 
-*Image: AwardFares Pricing and Mixed Cabin Awards.*
+_Image: AwardFares Pricing and Mixed Cabin Awards._
 
 ### 5. Alerts and Proactivity
 
@@ -104,7 +103,7 @@ While AwardHacker doesn’t offer alerts, its comprehensive data can guide frequ
 
 <img src="../assets/img/award-hacker/award-hacker-alert.webp" alt="Set up an alert in AwardFares for a route you saw using AwardHacker." />
 
-*Image: Easily set up alerts in AwardFares.*
+_Image: Easily set up alerts in AwardFares._
 
 **Read more** about [AwardFares' Alerts feature here](https://blog.awardfares.com/alerts/).
 
@@ -121,4 +120,4 @@ Make sure to also check these posts out
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

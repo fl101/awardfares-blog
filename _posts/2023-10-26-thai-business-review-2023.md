@@ -7,13 +7,14 @@ author: Philip
 image: /assets/img/thai-review-cph-bkk/cover.webp
 ---
 
-During the past couple of months it's been especially difficult finding Business Class redemptions between Europe and Tokyo. However, thanks to one of my [AwardFares alerts](https://blog.awardfares.com/alerts), I was lucky to discover one day that there were 2 seats available from CPH to HND via BKK, which I snagged immediately!
+During the past couple of months it's been especially difficult finding Business Class redemptions between Europe and Tokyo. However, thanks to one of my [AwardFares alerts](https://blog.awardfares.com/alerts/), I was lucky to discover one day that there were 2 seats available from CPH to HND via BKK, which I snagged immediately!
 
 <img src="/assets/img/thai-review-cph-bkk/alert.webp" class="noborder" />
 
 The first leg of the trip was with Thai Airways. It's been a long time since I've flown a long-haul flight with them, so I was looking forward to reviewing the experience.
 <br>
 <br>
+
 <table>
 <tr>
   <td><b>Route</b></td>
@@ -79,7 +80,7 @@ Shortly after takeoff, drinks and nuts were served.
 
 <img src="/assets/img/thai-review-cph-bkk/drink.webp" />
 
-This was followed by an *amuse bouche*, consisting of fish cakes with Thai chili sauce, which was really delicious! For the main dish I ordered the fish curry, which was good.
+This was followed by an _amuse bouche_, consisting of fish cakes with Thai chili sauce, which was really delicious! For the main dish I ordered the fish curry, which was good.
 
 <figure>
 <img src="/assets/img/thai-review-cph-bkk/food1.webp" />
@@ -107,7 +108,6 @@ Next time I hope I can try the new Thai Airways cabin instead, which at the time
 - [Alerts: How To Score Amazing Award Flights](https://blog.awardfares.com/alerts/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/", 
@@ -130,7 +130,7 @@ Next time I hope I can try the new Thai Airways cabin instead, which at the time
   "review": {
     "@type": "Review",
     "name": "Dated but comfortable.",
-    "reviewBody": "During the past couple of months it's been especially difficult finding Business Class redemptions between Europe and Tokyo. However, thanks to one of my [AwardFares alerts](https://blog.awardfares.com/alerts), I was lucky to discover one day that there were 2 seats available from CPH to HND via BKK, which I snagged immediately!
+    "reviewBody": "During the past couple of months it's been especially difficult finding Business Class redemptions between Europe and Tokyo. However, thanks to one of my [AwardFares alerts](https://blog.awardfares.com/alerts/), I was lucky to discover one day that there were 2 seats available from CPH to HND via BKK, which I snagged immediately!
 
 The first leg of the trip was with Thai Airways. It's been a long time since I've flown a long-haul flight with them, so I was looking forward to reviewing the experience. While Thai has a new cabin on some of their 777s, the CPH-BKK route still uses the [old business class cabin](https://www.aerolopa.com/tg-77b). It definitely looks and feels a bit dated. But, other than that, the seat was still comfortable, and the area around the seat felt very spacious.
 

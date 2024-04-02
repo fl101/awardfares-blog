@@ -15,17 +15,17 @@ The flight schedule for the Copenhagen-Atlanta route will feature daily services
 
 #### Schedule in Summer: Daily with Airbus A330
 
-| Flight No. | Departure | STD    | Arrival | STA        |
-|------------|-----------|--------|---------|------------|
-| SK929      | CPH       | 13:10  | ATL     | 17:10      |
-| SK930      | ATL       | 19:00  | CPH     | 10:20 (+1) |
+| Flight No. | Departure | STD   | Arrival | STA        |
+| ---------- | --------- | ----- | ------- | ---------- |
+| SK929      | CPH       | 13:10 | ATL     | 17:10      |
+| SK930      | ATL       | 19:00 | CPH     | 10:20 (+1) |
 
 #### Schedule in Winter: 5 Weekly with Airbus A350 (Mon, Wed, Fri, Sat, Sun)
 
-| Flight No. | Departure | STD    | Arrival | STA        |
-|------------|-----------|--------|---------|------------|
-| SK929      | CPH       | 13:00  | ATL     | 17:00      |
-| SK930      | ATL       | 19:10  | CPH     | 10:20 (+1) |
+| Flight No. | Departure | STD   | Arrival | STA        |
+| ---------- | --------- | ----- | ------- | ---------- |
+| SK929      | CPH       | 13:00 | ATL     | 17:00      |
+| SK930      | ATL       | 19:10 | CPH     | 10:20 (+1) |
 
 ## Why Atlanta?
 
@@ -45,35 +45,35 @@ Tickets were not available when the announcement came out, but as of today, ther
 
 <img src="../assets/img/sas-route-to-atlanta/atl-availability-new.webp" alt="SAS new route to Atlanta: Availability with EuroBonus points." class="noborder"/>
 
-With AwardFares, it's easy to [set up an alert](https://blog.awardfares.com/alerts) and get notified via email when seats become available.
+With AwardFares, it's easy to [set up an alert](https://blog.awardfares.com/alerts/) and get notified via email when seats become available.
 
 Simply [log in to your account](https://awardfares.com/login), go to **Alerts**, and tap on **Add Alert**.
 
 <img src="../assets/img/sas-route-to-atlanta/alert-new.webp" alt="SAS new route to Atlanta: Set up an alert with AwardFares." class="noborder"/>
 
-Then, configure it with the following settings. Remember to add *nonstop* to the **Stops** filter and *SAS* to the **Airline** filter. Alternatively, you could use the flight numbers, but we advise keeping them broader if the airline changes/adjusts them in the upcoming weeks.
+Then, configure it with the following settings. Remember to add _nonstop_ to the **Stops** filter and _SAS_ to the **Airline** filter. Alternatively, you could use the flight numbers, but we advise keeping them broader if the airline changes/adjusts them in the upcoming weeks.
 
 <img src="../assets/img/sas-route-to-atlanta/alert-sas-atl.webp" alt="SAS new route to Atlanta: Set up an alert with AwardFares." class="noborder"/>
 
 From Copenhagen to Atlanta:
 
-* **Loyalty Program**: SAS EuroBonus
-* **Origin**: Copenhagen (CPH)
-* **Destination**: Atlanta (ATL)
-* **Departure Date**: Pick your desired date starting June 17th.
-* **Wide Search**: Choose *Yes* if you have flexibility with the days you'd like to travel.
-* **Stops**: Non-stop only
-* **Airlines**: SAS only
+- **Loyalty Program**: SAS EuroBonus
+- **Origin**: Copenhagen (CPH)
+- **Destination**: Atlanta (ATL)
+- **Departure Date**: Pick your desired date starting June 17th.
+- **Wide Search**: Choose _Yes_ if you have flexibility with the days you'd like to travel.
+- **Stops**: Non-stop only
+- **Airlines**: SAS only
 
 From Atlanta to Copenhagen:
 
-* **Loyalty Program**: SAS EuroBonus
-* **Origin**: Copenhagen (CPH)
-* **Destination**: Atlanta (ATL)
-* **Departure Date**: Pick your desired date starting June 17th.
-* **Wide Search**: Choose *Yes* if you have flexibility with the days you'd like to travel.
-* **Stops**: Non-stop only
-* **Airlines**: SAS only
+- **Loyalty Program**: SAS EuroBonus
+- **Origin**: Copenhagen (CPH)
+- **Destination**: Atlanta (ATL)
+- **Departure Date**: Pick your desired date starting June 17th.
+- **Wide Search**: Choose _Yes_ if you have flexibility with the days you'd like to travel.
+- **Stops**: Non-stop only
+- **Airlines**: SAS only
 
 ## More Summer Routes
 
@@ -83,7 +83,7 @@ The upcoming summer program will see SAS serving a diverse range of destinations
 
 SAS has been actively expanding its global connectivity. In early June 2023, the airline signed a codeshare agreement with EL AL Israel Airlines, which became effective in February. Another significant partnership was with Etihad Airways in October. These codeshare agreements enhance passenger connectivity, providing access to a wide range of destinations worldwide. SAS now boasts 18 such agreements with various carriers globally.
 
-* **Read More**: [SAS Will Fly To 9 New Destinations During Summer 2024](https://blog.awardfares.com/sas-summer-2024/)
+- **Read More**: [SAS Will Fly To 9 New Destinations During Summer 2024](https://blog.awardfares.com/sas-summer-2024/)
 
 ## Want More Award Travel Intel?
 
@@ -95,8 +95,8 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-* [SAS EuroBonus Conscious Traveler Takes Off In 2024: Greener Flying, Greater Rewards](https://blog.awardfares.com/sas-eurobonus-conscious-traveler/)
-* [6 SAS Eurobonus Updates You Should Be Aware Of (January 2024)](https://blog.awardfares.com/eurobonus-updates-jan-2024/)
-* [Last-Minute EuroBonus Redemption Gems (For The Amex 2-for-1 Vouchers) [EXTENDED DEADLINE]](https://blog.awardfares.com/eurobonus-last-minute-awards-2023/)
-* [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
-* [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
+- [SAS EuroBonus Conscious Traveler Takes Off In 2024: Greener Flying, Greater Rewards](https://blog.awardfares.com/sas-eurobonus-conscious-traveler/)
+- [6 SAS Eurobonus Updates You Should Be Aware Of (January 2024)](https://blog.awardfares.com/eurobonus-updates-jan-2024/)
+- [Last-Minute EuroBonus Redemption Gems (For The Amex 2-for-1 Vouchers) [EXTENDED DEADLINE]](https://blog.awardfares.com/eurobonus-last-minute-awards-2023/)
+- [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
+- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)

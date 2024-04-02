@@ -19,20 +19,20 @@ As a disclaimer, this list expresses AwardFares' team choices, and by no means i
 
 Still one of our favorites due to their high award availability and low devaluation of their points. [**SAS EuroBonus**](https://www.flysas.com/en/eurobonus/home/) delivers a seamless travel experience across the Nordic region and beyond.
 
-While a [future shift to SkyTeam is pending](https://blog.awardfares.com/sas-acquisition), the program currently enjoys the benefits of Star Alliance, further expanding travel options. Overall, EuroBonus offers a rewarding and versatile experience for travelers of all types.
+While a [future shift to SkyTeam is pending](https://blog.awardfares.com/sas-acquisition/), the program currently enjoys the benefits of Star Alliance, further expanding travel options. Overall, EuroBonus offers a rewarding and versatile experience for travelers of all types.
 
 **Pro tip:** Search for SAS EuroBonus awards using AwardFares. [Try here](https://awardfares.com/search?..;z:sas).
 
 Why it shines:
 
-* **Great availability**: Compared to other programs, SAS open a significant number of seats on every flight that you could book using points.
-* **Upgrade Opportunities**: Easy to use your points for upgrades to SAS Plus or Business, enhancing your flight experience in comfort. Their cooperation with the SAS Mastercard brings the FlyPremium benefit, allowing members to upgrade to SAS Plus and SAS Business for free.
-* **Nordic Excellence**: Enjoy smooth connections and seamless travel across Scandinavian countries with SAS and its partners.
-* **Companion vouchers**: The Amex 2-for-1 voucher (or companion ticket) gives the opportunity to fly amazing cabins such as Lufthansa First Class and others, at 50% of the price.
-* **Partners**: Earn and redeem points on Star Alliance airlines, expanding your travel possibilities. We've tried many redemptions on EVA Air, ANA, Lufthansa, Austrian, Swiss, Copa, United, and more.
-* **Target Region**: Scandinavia and Europe, with worldwide reach through Star Alliance.
+- **Great availability**: Compared to other programs, SAS open a significant number of seats on every flight that you could book using points.
+- **Upgrade Opportunities**: Easy to use your points for upgrades to SAS Plus or Business, enhancing your flight experience in comfort. Their cooperation with the SAS Mastercard brings the FlyPremium benefit, allowing members to upgrade to SAS Plus and SAS Business for free.
+- **Nordic Excellence**: Enjoy smooth connections and seamless travel across Scandinavian countries with SAS and its partners.
+- **Companion vouchers**: The Amex 2-for-1 voucher (or companion ticket) gives the opportunity to fly amazing cabins such as Lufthansa First Class and others, at 50% of the price.
+- **Partners**: Earn and redeem points on Star Alliance airlines, expanding your travel possibilities. We've tried many redemptions on EVA Air, ANA, Lufthansa, Austrian, Swiss, Copa, United, and more.
+- **Target Region**: Scandinavia and Europe, with worldwide reach through Star Alliance.
 
-*Check out more of our [SAS EuroBonus resources here](https://blog.awardfares.com/categories/#SAS%20EuroBonus)*
+_Check out more of our [SAS EuroBonus resources here](https://blog.awardfares.com/categories/#SAS%20EuroBonus)_
 
 <img src="../assets/img/ffp-2024/af-eurobonus.webp" alt="SAS EuroBonus Awards in AwardFares." class="noborder"/>
 
@@ -48,13 +48,13 @@ The program's user-friendly interface and flexible options for spending miles, s
 
 Why it shines:
 
-* **Promo awards**: Every month, Flying Blue releases a set of awards at an ultra-discounted rate (and not only in Economy Class!). A great opportunity for newcomers and members just starting out in the points and miles game. We've taken advantage of these promotions multiple times including destinations such as Bangkok, Dubai, San Francisco, Vancouver.
-* **SkyTeam Dominance**: Access a vast network with SkyTeam partners like Air France-KLM, Delta Air Lines, and Korean Air. With SAS joining SkyTeam after being acquired by Air France-KLM, the alliance will definitely have an even more compelling network in the upcoming years.
-* **Flexible Reward Redemptions**: Choose from award flights, upgrades, car rentals, hotel stays, and even merchandise, offering diverse options for spending your miles. Flying Blue's miles are quite flexible and let you use your points beyond flights easily. Value might not be the best, but it's straightforward.
-* **Fast Track to More Miles**: Earn miles on everyday purchases with co-branded credit cards and partner stores. Co-branded credit cards are available in several countries including France, Netherlands, Belgium, the US, and others.
-* **Target Region**: Europe, North America, and beyond with SkyTeam partners.
+- **Promo awards**: Every month, Flying Blue releases a set of awards at an ultra-discounted rate (and not only in Economy Class!). A great opportunity for newcomers and members just starting out in the points and miles game. We've taken advantage of these promotions multiple times including destinations such as Bangkok, Dubai, San Francisco, Vancouver.
+- **SkyTeam Dominance**: Access a vast network with SkyTeam partners like Air France-KLM, Delta Air Lines, and Korean Air. With SAS joining SkyTeam after being acquired by Air France-KLM, the alliance will definitely have an even more compelling network in the upcoming years.
+- **Flexible Reward Redemptions**: Choose from award flights, upgrades, car rentals, hotel stays, and even merchandise, offering diverse options for spending your miles. Flying Blue's miles are quite flexible and let you use your points beyond flights easily. Value might not be the best, but it's straightforward.
+- **Fast Track to More Miles**: Earn miles on everyday purchases with co-branded credit cards and partner stores. Co-branded credit cards are available in several countries including France, Netherlands, Belgium, the US, and others.
+- **Target Region**: Europe, North America, and beyond with SkyTeam partners.
 
-*Check out more of our [Flying Blue resources here](https://blog.awardfares.com/categories/#Flying%20Blue)*
+_Check out more of our [Flying Blue resources here](https://blog.awardfares.com/categories/#Flying%20Blue)_
 
 ### 3. Alaska Airlines Mileage Plan
 
@@ -64,33 +64,33 @@ Reigning supreme for nine years running, [**Alaska Mileage Plan**](https://www.a
 
 Why it shines:
 
-* **Rewarding simplicity**: Earn miles on every dollar spent, with no blackout dates or complex award charts.
-* **Sweet spots**: Unrivaled value for flights within the West Coast and North America, especially redeeming for First Class.
-* **Global reach**: Access a vast network thanks to partners like Emirates, Japan Airlines, and Qantas. Alaska's array of partners is really interesting, full of opportunities for expert users.
-* **Target region**: Pacific Northwest, North America.
+- **Rewarding simplicity**: Earn miles on every dollar spent, with no blackout dates or complex award charts.
+- **Sweet spots**: Unrivaled value for flights within the West Coast and North America, especially redeeming for First Class.
+- **Global reach**: Access a vast network thanks to partners like Emirates, Japan Airlines, and Qantas. Alaska's array of partners is really interesting, full of opportunities for expert users.
+- **Target region**: Pacific Northwest, North America.
 
 <img src="../assets/img/ffp-2024/af-alaska.webp" alt="Alaska Mileage Plan Awards in AwardFares." class="noborder"/>
 
-*Check out more of our [Alaska Mileage Plan resources here](https://blog.awardfares.com/categories/#Alaska%20Mileage%20Plan)*
+_Check out more of our [Alaska Mileage Plan resources here](https://blog.awardfares.com/categories/#Alaska%20Mileage%20Plan)_
 
 ### 4. United MileagePlus
 
 <img src="../assets/img/ffp-2024/united.webp" style="max-width:150px;width:100%" align="right" alt="United MileagePlus Logo." class="noborder"/>
 
-A powerhouse for international travelers, [**United MileagePlus**](https://www.united.com/en/us/fly/mileageplus.html) offers a vast network and valuable upgrade options. This program boasts global reach and an impressive network of partners, including Star Alliance heavyweights like Lufthansa and Singapore Airlines. 
+A powerhouse for international travelers, [**United MileagePlus**](https://www.united.com/en/us/fly/mileageplus.html) offers a vast network and valuable upgrade options. This program boasts global reach and an impressive network of partners, including Star Alliance heavyweights like Lufthansa and Singapore Airlines.
 
 We'd say that MileagePlus serves all kinds of travelers, from beginners to advanced, and with diverse destinations in mind, especially those seeking long-haul upgrades to luxurious cabins.
 
 Why it shines:
 
-* **Global dominance**: Fly United and partners like Lufthansa, Singapore Airlines, and ANA, covering virtually every corner of the globe.
-* **Upgrade heaven**: MileagePlus offers some of the best upgrade opportunities on international routes, especially in higher classes.
-* **Hub strength**: Major hubs in Chicago, Newark, and San Francisco ease connections worldwide.
-* **Target region**: International travelers with a focus on Europe, Asia, and South America.
+- **Global dominance**: Fly United and partners like Lufthansa, Singapore Airlines, and ANA, covering virtually every corner of the globe.
+- **Upgrade heaven**: MileagePlus offers some of the best upgrade opportunities on international routes, especially in higher classes.
+- **Hub strength**: Major hubs in Chicago, Newark, and San Francisco ease connections worldwide.
+- **Target region**: International travelers with a focus on Europe, Asia, and South America.
 
 <img src="../assets/img/ffp-2024/af-united.webp" alt="United MileagePlus Awards in AwardFares." class="noborder"/>
 
-*Check out more of our [United MileagePlus resources here](https://blog.awardfares.com/categories/#United%20MileagePlus)*
+_Check out more of our [United MileagePlus resources here](https://blog.awardfares.com/categories/#United%20MileagePlus)_
 
 ### 5. Air Canada Aeroplan
 
@@ -104,14 +104,14 @@ Aeroplan's reward structure is particularly user-friendly, with a straightforwar
 
 Why it shines:
 
-* **Star Alliance Powerhouse**: Tap into the vast network of Star Alliance, offering over 1,300 destinations worldwide.
-* **Family-Friendly Perks**: Enjoy generous benefits like free checked bags for the whole family, making travel more affordable.
-* **Stopover Magic**: Craft unique itineraries with the ability to add a stopover on round-trip award bookings, turning one trip into two adventures.
-* **Target Region**: Primarily Canada and North America, with extensive reach through Star Alliance partners.
+- **Star Alliance Powerhouse**: Tap into the vast network of Star Alliance, offering over 1,300 destinations worldwide.
+- **Family-Friendly Perks**: Enjoy generous benefits like free checked bags for the whole family, making travel more affordable.
+- **Stopover Magic**: Craft unique itineraries with the ability to add a stopover on round-trip award bookings, turning one trip into two adventures.
+- **Target Region**: Primarily Canada and North America, with extensive reach through Star Alliance partners.
 
 <img src="../assets/img/ffp-2024/af-aeroplan.webp" alt="Air Canada Aeroplan Awards in AwardFares." class="noborder"/>
 
-*Check out more of our [Aeroplan resources here](https://blog.awardfares.com/categories/#Air%20Canada%20Aeroplan)*
+_Check out more of our [Aeroplan resources here](https://blog.awardfares.com/categories/#Air%20Canada%20Aeroplan)_
 
 ### 6. American Airlines AAdvantage
 
@@ -121,14 +121,14 @@ Think extensive partner airlines and attractive award rates, and you'll find you
 
 Why it shines:
 
-* **Partner paradise**: Access Oneworld partners like British Airways, Japan Airlines, and Qantas, opening doors to exotic destinations.
-* **Award sweet spots**: Redeem miles for great value on off-peak flights and select business class routes.
-* **Flexible earning**: Plenty of opportunities to earn miles on co-branded credit cards and everyday purchases.
-* **Target region**: Global network with strong presence in North America, Europe, and Asia.
+- **Partner paradise**: Access Oneworld partners like British Airways, Japan Airlines, and Qantas, opening doors to exotic destinations.
+- **Award sweet spots**: Redeem miles for great value on off-peak flights and select business class routes.
+- **Flexible earning**: Plenty of opportunities to earn miles on co-branded credit cards and everyday purchases.
+- **Target region**: Global network with strong presence in North America, Europe, and Asia.
 
 <img src="../assets/img/ffp-2024/af-aadvantage.webp" alt="American AAdvantage Award Flights in AwardFares." class="noborder"/>
 
-*Check out more of our [AAdvantage resources here](https://blog.awardfares.com/categories/#American%20AAdvantage)*
+_Check out more of our [AAdvantage resources here](https://blog.awardfares.com/categories/#American%20AAdvantage)_
 
 ### 7. Delta SkyMiles
 
@@ -138,14 +138,14 @@ For those who prioritize elite status perks, [**Delta SkyMiles**](https://www.de
 
 Why it shines:
 
-* **Status matters**: Enjoy generous benefits like free upgrades, lounge access, and priority boarding with Medallion status.
-* **Qualification requirements**: Starting 2024, earning top-tier status is more demanding on flights (and more on spending), potentially leading to fewer elite members and more benefits.
-* **Extensive network**: Fly Delta and partners like Air France-KLM, Virgin Atlantic, and Korean Air.
-* **Target region**: Global reach with a strong focus on North America and Europe.
+- **Status matters**: Enjoy generous benefits like free upgrades, lounge access, and priority boarding with Medallion status.
+- **Qualification requirements**: Starting 2024, earning top-tier status is more demanding on flights (and more on spending), potentially leading to fewer elite members and more benefits.
+- **Extensive network**: Fly Delta and partners like Air France-KLM, Virgin Atlantic, and Korean Air.
+- **Target region**: Global reach with a strong focus on North America and Europe.
 
 <img src="../assets/img/ffp-2024/af-skymiles.webp" alt="Delta SkyMiles Award Flights in AwardFares." class="noborder"/>
 
-*Check out more of our [SkyMiles resources here](https://blog.awardfares.com/categories/#Delta%20SkyMiles)*
+_Check out more of our [SkyMiles resources here](https://blog.awardfares.com/categories/#Delta%20SkyMiles)_
 
 ### 8. JetBlue TrueBlue
 
@@ -157,44 +157,44 @@ This structure is particularly useful for frequent short-haul travelers. Additio
 
 Why it shines:
 
-* **No blackout dates, no gimmicks**: Enjoy straightforward earning and redemption with no blackout dates or complicated rules.
-* **Points Equal Money**: Redeem points for any JetBlue flight, anytime, with points valued at 1 cent each.
-* **Bags Fly Free**: Check your first bag for free on all JetBlue flights, saving you money on every trip.
-* **Target region**: Domestic flights within the United States, the Caribbean, and select Latin American destinations.
+- **No blackout dates, no gimmicks**: Enjoy straightforward earning and redemption with no blackout dates or complicated rules.
+- **Points Equal Money**: Redeem points for any JetBlue flight, anytime, with points valued at 1 cent each.
+- **Bags Fly Free**: Check your first bag for free on all JetBlue flights, saving you money on every trip.
+- **Target region**: Domestic flights within the United States, the Caribbean, and select Latin American destinations.
 
-*Check out more of our [JetBlue True Blue resources here](https://blog.awardfares.com/categories/#JetBlue%20True%20Blue)*
+_Check out more of our [JetBlue True Blue resources here](https://blog.awardfares.com/categories/#JetBlue%20True%20Blue)_
 
 ### Other programs worth looking into
 
 #### Asia-Pacific
 
-* **Singapore Airlines KrisFlyer**: Highly regarded for its excellent service and favorable redemption rates for premium cabins
-* **Cathay Pacific Asia Miles**: Offers a good balance of earning and redemption options, especially within Asia.
-* **EVA Air Infinity MileageLands**: Provides generous mileage accrual and redemption options, particularly strong for travel in Asia and across the Pacific.
+- **Singapore Airlines KrisFlyer**: Highly regarded for its excellent service and favorable redemption rates for premium cabins
+- **Cathay Pacific Asia Miles**: Offers a good balance of earning and redemption options, especially within Asia.
+- **EVA Air Infinity MileageLands**: Provides generous mileage accrual and redemption options, particularly strong for travel in Asia and across the Pacific.
 
 #### Middle East
 
-* **Emirates Skywards**: Known for its luxurious flight options and good redemption opportunities, especially in premium classes
-* **Qatar Airways Privilege Club**: Offers access to a wide network and is part of the Oneworld alliance.
-* **Etihad Guest**: Provides a range of benefits and has unique features like the ability to pool miles with family members.
+- **Emirates Skywards**: Known for its luxurious flight options and good redemption opportunities, especially in premium classes
+- **Qatar Airways Privilege Club**: Offers access to a wide network and is part of the Oneworld alliance.
+- **Etihad Guest**: Provides a range of benefits and has unique features like the ability to pool miles with family members.
 
 #### South America
 
-* **Avianca LifeMiles**: Known for its good redemption rates, especially for Star Alliance flights.
-* **LATAM Pass**: Offers extensive coverage in South America and is part of the Oneworld alliance.
-* **Aeromexico Club Premier**: Part of the SkyTeam alliance, it offers good connectivity within Latin America and beyond.
-* * **GOL Smiles**
+- **Avianca LifeMiles**: Known for its good redemption rates, especially for Star Alliance flights.
+- **LATAM Pass**: Offers extensive coverage in South America and is part of the Oneworld alliance.
+- **Aeromexico Club Premier**: Part of the SkyTeam alliance, it offers good connectivity within Latin America and beyond.
+- - **GOL Smiles**
 
 #### Africa
 
-* **South African Airways Voyager**: Offers decent redemption options within Africa and is part of the Star Alliance.
-* **Ethiopian Airlines ShebaMiles**: Good for travel within Africa and internationally, as part of the Star Alliance.
-* **EgyptAir Plus**: Offers benefits for frequent travelers within the Middle East and Africa, and is a Star Alliance member.
+- **South African Airways Voyager**: Offers decent redemption options within Africa and is part of the Star Alliance.
+- **Ethiopian Airlines ShebaMiles**: Good for travel within Africa and internationally, as part of the Star Alliance.
+- **EgyptAir Plus**: Offers benefits for frequent travelers within the Middle East and Africa, and is a Star Alliance member.
 
 #### Oceania
 
-* **Air New Zealand Airpoints** (Oceania): Offers good benefits for domestic and trans-Tasman flights.
-* **Qantas Frequent Flyer** (Oceania): Also relevant in this region, especially for flights to and from Australia.
+- **Air New Zealand Airpoints** (Oceania): Offers good benefits for domestic and trans-Tasman flights.
+- **Qantas Frequent Flyer** (Oceania): Also relevant in this region, especially for flights to and from Australia.
 
 ## Want more award travel intel?
 
@@ -206,8 +206,8 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-* [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-* [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-* [Sky's (Almost) The Limit: Conquering First Class With Flying Blue](https://blog.awardfares.com/flying-blue-skyteam-first-class/)
-* [What To Do With 100k Delta SkyMiles? A 2024 Guide To Finding SkyMiles Sweet Spots](https://blog.awardfares.com/100k-skymiles/)
-* [What Airlines Have Changed Or Left Alliances? A History of Departures and Switches](https://blog.awardfares.com/airline-alliances-changes/)
+- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
+- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
+- [Sky's (Almost) The Limit: Conquering First Class With Flying Blue](https://blog.awardfares.com/flying-blue-skyteam-first-class/)
+- [What To Do With 100k Delta SkyMiles? A 2024 Guide To Finding SkyMiles Sweet Spots](https://blog.awardfares.com/100k-skymiles/)
+- [What Airlines Have Changed Or Left Alliances? A History of Departures and Switches](https://blog.awardfares.com/airline-alliances-changes/)

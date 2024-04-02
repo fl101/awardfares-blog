@@ -28,7 +28,7 @@ La Première is undeniably one of the most luxurious first-class experiences in 
 
 <img src="../assets/img/flying-blue-skyteam-first-class/af-first.webp" alt="Air France La Premiere." class="noborder"/>
 
-*Image from: [Callum Elsdon](https://callumelsdon.com/articles/review-air-france-la-premire-first-class-on-the-boeing-777-300er)*
+_Image from: [Callum Elsdon](https://callumelsdon.com/articles/review-air-france-la-premire-first-class-on-the-boeing-777-300er)_
 
 The A380 offered an even more exclusive experience, with only 9 La Première suites on the upper deck. These suites were even larger and featured sliding doors for even more privacy. Sadly, Air France retired their A380s in 2020, but the La Première experience on the Boeing 777-300ER is still top-notch.
 
@@ -40,7 +40,7 @@ The airline also offers a great selection of Chinese and Western cuisine, as wel
 
 <img src="../assets/img/flying-blue-skyteam-first-class/china-eastern-first.webp" alt="China Eastern First Class." class="noborder"/>
 
-*Image from: [One Mile At A Time](https://onemileatatime.com/china-eastern-first-class-review/)*
+_Image from: [One Mile At A Time](https://onemileatatime.com/china-eastern-first-class-review/)_
 
 ### 3. Garuda Indonesia
 
@@ -50,7 +50,7 @@ But the real star of the show is the food. Garuda Indonesia offers Michelin-insp
 
 <img src="../assets/img/flying-blue-skyteam-first-class/garuda-first.webp" alt="Garuda Indonesia First Class." class="noborder"/>
 
-*Image from: Garuda Indonesia*
+_Image from: Garuda Indonesia_
 
 ### 4. Xiamen Air
 
@@ -60,7 +60,7 @@ The airline offers a mix of Chinese and Western cuisine, as well as attentive se
 
 <img src="../assets/img/flying-blue-skyteam-first-class/xiamen-first.webp" alt="Xiamen Air First Class." class="noborder"/>
 
-*Image from: [Airline Reporter](https://www.airlinereporter.com/2014/08/xiamen-airlines-takes-delivery-first-boeing-787-dreamliner/)*
+_Image from: [Airline Reporter](https://www.airlinereporter.com/2014/08/xiamen-airlines-takes-delivery-first-boeing-787-dreamliner/)_
 
 ### 5. Korean Air
 
@@ -70,7 +70,7 @@ The airline also offers a great selection of Korean and international cuisine, a
 
 <img src="../assets/img/flying-blue-skyteam-first-class/korean-first.webp" alt="Korean Air First Class." class="noborder"/>
 
-*Image from: Korean Air*
+_Image from: Korean Air_
 
 ### 6. Saudia
 
@@ -80,7 +80,7 @@ The real highlight, however, is the focus on Arabic hospitality. Passengers can 
 
 <img src="../assets/img/flying-blue-skyteam-first-class/saudia-first.webp" alt="Saudia First Class." class="noborder"/>
 
-*Image from: Saudia*
+_Image from: Saudia_
 
 ### 7. Delta One (Bonus)
 
@@ -90,7 +90,7 @@ The airline also boasts an excellent food and beverage selection, featuring dish
 
 <img src="../assets/img/flying-blue-skyteam-first-class/delta-one.webp" alt="Delta Air Lines Delta One Buiness Class." class="noborder"/>
 
-*Image from: Delta*
+_Image from: Delta_
 
 So, while not technically First Class, Delta One is a strong contender for those seeking a luxurious and comfortable transatlantic or transpacific travel experience, particularly on routes not served by airlines with dedicated First Class cabins.
 
@@ -106,15 +106,15 @@ Now, here's the reality check: award availability in these First Class havens ca
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup)
 
-### 2. Under *Frequent Flyer Program*, choose **Flying Blue**
+### 2. Under _Frequent Flyer Program_, choose **Flying Blue**
 
 <img src="../assets/img/flying-blue-skyteam-first-class/ffp.webp" alt="Select Frequent Flyer Program in AwardFares." class="noborder"/>
 
-### 3. Tap on *Cabin* and select **First Class only**
+### 3. Tap on _Cabin_ and select **First Class only**
 
 <img src="../assets/img/flying-blue-skyteam-first-class/cabin.webp" alt="Select Frequent Flyer Program in AwardFares." class="noborder"/>
 
-### 4. Under *Departure* and *Destination*, specify origin and arrival airport(s)
+### 4. Under _Departure_ and _Destination_, specify origin and arrival airport(s)
 
 For example **Shanghai (PVG)** to **Melbourne (MEL)**
 
@@ -134,7 +134,7 @@ Use the search results header to sort by price and see the cheapest redemptions 
 
 ### 7. Check seat maps
 
-Tap on the *Seat Map* icon to check available/occupied seats on the flight you are interested in.
+Tap on the _Seat Map_ icon to check available/occupied seats on the flight you are interested in.
 
 <img src="../assets/img/flying-blue-skyteam-first-class/first-seatmap.webp" alt="Seatmap view in AwardFares." class="noborder"/>
 
@@ -142,16 +142,16 @@ Tap on the *Seat Map* icon to check available/occupied seats on the flight you a
 
 Doing some research AwardFares, it's easy to filter out and see available seats in First Class only. These are some of the routes that present good availability using Flying Blue miles.
 
-| Airline          | Route with Link                                                                                   |
-|------------------|----------------------------------------------------------------------------------------------------|
-| Garuda Indonesia | [CGK-AMS](https://awardfares.com/search?CGK.AMS.;c:first;z:flyingblue)                             |
-| Xiamen Air       | [XMN-SIN](https://awardfares.com/search?XMN.SIN.;c:first;z:flyingblue)                             |
-|                  | [XMN-MEL](https://awardfares.com/search?XMN.MEL.;c:first;z:flyingblue)                             |
-|                  | [XMN-PKX](https://awardfares.com/search?XMN.PKX.;c:first;z:flyingblue)                             |
-|                  | [PVG-PKX](https://awardfares.com/search?PVG.PKX.;c:first;z:flyingblue)                             |
-| China Eastern    | [PVG-LHR](https://awardfares.com/search?PVG.LHR.;c:first;z:flyingblue)                             |
-|                  | [PVG-SIN](https://awardfares.com/search?PVG.SIN.;c:first;z:flyingblue)                             |
-|                  | [PVG-AKL](https://awardfares.com/search?PVG.AKL.;c:first;z:flyingblue)                             |
+| Airline          | Route with Link                                                        |
+| ---------------- | ---------------------------------------------------------------------- |
+| Garuda Indonesia | [CGK-AMS](https://awardfares.com/search?CGK.AMS.;c:first;z:flyingblue) |
+| Xiamen Air       | [XMN-SIN](https://awardfares.com/search?XMN.SIN.;c:first;z:flyingblue) |
+|                  | [XMN-MEL](https://awardfares.com/search?XMN.MEL.;c:first;z:flyingblue) |
+|                  | [XMN-PKX](https://awardfares.com/search?XMN.PKX.;c:first;z:flyingblue) |
+|                  | [PVG-PKX](https://awardfares.com/search?PVG.PKX.;c:first;z:flyingblue) |
+| China Eastern    | [PVG-LHR](https://awardfares.com/search?PVG.LHR.;c:first;z:flyingblue) |
+|                  | [PVG-SIN](https://awardfares.com/search?PVG.SIN.;c:first;z:flyingblue) |
+|                  | [PVG-AKL](https://awardfares.com/search?PVG.AKL.;c:first;z:flyingblue) |
 
 Example of Garuda Indonesia CGK to Amsterdam AMS in First Class:
 
@@ -171,4 +171,4 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

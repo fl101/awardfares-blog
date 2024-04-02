@@ -17,7 +17,7 @@ Simply set an alert for your desired route and price point, sit back and relax. 
 
 ### How To Use It
 
-Simply go to the *Alerts* tab, tap on **Add Alert**, and then set up a *Max Price*
+Simply go to the _Alerts_ tab, tap on **Add Alert**, and then set up a _Max Price_
 
 <img src="../assets/img/price-alerts/aa-alert-price.webp" alt="Setting a Price Alert on AwardFares" class="noborder"/>
 
@@ -35,7 +35,7 @@ Let's say we are exploring flights from [**Los Angeles to Europe using Flying Bl
 
 <img src="../assets/img/price-alerts/lax-europe-fb.webp" alt="Award flights from Los Angeles to Europe using Flying Blue (AwardFares)" class="noborder"/>
 
-To eliminate results out of our budget, tap on the *Max Price* field, and add the price you'd be willing to pay. In our case, let's cap the results at 135k Flying Blue miles.
+To eliminate results out of our budget, tap on the _Max Price_ field, and add the price you'd be willing to pay. In our case, let's cap the results at 135k Flying Blue miles.
 
 <img src="../assets/img/price-alerts/lax-max-price.webp" alt="Set up a maximum price in points or miles when using AwardFares to search an award flight." class="noborder"/>
 
@@ -45,7 +45,7 @@ Immediately, we see that there are flights from Los Angeles to Copenhagen with K
 
 ## More Improvements: Alerts Based On Flight Number
 
-We are also rolling out a *Flight Number* filter along with this update. While creating an alert, tap on *Flight* and add your desired flight number. Alternatively, on the Search page, if you add a flight number to the filters and then tap on *Track*, the setting will be preserved in the alert created.
+We are also rolling out a _Flight Number_ filter along with this update. While creating an alert, tap on _Flight_ and add your desired flight number. Alternatively, on the Search page, if you add a flight number to the filters and then tap on _Track_, the setting will be preserved in the alert created.
 
 <img src="../assets/img/price-alerts/flight-number-alert.webp" alt="Set up an alert based on Flight Number in AwardFares." class="noborder"/>
 
@@ -64,4 +64,4 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

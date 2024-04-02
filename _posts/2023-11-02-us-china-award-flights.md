@@ -38,17 +38,17 @@ According to [FlightConnections](https://www.flightconnections.com/) and [Google
 
 <img src="../assets/img/us-china-award-flights/flightconnections-us-china.webp" alt="Nonstop routes between the United States and China (Flightconnections)." />
 
-| Airline | Route |
-|----|----|
-| American | [Dallas/Forth Worth (DFW) to Beijing (PEK)](https://awardfares.com/search?DFW.PEK.;a:AA;x:0#) |
-| United | [San Francisco (SFO) to Beijing (PEK)](https://awardfares.com/search?SFO.PEK.;a:UA;x:0) |
-| Delta | Seattle (SEA) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), Los Angeles (LAX) to Shanghai (PVG)<sup>1</sup>|
-| Air China | [Los Angeles (LAX) to Beijing (PEK)](https://awardfares.com/search?LAX.PEK.;a:CA;x:0), San Francisco (SFO) to Beijing (PEK)<sup>2</sup>, New York (JFK) to Beijing (PEK) |
-| Beijing Capital Airlines | Los Angeles (LAX) to Hangzhou (HGH)|
-| China Eastern Airlines | Los Angeles (LAX) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), New York (JFK) to Shanghai (PVG), San Francisco (SFO) to Shanghai (PVG) |
-| China Southern Airlines | Los Angeles (LAX) to Guangzhou (CAN), Chicago (ORD) to Guangzhou (CAN), Dallas/Fort Worth (DFW) to Guangzhou (CAN), New York (JFK) to Guangzhou (CAN), San Francisco (SFO) to Guangzhou (CAN) |
-| Hainan Airlines |Boston (BOS) to Beijing (PEK), Seattle (SEA) to Beijing (PEK) |
-| Xiamen Airlines | Los Angeles (LAX) to Xiamen (XMN), New York (JFK) to Xiamen (XMN) |
+| Airline                  | Route                                                                                                                                                                                         |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| American                 | [Dallas/Forth Worth (DFW) to Beijing (PEK)](https://awardfares.com/search?DFW.PEK.;a:AA;x:0#)                                                                                                 |
+| United                   | [San Francisco (SFO) to Beijing (PEK)](https://awardfares.com/search?SFO.PEK.;a:UA;x:0)                                                                                                       |
+| Delta                    | Seattle (SEA) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), Los Angeles (LAX) to Shanghai (PVG)<sup>1</sup>                                                                             |
+| Air China                | [Los Angeles (LAX) to Beijing (PEK)](https://awardfares.com/search?LAX.PEK.;a:CA;x:0), San Francisco (SFO) to Beijing (PEK)<sup>2</sup>, New York (JFK) to Beijing (PEK)                      |
+| Beijing Capital Airlines | Los Angeles (LAX) to Hangzhou (HGH)                                                                                                                                                           |
+| China Eastern Airlines   | Los Angeles (LAX) to Shanghai (PVG), Detroit (DTW) to Shanghai (PVG), New York (JFK) to Shanghai (PVG), San Francisco (SFO) to Shanghai (PVG)                                                 |
+| China Southern Airlines  | Los Angeles (LAX) to Guangzhou (CAN), Chicago (ORD) to Guangzhou (CAN), Dallas/Fort Worth (DFW) to Guangzhou (CAN), New York (JFK) to Guangzhou (CAN), San Francisco (SFO) to Guangzhou (CAN) |
+| Hainan Airlines          | Boston (BOS) to Beijing (PEK), Seattle (SEA) to Beijing (PEK)                                                                                                                                 |
+| Xiamen Airlines          | Los Angeles (LAX) to Xiamen (XMN), New York (JFK) to Xiamen (XMN)                                                                                                                             |
 
 Notes:
 
@@ -63,7 +63,7 @@ Air China has been one of the few carriers keeping its nonstop service alive, fr
 
 Air China also offers a service from New York (JFK) with a stopover in LAX, but those legs seem impossible to book with points, as of today, from the data we see at AwardFares. We'll keep monitoring and updating the post.
 
-**How to book**: United Mileage Plan, SAS EuroBonus, Aeroplan 
+**How to book**: United Mileage Plan, SAS EuroBonus, Aeroplan
 
 <img src="../assets/img/us-china-award-flights/air-china.webp" alt="San Francisco to Beijing with Air China (AwardFares)." />
 
@@ -91,15 +91,15 @@ United is planning on adding more routes during the winter season 2023-2024. The
 
 ### Set Up Alerts
 
-As nonstop award flights are hard to score due to limited availability, make sure to [set up alerts](https://blog.awardfares.com/alerts) on AwardFares to let the tool monitor the route for you in the background. As soon as a seat becomes available, you will receive a notification via email.
+As nonstop award flights are hard to score due to limited availability, make sure to [set up alerts](https://blog.awardfares.com/alerts/) on AwardFares to let the tool monitor the route for you in the background. As soon as a seat becomes available, you will receive a notification via email.
 
-Check out our full guide (with a video tutorial) on [how to leverage alerts here](https://blog.awardfares.com/alerts). It's possible to add a filter just to display nonstop flights.
+Check out our full guide (with a video tutorial) on [how to leverage alerts here](https://blog.awardfares.com/alerts/). It's possible to add a filter just to display nonstop flights.
 
 ## Options With Stopovers
 
 While nonstop options are ideal, the situation still seems constrained, with very few seats available at expensive redemption rates (e.g., some premium cabins can cost more than 400k miles one-way!).
 
-Another option is to do just *one* stopover outside the United States, which can open the door to much better cabins and connections. Adding a stopover will add travel time, but if picked correctly, it can help you get cheaper awards and service onboard.
+Another option is to do just _one_ stopover outside the United States, which can open the door to much better cabins and connections. Adding a stopover will add travel time, but if picked correctly, it can help you get cheaper awards and service onboard.
 
 There are options through Asia, Europe, the Middle East, and even Africa. However, remember to check transit restrictions in place when it comes to visas and health regulations.
 
@@ -121,7 +121,7 @@ JAL operates many daily flights to/from Tokyo's Narita (NRT) or Haneda (HND) air
 
 ANA flies daily from Haneda (HND) and Narita (NRT) to Los Angeles, San Francisco, Seattle, Washington, New York, and Houston. It's also easy to connect to Beijing, Shanghai, and other destinations in Mainland China.
 
-**How to book**: United Mileage Plan, SAS EuroBonus, Aeroplan 
+**How to book**: United Mileage Plan, SAS EuroBonus, Aeroplan
 
 <img src="../assets/img/us-china-award-flights/ana.webp" alt="Award flights from the United States to china with All Nippon Airways (AwardFares)." />
 
@@ -157,7 +157,7 @@ One interesting route is the connection between Honolulu (HNL) and Seoul Incheon
 
 ### Turkish Airlines
 
-Turkish Airlines is known for its expansive in-flight meal offerings, generous legroom, and top-notch service standards. Also, their A350 cabin is just amazing. 
+Turkish Airlines is known for its expansive in-flight meal offerings, generous legroom, and top-notch service standards. Also, their A350 cabin is just amazing.
 
 A popular route is Seattle (SEA) to Istanbul (IST) which can then connect to Beijing, Shanghai, and other cities in Mainland China. Award availability is good across various Star Alliance programs, and can present to travelers a good alternative even for credit card point transfers.
 
@@ -231,7 +231,7 @@ In addition, you can also tap anywhere on the flight to display more details in 
 
 In the filters below, you can add the desired number of stops (optional). You can display nonstop results only or with up to one stop.
 
-In addition, the *Airline* lets you filter results by carrier if you are searching for a specific airline (e.g., Air China, JAL, etc.)
+In addition, the _Airline_ lets you filter results by carrier if you are searching for a specific airline (e.g., Air China, JAL, etc.)
 
 <img src="../assets/img/us-china-award-flights/stops.webp" alt="Find award flights between the United States and China using AwardFares." />
 
@@ -247,7 +247,6 @@ You can tap on the different header columns to sort the results by price. Use th
 
 Once you have identified the flights you want (or built an itinerary using our [Journey Planner](https://blog.awardfares.com/journey-planner/)), go to the airline or loyalty program's website and make the booking.
 
-
 ## Get Started
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
@@ -261,4 +260,4 @@ Make sure to also check these posts out.
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

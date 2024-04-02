@@ -6,7 +6,7 @@ tags: [SAS, Lufthansa]
 author: Germán
 image: /assets/img/lufthansa-with-eurobonus-guide/cover.webp
 seo:
-    date_modified: 2024-03-15
+  date_modified: 2024-03-15
 ---
 
 Lufthansa is one of the world's leading carriers, with access to nearly 1,300 destinations worldwide, an extensive global network, and high-quality service. It is a very reliable alternative, especially when you are flying premium cabins such as Business and First Class. As a founding member of Star Alliance, it’s possible to book Lufthansa flights from other frequent flyer programs, such as SAS EuroBonus.
@@ -16,7 +16,7 @@ Historically, there have been many EuroBonus sweet spots on Lufthansa, including
 In this post, we cover why SAS EuroBonus is still a great program when redeeming award flights on Lufthansa, and a step-by-step guide to finding and booking Lufthansa flights with EuroBonus points using AwardFares.
 
 **UPDATE 15 MARCH 2024**
-SAS will be leaving Star Alliance and joining SkyTeam during Q2, 2024. Details of the transition haven't been disclosed yet, but this means that it will no longer be possible to book award flights on Star Alliance partners using SAS EuroBonus points. [Read more here](https://blog.awardfares.com/eurobonus-guide).
+SAS will be leaving Star Alliance and joining SkyTeam during Q2, 2024. Details of the transition haven't been disclosed yet, but this means that it will no longer be possible to book award flights on Star Alliance partners using SAS EuroBonus points. [Read more here](https://blog.awardfares.com/eurobonus-guide/).
 
 ### In This Post
 
@@ -123,13 +123,13 @@ Simple, huh? AwardFares, lets you see all the available flights on Lufthansa rea
 
 Here are some of our pros and cons of flying with Lufthansa
 
-| Pros | Cons |
-|---|---|
-| **Consistent on-time performance** | **Long-haul Business Class seats are still 2-2-2 instead of 1-2-1**|
-| **Wide network of destinations** | **Inconsistent service quality** |
-| **Modern fleet** | **Long flight times** |
-| **Still flying 747 and A380** | **Can be crowded** |
-| **Frankfurt and Munich are easy to connect** | **High cash fares** |
+| Pros                                         | Cons                                                                |
+| -------------------------------------------- | ------------------------------------------------------------------- |
+| **Consistent on-time performance**           | **Long-haul Business Class seats are still 2-2-2 instead of 1-2-1** |
+| **Wide network of destinations**             | **Inconsistent service quality**                                    |
+| **Modern fleet**                             | **Long flight times**                                               |
+| **Still flying 747 and A380**                | **Can be crowded**                                                  |
+| **Frankfurt and Munich are easy to connect** | **High cash fares**                                                 |
 
 ## Best Frequent Flyer Programs to Redeem Lufthansa Awards in 2024
 
@@ -153,9 +153,9 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-* [Lufthansa New Routes In 2023](https://blog.awardfares.com/lh-routes-2023/)
-* [Lufthansa's A350 Long-Haul Business Class (Avoid)](https://blog.awardfares.com/lufthansa-long-haul-business-a350/)
-* [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+- [Lufthansa New Routes In 2023](https://blog.awardfares.com/lh-routes-2023/)
+- [Lufthansa's A350 Long-Haul Business Class (Avoid)](https://blog.awardfares.com/lufthansa-long-haul-business-a350/)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
 
 <script>
   (function () {

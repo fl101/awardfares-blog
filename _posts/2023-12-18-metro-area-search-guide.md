@@ -37,7 +37,7 @@ Metro Area searches changes this by allowing you to search for award flights bet
 
 ## How To Use Metro Area Search
 
-Instead of adding the airports manually, you can write the **name** of a Metropolitan area, for example, type **New York City (NYC)** for *any* airport in New York.
+Instead of adding the airports manually, you can write the **name** of a Metropolitan area, for example, type **New York City (NYC)** for _any_ airport in New York.
 
 As you type, AwardFares' auto-suggest will clearly show you that it is a Metro Area option in the dropdown menu.
 
@@ -98,11 +98,11 @@ In this example, thanks to the Metro Area search, we can find a chepear alternat
 
 ## Pro Tips for Mastering Metro Area Searches
 
-* **Combine with alerts**. Set up award availability alerts for your desired route with *+-1 Day Search* enabled. This way, you'll be notified instantly when award seats open up during your three-day window, giving you a head start on booking.
-* **Be flexible**. Remember, the wider your search window, the higher your chances of finding award seats. Consider expanding your date range beyond just one day before and after for even more options.
-* **Play with filters**. Use filters strategically to narrow down your search results and find the award seats that perfectly match your preferences.
-* **Consider Alternative Airports**. Metro Area searches might reveal availability in nearby airports that you hadn't considered.
-* **Understand Your Miles**. Know the value and rules of your frequent flyer program to make the most of your miles. Some programs offer connecting flights to airports within the same metro area or region, adding extra cost to the total price in miles.
+- **Combine with alerts**. Set up award availability alerts for your desired route with _+-1 Day Search_ enabled. This way, you'll be notified instantly when award seats open up during your three-day window, giving you a head start on booking.
+- **Be flexible**. Remember, the wider your search window, the higher your chances of finding award seats. Consider expanding your date range beyond just one day before and after for even more options.
+- **Play with filters**. Use filters strategically to narrow down your search results and find the award seats that perfectly match your preferences.
+- **Consider Alternative Airports**. Metro Area searches might reveal availability in nearby airports that you hadn't considered.
+- **Understand Your Miles**. Know the value and rules of your frequent flyer program to make the most of your miles. Some programs offer connecting flights to airports within the same metro area or region, adding extra cost to the total price in miles.
 
 ## EuroBonus: AwardFares Metro Search Is Better Than SAS
 
@@ -129,4 +129,4 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
