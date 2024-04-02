@@ -73,7 +73,7 @@
     <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=463591527535506&ev=PageView&noscript=1" /></noscript>
     <!-- End Facebook Pixel Code -->
-    <script>
+    <!-- <script>
       (function () {
         const now = new Date();
         const startDate = new Date('2023-11-24T08:00:00Z');
@@ -83,11 +83,10 @@
           document.querySelector('.black-friday-banner').style.display = 'block';
         }
       })();
-    </script>
-    <link rel="stylesheet" href="/assets/css/cookieconsent.min.css" />
+    </script> -->
     <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
     <script>
-      if (window.cookieconsent) {
+      if (window.cookieconsent && !window.navigator.userAgent.includes("bot")) {
         window.cookieconsent.initialise({
           theme: "classic",
           content: { href: "https://awardfares.com/privacy" },
