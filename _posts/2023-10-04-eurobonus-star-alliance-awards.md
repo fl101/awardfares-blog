@@ -153,7 +153,7 @@ _Image from Air New Zealand official website._
 - [Auckland (AKL) to Los Angeles (LAX)](https://awardfares.com/search?AKL.area:LAX.;a:NZ;z:sas): A popular long-haul route connecting New Zealand to the US West Coast. This flight gives you a chance to experience the airline's acclaimed service across the Pacific.
 - [Auckland (AKL) to London (LHR) via Los Angeles](https://awardfares.com/search?AKL.area:LHR.;a:NZ;z:sas): Prior to its discontinuation, this was one of the airline's longest routes and provided a comprehensive onboard experience. Note: This route was suspended, so check its current status before planning.
 - [Auckland (AKL) to Tokyo (NRT/HND)](https://awardfares.com/search?AKL.area:TYO.;a:NZ;z:sas): A key connection between New Zealand and Japan, offering travelers the beauty of both island nations.
-- [Auckland (AKL) to San Francisco (SFO)](<[https://awardfares.com/search?AKL.area:SFO.;a:NZ;z:sas](https://awardfares.com/search?AKL.LAX.;a:NZ;z:sas)>): Another important link to the US, this route often has the latest in-seat entertainment and onboard offerings.
+- [Auckland (AKL) to San Francisco (SFO)](https://awardfares.com/search?AKL.area:SFO.;a:NZ;z:sas): Another important link to the US, this route often has the latest in-seat entertainment and onboard offerings.
 - [Christchurch (CHC) to Singapore (SIN)](https://awardfares.com/search?CHC.SIN.;a:NZ;z:sas): A strategic route connecting New Zealand's South Island to the major Asian hub of Singapore.
 
 ---
@@ -603,7 +603,7 @@ _Image from Turkish Airlines website._
 **Suggested Routes**:
 
 - [Istanbul (IST) to New York (JFK)](https://awardfares.com/search?IST.JFK.;a:TK;z:sas): A prominent transatlantic connection, this route serves as a bridge between Turkey and the East Coast of the USA.
-- [Istanbul (IST) to Bangkok (BKK](https://awardfares.com/search?IST.BKK.;a:TK;z:sas)): Connecting Europe and Asia, this route is popular among both tourists and business travelers looking to explore Southeast Asia.
+- [Istanbul (IST) to Bangkok (BKK)](https://awardfares.com/search?IST.BKK.;a:TK;z:sas): Connecting Europe and Asia, this route is popular among both tourists and business travelers looking to explore Southeast Asia.
 - [Istanbul (IST) to São Paulo (GRU)](https://awardfares.com/search?IST.GRU.;a:TK;z:sas): Bridging the gap between Europe and South America, this is a unique route providing access to Brazil's major metropolis.
 - [Istanbul (IST) to Tokyo (HND/NRT)](https://awardfares.com/search?IST.area:TYO.;a:TK;z:sas): Serving as a key link between Turkey and Japan, this route is frequented by many looking to traverse between Europe and the Far East.
 - [Istanbul (IST) to Cape Town (CPT)](https://awardfares.com/search?IST.CPTs.;a:TK;z:sas): A valuable connection for those keen on exploring the beauty of South Africa, leveraging Istanbul's position to connect Europe with the African continent.
