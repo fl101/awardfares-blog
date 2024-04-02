@@ -6,7 +6,7 @@ tags: [SAS, Star Alliance, SkyTeam, Air France, KLM]
 author: Germán
 image: /assets/img/sas-acquisition/cover.webp
 seo:
-    date_modified: 2024-03-01
+  date_modified: 2024-03-01
 ---
 
 SAS announced **major** news today during a press conference. The airline has been under restructuring since it filed for bankruptcy under the U.S. Chapter 11 process. After several months, they reached a significant milestone: it will be acquired by a new consortium that includes Air France-KLM, leaving behind Star Alliance and joining SkyTeam.
@@ -15,7 +15,7 @@ But what does this mean for us, flyers, EuroBonus members, and SAS travelers? If
 
 Even though it’s too early to judge the details, speculation is usually an enemy that can hold you back and trigger bad decisions. This post covers everything we know about the transition and next steps.
 
-**UPDATE (MARCH 2024):** *According to recent statements from SAS and Air France, SAS will leave Star Alliance during Q2, 2024, joining SkyTeam immediately. There are still very little information regarding the implementation of the transition.*
+**UPDATE (MARCH 2024):** _According to recent statements from SAS and Air France, SAS will leave Star Alliance during Q2, 2024, joining SkyTeam immediately. There are still very little information regarding the implementation of the transition._
 
 **Also Read Our Megapost**: [Book These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
 
@@ -52,7 +52,7 @@ Beyond financial reshuffling, SAS has its eyes set on fortifying its commercial 
 
 Once the reorganization is complete, Castlelake will emerge as the holder of the majority of equity and debt. They will be followed by the Danish State, Air France-KLM, and Lind Invest in the stakeholder hierarchy. A portion of the equity will also be allocated to specific creditors.
 
-There are substantial changes on the horizon for 
+There are substantial changes on the horizon for
 SAS AB’s stakeholders. By 2024, the company anticipates that all of its common shares and listed commercial hybrid bonds will be canceled and delisted. Current shareholders might not receive any value from this transition, whereas commercial hybrid bond holders could receive a nominal return.
 
 ### Leadership Insights
@@ -124,7 +124,7 @@ Keep an eye on external partners like hotels, car rentals, or credit card compan
 ### 8. Feedback Matters
 
 Should you have concerns, questions, or feedback about the changes, reach out to SAS. Your perspective as a loyal customer is valuable, and airlines often take such feedback into account when shaping their programs.
- 
+
 ### 9. Explore Status Match Opportunities
 
 Many airline loyalty programs offer status matches to attract elite members from competing airlines. If SAS's changes affect your loyalty benefits, look into shifting your allegiance to another program that will match your current status.
@@ -192,4 +192,4 @@ Make sure to also check these posts out
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
 - [How To Install AwardFares On Your Phone](https://blog.awardfares.com/awardfares-mobile-app/)
 - [SAS Opens New Route To Morocco (And You Can Book It With Points)](https://blog.awardfares.com/sas-opens-route-to-morocco/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

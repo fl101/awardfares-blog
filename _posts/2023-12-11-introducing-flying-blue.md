@@ -111,7 +111,7 @@ Once you have identified the flight(s) you want, tap on the **Book** button, and
 
 <img src="../assets/img/introducing-flying-blue/book.webp" alt="Go to Air France's website to book Flying Blue award flights." class="noborder"/>
 
- - *(1) Remember that AwardFares will never ask for the login credentials of any of your frequent flyer programs to work.*
+- _(1) Remember that AwardFares will never ask for the login credentials of any of your frequent flyer programs to work._
 
 ## A Few Considerations
 
@@ -123,7 +123,7 @@ When you tap on a flight, the detailed view will show you more details about it,
 
 While AwardFares displays mixed-cabin award availability, in the current integration with Flying Blue through the Air France portal, it's not possible to source this data before the booking process. Hence, you won't see this information about mixed cabins directly in AwardFares' search results. As a reminder, the results will show this note in the expanded view:
 
-*Flights booked with KLM/Air France Flying Blue might contain mixed segments.*
+_Flights booked with KLM/Air France Flying Blue might contain mixed segments._
 
 ### Multiple Booking Portals
 
@@ -157,4 +157,4 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [Delta SkyMiles Award Search Now Available (New Features)](https://blog.awardfares.com/introducing-delta/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

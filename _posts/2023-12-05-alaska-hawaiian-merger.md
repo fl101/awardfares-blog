@@ -67,4 +67,4 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [Alaska Airlines Mileage Plan Partner Redemptions Made Easy (2023)](https://blog.awardfares.com/alaska-partners-2023/)
 - [Alaska Mileage Plan Updates (June 2023)](https://blog.awardfares.com/alaska-mileageplan-updates-june-2023/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

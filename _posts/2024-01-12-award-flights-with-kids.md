@@ -21,29 +21,29 @@ First things first, let's talk about age. Airlines have specific policies for in
 
 ### Examples of some frequent flyer programs
 
-| Airline | Lap Infants (Under 2) | Children (2-11) | Teens (12+) |
-|---|---|---|---|
-| SAS EuroBonus | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat (on SAS flights). No discount on Star Alliance Partners | Full adult cost |
-| AAdvantage | Free, no seat, 1 free bag/stroller | 75% of adult cost, own seat (sometimes 100% on partners) | Full adult cost |
-| United MileagePlus | Free, no seat, 1 free bag/stroller | 75% of adult cost, own seat (exceptions may apply) | Full adult cost |
-| Alaska MileagePlan | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat (sometimes 75% on partners) | Full adult cost |
-| Delta SkyMiles | Free, no seat, 1 free bag/stroller | 75% of adult cost (all flights), own seat | Full adult cost |
-| FlyingBlue | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat | Full adult cost |
-| Aeroplan | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat | Full adult cost |
+| Airline            | Lap Infants (Under 2)              | Children (2-11)                                                                     | Teens (12+)     |
+| ------------------ | ---------------------------------- | ----------------------------------------------------------------------------------- | --------------- |
+| SAS EuroBonus      | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat (on SAS flights). No discount on Star Alliance Partners | Full adult cost |
+| AAdvantage         | Free, no seat, 1 free bag/stroller | 75% of adult cost, own seat (sometimes 100% on partners)                            | Full adult cost |
+| United MileagePlus | Free, no seat, 1 free bag/stroller | 75% of adult cost, own seat (exceptions may apply)                                  | Full adult cost |
+| Alaska MileagePlan | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat (sometimes 75% on partners)                             | Full adult cost |
+| Delta SkyMiles     | Free, no seat, 1 free bag/stroller | 75% of adult cost (all flights), own seat                                           | Full adult cost |
+| FlyingBlue         | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat                                                         | Full adult cost |
+| Aeroplan           | Free, no seat, 1 free bag/stroller | 50% of adult cost, own seat                                                         | Full adult cost |
 
 ### 2. Ask For Family-exclusive Perks
 
 While airlines have different policies, there is usually an array of benefits and services that you could as for when booking as a family with children. Some of them include:
 
-* **Pre-boarding for Families**: Many airlines, including Southwest, Delta, and American Airlines, offer families with young children the chance to board the plane early. This extra time can be crucial for getting settled without the pressure of holding up other passengers.
-* **Complimentary Strollers**: Airlines such as Emirates and Singapore Airlines provide complimentary strollers at their hub airports, making it easier for parents to navigate through the terminal.
-* **Kid-Friendly Meals**: Airlines including Air France, Qantas, and Turkish Airlines offer special children’s meals that can be pre-ordered. These meals are not only nutritious but also appealing to younger palates.
-* **Activity Packs**: Carriers like SAS, Air France, KLM, British Airways, Cathay Pacific, and Etihad Airways provide children with activity packs or amenity kits, which can include coloring books, crayons, puzzles, and games to keep them engaged during the flight.
-* **Child Care Assistance**: Some airlines, like Gulf Air, have a Sky Nanny service on long-haul flights, where trained staff assist parents by entertaining and taking care of young children.
-* **Bassinets on Board**: For those traveling with infants, airlines such as Singapore Airlines, Air New Zealand, and Lufthansa offer bassinets on long-haul flights, allowing your baby to sleep more comfortably.
-* **Frequent Flyer Programs for Kids**: Programs like JetBlue’s TrueBlue and Emirates’ Skywards Skysurfers reward young travelers with points or miles, making them feel like valued customers and encouraging future travel.
-* **Priority Baggage Handling**: Airlines like KLM and Scandinavian Airlines often prioritize baggage for families, ensuring that you can quickly collect your bags and strollers and proceed with your journey.
-* **Onboard Child Care Items**: Airlines such as Japan Airlines and Finnair provide essential items on board, like diapers, baby wipes, and baby food, helping to reduce the amount of packing necessary for parents.
+- **Pre-boarding for Families**: Many airlines, including Southwest, Delta, and American Airlines, offer families with young children the chance to board the plane early. This extra time can be crucial for getting settled without the pressure of holding up other passengers.
+- **Complimentary Strollers**: Airlines such as Emirates and Singapore Airlines provide complimentary strollers at their hub airports, making it easier for parents to navigate through the terminal.
+- **Kid-Friendly Meals**: Airlines including Air France, Qantas, and Turkish Airlines offer special children’s meals that can be pre-ordered. These meals are not only nutritious but also appealing to younger palates.
+- **Activity Packs**: Carriers like SAS, Air France, KLM, British Airways, Cathay Pacific, and Etihad Airways provide children with activity packs or amenity kits, which can include coloring books, crayons, puzzles, and games to keep them engaged during the flight.
+- **Child Care Assistance**: Some airlines, like Gulf Air, have a Sky Nanny service on long-haul flights, where trained staff assist parents by entertaining and taking care of young children.
+- **Bassinets on Board**: For those traveling with infants, airlines such as Singapore Airlines, Air New Zealand, and Lufthansa offer bassinets on long-haul flights, allowing your baby to sleep more comfortably.
+- **Frequent Flyer Programs for Kids**: Programs like JetBlue’s TrueBlue and Emirates’ Skywards Skysurfers reward young travelers with points or miles, making them feel like valued customers and encouraging future travel.
+- **Priority Baggage Handling**: Airlines like KLM and Scandinavian Airlines often prioritize baggage for families, ensuring that you can quickly collect your bags and strollers and proceed with your journey.
+- **Onboard Child Care Items**: Airlines such as Japan Airlines and Finnair provide essential items on board, like diapers, baby wipes, and baby food, helping to reduce the amount of packing necessary for parents.
 
 ### 3. Choosing the Right Flight Times
 
@@ -89,6 +89,6 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-* [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-* [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-* [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
+- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

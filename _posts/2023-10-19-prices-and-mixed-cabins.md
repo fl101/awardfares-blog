@@ -26,8 +26,7 @@ We are committed to enhancing your travel experience and take your journey plann
 
 **ALSO READ**: Check [our detailed guide on how to use AwardFares' pricing to find cheap award flights](https://blog.awardfares.com/how-to-find-cheap-award-flights/).
 
-
-Once you log in to AwardFares, select a frequent flyer program and perform a search, you will notice new colored *pills* in the result list below.
+Once you log in to AwardFares, select a frequent flyer program and perform a search, you will notice new colored _pills_ in the result list below.
 
 Inside, each pill shows the number of points or miles required to redeem the award flight. Below the pill, you will also see how many seats are available in that cabin.
 
@@ -83,7 +82,7 @@ Here's how AwardFares displays Saver vs. Non-saver availability for MileagePlus 
 
 <img src="../assets/img/prices-and-mixed-cabins/saver-vs-nonsaver-united.webp" alt="AwardFares Award Flight Search Engine With Flight Prices." />
 
-#### Air Canada Aeroplan 
+#### Air Canada Aeroplan
 
 Here's how AwardFares displays Saver vs. Non-saver availability for Aeroplan award searches.
 
@@ -113,15 +112,15 @@ Similarly, you will see **Red** if the mixed cabin is 30% or more OR if a downgr
 
 ### Mixed Cabin Filter
 
-We’ve also added a brand new **Mixed Cabin filter**. Once clicked, the pop-up also shows a warning to clarify that EuroBonus searches do not support mixed cabins. Check our [Journey Planner tutorial](https://blog.awardfares.com/journey-planner) for our guide to book mixed-cabin awards with EuroBonus.
+We’ve also added a brand new **Mixed Cabin filter**. Once clicked, the pop-up also shows a warning to clarify that EuroBonus searches do not support mixed cabins. Check our [Journey Planner tutorial](https://blog.awardfares.com/journey-planner/) for our guide to book mixed-cabin awards with EuroBonus.
 
 <img src="../assets/img/prices-and-mixed-cabins/mixed-cabin-filter.webp" alt="AwardFares Mixed-cabin Filter." />
 
 #### Without Filter
 
-If you set the mixed cabin filter (for example to 15%), AwardFares will show all fares that have at least one cabin, with max 15% mixed cabins. In this case, we didn't use the Cabin Filter, so the results will include **all fares**, but any cabins over this limit will be greyed out. 
+If you set the mixed cabin filter (for example to 15%), AwardFares will show all fares that have at least one cabin, with max 15% mixed cabins. In this case, we didn't use the Cabin Filter, so the results will include **all fares**, but any cabins over this limit will be greyed out.
 
-Note that you will also see tickets in just Economy, given that is considered a *0% mixed-cabin* award.
+Note that you will also see tickets in just Economy, given that is considered a _0% mixed-cabin_ award.
 
 <img src="../assets/img/prices-and-mixed-cabins/mixed-cabin-filter-percentage.webp" alt="AwardFares Mixed-cabin Filter." />
 
@@ -133,13 +132,11 @@ For example, if you set the Cabin filter to First or Business class, the itinera
 
 <img src="../assets/img/prices-and-mixed-cabins/mixed-cabin-filter-with-cabin.webp" alt="AwardFares Mixed-cabin and Cabin filters." />
 
-
 #### Improved Alerts Filters
 
 Alerts are also upgraded with our mixed cabin filter! This means you can get notified also when mixed-cabin award flights become available. Keep in mind that, by default, the Alerts will exclude mixed cabins. Hence, you'll need to set up a value to be notified on mixed-cabin awards.
 
 <img src="../assets/img/prices-and-mixed-cabins/mixed-cabin-alerts.webp" alt="AwardFares Mixed-cabin Filter for Alerts." />
-
 
 ## New Search Results Header
 
@@ -169,4 +166,4 @@ Make sure to also check these posts out
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
 - [10 Tips For Booking An Award Trip In 2023](https://blog.awardfares.com/award-trip-tips/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

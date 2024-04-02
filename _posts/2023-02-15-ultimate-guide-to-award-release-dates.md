@@ -6,7 +6,7 @@ tags: [Guide]
 author: Philip
 image: /assets/img/award-dates/image.png
 seo:
-    date_modified: 2024-03-29
+  date_modified: 2024-03-29
 ---
 
 One of the best ways of booking your perfect award trip is to plan far in advance. Even though most airlines generally release new award space continuously throughout the year, it is always best to book as far in advance as possible. This guide will help you answer the question of how long in advance airlines such as Lufthansa release award seats?
@@ -16,7 +16,7 @@ There are however two important things to consider:
 1. Different airlines release award seats at different dates.
 2. Different frequent flyer programs show seats at different dates.
 
-For example, if you're using United to search for First Class seats, then you will only be able to find awards up to 337 days in advance. However, as a EuroBonus member you can still book awards more than 337 days in advance. This is especially important to consider when going after highly sought after awards. 
+For example, if you're using United to search for First Class seats, then you will only be able to find awards up to 337 days in advance. However, as a EuroBonus member you can still book awards more than 337 days in advance. This is especially important to consider when going after highly sought after awards.
 
 Luckily AwardFares makes it super easy to find these since you're able to search across multiple frequent flyer programs at once!
 
@@ -26,18 +26,18 @@ Luckily AwardFares makes it super easy to find these since you're able to search
 
 Here are the number of days in advance that some popular frequent flyer program award search sites will show. Dates are updated automatically.
 
-| Frequent Flyer Program | Days in advance | Date from today |
-| ---------------------- | --------------- | --------------- |
-| [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan)    | 355             | <span></span>   |
-| [American AAdvantage](https://awardfares.com/search?..;z:aadvantage)    | 331             | <span></span>   |
-| [Alaska Mileage Plan](https://awardfares.com/search?..;z:alaska)    | 330             | <span></span>   |
-| [United MileagePlus](https://awardfares.com/search?..;z:united)     | 337             | <span></span>   |
-| [SAS EuroBonus](https://awardfares.com/search?..;z:sas)          | 360             | <span></span>   |
-| [Delta SkyMiles](https://awardfares.com/search?..;z:delta)         | 331             | <span></span>   |
-| [Air France-KLM Flying Blue](https://awardfares.com/search?..;z:flyingblue) | 359         | <span></span>   |
-| [JetBlue TrueBlue](https://awardfares.com/search?..;z:jetblue) | 331         | <span></span>   |
-| [Virgin Atlantic Flying Club](https://awardfares.com/search?..;z:flyingclub) | 331         | <span></span>   |
-| Avianca LifeMiles   | 360             | <span></span>   |
+| Frequent Flyer Program                                                       | Days in advance | Date from today |
+| ---------------------------------------------------------------------------- | --------------- | --------------- |
+| [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan)           | 355             | <span></span>   |
+| [American AAdvantage](https://awardfares.com/search?..;z:aadvantage)         | 331             | <span></span>   |
+| [Alaska Mileage Plan](https://awardfares.com/search?..;z:alaska)             | 330             | <span></span>   |
+| [United MileagePlus](https://awardfares.com/search?..;z:united)              | 337             | <span></span>   |
+| [SAS EuroBonus](https://awardfares.com/search?..;z:sas)                      | 360             | <span></span>   |
+| [Delta SkyMiles](https://awardfares.com/search?..;z:delta)                   | 331             | <span></span>   |
+| [Air France-KLM Flying Blue](https://awardfares.com/search?..;z:flyingblue)  | 359             | <span></span>   |
+| [JetBlue TrueBlue](https://awardfares.com/search?..;z:jetblue)               | 331             | <span></span>   |
+| [Virgin Atlantic Flying Club](https://awardfares.com/search?..;z:flyingclub) | 331             | <span></span>   |
+| Avianca LifeMiles                                                            | 360             | <span></span>   |
 
 ### By Airline
 
@@ -79,27 +79,27 @@ Notes:
 - (2) Lufthansa long-haul First partner redemptions are released 30 days in advance. Members of Miles & More can book up to 180 days in advance.
 - (3) SAS releases 2 Plus awards within Europe at 330 days, and 4+ at 300 days.
 - (4) Aeroplan and EuroBonus limited to 180 days in advance.
-- (5) [SAS announced it will leave Star Alliance and join SkyTeam](https://blog.awardfares.com/sas-acquisition). The airline plans to make the transition during Q2, 2024.
+- (5) [SAS announced it will leave Star Alliance and join SkyTeam](https://blog.awardfares.com/sas-acquisition/). The airline plans to make the transition during Q2, 2024.
 
 #### Oneworld
 
-| Airline                                     | Days in advance         | Date from today |
-| ------------------------------------------- | ----------------------- | --------------- |
-| Alaska Airlines                             | 330                     | <span></span>   |
-| American Airlines                           | 331                     | <span></span>   |
-| British Airways                             | 355                     | <span></span>   |
-| Cathay Pacific                              | 360                     | <span></span>   |
-| Finnair                                     | 362                     | <span></span>   |
-| Iberia                                      | 360                     | <span></span>   |
-| Japan Airlines                              | 360                     | <span></span>   |
-| Malaysia Airlines                           | 354                     | <span></span>   |
-| Qantas                                      | 353                     | <span></span>   |
-| Qatar Airways                               | 361                     | <span></span>   |
-| Royal Air Maroc                             | 330                     | <span></span>   |
-| Royal Jordanian <sup>6</sup> (Economy)      | 330                     | <span></span>   |
-| SriLankan Airlines                          | 360                     | <span></span>   |
-| Fiji Airways                                | 330                     | <span></span>   |
-| Oman Air                                    | 300 - 330               | <span></span>   |
+| Airline                                | Days in advance | Date from today |
+| -------------------------------------- | --------------- | --------------- |
+| Alaska Airlines                        | 330             | <span></span>   |
+| American Airlines                      | 331             | <span></span>   |
+| British Airways                        | 355             | <span></span>   |
+| Cathay Pacific                         | 360             | <span></span>   |
+| Finnair                                | 362             | <span></span>   |
+| Iberia                                 | 360             | <span></span>   |
+| Japan Airlines                         | 360             | <span></span>   |
+| Malaysia Airlines                      | 354             | <span></span>   |
+| Qantas                                 | 353             | <span></span>   |
+| Qatar Airways                          | 361             | <span></span>   |
+| Royal Air Maroc                        | 330             | <span></span>   |
+| Royal Jordanian <sup>6</sup> (Economy) | 330             | <span></span>   |
+| SriLankan Airlines                     | 360             | <span></span>   |
+| Fiji Airways                           | 330             | <span></span>   |
+| Oman Air                               | 300 - 330       | <span></span>   |
 
 Notes:
 
@@ -107,26 +107,26 @@ Notes:
 
 #### Skyteam
 
-| Airline                                     | Days in advance   | Date from today |
-| ------------------------------------------- | ------------------| --------------- |
-| Aerolíneas Argentinas                       | 330               | <span></span>   |
-| Aeroméxico                                  | 330               | <span></span>   |
-| Air Europa                                  | 330               | <span></span>   |
-| Air France  <sup>7</sup>                    | 359               | <span></span>   |
-| ITA Airways <sup>8</sup>                    | 330               | <span></span>   |
-| China Airlines                              | 330              | <span></span>   |
-| China Eastern                               | 330              | <span></span>   |
-| Czech Airlines                              | 330              | <span></span>   |
-| Delta Air Lines                             | 330               | <span></span>   |
-| Garuda Indonesia                            | 330              | <span></span>   |
-| Kenya Airways                               | 330              | <span></span>   |
-| KLM                                         | 359               | <span></span>   |
-| Korean Air                                  | 330               | <span></span>   |
-| Middle East Airlines                        | 330              | <span></span>   |
-| Saudia                                      | 330              | <span></span>   |
-| TAROM                                       | 330              | <span></span>   |
-| Vietnam Airlines                            | 330              | <span></span>   |
-| XiamenAir                                   | 330              | <span></span>   |
+| Airline                  | Days in advance | Date from today |
+| ------------------------ | --------------- | --------------- |
+| Aerolíneas Argentinas    | 330             | <span></span>   |
+| Aeroméxico               | 330             | <span></span>   |
+| Air Europa               | 330             | <span></span>   |
+| Air France <sup>7</sup>  | 359             | <span></span>   |
+| ITA Airways <sup>8</sup> | 330             | <span></span>   |
+| China Airlines           | 330             | <span></span>   |
+| China Eastern            | 330             | <span></span>   |
+| Czech Airlines           | 330             | <span></span>   |
+| Delta Air Lines          | 330             | <span></span>   |
+| Garuda Indonesia         | 330             | <span></span>   |
+| Kenya Airways            | 330             | <span></span>   |
+| KLM                      | 359             | <span></span>   |
+| Korean Air               | 330             | <span></span>   |
+| Middle East Airlines     | 330             | <span></span>   |
+| Saudia                   | 330             | <span></span>   |
+| TAROM                    | 330             | <span></span>   |
+| Vietnam Airlines         | 330             | <span></span>   |
+| XiamenAir                | 330             | <span></span>   |
 
 Notes:
 
@@ -135,18 +135,17 @@ Notes:
 
 #### Other Airlines/Programs
 
-
-| Airline                                     | Days in advance         | Date from today |
-| ------------------------------------------- | ----------------------- | --------------- |
-| Southwest                                   | 180 - 240               | <span></span>   |
-| Frontier                                    | 180 - 240               | <span></span>   |
-| Spirit Airlines                             | 330                     | <span></span>   |
-| JetBlue                                     | 331                     | <span></span>   |
-| Emirates                                    | 328                     | <span></span>   |
-| Etihad                                      | 330                     | <span></span>   |
-| LATAM Airlines LATAM Pass                   | 330                     | <span></span>   |
-| GOL Smiles (on GOL flights)                 | 330                     | <span></span>   |
-| GOL Smiles (on partner airlines)            | Varies, up to 330       | -               |
+| Airline                          | Days in advance   | Date from today |
+| -------------------------------- | ----------------- | --------------- |
+| Southwest                        | 180 - 240         | <span></span>   |
+| Frontier                         | 180 - 240         | <span></span>   |
+| Spirit Airlines                  | 330               | <span></span>   |
+| JetBlue                          | 331               | <span></span>   |
+| Emirates                         | 328               | <span></span>   |
+| Etihad                           | 330               | <span></span>   |
+| LATAM Airlines LATAM Pass        | 330               | <span></span>   |
+| GOL Smiles (on GOL flights)      | 330               | <span></span>   |
+| GOL Smiles (on partner airlines) | Varies, up to 330 | -               |
 
 ## Get started, and stay tuned
 

@@ -80,7 +80,7 @@ Banff is a real gem in the Canadian Rockies, offering stunning snowy landscapes 
 
 ### 6. Niseko, Japan
 
-Niseko in Japan is a paradise for powder hounds, famous for its incredibly light and fluffy snow that makes skiing and snowboarding here a dream. Plus, the area offers a unique blend of thrilling slopes and traditional Japanese culture, complete with relaxing *onsens* (hot springs) to soak in after a day on the mountains.
+Niseko in Japan is a paradise for powder hounds, famous for its incredibly light and fluffy snow that makes skiing and snowboarding here a dream. Plus, the area offers a unique blend of thrilling slopes and traditional Japanese culture, complete with relaxing _onsens_ (hot springs) to soak in after a day on the mountains.
 
 <img src="../assets/img/winter-getaways-2023/niseko.webp" alt="Niseko, Japan as a Winter Getaway With Miles Or Points." class="noborder"/>
 
@@ -130,7 +130,7 @@ Courchevel in France is a top pick for a classy ski experience; it is part of th
 
 <img src="../assets/img/winter-getaways-2023/gva2.webp" alt="Fly to Geneva with points." class="noborder"/>
 
-### 10.  St. Moritz, Switzerland
+### 10. St. Moritz, Switzerland
 
 St. Moritz in Switzerland is the epitome of alpine luxury, offering top-notch skiing and a world-famous bobsled run, all set in a stunning mountain landscape. This resort town is also famous for its high-end shopping, gourmet dining, and vibrant social scene that attracts a chic international crowd.
 
@@ -158,8 +158,8 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Holiday Award Travel 2023: Using Dynamic Pricing to Your Advantage](https://blog.awardfares.com/xmas-2023/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
 
 Notes
 
-- *Images from Unsplash*
+- _Images from Unsplash_

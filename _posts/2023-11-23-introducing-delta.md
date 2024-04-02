@@ -15,7 +15,7 @@ In this update, we are glad to announce support for SkyMiles award flights in Aw
 
 - [Introducing Delta SkyMiles Award Search](#introducing-delta-skymiles-award-search)
 - [How To Find Cheap Delta SkyMiles Award Flights](#how-to-find-cheap-delta-skymiles-award-flights)
-- [More Improvements: *"Operated By"*](#more-improvements-operated-by)
+- [More Improvements: _"Operated By"_](#more-improvements-operated-by)
 - [Get Started](#get-started)
 - [Read More](#read-more)
 
@@ -95,9 +95,9 @@ For example, in this case, the departure city is London (LHR); the fees are show
 
 <img src="../assets/img/introducing-delta/currency-gbp.webp" alt="Find cheap Delta SkyMiles award flight with AwardFares." class="noborder"/>
 
-## More Improvements: *"Operated By"*
+## More Improvements: _"Operated By"_
 
-Along with this release, we also took the opportunity to improve search results. Flights will now show *"Operated by"* information when flights are performed by a subsidiary or partner airline (e.g., SAS Connect, Cityjet, SmartLynx for SAS, Republic Airways, SkyWest, or American Eagle for American, etc.).
+Along with this release, we also took the opportunity to improve search results. Flights will now show _"Operated by"_ information when flights are performed by a subsidiary or partner airline (e.g., SAS Connect, Cityjet, SmartLynx for SAS, Republic Airways, SkyWest, or American Eagle for American, etc.).
 
 <img src="../assets/img/introducing-delta/operated-by-sas.webp" alt="AwardFares now shows Operated By when the flight is performed by a subsidiary airline (SAS)." class="noborder"/>
 
@@ -115,5 +115,5 @@ Make sure to also check these posts out
 
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
 - [What Airlines Have Changed Or Left Alliances? A History of Departures and Switches](https://blog.awardfares.com/airline-alliances-changes/)

@@ -7,7 +7,7 @@ author: Germán
 image: /assets/img/eurobonus-last-minute-awards/cover.webp
 ---
 
-Tick Tock, EuroBonus Clock! It's that time of the year again when many Amex 2-for-1 vouchers (or *companion tickets*) are about to expire, and if you're anything like us, you're probably scrambling to find the best way to use them.
+Tick Tock, EuroBonus Clock! It's that time of the year again when many Amex 2-for-1 vouchers (or _companion tickets_) are about to expire, and if you're anything like us, you're probably scrambling to find the best way to use them.
 
 At AwardFares, we know how tricky it can be to snag those last-minute award redemptions, especially when you're trying to make the most out of your EuroBonus points. But don't worry, we've got your back.
 
@@ -29,7 +29,7 @@ There are several LH First seats on a bunch of routes to the North America and A
 
 <img src="../assets/img/eurobonus-last-minute-awards/lh-first.webp" alt="Lufthansa First Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
 
-Remember that these awards need to be booked through the SAS Service Center, and keep in mind that sometimes awards don't show up because of [married segment restrictions](https://blog.awardfares.com/married-segments).
+Remember that these awards need to be booked through the SAS Service Center, and keep in mind that sometimes awards don't show up because of [married segment restrictions](https://blog.awardfares.com/married-segments/).
 
 The list below gets updated in real time and shows you the available award seats for the next 30 days on **Lufthansa First** using SAS EuroBonus points.
 
@@ -37,20 +37,20 @@ The list below gets updated in real time and shows you the available award seats
 
 Some routes with great availability in the next 2 weeks are:
 
-* [Boston BOS to Munich MUC](https://awardfares.com/search?BOS.MUC.;c:first;z:sas)
-* [México City MEX to Frankfurt FRA](https://awardfares.com/search?MEX.FRA.;c:first;z:sas)
-* [Chicago ORD to Frankfurt FRA](https://awardfares.com/search?ORD.FRA.;c:first;z:sas)
-* [Munich MUC to Boston BOS](https://awardfares.com/search?MUC.BOS.;c:first;z:sas)
-* [Munich MUC to New York JKF](https://awardfares.com/search?MUC.JFK.;c:first;z:sas)
-* [New York JKF to Munic MUC](https://awardfares.com/search?JFK.MUC.;c:first;z:sas)
-* [Bogotá BOG to Frankfurt FRA](https://awardfares.com/search?BOG.FRA.;c:first;z:sas)
-* [Hong Kong HKG to Frankfurt FRA](https://awardfares.com/search?HKG.FRA.;c:first;z:sas)
-* [San Francisco SFO to Frankfurt FRA](https://awardfares.com/search?SFO.FRA.;c:first;z:sas)
-* [Shanghai PVG to Frankfurt FRA](https://awardfares.com/search?PVG.FRA.;c:first;z:sas)
-  
+- [Boston BOS to Munich MUC](https://awardfares.com/search?BOS.MUC.;c:first;z:sas)
+- [México City MEX to Frankfurt FRA](https://awardfares.com/search?MEX.FRA.;c:first;z:sas)
+- [Chicago ORD to Frankfurt FRA](https://awardfares.com/search?ORD.FRA.;c:first;z:sas)
+- [Munich MUC to Boston BOS](https://awardfares.com/search?MUC.BOS.;c:first;z:sas)
+- [Munich MUC to New York JKF](https://awardfares.com/search?MUC.JFK.;c:first;z:sas)
+- [New York JKF to Munic MUC](https://awardfares.com/search?JFK.MUC.;c:first;z:sas)
+- [Bogotá BOG to Frankfurt FRA](https://awardfares.com/search?BOG.FRA.;c:first;z:sas)
+- [Hong Kong HKG to Frankfurt FRA](https://awardfares.com/search?HKG.FRA.;c:first;z:sas)
+- [San Francisco SFO to Frankfurt FRA](https://awardfares.com/search?SFO.FRA.;c:first;z:sas)
+- [Shanghai PVG to Frankfurt FRA](https://awardfares.com/search?PVG.FRA.;c:first;z:sas)
+
 **Read more**: If you want good redemptions beyond the 15-day window, Lufthansa Business Class can also be a solid choice (particularly on the 747-8). Check out the following guide with a complete deep-dive into booking LH awards with EB points:
 
-* [*Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points*](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
+- [_Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points_](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
 
 ### 2. Turkish Airlines A350 Business Class for 82k points (Round Trip)
 
@@ -68,16 +68,16 @@ The table below gets updated in real time and shows you the available award seat
 
 Some routes with great availability in the next 2 weeks are:
 
-* [Istanbul IST to São Paulo GRU](https://awardfares.com/search?IST.GRU.;c:business;a:TK;z:sas#)
-* [Cancún CUN to Istanbul IST](https://awardfares.com/search?CUN.IST.;c:business;a:TK;z:sas#)
-* [Istanbul IST to Panama PTY](https://awardfares.com/search?IST.PTY.;c:business;a:TK;z:sas#)
-* [Istanbul IST to México City MEX](https://awardfares.com/search?IST.MEX.;c:business;a:TK;z:sas#)
-* [Bogotá BOG to Istanbul IST](https://awardfares.com/search?BOG.IST.;c:business;a:TK;z:sas#)
-* [Istanbul IST to Havana HAV](https://awardfares.com/search?IST.HAV.;c:business;a:TK;z:sas#)
+- [Istanbul IST to São Paulo GRU](https://awardfares.com/search?IST.GRU.;c:business;a:TK;z:sas#)
+- [Cancún CUN to Istanbul IST](https://awardfares.com/search?CUN.IST.;c:business;a:TK;z:sas#)
+- [Istanbul IST to Panama PTY](https://awardfares.com/search?IST.PTY.;c:business;a:TK;z:sas#)
+- [Istanbul IST to México City MEX](https://awardfares.com/search?IST.MEX.;c:business;a:TK;z:sas#)
+- [Bogotá BOG to Istanbul IST](https://awardfares.com/search?BOG.IST.;c:business;a:TK;z:sas#)
+- [Istanbul IST to Havana HAV](https://awardfares.com/search?IST.HAV.;c:business;a:TK;z:sas#)
 
 **Read more**: Check out our full guide on Turkish Airlines redemptions with EuroBonus points, including a thorough comparison of all their cabins.
 
-* [*Booking Turkish Airlines Flights With SAS EuroBonus Points (Guide)*](https://blog.awardfares.com/turkish-with-eurobonus/)
+- [_Booking Turkish Airlines Flights With SAS EuroBonus Points (Guide)_](https://blog.awardfares.com/turkish-with-eurobonus/)
 
 ### 3. Thai Airways Business Class to Asia for 82k, to Australia for 137k points (Round Trip)
 
@@ -91,9 +91,9 @@ You can get particularly good rates when flying to Australia, for example, Europ
 
 Some routes with good availability during 2024, ready to book today:
 
-* [Copenhagen CPH to Bangkok BKK](https://awardfares.com/search?CPH.BKK.;c:business;a:TG;z:sas#)
-* [Copenhagen CPH to Melbourne MEL](https://awardfares.com/search?CPH.MEL.;c:business;a:TG;z:sas#)
-* [Stockholm to Bangkok BKK](https://awardfares.com/search?ARN.BKK.;c:business;a:TG;z:sas#)
+- [Copenhagen CPH to Bangkok BKK](https://awardfares.com/search?CPH.BKK.;c:business;a:TG;z:sas#)
+- [Copenhagen CPH to Melbourne MEL](https://awardfares.com/search?CPH.MEL.;c:business;a:TG;z:sas#)
+- [Stockholm to Bangkok BKK](https://awardfares.com/search?ARN.BKK.;c:business;a:TG;z:sas#)
 
 ### 4. ANA Business Class "The Room" for 82k points (Round Trip)
 
@@ -107,9 +107,9 @@ Standard prices start a 99k points one-way and 165k points round trip. When usin
 
 We've seen great availability on these routes for the upcoming weeks:
 
-* [Tokyo HND to London LHR (NH211/212)](https://awardfares.com/search?LHR.HND.;c:business;a:NH;f:NH211,NH212;z:sas)
-* [Tokyo HND to New York JFK (NH109/110 and NH159/160)](https://awardfares.com/search?HND.JFK.;c:business;a:NH;z:sas)
-* [Tokyo HND to San Francisco SFO (NH107/108)](https://awardfares.com/search?HND.SFO.;c:business;a:NH;z:sas)
+- [Tokyo HND to London LHR (NH211/212)](https://awardfares.com/search?LHR.HND.;c:business;a:NH;f:NH211,NH212;z:sas)
+- [Tokyo HND to New York JFK (NH109/110 and NH159/160)](https://awardfares.com/search?HND.JFK.;c:business;a:NH;z:sas)
+- [Tokyo HND to San Francisco SFO (NH107/108)](https://awardfares.com/search?HND.SFO.;c:business;a:NH;z:sas)
 
 One of the reconfigured 777s is in a special Pokémon livery, which we [described in more detail in this post](https://blog.awardfares.com/ana-777-fleet/).
 
@@ -125,10 +125,10 @@ The standard rates are 78k points one-way and 130k points round trip. Using a vo
 
 Some routes with good availability during 2024 are:
 
-* [Lisbon LIS to Miami MIA](https://awardfares.com/search?LIS.MIA.;c:economy,premeco,first;a:TP;z:sas)
-* [Lisbon LIS to Toronto YYZ](https://awardfares.com/search?LIS.YYZ.;c:economy,premeco,first;a:TP;z:sas)
-* [Lisbon LIS to Boston BOS](https://awardfares.com/search?LIS.BOS.;c:economy,premeco,first;a:TP;z:sas)
-* [Lisbon LIS to New York EWR](https://awardfares.com/search?LIS.EWR.;c:economy,premeco,first;a:TP;z:sas)
+- [Lisbon LIS to Miami MIA](https://awardfares.com/search?LIS.MIA.;c:economy,premeco,first;a:TP;z:sas)
+- [Lisbon LIS to Toronto YYZ](https://awardfares.com/search?LIS.YYZ.;c:economy,premeco,first;a:TP;z:sas)
+- [Lisbon LIS to Boston BOS](https://awardfares.com/search?LIS.BOS.;c:economy,premeco,first;a:TP;z:sas)
+- [Lisbon LIS to New York EWR](https://awardfares.com/search?LIS.EWR.;c:economy,premeco,first;a:TP;z:sas)
 
 ### 6. EVA Air Business Class for 82k points (Round Trip)
 
@@ -138,10 +138,10 @@ Prices range 30k-99k one-way (depending on flight length), and up to 165k round 
 
 Here are some of the routes we've seen with plenty of award space
 
-* [London LHR to Bangkok BKK](https://awardfares.com/search?LHR.BKK.;c:business;a:BR;z:sas)
-* [Taipei TPE to Los Angeles LAX](https://awardfares.com/search?TPE.LAX.;c:business;a:BR;z:sas)
-* [Munich MUC to Hong Kong HKG](https://awardfares.com/search?MUC.HKG.;c:business;a:BR;z:sas)
-* [Vienna VIE to Tokyo NRT](https://awardfares.com/search?VIE.NRT.;c:business;a:BR;z:sas)
+- [London LHR to Bangkok BKK](https://awardfares.com/search?LHR.BKK.;c:business;a:BR;z:sas)
+- [Taipei TPE to Los Angeles LAX](https://awardfares.com/search?TPE.LAX.;c:business;a:BR;z:sas)
+- [Munich MUC to Hong Kong HKG](https://awardfares.com/search?MUC.HKG.;c:business;a:BR;z:sas)
+- [Vienna VIE to Tokyo NRT](https://awardfares.com/search?VIE.NRT.;c:business;a:BR;z:sas)
 
 <img src="../assets/img/eurobonus-last-minute-awards/eva.webp" alt="EVA Air Business Class Awards with EuroBonus Points (Dec 2023)." class="noborder"/>
 
@@ -250,6 +250,5 @@ Our guides have all the information you need to be a pro travel hacker and explo
     }
   })();
 </script>
-
 
 <script src="/assets/js/countdown.js"></script>

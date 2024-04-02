@@ -7,7 +7,6 @@ author: Germán
 image: /assets/img/turkish-with-eurobonus/cover.webp
 ---
 
-
 Turkish Airlines, the flag carrier of Turkey and a member of the Star Alliance network, has steadily risen in the ranks to become one of the world's leading airlines, renowned for its expansive route network and impeccable service. With its main hub in Istanbul, this airline bridges the gap between the East and the West, making it a favored choice for travelers from around the globe.
 
 For those holding SAS EuroBonus points, the good news is that these can be golden tickets to book award flights on Turkish Airlines at great rates, offering a fantastic opportunity to experience the airline's premium service while journeying to a multitude of destinations.
@@ -50,7 +49,6 @@ The lists below are updated in real time and show you the available award seats 
 
 White sandy beaches, crystal clear waters, and an underwater world waiting to be explored – the Maldives is a paradise on earth. Flying Turkish Airlines from Istanbul to Maldives gives you the opportunity to experience world-class in-flight service while en route to a dream destination.
 
-
 <img src="../assets/img/turkish-with-eurobonus/mle.webp" alt="Turkish Airlines Award Flights to the Maldives" />
 
 ### 2. [New York (JFK/EWR)](https://awardfares.com/search?zone:Europe.area:NYC.;a:TK;z:sas#)
@@ -59,33 +57,25 @@ The iconic skyline, the arts, the food - NYC has it all. For those in Europe, th
 
 <img src="../assets/img/turkish-with-eurobonus/nyc.webp" alt="Turkish Airlines Award Flights to New York." />
 
-
 ### 3. [Dubai (DXB)](https://awardfares.com/search?zone:Europe.area:DXB.;a:TK;z:sas#)
 
 A dazzling metropolis known for its futuristic architecture, luxury shopping, and world-class entertainment venues. Nestled along the Persian Gulf's coastline, this city boasts iconic landmarks like the Burj Khalifa, palm-shaped islands, and vast desert landscapes. Marrying tradition with innovation, Dubai offers visitors a unique blend of cultural richness and visionary modernity.
 
-
 <img src="../assets/img/turkish-with-eurobonus/dxb.webp" alt="Turkish Airlines Award Flights to Dubai" />
-
 
 ### 4. [São Paulo (GRU)](https://awardfares.com/search?zone:Europe.area:GRU.;a:TK;z:sas#)
 
 The sprawling financial hub and largest city in South America, pulsating with cultural diversity, towering skyscrapers, and vibrant urban energy. Renowned for its rich arts scene, delectable cuisine, and dynamic nightlife, the city offers a unique blend of modern sophistication and rich historical heritage. Often dubbed the "New York of South America," São Paulo is a melting pot of cultures, making it a captivating destination for travelers from around the world.
 
-
 <img src="../assets/img/turkish-with-eurobonus/gru.webp" alt="Turkish Airlines Award Flights to the Sao Paulo" />
-
 
 ### 5. [Tokyo (HND/NRT)](https://awardfares.com/search?zone:Europe.area:TYO.;a:TK;z:sas#)
 
 Japan, a blend of ancient tradition and cutting-edge modernity, is always worth a visit. Turkish Airlines offers a direct route, making it convenient for EuroBonus members to spend their points on a trip to the Land of the Rising Sun.
 
-
-
 ### 6. [Cape Town (CPT)](https://awardfares.com/search?zone:Europe.area:CPT.;a:TK;z:sas#)
 
 Experience the beauty of South Africa, from Table Mountain to the vibrant streets of Cape Town. This route offers EuroBonus members a direct link to one of the most breathtaking destinations in Africa.
-
 
 ## How To Search Turkish Airlines Award Flights With EuroBonus Points {#how-to}
 
@@ -99,10 +89,9 @@ On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap 
 
 <img src="../assets/img/turkish-with-eurobonus/ffp-sas.webp" alt="Filter award flights on SAS EuroBonus in AwardFares" />
 
-### 3. Under *Airline*, select *Turkish Airlines*
+### 3. Under _Airline_, select _Turkish Airlines_
 
 <img src="../assets/img/turkish-with-eurobonus/airline.webp" alt="Filter award flights on Turkish Airlines in AwardFares" />
-
 
 ### 4. Set the route
 
@@ -113,7 +102,6 @@ If you already have your departure and destination city, you can add those under
 If you have flexibility on the routes, AwardFares is powerful as Google Flights. It lets you explore options available by performing what we call **broad searches**. You can see available flights by selecting only departure, arrival city, or regions. For example, you can explore all flights from **Europe** to the **Tokyo** by simply typing those regions.
 
 <img src="../assets/img/turkish-with-eurobonus/timeline-view.webp" alt="Find award flights on Turkish Airlines with AwardFares" />
-
 
 ### 5. Filter out by cabin (optional)
 
@@ -133,7 +121,7 @@ You can double-check the availability on SAS website with your own account, sear
 
 If you don’t see available seats on a given flight and date you are interested, don’t worry. Seat availability changes daily, as airlines release those seats on short notice. AwardFares has an alert feature that monitors the flights you want and notifies you via email once/if they become available.
 
-- [**Check this guide on how to set up alerts.**](https://blog.awardfares.com/alerts)
+- [**Check this guide on how to set up alerts.**](https://blog.awardfares.com/alerts/)
 
 ## Turkish Airlines Fleet and Cabins: Watch Out! {#fleet}
 
@@ -141,7 +129,7 @@ Turkish Airlines has one of the largest passenger fleets in the world, with over
 
 The specific cabins and amenities offered on Turkish Airlines flights vary depending on the aircraft type, especially if you book the most premium cabins. Their best experience these days is on their A350-900.
 
-Here is a summary of the cabins and amenities offered on some of Turkish Airlines' most popular aircraft types. Rememeber that you can use AwardFares' *Equipment* filter to only show results for a given aircraft type.
+Here is a summary of the cabins and amenities offered on some of Turkish Airlines' most popular aircraft types. Rememeber that you can use AwardFares' _Equipment_ filter to only show results for a given aircraft type.
 
 ### Airbus A350-900
 
@@ -153,7 +141,7 @@ The seats themselves are extremely comfortable, with a wide range of recline pos
 - The seats are also equipped with a universal power outlet, a USB port, and a reading light.
 - The privacy screens between the seats can be raised or lowered to create a more private space.
 - The cabin has two lavatories, which are both equipped with shower facilities.
-Passengers are provided with a welcome drink, amenity kit, and hot meal service.
+  Passengers are provided with a welcome drink, amenity kit, and hot meal service.
 
 ### Boeing 777-300ER
 

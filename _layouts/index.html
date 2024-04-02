@@ -3,18 +3,21 @@ layout: default
 ---
 
 <div class="home">
-
   {% if paginator.page == 1 %}
-  
+
   <div class="caption">
     <a href="/">AwardFares Blog</a>
   </div>
 
-  {% assign latest = site.posts | where_exp:"item","item.hidden!=true" | first %}
+  {% assign latest = site.posts | where_exp:"item","item.hidden!=true" | first
+  %}
   <div class="latest-post">
     <div>
       <a href="{{ latest.url }}">
-        <img src="{{ latest.image }}" title="Cover image for {{ latest.title }}" />
+        <img
+          src="{{ latest.image }}"
+          title="Cover image for {{ latest.title }}"
+        />
       </a>
     </div>
     <div>
@@ -22,16 +25,16 @@ layout: default
       <a href="{{ latest.url }}">
         <h2>{{ latest.title }}</h2>
       </a>
-      <div class="line-clamp">{{ latest.excerpt | stripe_html | strip_newlines }}</div>
+      <div class="line-clamp">
+        {{ latest.excerpt | stripe_html | strip_newlines }}
+      </div>
     </div>
   </div>
 
-  {% assign categories = site.categories %}
-  {% assign promotedCategories = "News,Tools,Tutorial" | split: ',' %}
-  {% for categoryKey in promotedCategories %}
-  {% assign category = categories[categoryKey] %}
-  {% assign posts = category | where_exp:"item","item.hidden!=true" %}
-  {% if posts.size > 2 %}
+  {% assign categories = site.categories %} {% assign promotedCategories =
+  "News,Tools,Tutorial" | split: ',' %} {% for categoryKey in promotedCategories
+  %} {% assign category = categories[categoryKey] %} {% assign posts = category
+  | where_exp:"item","item.hidden!=true" %} {% if posts.size > 2 %}
   <div class="category">
     <h2>
       <a href="/categories/#{{ categoryKey }}">{{ categoryKey }}</a>
@@ -40,26 +43,27 @@ layout: default
       {% for post in posts limit:3 %}
       <div>
         <a href="{{ post.url }}">
-          <img src="{{ post.image }}" loading="lazy" alt="Cover image for {{ post.title }}" />
+          <img
+            src="{{ post.image }}"
+            loading="lazy"
+            alt="Cover image for {{ post.title }}"
+          />
         </a>
         <div class="date">{% include date.html post=post %}</div>
         <a href="{{ post.url }}">
           <h3>{{ post.title }}</h3>
         </a>
-        <div class="line-clamp">{{ post.excerpt | stripe_html | strip_newlines }}</div>
+        <div class="line-clamp">
+          {{ post.excerpt | stripe_html | strip_newlines }}
+        </div>
       </div>
       {% endfor %}
     </div>
   </div>
-  {% endif %}
-  {% endfor %}
-
-  {% for category in categories reversed %}
-  {% if promotedCategories contains category[0] %}
-    {% continue %}
-  {% endif %}
-  {% assign posts = category[1] | where_exp:"item","item.hidden!=true" %}
-  {% if posts.size > 2 %}
+  {% endif %} {% endfor %} {% for category in categories reversed %} {% if
+  promotedCategories contains category[0] %} {% continue %} {% endif %} {%
+  assign posts = category[1] | where_exp:"item","item.hidden!=true" %} {% if
+  posts.size > 2 %}
   <div class="category">
     <h2>
       <a href="/categories/#{{ category[0] }}">{{ category[0] }}</a>
@@ -68,64 +72,69 @@ layout: default
       {% for post in posts limit:3 %}
       <div>
         <a href="{{ post.url }}">
-          <img src="{{ post.image }}" loading="lazy" alt="Cover image for {{ post.title }}" />
+          <img
+            src="{{ post.image }}"
+            loading="lazy"
+            alt="Cover image for {{ post.title }}"
+          />
         </a>
         <div class="date">{% include date.html post=post %}</div>
         <a href="{{ post.url }}">
           <h3>{{ post.title }}</h3>
         </a>
-        <div class="line-clamp">{{ post.excerpt | stripe_html | strip_newlines }}</div>
+        <div class="line-clamp">
+          {{ post.excerpt | stripe_html | strip_newlines }}
+        </div>
       </div>
       {% endfor %}
     </div>
   </div>
-  {% endif %}
-  {% endfor %}
+  {% endif %} {% endfor %} {% endif %}
 
-  {% endif %}
-  
   <div class="category">
     {% if paginator.page == 1 %}
     <h2>Latest Posts</h2>
     {% endif %}
     <div class="category-posts">
-      {% for post in paginator.posts %}
-      {% unless post.hidden %}
+      {% for post in paginator.posts %} {% unless post.hidden %}
       <div>
         <a href="{{ post.url }}">
-          <img src="{{ post.image }}" loading="lazy" alt="Cover image for {{ post.title }}" />
+          <img
+            src="{{ post.image }}"
+            loading="lazy"
+            alt="Cover image for {{ post.title }}"
+          />
         </a>
         <div class="date">{% include date.html post=post %}</div>
         <a href="{{ post.url }}">
           <h3>{{ post.title }}</h3>
         </a>
-        <div class="line-clamp">{{ post.excerpt | stripe_html | strip_newlines }}</div>
+        <div class="line-clamp">
+          {{ post.excerpt | stripe_html | strip_newlines }}
+        </div>
       </div>
-      {% endunless %}
-      {% endfor %}
+      {% endunless %} {% endfor %}
     </div>
   </div>
 
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span>{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | relative_url }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}/"
+      >&laquo; Prev</a
+    >
+    {% endif %} {% for page in (1..paginator.total_pages) %} {% if page ==
+    paginator.page %}
+    <span>{{ page }}</span>
+    {% elsif page == 1 %}
+    <a href="{{ '/' | relative_url }}">{{ page }}</a>
+    {% else %}
+    <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}/"
+      >{{ page }}</a
+    >
+    {% endif %} {% endfor %} {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}/">Next &raquo;</a>
     {% endif %}
   </div>
   {% endif %}
-
 </div>
