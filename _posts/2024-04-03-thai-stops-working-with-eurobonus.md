@@ -14,8 +14,6 @@ Several of our users have reported the same issue, and it has even been confirme
 
 Is this the beginning of the end of Star Alliance partners in EuroBonus?
 
-<img src="../assets/img/united-stops-working-with-eurobonus/sas-united-issues.webp" alt="It's not possible to book Thai flights with SAS EuroBonus." class="noborder"/>
-
 ## Thai Disappears from EuroBonus Bookings (What We Know)
 
 As of this morning, Thai flights are no longer showing up on the SAS EuroBonus portal. We still see a ton of fresh results in our cached data, from yesterday.
