@@ -5,18 +5,17 @@ category: [News, EuroBonus]
 tags: [Thai]
 author: Germán
 image: /assets/img/thai-stops-working-with-eurobonus/cover.webp
-hidden: true
 ---
 
-More breaking news (under development) on the SAS front. It all looks like it's no longer possible to book flights on Thai Airways with EuroBonus points. After [United being disabled last March](https://blog.awardfares.com/united-stops-working-with-eurobonus/), now the EuroBonus portal fails to book redemptions with Thai.
+More breaking news (under development) on the SAS front. It looks like it's no longer possible to book flights on Thai Airways with EuroBonus points. After [United was disabled last March](https://blog.awardfares.com/united-stops-working-with-eurobonus/), the EuroBonus portal now fails to book redemptions with Thai.
 
-Several of our users have reported the same issue, and it has even been confirmed via SAS on the support line. This issue must be very recent, given that our cached data shows the most recent seats on Thai from yesterday.
+Several users have reported the same issue, which was confirmed via SAS on the support line. This issue must be very recent, given that our cached data shows the most recent seats on Thai from yesterday.
 
 Is this the beginning of the end of Star Alliance partners in EuroBonus?
 
 ## Thai Disappears from EuroBonus Bookings (What We Know)
 
-As of this morning, Thai flights are no longer showing up on the SAS EuroBonus portal. We still see a ton of fresh results in our cached data, from yesterday.
+As of this morning, Thai flights are no longer showing up on the SAS EuroBonus portal. However, we still see a ton of fresh results in our cached data from yesterday.
 
 <img src="../assets/img/thai-stops-working-with-eurobonus/eb-tg-timeline.webp" alt="SAS EuroBonus breaks ties with Thai Airways." class="noborder"/>
 
