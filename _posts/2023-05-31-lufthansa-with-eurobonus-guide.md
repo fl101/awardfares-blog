@@ -68,7 +68,7 @@ Creating an account is optional, but it's also free, and it gives you access to 
 On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap on it and select **EuroBonus**. This will only perform searches and show you award seats available using EuroBonus points.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus-guide/select-eurobonus.gif" alt="Filter award flights on SAS EuroBonus in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus-guide/select-eurobonus.avif" alt="Filter award flights on SAS EuroBonus in AwardFares" />
 </figure>
 
 ### 3. Filter out by Airline
@@ -76,7 +76,7 @@ On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap 
 Tap the **Airline** filter and select **Lufthansa** to avoid seeing results from other airlines.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus-guide/select-lufthansa.gif" alt="Filter Lufthansa award flights in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus-guide/select-lufthansa.avif" alt="Filter Lufthansa award flights in AwardFares" />
 </figure>
 
 ### 4. Select the Route
@@ -84,7 +84,7 @@ Tap the **Airline** filter and select **Lufthansa** to avoid seeing results from
 If you already have your departure and destination city, you can add those under the **Where From** and **Where To** fields. Once you do so, you will be able to see a Timeline.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus-guide/select-destination.gif" alt="Select destination in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus-guide/select-destination.avif" alt="Select destination in AwardFares" />
 </figure>
 
 ### 5. Perform a broad search
@@ -92,7 +92,7 @@ If you already have your departure and destination city, you can add those under
 If you have flexibility on the routes, AwardFares is powerful as Google Flights. It lets you explore options available by performing what we call **broad searches**. You can see available flights by selecting only departure, arrival city, or regions. For example, you can explore all flights from **Europe** to the **United States** by simply typing those regions.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus-guide/lh-timeline-view.webp" alt="Lufthansa Award Flights using SAS EuroBonus points in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus-guide/lh-timeline-view.avif" alt="Lufthansa Award Flights using SAS EuroBonus points in AwardFares" />
 </figure>
 
 ### 6. Filter out by cabin (optional)
