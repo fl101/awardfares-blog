@@ -41,19 +41,19 @@ After completing the form, you will receive an email with a link to activate you
 
 On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap on it and select **Aeroplan**. This will only perform searches and show you award seats available using Aeroplan miles.
 
-<img src="/assets/img/aeroplan-first-class/2-select-ffp.webp" alt="Show only Aeroplan results in AwardFares" width="1508" height="652"/>
+<img src="/assets/img/aeroplan-first-class/2-select-ffp.webp" alt="Show only Aeroplan results in AwardFares" width="1508" height="652"/>
 
 ### 3. Filter out by First-class cabin
 
 Now, under **Cabin**, select **First Class** **Only**. This will remove all other cabins, such as Economy, Premium Economy, and Business, and just show you seats available in First-class.
 
-<img src="/assets/img/aeroplan-first-class/3-select-first-class-cabin.webp" alt="Filter Aeroplan awards on First-class Cabin" width="1874" height="685"/>
+<img src="/assets/img/aeroplan-first-class/3-select-first-class-cabin.webp" alt="Filter Aeroplan awards on First-class Cabin" width="1874" height="685"/>
 
 ### 4. Select Origin and Destination
 
 If you already have your departure and destination city, you can add those under the *Where from?* and *Where to?* fields. Once you do so, you will be able to see the Timeline view with all available awards per day.
 
-<img src="/assets/img/aeroplan-first-class/4-timeline-view.webp" alt="Aeroplan First-class Award Seats (Timeline View) on AwardFares" width="1454" height="872"/>
+<img src="/assets/img/aeroplan-first-class/4-timeline-view.webp" alt="Aeroplan First-class Award Seats (Timeline View) on AwardFares" width="1454" height="872"/>
 
 ### 5. Perform a broad search
 
@@ -63,7 +63,7 @@ If you have flexibility on the routes, AwardFares is powerful as Google Flights.
 
 If you are interested in a particular airline, you can tap the **Airline** filter and select it. This allows you to see only flights on, for example, Lufthansa, Emirates, Singapore Airlines, ANA, or others.
 
-<img src="/assets/img/aeroplan-first-class/6-select-airline.avif" alt="Filter AwardFares results by airline." width="1508" height="652"/>
+<img src="/assets/img/aeroplan-first-class/6-select-airline.avif" alt="Filter AwardFares results by airline." width="1508" height="652"/>
 
 ### 7. Confirm availability on Aeroplan’s website
 
@@ -82,7 +82,7 @@ AwardFares has an alert feature that monitors the flights you want and notifies 
 To set up an Alert, just tap on **Alerts** > **Add Alert** > and fill out the required information such as route, dates, passengers, cabin.
 
 <figure>
-<img src="/assets/img/aeroplan-first-class/8-aeroplan-alerts.webp" alt="Set up Aeroplan First-class Alerts on AwardFares." width="1140" height="1234"/>
+<img src="/assets/img/aeroplan-first-class/8-aeroplan-alerts.webp" alt="Set up Aeroplan First-class Alerts on AwardFares." width="1140" height="1234"/>
 </figure>
 
 ### 9. That’s it
