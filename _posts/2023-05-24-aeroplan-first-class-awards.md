@@ -55,13 +55,13 @@ Now, under **Cabin**, select **First Class** **Only**. This will remove all othe
 
 ### 4. Select Origin and Destination
 
-If you already have your departure and destination city, you can add those under the "**Where from?**" and “**Where to?**" fields. Once you do so, you will be able to see the Timeline view with all available awards per day.
+If you already have your departure and destination city, you can add those under the *Where from?* and *Where to?* fields. Once you do so, you will be able to see the Timeline view with all available awards per day.
 
 <figure>
 <img src="/assets/img/aeroplan-first-class/4-timeline-view.webp" alt="Aeroplan First-class Award Seats (Timeline View) on AwardFares" />
 </figure>
 
-### 5. Perform a broad search.
+### 5. Perform a broad search
 
 If you have flexibility on the routes, AwardFares is powerful as Google Flights. It lets you explore options available by performing what we call **broad searches**. You can see available flights by selecting only departure, arrival city, or regions. For example, you can explore all flights from [**Europe** to the **United States**](https://awardfares.com/search?zone:Europe.country:US.;c:first;z:aeroplan) by simply typing those regions.
 
@@ -91,7 +91,7 @@ To set up an Alert, just tap on **Alerts** > **Add Alert** > and fill out the re
 <img src="/assets/img/aeroplan-first-class/8-aeroplan-alerts.webp" alt="Set up Aeroplan First-class Alerts on AwardFares." />
 </figure>
 
-### 9. That’s it!
+### 9. That’s it
 
 Pretty easy, right? AwardFares, lets you see all the available flights in first-class cabins ready to be booked using Aeroplan miles in just a few clicks. It saves you hours of searches on Aeroplan’s website by showing you broad results you can filter out in an intuitive and easy-to-use interface.
 
@@ -177,8 +177,8 @@ We are rolling out new features and improvements regularly, so sign up for our n
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org/", 
-  "@type": "HowTo", 
+  "@context": "https://schema.org/",
+  "@type": "HowTo",
   "name": "How To Find First-class Award Flights Using Aeroplan Miles",
   "description": "Step-by-step tutorial on how to find first-class award tickets using Aeroplan miles, including seats on Lufthansa First Class, ANA First Class, and Emirates First Class",
   "image": "https://blog.awardfares.com/assets/img/aeroplan-first-class/cover.webp",
@@ -236,6 +236,6 @@ We are rolling out new features and improvements regularly, so sign up for our n
     "name": "Set up alerts",
     "url": "https://awardfares.com/alerts",
     "text": "Set up award alerts (optional)."
-  }]    
+  }]
 }
 </script>
