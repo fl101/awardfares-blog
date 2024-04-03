@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Breaking: The End of Thai Flights with EuroBonus Points?"
+title: "The End of Thai Flights with EuroBonus Points? (BACK ONLINE)"
 category: [News, EuroBonus]
 tags: [Thai]
 author: Germán
@@ -12,6 +12,8 @@ More breaking news (under development) on the SAS front. It looks like it's no l
 Several users have reported the same issue, which was confirmed via SAS on the support line. This issue must be very recent, given that our cached data shows the most recent seats on Thai from yesterday.
 
 Is this the beginning of the end of Star Alliance partners in EuroBonus?
+
+**UPDATE April 3, 2024**: Seems the awards are showing up again, see [here](#back).
 
 ## Thai Disappears from EuroBonus Bookings (What We Know)
 
@@ -27,15 +29,15 @@ This flight also doesn't show up on the Star Alliance search in the EuroBonus po
 
 <img src="../assets/img/thai-stops-working-with-eurobonus/sas-website.webp" alt="SAS EuroBonus breaks ties with Thai Airways." class="noborder"/>
 
-## What To Do Now? Tips for EuroBonus Members
+### UPDATE: Temporary Glitch? {#back}
 
-- **Flexibility is Key**: Be prepared to explore alternative airlines and routes, especially for award travel to Asia. Consider options like connecting through other Star Alliance members (ANA, EVA Air, Lufthansa/Swiss) or utilizing other loyalty programs. Asia is becoming particularly difficult since EuroBonus already lost Singapore and Thai, plus availability on ANA is not great.
-- **Stay Informed**: Keep an eye on our blog and socials, we'll be here to keep you informed. You can also sign-up to our monthly newsletter here.
-- **Start Exploring Other Options**: Consider expanding your points portfolio beyond EuroBonus. Diversifying your loyalty program memberships can provide more flexibility and options when faced with such changes. Here's our take on the [best Frequent Flyer Programs of 2024](https://blog.awardfares.com/frequent-flyer-programs-2024/).
-  
-**Remember**: While this development might be inconvenient, it's important to adapt and remain resourceful. Award travel requires flexibility and a willingness to explore alternative options. Here at AwardFares, we're dedicated to helping you navigate these changes and find the best possible redemption opportunities. So, stay tuned, stay flexible, and happy travels!
+Looks like award flights on Thai Airways are being restored. We still see a difference (fewer seats) compared to the data we had yesterday. It might have all been a temporary glitch from SAS IT, related to fixing ['ghost availability', as it happens with Ethiopian and Turkish sometimes](https://blog.awardfares.com/ethiopian-ghost-availability/).
 
-## Save Your EuroBonus Points
+In our example above, we see the flight was restored, and now the SAS portal show seats available.
+
+<img src="../assets/img/thai-stops-working-with-eurobonus/sas-website-fix.webp" alt="SAS EuroBonus restores Thai Airways redemptions." class="noborder"/>
+
+## Become a EuroBonus Pro
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
