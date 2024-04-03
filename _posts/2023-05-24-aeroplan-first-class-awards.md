@@ -42,7 +42,7 @@ After completing the form, you will receive an email with a link to activate you
 On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap on it and select **Aeroplan**. This will only perform searches and show you award seats available using Aeroplan miles.
 
 <figure>
-<img src="/assets/img/aeroplan-first-class/2-select-ffp.webp" alt="Show only Aeroplan results in AwardFares" />
+<img src="/assets/img/aeroplan-first-class/2-select-ffp.webp" alt="Show only Aeroplan results in AwardFares" widht="1508" height="652"/>
 </figure>
 
 ### 3. Filter out by First-class cabin
@@ -117,7 +117,7 @@ Never miss out on a first-class award opportunity again! AwardFares lets you set
 
 AwardFares continuously monitors award availability across multiple airlines, ensuring you have access to the most up-to-date information. This is particularly helpful when booking with partner airlines, as availability can change frequently.
 
-## Also read.
+## Learn More
 
 Make sure to also [check this post out with the best Aeroplan award chart sweet spots](https://blog.awardfares.com/aeroplan-guide/) and how to find them.
 
