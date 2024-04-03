@@ -55,7 +55,7 @@ Our cached data indicates that the most recent EuroBonus redemption for a United
 
 <img src="../assets/img/united-stops-working-with-eurobonus/af-old-data.webp" alt="SAS EuroBonus stops displaying availability on United Flights." class="noborder"/>
 
-## What To Do Know? Tips for EuroBonus Members
+## What To Do Now? Tips for EuroBonus Members
 
 - **Flexibility is Key**: Be prepared to explore alternative airlines and routes, especially for award travel to the U.S. Consider options like connecting through other Star Alliance members or utilizing other loyalty programs.
 - **Stay Informed**: Keep an eye on our blog and socials, we'll be here to keep you informed. You can also sign-up to our monthly newsletter here.
