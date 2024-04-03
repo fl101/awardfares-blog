@@ -42,7 +42,7 @@ After completing the form, you will receive an email with a link to activate you
 On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap on it and select **Aeroplan**. This will only perform searches and show you award seats available using Aeroplan miles.
 
 <figure>
-<img src="/assets/img/aeroplan-first-class/2-select-ffp.avif" alt="Show only Aeroplan results in AwardFares" />
+<img src="/assets/img/aeroplan-first-class/2-select-ffp.webp" alt="Show only Aeroplan results in AwardFares" />
 </figure>
 
 ### 3. Filter out by First-class cabin
@@ -50,7 +50,7 @@ On AwardFares homepage, you will see a Frequent Flyer Program Picker (FFP). Tap 
 Now, under **Cabin**, select **First Class** **Only**. This will remove all other cabins, such as Economy, Premium Economy, and Business, and just show you seats available in First-class.
 
 <figure>
-<img src="/assets/img/aeroplan-first-class/3-select-first-class-cabin.avif" alt="Filter Aeroplan awards on First-class Cabin" />
+<img src="/assets/img/aeroplan-first-class/3-select-first-class-cabin.webp" alt="Filter Aeroplan awards on First-class Cabin" />
 </figure>
 
 ### 4. Select Origin and Destination
