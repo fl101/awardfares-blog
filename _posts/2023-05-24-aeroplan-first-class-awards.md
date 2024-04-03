@@ -69,9 +69,7 @@ If you have flexibility on the routes, AwardFares is powerful as Google Flights.
 
 If you are interested in a particular airline, you can tap the **Airline** filter and select it. This allows you to see only flights on, for example, Lufthansa, Emirates, Singapore Airlines, ANA, or others.
 
-<figure>
-<img src="/assets/img/aeroplan-first-class/6-select-airline.gif" alt="Filter AwardFares results by airline." />
-</figure>
+<img src="/assets/img/aeroplan-first-class/6-select-airline.avif" alt="Filter AwardFares results by airline." />
 
 ### 7. Confirm availability on Aeroplan’s website
 
