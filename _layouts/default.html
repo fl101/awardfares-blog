@@ -1,18 +1,25 @@
-<!DOCTYPE html>
-<html class="no-js {{page.layout}}-html"{% if page.lang %} lang="{{ page.lang }}" {% else %} lang="en" {% endif %}>
-  {% assign utm_source = page.id %}
-  {% if utm_source == nil %}
-  {% assign utm_source = 'home' %}
+<!doctype html>
+<html
+  class="no-js {{page.layout}}-html"
+  {% if page.lang %}
+    lang="{{ page.lang }}"
   {% else %}
-  {% assign size = utm_source | size %}
-  {% assign utm_source = utm_source | slice: 1,size %}
+    lang="en"
   {% endif %}
-  <script>window.utm_source = '{{utm_source}}'</script>
+>
+  {% assign utm_source = page.id %}
+  {% if utm_source == null %}
+    {% assign utm_source = 'home' %}
+  {% else %}
+    {% assign size = utm_source | size %}
+    {% assign utm_source = utm_source | slice: 1, size %}
+  {% endif %}
+  <script>
+    window.utm_source = '{{utm_source}}';
+  </script>
   {% include head.html %}
   <body>
-    <div class="black-friday-banner">
-      Black Friday Sale Is Here: Get 2 Months Free - <a href="https://awardfares.com/black-friday">See Offer</a>
-    </div>
+    <div class="black-friday-banner">Black Friday Sale Is Here: Get 2 Months Free - <a href="https://awardfares.com/black-friday">See Offer</a></div>
     <header>
       <nav>
         <a href="https://awardfares.com?utm_medium=blog&utm_source={{utm_source}}&utm_content=logo" target="_blank" class="brand">
@@ -20,7 +27,7 @@
         </a>
         <div class="search-box">
           <form action="/search/" method="get">
-            <input type="text" autocomplete="off" spellcheck="false" maxlength="256" name="query" class="search-input" value="" />
+            <input type="text" autocomplete="off" spellcheck="false" maxlength="256" name="query" class="search-input" value="">
           </form>
         </div>
         <div class="icons">
@@ -36,19 +43,20 @@
       <div class="sm" id="sm">
         <a href="https://www.youtube.com/@awardfares" target="_blank" title="YouTube Channel"><i class="fa fa-youtube-play"></i></a>
         <a href="https://www.facebook.com/awardfares" target="_blank" title="Facebook Page"><i class="fa fa-facebook"></i></a>
-        <a href="https://twitter.com/awardfares" target="_blank"title="Twitter Profile"><i class="fa fa-twitter"></i></a>
+        <a href="https://twitter.com/awardfares" target="_blank" title="Twitter Profile"><i class="fa fa-twitter"></i></a>
         <a href="https://www.instagram.com/awardfares" target="_blank" title="Instagram Profile"><i class="fa fa-instagram"></i></a>
         <a href="{{ "/feed.xml" | relative_url }}" title="Follow RSS Feed" aria-label="RSS feed">
           <i class="fa fa-fw fa-rss"></i>
         </a>
       </div>
       <p class="text">
-        <a href="https://awardfares.com?utm_medium=blog&utm_source={{utm_source}}&utm_content=footer">&copy; {{ 'now' | date: "%Y" }} — AwardFares</a>
+        <a href="https://awardfares.com?utm_medium=blog&utm_source={{utm_source}}&utm_content=footer">&copy; {{ 'now' | date: '%Y' }} — AwardFares</a>
       </p>
-    </footer>    
+    </footer>
   </body>
-    <!-- Facebook Pixel Code -->
-    <script>
+  <!-- Facebook Pixel Code -->
+  <!-- prettier-ignore -->
+  <script>
       setTimeout(()=>{
       !function (f, b, e, v, n, t, s) {
         if (f.fbq) return; n = f.fbq = function () {
@@ -64,12 +72,14 @@
       fbq('set', 'autoConfig', false, '463591527535506')
       fbq('init', '463591527535506');
       fbq('track', 'PageView');
-    },100);
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-        src="https://www.facebook.com/tr?id=463591527535506&ev=PageView&noscript=1" /></noscript>
-    <!-- End Facebook Pixel Code -->
-    <!-- <script>
+    }, 100);
+  </script>
+  <!-- prettier-ignore -->
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=463591527535506&ev=PageView&noscript=1"></noscript>
+  <!-- End Facebook Pixel Code -->
+  <!-- prettier-ignore -->
+  <!--
+    <script>
       (function () {
         const now = new Date();
         const startDate = new Date('2023-11-24T08:00:00Z');
@@ -80,8 +90,9 @@
         }
       })();
     </script> -->
-    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
-    <script>
+  <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+  <!-- prettier-ignore -->
+  <script>
       if (window.cookieconsent && !window.navigator.userAgent.includes("bot")) {
         window.cookieconsent.initialise({
           theme: "classic",
@@ -103,6 +114,13 @@
         });
       }
     </script>
+  {% if jekyll.environment == 'production' %}
+    <!-- prettier-ignore -->
     <script type="text/javascript">(function(w,r){w._rwq=r;w[r]=w[r]||function(){(w[r].q=w[r].q||[]).push(arguments)}})(window,'rewardful');</script>
-    <script async src='https://rwd.awardfares.com/rw.js' data-rewardful='e57055' data-domains="awardfares.com, blog.awardfares.com"></script>
+    <script async src="https://rwd.awardfares.com/rw.js" data-rewardful="e57055" data-domains="awardfares.com, blog.awardfares.com"></script>
+  {% endif %}
+
+  <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,600&display=fallback" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600&display=fallback" rel="stylesheet" type="text/css">
+  <link href="/assets/css/cookieconsent.min.css" rel="stylesheet">
 </html>

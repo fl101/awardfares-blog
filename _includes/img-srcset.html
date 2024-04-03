@@ -1,4 +1,4 @@
-{% if jekyll.environment == "production" %}
+{% if jekyll.environment == 'production' %}
   <img
     srcset="
       https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=320{{ include.image }}   320w,
@@ -8,31 +8,33 @@
       https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=2560{{ include.image }} 2560w
     "
     src="https://blog.awardfares.com/cdn-cgi/image/width=960{{ include.image }}"
-    {%- if include.alt !=null and include.alt !="" -%}
-    alt="{{ include.alt }}"
+    {%- if include.alt != null and include.alt != '' -%}
+      alt="{{ include.alt }}"
     {%- endif -%}
-    {%- if include.lazy !=null %}
-    loading="lazy"
+    {%- if include.lazy != null %}
+      loading="lazy"
     {%- endif -%}
-    {%- if include.height !=null %}
-    loading="{{ include.height }}"
+    {%- if include.height != null %}
+      height="{{ include.height }}"
     {%- endif -%}
-    {%- if include.width !=null %}
-    width="{{ include.width }}"
-    {%- endif -%} />
+    {%- if include.width != null %}
+      width="{{ include.width }}"
+    {%- endif -%}
+  >
 {% else %}
   <img
     src="{{ include.image }}"
-    {%- if include.alt !=null and include.alt !="" -%}
-    alt="{{ include.alt }}"
+    {%- if include.alt != null and include.alt != '' -%}
+      alt="{{ include.alt }}"
     {%- endif -%}
-    {%- if include.lazy !=null %}
-    loading="lazy"
+    {%- if include.lazy != null %}
+      loading="lazy"
     {%- endif -%}
-    {%- if include.height !=null %}
-    loading="{{ include.height }}"
+    {%- if include.height != null %}
+      height="{{ include.height }}"
     {%- endif -%}
-    {%- if include.width !=null %}
-    width="{{ include.width }}"
-    {%- endif -%} />
+    {%- if include.width != null %}
+      width="{{ include.width }}"
+    {%- endif -%}
+  >
 {% endif %}

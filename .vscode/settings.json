@@ -1,12 +1,9 @@
 {
-  "[json]": {
-    "editor.formatOnSave": false
-  },
   "files.associations": {
     "*.html": "liquid"
   },
   "[liquid]": {
-    "editor.defaultFormatter": "sissel.shopify-liquid",
+    "editor.defaultFormatter": "Shopify.theme-check-vscode",
     "editor.formatOnSave": true
   }
 }
