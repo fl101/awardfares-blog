@@ -13,6 +13,12 @@
     {%- endif -%}
     {%- if include.lazy !=null %}
     loading="lazy"
+    {%- endif -%}
+    {%- if include.height !=null %}
+    loading="{{ include.height }}"
+    {%- endif -%}
+    {%- if include.width !=null %}
+    width="{{ include.width }}"
     {%- endif -%} />
 {% else %}
   <img
@@ -22,5 +28,11 @@
     {%- endif -%}
     {%- if include.lazy !=null %}
     loading="lazy"
+    {%- endif -%}
+    {%- if include.height !=null %}
+    loading="{{ include.height }}"
+    {%- endif -%}
+    {%- if include.width !=null %}
+    width="{{ include.width }}"
     {%- endif -%} />
 {% endif %}
