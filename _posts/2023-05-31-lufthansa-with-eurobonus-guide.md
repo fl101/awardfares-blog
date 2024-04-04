@@ -92,7 +92,7 @@ If you already have your departure and destination city, you can add those under
 If you have flexibility on the routes, AwardFares is powerful as Google Flights. It lets you explore options available by performing what we call **broad searches**. You can see available flights by selecting only departure, arrival city, or regions. For example, you can explore all flights from **Europe** to the **United States** by simply typing those regions.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus-guide/lh-timeline-view.avif" alt="Lufthansa Award Flights using SAS EuroBonus points in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus-guide/lh-timeline-view.webp" alt="Lufthansa Award Flights using SAS EuroBonus points in AwardFares" />
 </figure>
 
 ### 6. Filter out by cabin (optional)
@@ -100,7 +100,7 @@ If you have flexibility on the routes, AwardFares is powerful as Google Flights.
 Using the **Cabin** filter you can select **First Class** **Only**. This will remove all other cabins, such as Economy, Premium Economy, and Business, and just show you seats available in First Class.
 
 <figure>
-<img src="/assets/img/lufthansa-with-eurobonus-guide/filter-cabin.gif" alt="Filter award flights by cabin in AwardFares" />
+<img src="/assets/img/lufthansa-with-eurobonus-guide/filter-cabin.avif" alt="Filter award flights by cabin in AwardFares" />
 </figure>
 
 **Note**: Lufthansa partner redemptions are restricted to 14 days in advance for First class and 85 days for long-haul business. If you are curious about how early Lufthansa releases award seats, check our [guide here](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/).
