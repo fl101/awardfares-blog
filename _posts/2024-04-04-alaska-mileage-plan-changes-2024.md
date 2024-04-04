@@ -5,12 +5,11 @@ category: [News, Mileage Plan]
 tags: [Alaska Airlines]
 author: Germán
 image: /assets/img/alaska-mileage-plan-changes-2024/cover.webp
-hidden: true
 ---
 
-Alaska Airlines claims is *revolutionizing* the way its Mileage Plan members can redeem miles for award flights, introducing a new, streamlined award chart system set to take effect in March 2024. This overhaul simplifies the previously complex and varied award pricing, making it easier for members to understand and utilize their miles across Alaska's extensive network of partner airlines.
+Alaska Airlines claims it is *revolutionizing* the way its Mileage Plan members can redeem miles for award flights, introducing a new, streamlined award chart system set to take effect in March 2024. This overhaul simplifies the previously complex and varied award pricing, making it easier for members to understand and utilize their miles across Alaska's extensive network of partner airlines.
 
-Here's everything you need to know about the upcoming changes and what they mean for travelers.
+Here's everything you need to know about the upcoming changes and what they mean for travelers. Remember you can [**search for Mileage Plan awards with AwardFares**](https://awardfares.com/search?..;z:alaska). In just a few clicks, you'll see available seats across different dates, partners, and destinations!
 
 <img src="../assets/img/alaska-mileage-plan-changes-2024/mileageplan-changes.webp" alt="Mileage Plan Changes in March 2024." class="noborder"/>
 
@@ -18,11 +17,11 @@ Here's everything you need to know about the upcoming changes and what they mean
 
 ### Unified Distance-Based Award Charts
 
-Alaska Airlines is transitioning to a [**distance-based award chart**](https://blog.awardfares.com/demystifying-award-charts/) system. This new framework categorizes flights into three main geographic regions: the Americas, Europe, the Middle East, and Africa (EMEA), and the Asia-Pacific region. Within these regions, the number of miles required for an award flight will depend on the distance flown and the class of service. This is a significant shift from the previous model, which users loved, but also where award pricing varied widely among partners.
+Alaska Airlines is transitioning to a [**distance-based award chart**](https://blog.awardfares.com/demystifying-award-charts/) system. This new framework categorizes flights into three geographic regions: the Americas, Europe, the Middle East, and Africa (EMEA), as well as the Asia-Pacific region. Within these regions, the miles required for an award flight will depend on the distance flown and the class of service. This is a significant shift from the previous model, which users loved but also where award pricing varied widely among partners.
 
 ### Simplified Redemption Rates
 
-Award flights will now start at just 4,500 miles for short-haul trips under 700 miles in the Americas, making some flights more accessible than before. For example, a flight from Dallas to México will require as few as 7,500 miles in Economy Class. The new charts hope to provide clearer guidelines for members, and also making more consistent redemption rates across all partner airlines.
+Award flights will now start at just 4,500 miles for short-haul trips under 700 miles in the Americas, making some flights more accessible. For example, a flight from Dallas to México will require as few as 7,500 miles in Economy Class. The new charts hope to provide clearer guidelines for members, and also make redemption rates more consistent across all partner airlines.
 
 ### Enhancements and Flexibility
 
@@ -109,7 +108,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
+- [Alaska Airlines Mileage Plan Partner Redemptions Made Easy (2024)](https://blog.awardfares.com/alaska-partners-2023/)
+- [Find And Book STARLUX Airlines Flights Using Alaska Mileage Plan Miles (Step-by-step)](https://blog.awardfares.com/alaska-mileageplan-starlux/)
+- [Alaska Airlines Acquires Hawaiian! A Game-Changer for Mileage Plan Members](https://blog.awardfares.com/alaska-hawaiian-merger/)
 - [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
