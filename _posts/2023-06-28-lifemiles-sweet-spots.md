@@ -89,47 +89,41 @@ There's plenty of available seats on both Economy and Business Class from many c
 
 In the **Frequent Flyer Program** picker, select **Avianca LifeMiles**.
 
-<figure>
-<img src="/assets/img/lifemiles-sweet-spots/1-lifemiles-ffqtv.gif" alt="Select LifeMiles in AwardFares Frequent Flyer Program Picker." />
-</figure>
+<!-- <img src="/assets/img/lifemiles-sweet-spots/1-lifemiles-ffqtv.avif" alt="Select LifeMiles in AwardFares Frequent Flyer Program Picker." /> -->
 
-### 3. Choose the route.
+### 3. Choose the Route
 
 In the **From** and **To** fields, enter your departure and arrival airports.
 
 Optional: you can also perform broad searches from an entire area, region, or metropolitan area (like a city, Tokyo TYO)
 
-<figure>
-<img src="/assets/img/lifemiles-sweet-spots/2-route.gif" alt="Select the route." />
-</figure>
+<!-- <img src="/assets/img/lifemiles-sweet-spots/2-route.avif" alt="Select the route." /> -->
 
-### 4. Add travel dates (optional).
+### 4. Add travel dates (optional)
 
 If you know your travel dates, try adding them to the search field. Once selected, AwardFares will start searching for available flights for that date, and will display them in a list below.
 
-<figure>
-<img src="/assets/img/lifemiles-sweet-spots/3-date.gif" alt="Select the travel dates." />
-</figure>
+<!-- <img src="/assets/img/lifemiles-sweet-spots/3-date.avif" alt="Select the travel dates." /> -->
 
 Alternatively, if you don't have a set travel date, you can select the **Timeline View** to explore the availability for multiple days simultaneously. The bars show different classes in different colors.
 
-### 5. Add more filters (optional).
+### 5. Add more filters (optional)
 
 Try filtering out by cabin class (e.g. Business Class, First Class) or number of stops (e.g. nonstop). In this example, we filter results to only show Economy Class seats.
 
-<figure>
-<img src="/assets/img/lifemiles-sweet-spots/4-class.gif" alt="Filter results by cabin class." />
-</figure>
+<!-- <figure>
+<img src="/assets/img/lifemiles-sweet-spots/4-class.avif" alt="Filter results by cabin class." />
+</figure> -->
 
 And here's another example of filtering results by airline, to only show flights on EVA Air.
 
-<figure>
-<img src="/assets/img/lifemiles-sweet-spots/5-airline.gif" alt="Filter results by airline." />
-</figure>
+<!-- <figure>
+<img src="/assets/img/lifemiles-sweet-spots/5-airline.avif" alt="Filter results by airline." />
+</figure> -->
 
 There are many more filters you can explore adding, such as number of passengers, aircraft type, number of stops and even flight number!
 
-### 6. Done.
+### 6. Done
 
 That’s it! Pretty easy, huh? With only a few clicks, you can see LifeMiles inventory on both Avianca Airlines as well as partners.
 
