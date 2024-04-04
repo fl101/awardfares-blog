@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "10 Tips For Booking An Award Trip In 2023"
+title: "10 Tips For Booking An Award Trip In 2024"
 category: [Guide]
 author: Germán
 image: /assets/img/award-trip-tips/cover.webp
+seo:
+    date_modified: 2024-04-04
 ---
 
-If you're dreaming of your next adventure and looking to get the most out of your frequent flyer program, you've come to the right place. 
+If you're dreaming of your next adventure and looking to get the most out of your frequent flyer program, you've come to the right place.
 
 In this blog post, we'll cover our top 10 tips for booking the perfect award trip. From understanding airline alliances to making the best use of award charts and everything in between, these practical pointers will turn you into a savvy award traveler, helping you score that dream itinerary without breaking the bank. Let's dive in!
 
-## How To Book An Award Trip In 2023? (10 Tips)
+## How To Book An Award Trip In 2024? (10 Tips)
 
 ### 1. Start Early
 
@@ -34,9 +36,8 @@ Here are some examples
 
 * [Alaska Airlines Mileage Plan Partner Redemptions Made Easy](https://blog.awardfares.com/alaska-partners-2023/)
 * [Avianca LifeMiles Sweet Spots And How To Find Them](https://blog.awardfares.com/lifemiles-sweet-spots/)
-* [Best AAdvantage Redemptions In 2023 (And How To Find Them)](https://blog.awardfares.com/aadvantage-best-redemptions-2023/)
-* [How To Find The Best Aeroplan Award Flights (9 Sweet Spots)
-](https://blog.awardfares.com/aeroplan-guide/)
+* [Best AAdvantage Redemptions In 2024 (And How To Find Them)](https://blog.awardfares.com/aadvantage-best-redemptions-2023/)
+* [How To Find The Best Aeroplan Award Flights (9 Sweet Spots)](https://blog.awardfares.com/aeroplan-guide/)
 
 ### 3. Use AwardFares
 

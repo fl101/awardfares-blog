@@ -7,7 +7,7 @@ author: Germán
 image: /assets/img/aeroplan-first-class/cover.webp
 ---
 
-Aeroplan has more airline partners than any other program, and that’s good news for flyers trying to score a flight in First Class. Getting a first-class award ticket is a great way to live the full experience without spending tens of thousands of dollars on the full-fare ticket. Aeroplan, then, with so many partners onboard, comes across as one of the best ways to get a first-class award ticket in 2023.
+Aeroplan has more airline partners than any other program, and that’s good news for flyers trying to score a flight in First Class. Getting a first-class award ticket is a great way to live the full experience without spending tens of thousands of dollars on the full-fare ticket. Aeroplan, then, with so many partners onboard, comes across as one of the best ways to get a First Class award ticket in 2024.
 
 But searching for those tickets is generally hard and tricky: only a few seats are available, and many are released last minute. In addition, even if you see space available, how do you know it is a good redemption for your miles? How can you search for **good awards** without spending hours doing so?
 
