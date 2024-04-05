@@ -94,24 +94,26 @@
   <!-- prettier-ignore -->
   <script>
       if (window.cookieconsent && !window.navigator.userAgent.includes("bot")) {
-        window.cookieconsent.initialise({
-          theme: "classic",
-          content: { href: "https://awardfares.com/privacy" },
-          palette: {
-            popup: { background: "#fff" },
-            button: { background: "#2e5c8a" },
-          },
-          onPopupOpen: () => {
-            document.querySelector("footer")?.classList.add("cookieconsent");
-          },
-          onPopupClose: () => {
-            document.querySelector("footer")?.classList.remove("cookieconsent");
-          },
-          onStatusChange: () => {
-            const host = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';  
-            void fetch(`${host}/api/extend-cookieconsent`);
-          },
-        });
+        setTimeout(()=>{
+          window.cookieconsent.initialise({
+            theme: "classic",
+            content: { href: "https://awardfares.com/privacy" },
+            palette: {
+              popup: { background: "#fff" },
+              button: { background: "#2e5c8a" },
+            },
+            onPopupOpen: () => {
+              document.querySelector("footer")?.classList.add("cookieconsent");
+            },
+            onPopupClose: () => {
+              document.querySelector("footer")?.classList.remove("cookieconsent");
+            },
+            onStatusChange: () => {
+              const host = window.location.hostname == 'localhost' ? 'http://localhost:3000' :'https://awardfares.com';  
+              void fetch(`${host}/api/extend-cookieconsent`);
+            },
+          });
+        }, 500)
       }
     </script>
   {% if jekyll.environment == 'production' %}
