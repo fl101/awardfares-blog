@@ -1,43 +1,5 @@
-{% if jekyll.environment == 'production' %}
-  <img
-    srcset="
-      https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=320{{ include.image }}   320w,
-      https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=640{{ include.image }}   640w,
-      https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=960{{ include.image }}   960w,
-      https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=1280{{ include.image }} 1280w,
-      https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=2560{{ include.image }} 2560w
-    "
-    src="{{ include.image }}"
-    {%- if include.alt != null and include.alt != '' -%}
-      alt="{{ include.alt }}"
-    {%- endif -%}
-    {%- if include.lazy != null %}
-      loading="lazy"
-    {%- endif -%}
-    {%- if include.height != null %}
-      height="{{ include.height }}"
-    {%- endif -%}
-    {%- if include.width != null %}
-      width="{{ include.width }}"
-    {%- endif -%}
-    {%- if include.sizes != null %}
-      sizes="{{ include.sizes }}"
-    {%- endif -%}
-  >
-{% else %}
-  <img
-    src="{{ include.image }}"
-    {%- if include.alt != null and include.alt != '' -%}
-      alt="{{ include.alt }}"
-    {%- endif -%}
-    {%- if include.lazy != null %}
-      loading="lazy"
-    {%- endif -%}
-    {%- if include.height != null %}
-      height="{{ include.height }}"
-    {%- endif -%}
-    {%- if include.width != null %}
-      width="{{ include.width }}"
-    {%- endif -%}
-  >
-{% endif %}
+https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=320{{ include.image }} 320w,
+https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=640{{ include.image }} 640w,
+https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=960{{ include.image }} 960w,
+https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=1280{{ include.image }} 1280w,
+https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=2560{{ include.image }} 2560w

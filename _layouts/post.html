@@ -32,7 +32,7 @@ layout: default
     {% else %}
       {% unless page.hide_image_in_post %}
         {% if page.image %}
-          {% include img-srcset.html image=page.image width="1600" height="1199" sizes="90vw" %}
+          {% include responsive-image.html image=page.image width="1600" height="1199" sizes="90vw" %}
         {% endif %}
       {% endunless %}
     {% endif %}

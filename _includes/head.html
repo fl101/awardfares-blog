@@ -7,13 +7,7 @@
       <link
         rel="preload"
         as="image"
-        imagesrcset="
-          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=320{{ page.image }}   320w,
-          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=640{{ page.image }}   640w,
-          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=960{{ page.image }}   960w,
-          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=1280{{ page.image }} 1280w,
-          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=2560{{ page.image }} 2560w
-        "
+        imagesrcset="{% include img-srcset.html image=page.image %}"
         href="{{ page.image }}"
         imagesizes="90vw"
       >
