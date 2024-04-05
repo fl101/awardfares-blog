@@ -7,7 +7,7 @@
       https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=1280{{ include.image }} 1280w,
       https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=2560{{ include.image }} 2560w
     "
-    src="https://blog.awardfares.com/cdn-cgi/image/width=960{{ include.image }}"
+    src="{{ include.image }}"
     {%- if include.alt != null and include.alt != '' -%}
       alt="{{ include.alt }}"
     {%- endif -%}
@@ -19,6 +19,9 @@
     {%- endif -%}
     {%- if include.width != null %}
       width="{{ include.width }}"
+    {%- endif -%}
+    {%- if include.sizes != null %}
+      sizes="{{ include.sizes }}"
     {%- endif -%}
   >
 {% else %}

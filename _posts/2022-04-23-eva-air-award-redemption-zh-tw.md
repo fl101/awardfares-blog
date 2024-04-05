@@ -24,7 +24,7 @@ seo:
 
 而在長榮的網站上如果只選擇**單程**，則必須一天一天重新搜尋，才有辦法找到想要的機位。例如 4/15 長榮有開吉隆坡—台北的里程機位，但我們預先不知道 4/15 有這個航班，那唯一找出這個里程機位的方式就是猜測哪天有，如果運氣不好，就會需要從 4/1 開始搜尋，一路從 4/1,4/2,4/3……一路按到 4/15 才有結果，在目前航班並不穩定的時候，真的會很困擾。AwardFare 的功能就是為了解決這個問題而開發的，能直接幫我們找到 4/15 長榮可能有開放吉隆坡—台北的兌換機位，目前測試出的準確度很高。
 
-{% include img-srcset.html image="/assets/img/eva-air-redemption/availability.webp" width="1600" heigh="772" %}
+{% include img-srcset.html image="/assets/img/eva-air-redemption/availability.webp" width="1600" height="772" %}
 
 <br/>
 

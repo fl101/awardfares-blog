@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="nav-back">
   <a href="/"><i class="fa fa-long-arrow-left"></i> Blog</a>
 </div>
@@ -11,27 +10,32 @@ layout: default
     <span class="date">{% include date.html post=page %}</span>
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}
-    <h2 class="subtitle">{{ page.subtitle }}</h2>
+      <h2 class="subtitle">{{ page.subtitle }}</h2>
     {% endif %}
     <div class="tags">
       {% for category in page.categories %}
-      <a class="tag" href="/categories/#{{ category }}">{{ category }}</a>
-      {% endfor %} {% for tag in page.tags %}
-      <a class="tag" href="/tags/#{{tag}}">#{{tag | remove: " " }}</a>
+        <a class="tag" href="/categories/#{{ category }}">{{ category }}</a>
+      {% endfor %}
+      {% for tag in page.tags %}
+        <a class="tag" href="/tags/#{{tag}}">#{{ tag | remove: ' ' }}</a>
       {% endfor %}
     </div>
     {% if page.video %}
-    <iframe
-      class="youtube"
-      src="{{ page.video }}"
-      title="YouTube video player"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen
-    ></iframe>
-    {% else %} {% unless page.hide_image_in_post %} {% if page.image %}
-    <img src="{{ page.image }}" alt="Cover image for {{ page.title }}" />
-    {% endif %} {% endunless %} {% endif %}
+      <iframe
+        class="youtube"
+        src="{{ page.video }}"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
+    {% else %}
+      {% unless page.hide_image_in_post %}
+        {% if page.image %}
+          {% include img-srcset.html image=page.image width="1600" height="1199" sizes="90vw" %}
+        {% endif %}
+      {% endunless %}
+    {% endif %}
   </div>
 
   <section class="post-content">{{ content }}</section>

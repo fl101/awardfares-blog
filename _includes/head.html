@@ -2,8 +2,24 @@
   <link rel="preconnect" href="https://cdnjs.cloudflare.com">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="preload" as="style">
-  <link href="/assets/css/main.css?v={{ 'now' | date: '%s' }}" rel="preload" as="style">
+  {% unless page.hide_image_in_post or page.video %}
+    {% if page.path contains '_posts' and page.image %}
+      <link
+        rel="preload"
+        as="image"
+        imagesrcset="
+          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=320{{ page.image }}   320w,
+          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=640{{ page.image }}   640w,
+          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=960{{ page.image }}   960w,
+          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=1280{{ page.image }} 1280w,
+          https://blog.awardfares.com/cdn-cgi/image/format=auto,fit=scale-down,width=2560{{ page.image }} 2560w
+        "
+        href="{{ page.image }}"
+        imagesizes="90vw"
+      >
+    {% endif %}
+  {% endunless %}
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if page.sitemap == false %}
