@@ -30,7 +30,7 @@
 
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" defer>
   <link href="/assets/css/main.css?v={{ 'now' | date: '%s' }}" rel="stylesheet">
 
   {% if jekyll.environment == 'production' %}
@@ -39,5 +39,5 @@
   {% seo %}
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
-  <script async defer src="/assets/js/utm-e110f9b7ded27b88af025da6f4c6a536.js"></script>
+  <script defer src="/assets/js/utm-e110f9b7ded27b88af025da6f4c6a536.js"></script>
 </head>
