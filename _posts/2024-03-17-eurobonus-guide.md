@@ -9,7 +9,7 @@ seo:
   date_modified: 2024-04-08
 ---
 
-This year marks a giant leap for Scandinavian Airlines, particularly for SAS EuroBonus members. The airline will be acquired, among others, by Air France-KLM, leaving Star Alliance (planned for Q2 2024) and joining SkyTeam immediately! This means the game for frequent travelers will change very soon: award flights you can redeem using SAS EuroBonus points will be different forever.
+This year marks a giant leap for Scandinavian Airlines, particularly for SAS EuroBonus members. The airline will be acquired, among others, by Air France-KLM, leaving Star Alliance and joining SkyTeam [starting September 1st, 2024](https://blog.awardfares.com/sas-transition-to-skyteam/). This means the game for frequent travelers will change very soon: award flights you can redeem using SAS EuroBonus points will be different forever.
 
 **How to prepare for the transition?** Don't worry—we've got you covered. That's why we prepared this post as the Ultimate Guide to Using SAS EuroBonus Points. The intention is to help you find the best (free) flights on SAS and Star Alliance before the airline leaves and, ultimately, on SkyTeam partners once the airline enters the new alliance and integrates with those partners.
 
@@ -25,9 +25,9 @@ This year marks a giant leap for Scandinavian Airlines, particularly for SAS Eur
 
 ## SAS Transition to SkyTeam (Our Thoughts)
 
-There have yet to be any official announcements about how the EuroBonus program will change once the acquisition occurs. While there is one scenario in which EuroBonus shuts down and Flying Blue becomes SAS's new official loyalty program, the conditions for that to happen are far from being met. If so, we don't think this will be the case on the 2024 horizon.
+SAS recently published new information about the transition from Star Alliance to SkyTeam. They have confirmed that the EuroBonus program will not shut down (at least for now), and that Flying Blue won't become SAS's new official loyalty program.
 
-Instead, from a technical standpoint, it makes more sense that the airline(s) take more gradual steps until new changes are implemented. Here are some of our thoughts on different areas from our humble perspective as technologists and experience as travelers.
+Read [all the details about the announcement in this post](https://blog.awardfares.com/eurobonus-star-alliance-awards/).
 
 ### EuroBonus Award Chart
 
@@ -37,7 +37,7 @@ As of today, the table below shows how many EuroBonus points you would need for 
 
 <img src="../assets/img/eurobonus-guide/eb-award-chart-sas.webp" alt="EuroBonus Award Chart on SAS (2024)." />
 
-The Star Alliance part of the chart may be removed immediately, as redemptions most likely be stopped right away. A new chart for redemptions on SkyTeam partners should come simultaneously or soon, depending on how fast they implement redemptions on those partners.
+Keep under consideration that the Star Alliance part of the chart may be removed on September 1st, as redemptions will be stopped. A new chart for redemptions on SkyTeam partners should come simultaneously or soon.
 
 The table below shows how many EuroBonus points you would need for a round trip flight on Star Alliance airlines as of today, excluding taxes and carrier-imposed fees. The price in points depends on your destination and travel class.
 
@@ -65,25 +65,25 @@ We have already seen some integration between SAS and Delta when booking revenue
 
 ### EuroBonus Award Search Portal
 
-* **For SAS Flights**: Probably the same in the beginning. Same as we know already.
+* **SAS Bookings**: Probably the same in the beginning. Same as we know already.
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sas.webp" alt="EuroBonus Search Portal for Award Flights on SAS (2024)." />
 
-* **For Redemptions on Star Alliance**: These might be turned off immediately after SAS joins SkyTeam. Members probably won't be able to search and redeem for flights on Lufthansa, ANA, EVA Air, Thai Airways.
+* **Star Alliance Bookings**: It will be possible to book award flights on Star Alliance airlines using your points until August 31st, even for travel after that date. No new Star Alliance award bookings will be possible after August 31st. You can rebook existing Star Alliance awards (up to 24 hours before departure) until August 31st, even if your flight is after September 1st. Cancellations will follow the same rules as of today, up to 24 hours before departure.
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sa.webp" alt="EuroBonus Search Portal for Award Flights on Star Alliance. Will disappear on Q2, 2024." />
 
-* **For Redemptions on SkyTeam Partners**: Not at launch, but we have hopes that some portal will appear for SkyTeam flights during Q2-Q3, at least for a handful of partners.
+* **SkyTeam Bookings**: You will be able to use your points to book award flights on *most* SkyTeam airlines from September 1st onwards. Rebooking and cancellation rules for SkyTeam awards will mirror the existing Star Alliance policy (24 hours before departure).
 
 ### Amex 2-for-1 Vouchers / Companion Tickets
 
-For residents of Norway and Sweden and cardholders of the SAS American Express Elite card, one question remains: how does the transition impact the 2-for-1 vouchers also valid on Star Alliance flights?
+For members in Norway and Sweden that are holders of the SAS Amex Elite, the Amex 2-for-1 vouchers (companion ticket) will remain, and you’ll still be able to use vouchers for SAS Bonus tickets. You can also use new vouchers for Star Alliance Bonus trip bookings until 31 August 2024. All Bonus trip bookings made using vouchers will remain unchanged and will be honored.
 
-The wording on the American Express website remains unchanged (until more details are known).
+From **1 September 2024**, you’ll be able to use your Amex 2-for-1 vouchers on most SkyTeam airlines
+
+The wording on the American Express website remains unchanged.
 
 <img src="../assets/img/eurobonus-guide/amex-voucher.webp" alt="SAS Amex Elite 2 for 1 vouchers will stop working for Star Alliance. Will they work for SkyTeam?." />
-
-It's safer to assume that vouchers will only be usable on SAS flights from the moment it join SkyTeam. As we said earlier, it's unclear if/when redemptions on SkyTeam partners will become available and whether the vouchers will be usable on those or not.
 
 If you have unused vouchers and are looking into flying with Star Alliance airlines, this might be a good time to consolidate bookings. For example, it might be a good time to try cabins such as Lufthansa First, ANA The Room, etc.
 
@@ -195,6 +195,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
+- [From Star Alliance to SkyTeam: The SAS Transition (Official Info)](https://blog.awardfares.com/sas-transition-to-skyteam/)
 - [Booking United Flights with EuroBonus Points No Longer an Option?](https://blog.awardfares.com/united-stops-working-with-eurobonus/)
 - [SAS Will Leave Star Alliance! Here’s What To Do Next](https://blog.awardfares.com/sas-acquisition/)
 - [SAS EuroBonus Conscious Traveler Takes Off In 2024: Greener Flying, Greater Rewards](https://blog.awardfares.com/sas-eurobonus-conscious-traveler/)
