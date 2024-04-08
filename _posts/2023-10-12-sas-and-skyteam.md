@@ -6,14 +6,18 @@ tags: [SAS, SkyTeam, Star Alliance]
 author: Germán
 image: /assets/img/sas-and-skyteam/cover.webp
 seo:
-    date_modified: 2024-03-01
+    date_modified: 2024-04-08
 ---
 
 With all the buzz around SAS joining SkyTeam [after being acquired by Air France-KLM](https://blog.awardfares.com/sas-acquisition/) and others, we read many negative comments about this transition. At AwardFares, we are focused on helping EuroBonus members navigate this new phase by bringing the latest tools and information we have at hand.
 
 We also strive for a positive, more resilient mindset during unsettling times like this one. Sure, there are aspects we will miss from Star Alliance, but we are taking our first step towards embracing change. In this post, we look at the bright side and cover some opportunities that will come once SAS is a member of SkyTeam.
 
-**UPDATE (MARCH 2024):** *According to recent statements from SAS and Air France, SAS will leave Star Alliance during Q2, 2024, joining SkyTeam immediately. There are still very little information regarding the implementation of the transition.*
+**UPDATE (APRIL 2024):** SAS confirmed it will transition to SkyTeam on **September 1st, 2024**. [Read all the details here](https://blog.awardfares.com/sas-transition-to-skyteam/).
+
+<div data-countdown="2024-08-31T22:59:00.000+02:00">
+  TIME UNTIL TRANSITION
+</div>
 
 ### In This Post
 
@@ -21,8 +25,8 @@ We also strive for a positive, more resilient mindset during unsettling times li
 - [SAS in SkyTeam: The Bright Side](#sas-in-skyteam-the-bright-side)
 - [Best SkyTeam Cabins and Redemptions](#best-skyteam-cabins-and-redemptions)
 - [Things We'll Miss About SAS In Star Alliance](#things-well-miss-about-sas-in-star-alliance)
-- [Become a SkyTeam Pro](#become-a-skyteam-pro)
-- [Read More](#read-more)
+- [Become a EuroBonus Pro](#become-a-eurobonus-pro)
+- [Learn More](#learn-more)
 
 ## Star Alliance vs. SkyTeam (In A Nutshell)
 
@@ -119,7 +123,6 @@ KLM's World Business Class offers a comfortable and stylish business class exper
 
 <img src="../assets/img/sas-and-skyteam/klm-cabin.webp" alt="KLM New World Business Class Cabins (2023)." />
 
-
 ### 5. China Airlines Premium Business Class
 
 China Airlines' Premium Business Class provides a refined business class experience with lie-flat seats, spacious cabins, and Taiwanese-inspired cuisine.
@@ -148,17 +151,19 @@ We are all going to miss certain perks from SAS being a Star Alliance member. He
 6. [Cheap Business Class awards on Copa Airlines (737 MAX)](https://awardfares.com/search?..;c:business;a:CM;e:7M8,7M9;z:sas).
 7. [Redemptions on Air Canada's 787](https://awardfares.com/search?..;c:business;a:AC;e:781,787,788,789;z:sas).
 
-## Become a SkyTeam Pro
+## Become a EuroBonus Pro
 
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
+You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
-With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when a certain route or flight gets opened, as well as check seat maps, flight schedules, and more.
+With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-## Read More
+## Learn More
 
-Make sure to also check these posts out
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
+- [From Star Alliance to SkyTeam: The SAS Transition (Official Info)](https://blog.awardfares.com/sas-transition-to-skyteam/)
+- [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
 - [SAS Will Leave Star Alliance: Acquisition By Air France-KLM and others](https://blog.awardfares.com/sas-acquisition/)
 - [Book These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
-- [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
-- [SAS Opens New Route To Morocco (And You Can Book It With Points)](https://blog.awardfares.com/sas-opens-route-to-morocco/)
+
+<script src="/assets/js/countdown.js"></script>

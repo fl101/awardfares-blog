@@ -7,11 +7,11 @@ author: Germán
 image: /assets/img/eurobonus-tips-2023/cover.webp
 ---
 
-Frequent flyer points have become the golden tickets to incredible discounted adventures, luxurious upgrades, and unparalleled travel experiences. Yet, it is almost never straightforward to understand if you are getting good value from your points. Travelers end up swimming in a sea of miles and points without fully understanding how to redeem them. 
+Frequent flyer points have become the golden tickets to incredible discounted adventures, luxurious upgrades, and unparalleled travel experiences. Yet, it is almost never straightforward to understand if you are getting good value from your points. Travelers end up swimming in a sea of miles and points without fully understanding how to redeem them.
 
 As we've covered many times in the blog, SAS EuroBonus can be one of the most rewarding programs in Europe. While it is still zone-based (fingers crossed they don't go revenue-based), and they have heavily simplified their website and user interface, there are still a bunch of tips and tricks you can get hold off to optimize your points value.
 
-In this post, we cover some of our favorites. 
+In this post, we cover some of our favorites.
 
 ## Tips To Maximize Your SAS EuroBonus Points In 2023
 
@@ -40,22 +40,19 @@ AwardFares is the best swiss-army knife for EuroBonus members. It includes:
 
 <img src="../assets/img/eurobonus-tips-2023/af-home.webp" alt="AwardFares is the best way to get find SAS EuroBonus Awards." />
 
-
 ### 3. Keep an Eye Out for Special Promotions
 
-Often, SAS EuroBonus announces special rates and discounts, like their [recently announced 30% discount to the U.S. and Asia](https://blog.awardfares.com/eurobonus-discount-sept-2023/). 
+Often, SAS EuroBonus announces special rates and discounts, like their [recently announced 30% discount to the U.S. and Asia](https://blog.awardfares.com/eurobonus-discount-sept-2023/).
 
-On average, the airline has two or three promotions per quarter for travel during off-peak dates. If you are not in a rush, it can be totally worth waiting until their next promotion. 
+On average, the airline has two or three promotions per quarter for travel during off-peak dates. If you are not in a rush, it can be totally worth waiting until their next promotion.
 
 You can also subscribe to our newsletter to stay updated on future campaigns.
-
 
 ### 4. Use Family Pooling
 
 SAS EuroBonus family pooling is a feature that allows you to share your EuroBonus points with up to 7 other people. This can be a great way to reach your travel goals faster, especially if you travel frequently with your family and friends.
 
 To set up family pooling, you need to create a new Point Sharing group and invite the people you want to share your points with. Once they have accepted your invitation, all of your points will be pooled into a single account. You can then use these points to book flights, upgrades, and other rewards for any of the group members.
-
 
 ### 5. Use the SAS AMEX Fly 2-for-1 Voucher
 
@@ -78,11 +75,9 @@ Once you have reached a Fly Premium level, you can book bonus flights at that le
 
 To book a Fly Premium bonus flight, simply log in to your EuroBonus account and select the "Fly Premium" option when booking your flight. You will need to pay the SAS Go Bonus fare in full, but you will be able to select a seat in SAS Plus or SAS Business class.
 
-
 ### 7. Stay at Partner Hotels
 
 Before you book a hotel, check if they're a EuroBonus partner. Brands such as Radisson Blu and Best Western are often affiliated with airline loyalty programs, and staying with them can earn you points. This will accelerate how many points you get, letting you reach your award flight sooner.
-
 
 ### 8. Shop through the EuroBonus Online Portal
 
@@ -90,14 +85,11 @@ The [SAS Online Shopping Portal](https://onlineshopping.flysas.com/) is another 
 
 To earn points, simply visit the SAS Online Shopping Portal and click on the link to the shop where you want to shop. You will then be taken to the retailer's website, where you can shop as usual. Once you have made a purchase, you will receive EuroBonus points based on the amount you spent.
 
-
 <img src="/assets/img/eurobonus-tips-2023/eurobonus-shop.webp" alt="SAS Online Shopping Portal." />
-
 
 ### 9. Consider Point Multipliers And Special Deals
 
 Certain periods or promotions might offer point multipliers for specific activities. For instance, double points on hotel stays or car rentals, or the recent 10.000 EuroBonus Point bonus for signing up for home insurance. Always stay on the lookout for these opportunities.
-
 
 ### 10. Travel Off-Peak
 
@@ -109,17 +101,16 @@ If you have the flexibility to accommodate your travels for the slow seasons, yo
 
 Check EuroBonus point chart [when redeeming flights on SAS](https://www.flysas.com/en/eurobonus/points/fly-with-points/point-chart/) here, and when [redeeming on Star Alliance here](https://www.flysas.com/en/eurobonus/points/fly-with-points/star-alliance-point-chart/).
 
-## Get started, and stay tuned.
+## Become a EuroBonus Pro
 
 You can [try AwardFares for free](https://awardfares.com/) to search for your next SAS EuroBonus award.
 
 We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
-## Read more
+## Learn More
 
 Make sure to also check these posts out
 
 - [SAS EuroBonus Analysis and Forecast (Free Tool)](https://blog.awardfares.com/eurobonus-analysis-and-forecast/)
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
 - [5 New SAS Routes You Can Book Using EuroBonus Points](https://blog.awardfares.com/eurobonus-july-2023/)
- 

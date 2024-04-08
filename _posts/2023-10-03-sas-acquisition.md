@@ -6,7 +6,7 @@ tags: [SAS, Star Alliance, SkyTeam, Air France, KLM]
 author: Germán
 image: /assets/img/sas-acquisition/cover.webp
 seo:
-  date_modified: 2024-03-01
+  date_modified: 2024-04-08
 ---
 
 SAS announced **major** news today during a press conference. The airline has been under restructuring since it filed for bankruptcy under the U.S. Chapter 11 process. After several months, they reached a significant milestone: it will be acquired by a new consortium that includes Air France-KLM, leaving behind Star Alliance and joining SkyTeam.
@@ -15,9 +15,9 @@ But what does this mean for us, flyers, EuroBonus members, and SAS travelers? If
 
 Even though it’s too early to judge the details, speculation is usually an enemy that can hold you back and trigger bad decisions. This post covers everything we know about the transition and next steps.
 
-**UPDATE (MARCH 2024):** _According to recent statements from SAS and Air France, SAS will leave Star Alliance during Q2, 2024, joining SkyTeam immediately. There are still very little information regarding the implementation of the transition._
+**UPDATE (APRIL 2024):** SAS confirmed it will transition to SkyTeam on **September 1st, 2024**. [Read all the details here](https://blog.awardfares.com/sas-transition-to-skyteam/).
 
-**Also Read Our Megapost**: [Book These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
+**Check our MEGAPOST**: [Book These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
 
 ### In This Post
 
@@ -25,8 +25,8 @@ Even though it’s too early to judge the details, speculation is usually an ene
 - [SAS Leaves Star Alliance: Tips For EuroBonus Members](#sas-leaves-star-alliance-tips-for-eurobonus-members)
 - [Impact on EuroBonus (SAS FAQ)](#impact-on-eurobonus-sas-faq)
 - [See The Bright Side](#see-the-bright-side)
-- [Get started, and stay tuned](#get-started-and-stay-tuned)
-- [Read more](#read-more)
+- [Become a EuroBonus Pro](#become-a-eurobonus-pro)
+- [Learn More](#learn-more)
 
 ## SAS Acquisition by Air France-KLM: What You Need To Know
 
@@ -177,19 +177,17 @@ In addition Air France/KLM also offers a number of specific benefits to its pass
 - Premium Economy class: Air France and KLM both offer Premium Economy class on long-haul flights. This class offers more space and comfort than Economy class, but at a lower price than Business class.
 - Business class: Air France and KLM both offer Business class on long-haul flights. This class offers the highest level of comfort and service, with spacious seats, lie-flat beds, and gourmet dining.
 
-## Get started, and stay tuned
+## Become a EuroBonus Pro
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when a certain route or flight gets opened, as well as check seat maps, flight schedules, and more.
 
-## Read more
+## Learn More
 
-Make sure to also check these posts out
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
 - [Book These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
+- [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
-- [How To Install AwardFares On Your Phone](https://blog.awardfares.com/awardfares-mobile-app/)
-- [SAS Opens New Route To Morocco (And You Can Book It With Points)](https://blog.awardfares.com/sas-opens-route-to-morocco/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

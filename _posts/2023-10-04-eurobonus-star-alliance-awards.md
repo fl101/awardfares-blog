@@ -6,7 +6,7 @@ tags: [Star Alliance, SkyTeam]
 author: Germán
 image: /assets/img/eurobonus-star-alliance-awards/cover.webp
 seo:
-  date_modified: 2024-03-31
+  date_modified: 2024-04-08
 ---
 
 In light of the recent [announcent of SAS leaving Star Alliance](https://blog.awardfares.com/sas-acquisition/), we noticed an increase in traffic and EuroBonus searches at AwardFares. We are happy that our tool is helping you find your next dream award flight!
@@ -15,7 +15,7 @@ In this **megapost**, we are compiling every single airline part of Star Allianc
 
 In addition, we share all our tips, tricks, and comments from our experience as travelers. Make sure to check out the links to our detailed guides and resources under each section. Let's start!
 
-**UPDATE (MARCH 2024):** _According to recent statements, SAS is scheduled to leave Star Alliance during Q2, 2024, joining SkyTeam immediately. There are still very little information regarding the implementation of the transition, but we recommend redeeming EuroBonus awards on Star Alliance Partner Airlines soon._
+**UPDATE (APRIL 2024):** SAS confirmed it will transition to SkyTeam on **September 1st, 2024**. [Read all the details here](https://blog.awardfares.com/sas-transition-to-skyteam/).
 
 ### Quick Navigation
 
@@ -636,18 +636,17 @@ _Image from United Airlines website._
 
 **Known Issues with EuroBonus**: It's not possible to book mixed-cabin awards online.
 
-## Get started, and stay tuned
+## Become a EuroBonus Pro
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so sign up for our newsletter to stay on top of the latest news, announcements, and pro tips!
 
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when a certain route or flight gets opened, as well as check seat maps, flight schedules, and more.
 
-## Read More
+## Learn More
 
-Make sure to also check these posts out
+Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
 - [SAS Will Leave Star Alliance: Acquisition By Air France-KLM and others](https://blog.awardfares.com/sas-acquisition/)
+- [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
-- [How To Install AwardFares On Your Phone](https://blog.awardfares.com/awardfares-mobile-app/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)

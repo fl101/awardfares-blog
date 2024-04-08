@@ -6,7 +6,7 @@ tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-mar-2024/cover.webp
 seo:
-    date_modified: 2024-03-29
+    date_modified: 2024-04-08
 ---
 
 Welcome to our SAS EuroBonus monthly updates, March edition! The EuroBonus front is very hot right now, with lots of things going on. Each month, we explore and summarize the most recent developments so you don't have to.
@@ -20,6 +20,8 @@ March has some thick items under development, one of which is the transition fro
 This year marks a giant leap for Scandinavian Airlines, particularly for SAS EuroBonus members. The airline will be acquired, among others, by Air France-KLM.
 
 Recently, it was stated in a press release that SAS is planning on leaving Star Alliance in Q2 2024 and joining SkyTeam immediately! This means the game for frequent travelers will change very soon.
+
+**UPDATE 8 APRIL 2024**: SAS confirmed the transition to SkyTeam will be effective on September 1st, 2024. [Read more here](https://blog.awardfares.com/sas-transition-to-skyteam/).
 
 **How to prepare for the transition?** Don’t worry—we’ve got you covered. We prepared the [Ultimate Guide to Using SAS EuroBonus Points](https://blog.awardfares.com/eurobonus-guide/). The intention is to help you find the best (free) flights on SAS and Star Alliance before the airline leaves and, ultimately, on SkyTeam partners once the airline enters the new alliance and integrates with those partners.
 
