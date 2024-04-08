@@ -42,6 +42,12 @@ Existing Amex 2-for-1 vouchers can still be used for Star Alliance awards until 
 * Amex 2-for-1 vouchers will also be valid for SkyTeam awards.
 * Rebooking and cancellation rules for SkyTeam awards will mirror the existing Star Alliance policy (24 hours before departure).
 
+### Rebooking on different airlines?
+
+Something still not 100% clear to us is that "From 1 September 2024, you can rebook your Bonus trip to a SAS or certain SkyTeam airline flights (subject to availability)". For example, when having a trip booked on Star Alliance airlines, sounds it should be possible to rebook it on SkyTeam.
+
+Another unclear thing is the possibility of mixed bookings Star Alliance + SkyTeam.
+
 **Overall, this move opens doors to a new network of airlines (19 new ones to be exact) and over 1,000 additional destinations**. While some specifics are still being ironed out, SAS claims it is committed to making the transition smooth for EuroBonus members. Keep an eye on SAS's website and our blog for further updates as they become available.
 
 In the meantime, this is a great opportunity to [explore using your points on Star Alliance airlines before the switch](https://blog.awardfares.com/eurobonus-star-alliance-awards/). Consider booking that dream trip you've been eyeing!
