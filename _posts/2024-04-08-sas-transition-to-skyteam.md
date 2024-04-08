@@ -44,7 +44,7 @@ Existing Amex 2-for-1 vouchers can still be used for Star Alliance awards until 
 
 **Overall, this move opens doors to a new network of airlines (19 new ones to be exact) and over 1,000 additional destinations**. While some specifics are still being ironed out, SAS claims it is committed to making the transition smooth for EuroBonus members. Keep an eye on SAS's website and our blog for further updates as they become available.
 
-In the meantime, this is a great opportunity to explore using your points on Star Alliance airlines before the switch. Consider booking that dream trip you've been eyeing!
+In the meantime, this is a great opportunity to [explore using your points on Star Alliance airlines before the switch](https://blog.awardfares.com/eurobonus-star-alliance-awards/). Consider booking that dream trip you've been eyeing!
 
 <img src="../assets/img/sas-transition-to-skyteam/skyteam-airlines.webp" alt="SkyTeam Airlines that will be partners of SAS and EuroBonus" class="noborder" width="1500" height="261"/>
 
@@ -120,7 +120,7 @@ Our guides have all the information you need to be a pro travel hacker and explo
 
 * [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
 * [Updates For SAS EuroBonus Members (March 2024)](https://blog.awardfares.com/eurobonus-updates-mar-2024/)
-* [Booking United Flights with EuroBonus Points No Longer an Option?](https://blog.awardfares.com/united-stops-working-with-eurobonus/)
+* [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
 * [SAS Will Leave Star Alliance! Here’s What To Do Next](https://blog.awardfares.com/sas-acquisition/)
 * [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
 
