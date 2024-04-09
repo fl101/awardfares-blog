@@ -43,7 +43,7 @@ For frequent flyers across the Atlantic, [**Virgin Atlantic Flying Club**](https
 
 Creating an account is optional, but registration is free and unlocks additional features. [Sign up here to get started.](https://awardfares.com/signup)
 
-### 2. Choose Flying Club in the *Loyalty Program Field*
+### 2. Choose Flying Club in the *Loyalty Program* Field
 
 Select **Virgin Atlantic Flying Club** from the dropdown menu to start your award flight search.
 
