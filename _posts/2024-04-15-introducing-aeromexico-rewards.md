@@ -135,7 +135,13 @@ AwardFares displays results in real-time, allowing you to sort options by cost-e
 
 <img src="../assets/img/introducing-aeromexico/sort-by-price.webp" alt="Find the cheapest Aeromexico Rewards tickets and the best ways to use your Puntos Premier." class="noborder"/>
 
-### 6. Book via Aeromexico's Website
+### 6. Build Round Trips
+
+Use our **Journey Planner** feature to add flights to your journey and build round trip itineraries! Learn more [about the Journey Planner in this full guide](https://blog.awardfares.com/journey-planner/).
+
+<img src="../assets/img/introducing-aeromexico/round-trip.webp" alt="Find round trip Aeromexico Reward Flights using AwardFares." class="noborder"/>
+
+### 7. Book via Aeromexico's Website
 
 Once you find your desired flight, click the **Book** button.
 
