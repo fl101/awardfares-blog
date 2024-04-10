@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Aeromexico Rewards"
+title: "Aeromexico Rewards Joins AwardFares: Clase Premier and the 787-9 Bar Now with Points"
 category: [News, Aeromexico Rewards]
 tags: [Features, Aeromexico]
 author: Germán
@@ -8,9 +8,7 @@ image: /assets/img/introducing-aeromexico/cover.webp
 hidden: true
 ---
 
-We're glad to announce a major expansion to AwardFares' award search capabilities – **Virgin Atlantic Flying Club** is now on board!
-
-This integration brings a world of new possibilities to our users who are Flying Club members or collect Virgin Points through partner programs and credit cards. Now, you can easily search AwardFares to find the best ways to redeem your points for flights on Virgin Atlantic, alongside award options from other airlines in our comprehensive search engine.
+We're thrilled to share taht Aeromexico Rewards has now joined the lineup! Finding the best ways to use your points for Aeromexico flights just got easier. AwardFares lets you effortlessly search for the most rewarding redemption options on Aeromexico, plus explore award travel opportunities with other airlines in our comprehensive search engine.
 
 ### What's New?
 
@@ -28,7 +26,7 @@ This integration brings a world of new possibilities to our users who are Flying
 
 The real power comes in how you can redeem your points. Use them for flights on Aeromexico and partner airlines, snag upgrades to a more luxurious cabin, or craft dream vacations with Aeromexico packages. Since Aeromexico belongs to the SkyTeam alliance, you also have the potential to extend your reach and redeem points on flights with other member airlines, opening up a world of travel possibilities.
 
-<img src="../assets/img/introducing-aeromexico-rewards/am.webp" alt="Virgin Atlantic partnership with Delta lasted for over 10 years." class="noborder"/>
+<img src="../assets/img/introducing-aeromexico/aeromexico-787-9.webp" alt="Book Aeromexico 787-9 Dreamliner with Points." class="noborder"/>
 
 ## What AwardFares Offers to Aeromexico Rewards Members
 
@@ -36,6 +34,7 @@ The real power comes in how you can redeem your points. Use them for flights on 
 - **Flexible Searching**: Search for specific dates or explore options across a date range with our Timeline View.
 - **More Choices, Better Decisions**: Compare award options across different airlines and loyalty programs to find the best fit for your travel plans (e.g. against other SkyTeam programs such as SkyMiles or Flying Blue).
 - **Maximize Your Points**: AwardFares helps you sort and find the most value-efficient ways to use your Aeromeico Rewards Points.
+
 
 ## Finding Aeromexico Rewards Flights with AwardFares
 
@@ -125,9 +124,10 @@ Aeromexico's 787 Dreamliners feature a premium cabin called *Clase Premier*, als
 - **Dining**: Aeromexico is known for its premium dining service in Clase Premier. This includes a selection of gourmet meals and beverages.
 - **Bar Area**: The 787-9 Dreamliner even features [a private bar area for Clase Premier passengers Aeromexico 787-9](https://vuela.aeromexico.com/787-9/en/).
 
+<figure>
 <img src="../assets/img/introducing-aeromexico/premier-class.webp" alt="Book Aeromexico Premier Class on the 787-9 using Aeromexico Rewards Points. Find available seats with AwardFares." class="noborder"/>
-
 <img src="../assets/img/introducing-aeromexico/premier-class-bar.webp" alt="Book Aeromexico Premier Class on the 787-9 using Aeromexico Rewards Points. Find available seats with AwardFares." class="noborder"/>
+</figure>
 
 ## Become an Aeromexico Rewards Pro
 

@@ -5,8 +5,6 @@ category: [News, Flying Club]
 tags: [Features, Virgin Atlantic]
 author: Germán
 image: /assets/img/introducing-flying-club/cover.webp
-hidden: true
-sitemap: false
 ---
 
 We're glad to announce a major expansion to AwardFares' award search capabilities – **Virgin Atlantic Flying Club** is now on board!
@@ -61,7 +59,7 @@ In this example, we search for flights [between London (LHR) to New York (NYC)](
 
 Either input specific dates or use the Timeline View to explore availability over different periods. This view helps you easily compare the availability and class of service across various days.
 
-<img src="../assets/img/introducing-flying-club/timeline-view.gif" alt="Explore Virgin Atlantic Flying Club awards for different dates in AwardFares." class="noborder"/>
+<img src="../assets/img/introducing-flying-club/timeline-view.avif" alt="Explore Virgin Atlantic Flying Club awards for different dates in AwardFares." class="noborder"/>
 
 You'll see the result list right below:
 
@@ -75,7 +73,7 @@ In addition, you can tap anywhere on the flight to display more details in an ex
 
 AwardFares displays results in real-time, allowing you to sort options by cost-effectiveness across different dates and airlines.
 
-<img src="../assets/img/introducing-flying-club/sort-by-price.gif" alt="Find the cheapest Virgin Atlantic Flying Club awards with AwardFares." class="noborder"/>
+<img src="../assets/img/introducing-flying-club/sort-by-price.avif" alt="Find the cheapest Virgin Atlantic Flying Club awards with AwardFares." class="noborder"/>
 
 ### 6. Book via Virgin Atlantic's Website
 
