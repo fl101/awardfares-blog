@@ -40,7 +40,7 @@ The real power comes in how you can redeem your points. Use them for flights on 
 
 Aeromexico Rewards offers two types of tickets using your Puntos Premier: Classic Reward Tickets and Dynamic Fares.
 
-- **Classic Reward Tickets**: These are airline tickets purchased with Aeromexico Rewards Points where the fare depends on destination, cabin, availability, and demand.
+- **Classic Reward Tickets**: These are airline tickets purchased with Aeromexico Rewards Points that always have a fixed cost.
 - **Aeromexico Rewards Ticket with a dynamic fare**: These are airline tickets purchased with Aeromexico Rewards Points where the fare depends on destination, cabin, availability, and demand.
 
 | **Feature**                                     | **Classic Award Ticket**                                                                                                                                                                       | **Award Ticket with a Dynamic Fare**                                                                                                                                                                                                                                                                                   |
