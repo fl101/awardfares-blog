@@ -32,10 +32,10 @@ El verdadero poder está en cómo puedes redimir tus puntos. Se pueden utilizar 
 
 ## ¿Qué ofrece AwardFares a los miembros de Aeroméxico Rewards?
 
-- Disponibilidad al minuto: Proporcionamos información en tiempo real sobre la disponibilidad de asientos de premio para vuelos de Aeroméxico (y socios de SkyTeam).
-- Búsqueda Flexible: Busca por fechas específicas o explora opciones a lo largo de un rango de fechas con nuestra Vista de Línea de Tiempo.
-- Más Opciones, Mejores Decisiones: Compara opciones de premios a través de diferentes aerolíneas y programas de lealtad para encontrar la mejor opción para tus planes de viaje (por ejemplo, contra otros programas de SkyTeam como SkyMiles o Flying Blue).
-- Maximiza Tus Puntos: AwardFares te ayuda a ordenar y encontrar las maneras más eficientes en cuanto a valor para usar tus Puntos de Aeroméxico Rewards.
+- **Disponibilidad en tiempo real**: Proporcionamos información en tiempo real sobre la disponibilidad de asientos de premio para vuelos de Aeroméxico. Por el momento, la búsqueda no muestra disponibilidad en aerolíneas asociadas, aunque esas búsquedas se pueden realizar por teléfono.
+- **Búsqueda flexible**: Busca por fechas específicas o explora opciones a lo largo de un rango de fechas con nuestra Vista de Línea de Tiempo.
+- **Más opciones, mejores decisiones**: Compara opciones de premios a través de diferentes aerolíneas y programas de lealtad para encontrar la mejor opción para tus planes de viaje (por ejemplo, contra otros programas de SkyTeam como SkyMiles o Flying Blue).
+- **Maximiza tus puntos**: AwardFares te ayuda a ordenar y encontrar las maneras más eficientes en cuanto a valor para usar tus Puntos de Aeroméxico Rewards.
 
 ## Entendiendo los Boletos Aeroméxico Rewards
 

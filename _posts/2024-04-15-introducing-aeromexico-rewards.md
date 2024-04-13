@@ -31,7 +31,7 @@ The real power comes in how you can redeem your points. Use them for flights on 
 
 ## What AwardFares Offers to Aeromexico Rewards Members
 
-- **Up-to-the-minute Availability**: We provide real-time information on award seat availability for Aeromexico flights (and SkyTeam partners).
+- **Up-to-the-minute Availability**: We provide real-time information on award seat availability for Aeromexico flights. At the moment, the search only shows availability for Aeromexico flights and not on partner airlines. Those are still bookable via phone.
 - **Flexible Searching**: Search for specific dates or explore options across a date range with our Timeline View.
 - **More Choices, Better Decisions**: Compare award options across different airlines and loyalty programs to find the best fit for your travel plans (e.g., against other SkyTeam programs such as SkyMiles or Flying Blue).
 - **Maximize Your Points**: AwardFares helps you sort and find the most value-efficient ways to use your Aeromeico Rewards Points.
