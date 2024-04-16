@@ -5,8 +5,6 @@ category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-discount-apr-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
 SAS launched a [new special offer for EuroBonus members](https://www.sas.se/special-offers/poangrabatt/): **a 20% discount on award flights to all destinations**. This promotion is applicable to all cabin classes including SAS Go Bonus, SAS Plus Bonus, and SAS Business Bonus. It's rare to see promotions like these with no geographical restrictions, so it's a great opportunity to take advantage of the offer and enjoy a wonderful destinations while making a cost-effective trip!
@@ -31,7 +29,19 @@ Here are the terms and conditions for the ongoing promotion
 
 Additionally, children aged 2-11 years benefit from a further 50% reduction on the discounted points price.
 
-### Full T&C
+## Find EuroBonus Sweet Spots
+
+To quickly find the best available flights on SAS, and the best ways to use your EuroBonus points, follow these steps:
+
+1. Go to AwardFares.
+2. Select **EuroBonus** under *Loyalty Program*.
+3. Select **SAS only** under Airline
+4. Choose a desired route and date.
+5. Voilà! AwardFares will do its magic and show you the available flights in the list below, including details such as the prices per cabin, number of stops, total travel time, aircraft used, and more!
+
+<img src="../assets/img/eurobonus-discount-apr-2024/search.webp" alt="Search for flights using EuroBonus points using AwardFares." class="noborder"/>
+
+## Full T&C
 
 - The price is set according to place of departure and destination, regardless of the chosen route (direct or with a stopover).
 - The offer applies one-way or return.
@@ -49,18 +59,6 @@ Additionally, children aged 2-11 years benefit from a further 50% reduction on t
 - Cannot be combined with other discounts/offers for bonus travel except for the Mastercard FlyPremium (level 2-4).
 - The general membership conditions for EuroBonus apply.
 
-## Find EuroBonus Sweet Spots
-
-To quickly find the best available flights on SAS, and the best ways to use your EuroBonus points, follow these steps:
-
-1. Go to AwardFares.
-2. Select **EuroBonus** under *Loyalty Program*.
-3. Select **SAS only** under Airline
-4. Choose a desired route and date.
-5. Voilà! AwardFares will do its magic and show you the available flights in the list below, including details such as the prices per cabin, number of stops, total travel time, aircraft used, and more!
-
-<img src="../assets/img/eurobonus-discount-apr-2024/search.webp" alt="Search for flights using EuroBonus points using AwardFares." class="noborder"/>
-
 ## Become a EuroBonus Pro
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
@@ -71,9 +69,11 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+- [From Star Alliance to SkyTeam: The SAS Transition (Official Info)](https://blog.awardfares.com/sas-transition-to-skyteam/)
+- [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
+- [Updates For SAS EuroBonus Members (March 2024)](https://blog.awardfares.com/eurobonus-updates-mar-2024/)
+- [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
+- [SAS Will Leave Star Alliance! Here’s What To Do Next](https://blog.awardfares.com/sas-acquisition/)
+- [7 Benefits Of SAS Joining SkyTeam (The Bright Side)](https://blog.awardfares.com/sas-and-skyteam/)
 
 <script src="/assets/js/countdown.js"></script>
