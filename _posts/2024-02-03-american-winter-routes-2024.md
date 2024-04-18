@@ -2,7 +2,7 @@
 layout: post
 title: "American Airlines Announces Winter Schedule For 2024: New Route to Brisbane with Flagship Suites & More"
 category: [News, AAdvantage]
-tags: [American]
+tags: [American Airlines]
 author: Germán
 image: /assets/img/american-winter-routes-2024/cover.webp
 ---

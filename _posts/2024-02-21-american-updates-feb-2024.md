@@ -2,7 +2,7 @@
 layout: post
 title: "American Airlines Makes Changes to Bag Fees, Loyalty Program, and It's Not All Roses"
 category: [News, AAdvantage]
-tags: [American]
+tags: [American Airlines]
 author: Germán
 image: /assets/img/american-updates-feb-2024/cover.webp
 ---
