@@ -7,7 +7,7 @@ author: Germán
 image: /assets/img/lufthansa-allegris-first-flight/cover.webp
 ---
 
-After a series of strikes that hit hard, Lufthansa is ready to share some exciting news for long-haul travelers. Lufthansa's new premium travel experience, Allegris, takes off on May 1st, 2024.
+After a series of strikes that hit hard, Lufthansa is ready to share some exciting news for long-haul travelers. Lufthansa's new premium travel experience, Allegris, [takes off on May 1st, 2024](https://newsroom.lufthansagroup.com/en/lufthansa-allegris-takes-off-on-may-1/).
 
 The first route will depart from Munich, Germany, towards the beautiful Canadian city of Vancouver. Toronto will soon follow, with alternating service between the two destinations in the initial months. As Lufthansa receives more Airbus A350s equipped with the Allegris cabin, Chicago and Montreal will be added to the summer schedule.
 
