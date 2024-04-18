@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AwardFares vs Seats.aero: 7 Key Advantages That Elevate Your Award Travel"
+title: "AwardFares vs seats.aero: 7 Key Advantages That Elevate Your Award Travel"
 category: [Guide]
 tags: [seats.aero]
 author: Germán
