@@ -13,9 +13,7 @@ After a series of strikes that hit hard, Lufthansa is ready to share some exciti
 
 The first route will depart from Munich, Germany, towards the beautiful Canadian city of Vancouver. Toronto will soon follow, with alternating service between the two destinations in the initial months. As Lufthansa receives more Airbus A350s equipped with the Allegris cabin, Chicago and Montreal will be added to the summer schedule.
 
-You can now view seat maps for all Allegris flights departing May 1st onwards through Lufthansa's regular booking channels. This includes all the special Allegris seating options, like the five unique business class configurations.
-
-Travelers already booked on these flights will be automatically upgraded to the new Allegris cabin. According to Lufthansa's announcement, for a limited time, selecting your seat in Business Class is completely free.
+Travelers already booked on these flights will be automatically upgraded to the new Allegris cabin. According to Lufthansa's announcement, selecting your seat in Business Class is completely free for a limited time.
 
 Keep in mind that confirmation of whether a specific flight offers the Allegris experience will be available three weeks before departure.
 
@@ -27,49 +25,66 @@ Creating an account is optional, but registration is free and unlocks additional
 
 ### 2. Choose your favorite Frequent Flyer Program
 
-As of today, AwardFares supports several programs that allows you to book Lufthansa flights
+As of today, AwardFares supports several programs that allows you to book Lufthansa flights with points or miles, including **SAS EuroBonus**, **United MileagePlus**, and **Aeroplan**.
 
 Select **Virgin Atlantic Flying Club** from the dropdown menu to start your award flight search.
 
-<img src="../assets/img/introducing-flying-club/vs-ffp.webp" alt="Select Virgin Atlantic Flying Club in AwardFares." class="noborder"/>
+<img src="../assets/img/lufthansa-allegris-first-flight/ffp.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
-### 3. Input Your Desired Route
+### 3. Add the Route
 
-Add your origin and destination airports, and AwardFares will search for available award flights, including those with stops. Filters for non-stop flights are also available.
+In this case, we search for the [Munich (MUC) to Vancouver (YVR) route](https://awardfares.com/search?MUC.YVR.2024-05-01;a:LH;o:duration;so:a;z:aeroplan,sas,united). You can also search for flights to Toronto, as an alternating service. As the airline receives more A350s refitted with Allegris, there will be more routes available.
 
-In this example, we search for flights [between London (LHR) to New York (NYC)](https://awardfares.com/search?LHR.NYC.;z:flyingclub).
-
-<img src="../assets/img/introducing-flying-club/route.webp" alt="Select a route when searching a Flying Club award in AwardFares." class="noborder"/>
+<img src="../assets/img/lufthansa-allegris-first-flight/route.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
 ### 4. Select Dates
 
-Either input specific dates or use the Timeline View to explore availability over different periods. This view helps you easily compare the availability and class of service across various days.
+The first flight is set to May 1st. Make sure to set that up using AwardFares' calendar. With our Timeline view, it is very straightforward to check available seats across different days.
 
-<img src="../assets/img/introducing-flying-club/timeline-view.avif" alt="Explore Virgin Atlantic Flying Club awards for different dates in AwardFares." class="noborder"/>
+<img src="../assets/img/lufthansa-allegris-first-flight/date.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
-You'll see the result list right below:
+In addition, you can tap anywhere on the flight to display more details in an expanded view, such as pricing options, aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free or occupied.
 
-<img src="../assets/img/introducing-flying-club/results.webp" alt="Explore Flying Club awards for different dates in AwardFares." class="noborder"/>
+<img src="../assets/img/lufthansa-allegris-first-flight/details.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
-In addition, you can tap anywhere on the flight to display more details in an expanded view, such as aircraft type, and even [get the current seat maps](https://blog.awardfares.com/seatmaps-guide/) to see which seats are free or occupied.
+### 5. Book
 
-<img src="../assets/img/introducing-flying-club/details.webp" alt="Expand details for a given flights when searching a Flying Club award in AwardFares." class="noborder"/>
+Once you find your desired flight, click the **Book** button. AwardFares will redirect you to the loyalty program's website to finish the booking process.
 
-### 5. Sort by Price
+<img src="../assets/img/lufthansa-allegris-first-flight/details.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
-AwardFares displays results in real-time, allowing you to sort options by cost-effectiveness across different dates and airlines.
+## No seats available? Get notified with Alerts
 
-<img src="../assets/img/introducing-flying-club/sort-by-price.avif" alt="Find the cheapest Virgin Atlantic Flying Club awards with AwardFares." class="noborder"/>
+It is very common that airlines, when a new product or service is introduced, limit the number of seats released as awards, or even don't release any seat at all at the beginning. No worries, patience is key, but we are here to help.
 
-### 6. Book 
+AwardFares let you set up alerts in an easy way, tracking your desired flights, and notifying you via email when seats open up. For example, as of today, there are no seats available on the inaugural flight from Munich (MUC) to Vancouver (YVR):
 
-Once you find your desired flight, click the **Book** button.
+<img src="../assets/img/lufthansa-allegris-first-flight/may1.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
-<img src="../assets/img/introducing-flying-club/book.webp" alt="Book Flying Club award flights from AwardFares." class="noborder"/>
+To set up a new alert for this flight, tap on the **Track** button and turn on the toggle.
 
-AwardFares will redirect you to Virgin Atlantic's website to complete your booking without the need to re-enter your search criteria, as it will be pre-populated.
+<img src="../assets/img/lufthansa-allegris-first-flight/track.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
-<img src="../assets/img/introducing-flying-club/book-vs.webp" alt="Book Flying Club award flights from AwardFares." class="noborder"/>
+A popup will display *Alert Created*, and you will be able to see the newly created alert under the **Alerts** pane (top bar).
+
+<img src="../assets/img/lufthansa-allegris-first-flight/alerts.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
+
+It's also possible to edit the alert by tapping on the *edit* icon (pencil). For example, if you want to adjust the date, cabin, set up a wide search (for +-1 day) or set a max price.
+
+<img src="../assets/img/lufthansa-allegris-first-flight/edit-alert.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
+
+For a full guide on our Alerts, [read here](https://blog.awardfares.com/alerts/).
+
+## What is Lufthansa Allegris?
+
+Lufthansa's Allegris is a new travel experience for long-haul flights featuring upgraded cabins in all classes, including new First Class Suites (with double beds), Business Class Suites, Premium Economy and Economy. It will officially launch in May 2024.
+
+<figure>
+<img src="../assets/img/lufthansa-allegris-first-flight/allegris-first.webp" alt="Find Lufthansa Allegris First Class Suites awards with points or miles." class="noborder"/>
+<img src="../assets/img/lufthansa-allegris-first-flight/allegris-biz.webp" alt="Find Lufthansa Allegris First Class Suites awards with points or miles." class="noborder"/>
+<img src="../assets/img/lufthansa-allegris-first-flight/allegris-prem.webp" alt="Find Lufthansa Allegris First Class Suites awards with points or miles." class="noborder"/>
+<img src="../assets/img/lufthansa-allegris-first-flight/allegris-eco.webp" alt="Find Lufthansa Allegris First Class Suites awards with points or miles." class="noborder"/>
+</figure>
 
 ## Want More Award Travel Intel?
 
@@ -77,7 +92,7 @@ You can [try AwardFares for free](https://awardfares.com/). We are rolling out n
 
 With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
 
-## Read More
+## Learn More
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
