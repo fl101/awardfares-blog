@@ -4,7 +4,7 @@ title: "Lufthansa Allegris Takes Flight on May 1st (Book with Points)"
 category: [News]
 tags: [Lufthasa]
 author: Germán
-image: /assets/img/lufthansa-allegris-first-route/cover.webp
+image: /assets/img/lufthansa-allegris-first-flight/cover.webp
 hidden: true
 sitemap: false
 ---
@@ -15,7 +15,7 @@ The first route will depart from Munich, Germany, towards the beautiful Canadian
 
 Travelers already booked on these flights will be automatically upgraded to the new Allegris cabin. According to Lufthansa's announcement, selecting your seat in Business Class is completely free for a limited time.
 
-Keep in mind that confirmation of whether a specific flight offers the Allegris experience will be available three weeks before departure.
+Remember that confirmation of whether a specific flight offers the Allegris experience will be available three weeks before departure.
 
 ## How to book the new Lufthansa Allegris with points or miles
 
@@ -25,21 +25,21 @@ Creating an account is optional, but registration is free and unlocks additional
 
 ### 2. Choose your favorite Frequent Flyer Program
 
-As of today, AwardFares supports several programs that allows you to book Lufthansa flights with points or miles, including **SAS EuroBonus**, **United MileagePlus**, and **Aeroplan**.
+Currently, AwardFares supports several programs allowingyou to book Lufthansa flights with points or miles, including [**SAS EuroBonus**](https://awardfares.com/search?..;z:sas), [**United MileagePlus**](https://awardfares.com/search?..;z:united), and [**Aeroplan**](https://awardfares.com/search?..;z:aeroplan).
 
-Select **Virgin Atlantic Flying Club** from the dropdown menu to start your award flight search.
+Use the *Loyalty Program* field to choose your favorite one.
 
 <img src="../assets/img/lufthansa-allegris-first-flight/ffp.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
-### 3. Add the Route
+### 3. Add a Route
 
-In this case, we search for the [Munich (MUC) to Vancouver (YVR) route](https://awardfares.com/search?MUC.YVR.2024-05-01;a:LH;o:duration;so:a;z:aeroplan,sas,united). You can also search for flights to Toronto, as an alternating service. As the airline receives more A350s refitted with Allegris, there will be more routes available.
+In this case, we search for the [Munich (MUC) to Vancouver (YVR) route](https://awardfares.com/search?MUC.YVR.2024-05-01;a:LH;o:duration;so:a;z:aeroplan,sas,united). You can also search for flights to Toronto as an alternating service. As the airline receives more A350s refitted with Allegris, more routes will be available.
 
 <img src="../assets/img/lufthansa-allegris-first-flight/route.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
 ### 4. Select Dates
 
-The first flight is set to May 1st. Make sure to set that up using AwardFares' calendar. With our Timeline view, it is very straightforward to check available seats across different days.
+The first flight is set for May 1st. Make sure to set that up using AwardFares' calendar. With our Timeline view, checking available seats across different days is very straightforward.
 
 <img src="../assets/img/lufthansa-allegris-first-flight/date.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
@@ -55,9 +55,9 @@ Once you find your desired flight, click the **Book** button. AwardFares will re
 
 ## No seats available? Get notified with Alerts
 
-It is very common that airlines, when a new product or service is introduced, limit the number of seats released as awards, or even don't release any seat at all at the beginning. No worries, patience is key, but we are here to help.
+It is extremely common for airlines to limit the number of seats released as awards when a new product or service is introduced or even not release any seats at all at the beginning. No worries; patience is key, but we are here to help.
 
-AwardFares let you set up alerts in an easy way, tracking your desired flights, and notifying you via email when seats open up. For example, as of today, there are no seats available on the inaugural flight from Munich (MUC) to Vancouver (YVR):
+AwardFares lets you set up alerts in an easy way, tracking your desired flights and notifying you via email when seats open up. For example, as of today, there are no seats available on the inaugural flight from Munich (MUC) to Vancouver (YVR):
 
 <img src="../assets/img/lufthansa-allegris-first-flight/may1.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
@@ -65,11 +65,11 @@ To set up a new alert for this flight, tap on the **Track** button and turn on t
 
 <img src="../assets/img/lufthansa-allegris-first-flight/track.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
-A popup will display *Alert Created*, and you will be able to see the newly created alert under the **Alerts** pane (top bar).
+A popup will display *Alert Created*, and you can see the newly created alert under the **Alerts** pane (top bar).
 
 <img src="../assets/img/lufthansa-allegris-first-flight/alerts.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
-It's also possible to edit the alert by tapping on the *edit* icon (pencil). For example, if you want to adjust the date, cabin, set up a wide search (for +-1 day) or set a max price.
+You can also edit the alert by tapping on the *edit* icon (pencil). For example, you can adjust the date or cabin, set up a wide search (for +-1 day), or set a max price.
 
 <img src="../assets/img/lufthansa-allegris-first-flight/edit-alert.webp" alt="Find Lufthansa Allegris flights with points using AwardFares." class="noborder"/>
 
@@ -77,7 +77,7 @@ For a full guide on our Alerts, [read here](https://blog.awardfares.com/alerts/)
 
 ## What is Lufthansa Allegris?
 
-Lufthansa's Allegris is a new travel experience for long-haul flights featuring upgraded cabins in all classes, including new First Class Suites (with double beds), Business Class Suites, Premium Economy and Economy. It will officially launch in May 2024.
+Lufthansa's Allegris is a new travel experience for long-haul flights featuring upgraded cabins in all classes, including new First Class Suites (with double beds), Business Class Suites, Premium Economy, and Economy. It will officially launch in May 2024.
 
 <figure>
 <img src="../assets/img/lufthansa-allegris-first-flight/allegris-first.webp" alt="Find Lufthansa Allegris First Class Suites awards with points or miles." class="noborder"/>
