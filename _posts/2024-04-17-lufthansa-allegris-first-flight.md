@@ -5,8 +5,6 @@ category: [News]
 tags: [Lufthasa]
 author: Germán
 image: /assets/img/lufthansa-allegris-first-flight/cover.webp
-hidden: true
-sitemap: false
 ---
 
 After a series of strikes that hit hard, Lufthansa is ready to share some exciting news for long-haul travelers. Lufthansa's new premium travel experience, Allegris, takes off on May 1st, 2024.
@@ -96,7 +94,6 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
+- [Essential Guide to Book Lufthansa Flights with SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+- [AwardFares vs Seats.aero: 7 Key Advantages That Elevate Your Award Travel](https://blog.awardfares.com/awardfares-vs-seats-aero/)
