@@ -30,7 +30,6 @@ After listening to many rounds of customer surveys, American finally decided to 
 <img src="../assets/img/american-new-onboard-experience/bedding-2.webp" alt="American Airlines New Bedding (2024)" class="noborder"/>
 </figure>
 
-
 ## New Menus for International and Domestic Flights
 
 The new American Airlines menus are inspired by popular destinations worldwide. Passengers flying to summer destinations like Nice, Naples, or Copenhagen can savor dishes like macadamia-crusted sea bass with citrus cream sauce. In Business Class, travelers can indulge in internationally-inspired pastas, salads, and other delicious options, including new pre-order choices like short rib mac and cheese.
