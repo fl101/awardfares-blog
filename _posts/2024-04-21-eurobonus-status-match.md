@@ -32,7 +32,7 @@ One tool we love is [**StatusMathcher.com**](https://statusmatcher.com/). It pro
 
 For EuroBonus members, we recommend looking into [United MileagePlus](https://statusmatcher.com/company/united-airlines): this program has a track record of consistently matching other airline status and welcoming other members, and it is a Star Alliance member.
 
-<img src="../assets/img/eurobonus-status-match/statsmatchercom.webp" alt="StatusMatcher.com shows you opportunities for status matching your SAS EuroBonus level." class="noborder"/>
+<img src="../assets/img/eurobonus-status-match/statusmatchercom.webp" alt="StatusMatcher.com shows you opportunities for status matching your SAS EuroBonus level." class="noborder"/>
 
 Another thing we recommend is to utilize travel blogs, forums like [FlyerTalk](https://www.flyertalk.com/) or [BusinessClass](https://businessclass.se/), and online communities on Facebook/Reddit/Discord, to discover airlines offering status matches and any specific requirements. Search for threads related to "status match" or "elite status challenge".
 
