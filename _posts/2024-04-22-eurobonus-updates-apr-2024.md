@@ -24,7 +24,7 @@ You can be prepared with our [Ultimate Guide to Using SAS EuroBonus Points](http
   TIME LEFT TO BOOK STAR ALLIANCE AWARDS
 </div>
 
-<img src="../assets/img/eurobonus-updates-apr-2024/eurobonus-guide.webp" style="max-width:400px;width:100%" alt="Ultimate Guide To Using SAS EuroBonus Points." class="noborder"/>
+<img src="../assets/img/eurobonus-updates-mar-2024/eurobonus-guide.webp" style="max-width:400px;width:100%" alt="Ultimate Guide To Using SAS EuroBonus Points." class="noborder"/>
 
 ### 2. Discounts on cash tickets with SAS (Book by April 22nd)
 
@@ -45,15 +45,15 @@ During April, there was a glitch/update on the EuroBonus portal in which [**it w
 
 Read more [in this post](https://blog.awardfares.com/thai-stops-working-with-eurobonus/).
 
-<img src="../assets/img/thai-stops-working-with-eurobonus/cover.webp" alt="During April, a system glith prevented EuroBonus members to book book Thai flights with EuroBonus points." class="noborder"/>
+<img src="../assets/img/thai-stops-working-with-eurobonus/cover.webp" style="max-width:400px;width:100%" alt="During April, a system glith prevented EuroBonus members to book book Thai flights with EuroBonus points." class="noborder"/>
 
 ### 4. Get 20.000 EuroBonus Points with Royal Caribbean
 
 Get double EuroBonus points on your next cruise. Book a 6-night cruise (or more) with Royal Caribbean before May 31, 2024, and earn 20.000 points. **Important:** make sure you [book through the SAS EuroBonus portal](https://erbjudande.royalcaribbean.se/sas?utm_source=Eurobonus&utm_medium=homepage&utm_campaign=Spring_promo&utm_id=Spring) to get the points.
 
-<img src="../assets/img/eurobonus-updates-apr-2024/royal-caribbean-1.webp" alt="Book a Royal Caribbean cruise and get 20.000 EuroBonus Points." class="noborder"/>
+<img src="../assets/img/eurobonus-updates-apr-2024/royalcaribbean-1.webp" alt="Book a Royal Caribbean cruise and get 20.000 EuroBonus Points." class="noborder"/>
 
-<img src="../assets/img/eurobonus-updates-apr-2024/royal-caribbean-.webp" alt="Book a Royal Caribbean cruise and get 20.000 EuroBonus Points." class="noborder"/>
+<img src="../assets/img/eurobonus-updates-apr-2024/royalcaribbean-2.webp" alt="Book a Royal Caribbean cruise and get 20.000 EuroBonus Points." class="noborder"/>
 
 ## Become a EuroBonus Pro
 
