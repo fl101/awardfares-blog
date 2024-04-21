@@ -5,7 +5,6 @@ category: [EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-status-match/cover.webp
-hidden: true
 ---
 
 Are you a SAS EuroBonus member with hard-earned status? (e.g., Silver, Gold, or Diamond)? If so, how will the upcoming shift from Star Alliance to SkyTeam affect your travel benefits? If you keep traveling on Star Alliance after September 1st, you will lose benefits on some partner airlines, such as access to the Gold Track, Star Alliance Lounges, and more.
@@ -30,7 +29,7 @@ Check the websites of airlines you're interested in, particularly those within y
 
 One tool we love is [**StatusMathcher.com**](https://statusmatcher.com/). It provides resources and explanations about status matching. It also serves as a community, sharing *field reports* from users about recent successful status matches with various travel programs. Think of it as a guide and information hub, not a direct service for status matching. It can't guarantee matches, but offers valuable insights and helps you navigate the process.
 
-For EuroBonus members, we recommend looking into [United MileagePlus](https://statusmatcher.com/company/united-airlines): this program has a track record of consistently matching other airline status and welcoming other members, and it is a Star Alliance member.
+For EuroBonus members, we recommend looking into [United MileagePlus](https://statusmatcher.com/company/united-airlines): this program has a track record of consistently matching other airline status and welcoming other members, and it is a Star Alliance member. Other programs we recommend trying to match are [Lufthansa Miles & More](https://www.miles-and-more.com/), [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan), and [Avianca Lifemiles](https://www.lifemiles.com/).
 
 <img src="../assets/img/eurobonus-status-match/statusmatchercom.webp" alt="StatusMatcher.com shows you opportunities for status matching your SAS EuroBonus level." class="noborder"/>
 
