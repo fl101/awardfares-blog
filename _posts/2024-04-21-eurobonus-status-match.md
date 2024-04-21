@@ -8,9 +8,9 @@ image: /assets/img/eurobonus-status-match/cover.webp
 hidden: true
 ---
 
-Are you a SAS EuroBonus member with hard-earned status? (e.g. Silver, Gold, or Diamond). If so, you might be wondering how the upcoming shift from Star Alliance to SkyTeam will affect your travel benefits. If you are going to keep travelling on Star Alliance, after September 1st, you might lose benefits on partner airlines such as access to the Gold Track, Star Alliance Lounges, and more.
+Are you a SAS EuroBonus member with hard-earned status? (e.g., Silver, Gold, or Diamond)? If so, how will the upcoming shift from Star Alliance to SkyTeam affect your travel benefits? If you keep traveling on Star Alliance after September 1st, you will lose benefits on some partner airlines, such as access to the Gold Track, Star Alliance Lounges, and more.
 
-But not everything is lost yet, there's a solution you might not be aware of: status matching.
+But there's a solution you might not be aware of: **status matching**. These turbulent times can be seen as an open door full of opportunities to try new things, including airlines, routes, and alliances. We recommend everyone familiarize themselves with this (low-effort) practice and take advantage of it, as it may open up a world full of benefits. In this guide, we look at the basics.
 
 ## What is Status Matching?
 
@@ -28,7 +28,9 @@ Status matching allows you to leverage your existing elite status in one airline
 
 Check the websites of airlines you're interested in, particularly those within the alliance you're targeting (e.g., Star Alliance, SkyTeam, etc.). Look for dedicated loyalty program pages or promotions sections.
 
-One tool we love is **StatusMathcher.com**. They provide resources and explanations about status matching. It also serves as a community resource. They share "field reports" from users about recent successful status matches with various travel programs. Think of it as a guide and information hub, not a direct service for status matching. They can't guarantee matches, but they offer valuable insights and help you navigate the process.
+One tool we love is [**StatusMathcher.com**](https://statusmatcher.com/). They provide resources and explanations about status matching. It also serves as a community resource. They share "field reports" from users about recent successful status matches with various travel programs. Think of it as a guide and information hub, not a direct service for status matching. They can't guarantee matches, but they offer valuable insights and help you navigate the process.
+
+For EuroBonus members, we recommend looking into [United MileagePlus](https://statusmatcher.com/company/united-airlines): this program has a track record of consistently matching other airline status and welcoming other members, and it is a Star Alliance member.
 
 <img src="../assets/img/eurobonus-status-match/statsmatchercom.webp" alt="StatusMatcher.com shows you opportunities for status matching your SAS EuroBonus level." class="noborder"/>
 
@@ -37,6 +39,8 @@ Another thing we recommend is to utilize travel blogs, forums like [FlyerTalk](h
 ### 2. Gather Required Documents
 
 Proof of your current elite status with EuroBonus. This could be a screenshot of your online account showing your tier level or a copy of your membership card. Depending on the airline, you might need additional documents like recent flight activity or a future flight confirmation.
+
+<img src="../assets/img/eurobonus-status-match/eb-tiers.webp" alt="Status match your EuroBonus tier to another airline." class="noborder"/>
 
 ### 3. Submit Your Application
 
@@ -87,7 +91,7 @@ The picture belows shows an example of an official status matching website from 
 * You can always try contacting the airline directly or look for offers.
 * Focus on Long-Term Value: When choosing a program to match to, prioritize airlines that align with your future travel plans and offer benefits you value most.
 
-## Want More Award Travel Intel?
+## Become a EuroBonus Pro
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
 
