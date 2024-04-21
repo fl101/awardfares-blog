@@ -20,15 +20,15 @@ Status matching allows you to leverage your existing elite status in one airline
 
 * **Preserve Your Benefits**: Don't lose the perks you've earned! Matching your EuroBonus status ensures a smooth transition and continued access to valuable travel benefits.
 * **Explore New Airlines**: Status matching opens doors to new travel options. This can be particularly useful if your travel needs change or SAS routes become less convenient. In this case, it's equally valid to status match to keep your current benefits on Star Alliance, but also to try new alliances, such as oneworld (with British Airways, Iberia, and Finnair).
-* **Boost Your Earning Potential**: With status in a new program, you can potentially earn more miles or points on flights with other airlines, given that most programs offer multipliers and accelerated point earnings on higher status levels (i.e. you get a head start!).
+* **Boost Your Earning Potential**: With status in a new program, you can potentially earn more miles or points on flights with other airlines, given that most programs offer multipliers and accelerated point earnings on higher status levels (i.e., you get a head start!).
 
 ## How to Status Match Your EuroBonus Status
 
 ### 1. Find a Status Match Offer
 
-Check the websites of airlines you're interested in, particularly those within the alliance you're targeting (e.g., Star Alliance, SkyTeam, etc.). Look for dedicated loyalty program pages or promotions sections.
+Check the websites of airlines you're interested in, particularly those within your target alliance (Star Alliance, SkyTeam, etc.). Look for dedicated loyalty program pages or promotions sections.
 
-One tool we love is [**StatusMathcher.com**](https://statusmatcher.com/). They provide resources and explanations about status matching. It also serves as a community resource. They share "field reports" from users about recent successful status matches with various travel programs. Think of it as a guide and information hub, not a direct service for status matching. They can't guarantee matches, but they offer valuable insights and help you navigate the process.
+One tool we love is [**StatusMathcher.com**](https://statusmatcher.com/). It provides resources and explanations about status matching. It also serves as a community, sharing *field reports* from users about recent successful status matches with various travel programs. Think of it as a guide and information hub, not a direct service for status matching. It can't guarantee matches, but offers valuable insights and helps you navigate the process.
 
 For EuroBonus members, we recommend looking into [United MileagePlus](https://statusmatcher.com/company/united-airlines): this program has a track record of consistently matching other airline status and welcoming other members, and it is a Star Alliance member.
 
@@ -44,7 +44,7 @@ Proof of your current elite status with EuroBonus. This could be a screenshot of
 
 ### 3. Submit Your Application
 
-Many airlines have dedicated online forms for status match requests. Alternatively, you might need to email the airline's loyalty program department directly. Their contact information should be available on the airline's website.
+Many airlines have dedicated online forms for status match requests. Alternatively, you might need to directly email the airline's loyalty program department. Their contact information should be available on the airline's website.
 
 ### 4. Include Necessary Information
 
@@ -78,7 +78,7 @@ Processing times for status match requests can vary depending on the airline. It
 
 Some airlines might allow you to track the status of your application online using your loyalty program login. If you haven't heard back after a reasonable timeframe (around 2 weeks), you can consider politely following up with the airline's loyalty program department. It's also possible to use an open-email tracking service such as [StreakCRM](https://www.streak.com/).
 
-The picture belows shows an example of an official status matching website from FlyingBlue. This offer was targeted to members living in the UK, and it was possible to both submit a form and track your application via an official website.
+The picture below shows an example of an official status matching website from FlyingBlue. This offer was targeted to members living in the UK, and it was possible to both submit a form and track your application via an official website.
 
 <img src="../assets/img/eurobonus-status-match/fb-statusmatch.webp" alt="FlyingBlue Status Match online submission form and tracking." class="noborder"/>
 
