@@ -8,17 +8,17 @@ image: /assets/img/eurobonus-updates-apr-2024/cover.webp
 hidden: true
 ---
 
-Welcome to our SAS EuroBonus monthly updates, March edition! The EuroBonus front is very hot right now, with lots of things going on. Each month, we explore and summarize the most recent developments so you don't have to.
+The EuroBonus program is buzzing this spring, and we're here to keep you in the loop with all the latest news. Every month, we summarize the hottest topics, so you can stay effortlessly informed.
 
-March has some thick items under development, one of which is the transition from Star Alliance to SkyTeam. Let's start!
+This April, there are several key items on the agenda, most notably the ongoing transition from [Star Alliance to SkyTeam](https://blog.awardfares.com/sas-transition-to-skyteam/). Let's jump right in!
 
 ## SAS EuroBonus Updates (April 2024)
 
-### 1. SAS will join SkyTeam on September 1st
+### 1. SAS will join SkyTeam on September 1
 
-SAS confirmed the transition to SkyTeam will be effective on September 1st, 2024. [You can read all the details around the announcement](https://blog.awardfares.com/sas-transition-to-skyteam/). This has a number of implications when it comes to booking and redeeming award flights with EuroBonus points.
+SAS confirmed that the transition to SkyTeam will be effective on September 1, 2024. [You can read all the details around the announcement](https://blog.awardfares.com/sas-transition-to-skyteam/). The shift has a number of implications for booking and redeeming award flights with EuroBonus points.
 
-You can We prepared the [Ultimate Guide to Using SAS EuroBonus Points](https://blog.awardfares.com/eurobonus-guide/). The intention is to help you find the best (free) flights on SAS and Star Alliance before the airline leaves and, ultimately, on SkyTeam partners once the airline enters the new alliance and integrates with those partners.
+You can be prepared with our [Ultimate Guide to Using SAS EuroBonus Points](https://blog.awardfares.com/eurobonus-guide/). We carefully crafted the guide to help you find the best (free) flights on SAS and Star Alliance before the airline leaves and, ultimately, on SkyTeam partners once the airline enters the new alliance and integrates with those partners.
 
 <div data-countdown="2024-03-31T22:59:00.000+02:00">
   TIME LEFT TO BOOK STAR ALLIANCE AWARDS
@@ -39,9 +39,9 @@ This is a great opportunity not only to get cheap flights to interesting destina
 
 ### 3. Thai Temporarily Disappears from EuroBonus Booking Portal
 
-During April, there was a glitch/update on the EuroBonus portal in which [**it was not possible to redeem points for flights on Thai Airways**](https://blog.awardfares.com/thai-stops-working-with-eurobonus/). This happened right after [United also disappeared from the search portal](https://blog.awardfares.com/united-stops-working-with-eurobonus/).Luckily, the functionality was restored after several hours.
+During April, there was a glitch/update on the EuroBonus portal in which [**it was not possible to redeem points for flights on Thai Airways**](https://blog.awardfares.com/thai-stops-working-with-eurobonus/). This happened after [United also disappeared from the search portal](https://blog.awardfares.com/united-stops-working-with-eurobonus/). Luckily, the functionality was restored after several hours.
 
-**Heads up!** It's important to both keep an eye on these changes, and also to be prepared to embrace change. We advice all EuroBonus members to make any desired bookings right away if you see availability. The situation is changing rapidly, and there's no guarantee that the integration with each of the partner airlines will remain available until SAS officially leaves Star Alliance on August 31st. At AwardFares, we've witnessed several sudden changes without any notice when it comes to awards on partner airlines.
+**Heads up!** It's important to keep an eye on these changes and be prepared to embrace change. We advise all EuroBonus members to make any desired bookings right away if they see availability. The situation is changing rapidly, and there's no guarantee that the integration with each partner airline will remain available until SAS officially leaves Star Alliance on August 31. At AwardFares, we've witnessed several sudden changes without any notice regarding awards on partner airlines.
 
 Read more [in this post](https://blog.awardfares.com/thai-stops-working-with-eurobonus/).
 
@@ -49,7 +49,7 @@ Read more [in this post](https://blog.awardfares.com/thai-stops-working-with-eur
 
 ### 4. Get 20.000 EuroBonus Points with Royal Caribbean
 
-Get double EuroBonus points on your next cruise. Book a 6 nights cruise (or more) with Royal Caribbean before May 31, 2024 and earn 20.000 points. **Important:** make sure you [book through the SAS EuroBonus portal](https://erbjudande.royalcaribbean.se/sas?utm_source=Eurobonus&utm_medium=homepage&utm_campaign=Spring_promo&utm_id=Spring) to get the points.
+Get double EuroBonus points on your next cruise. Book a 6-night cruise (or more) with Royal Caribbean before May 31, 2024, and earn 20.000 points. **Important:** make sure you [book through the SAS EuroBonus portal](https://erbjudande.royalcaribbean.se/sas?utm_source=Eurobonus&utm_medium=homepage&utm_campaign=Spring_promo&utm_id=Spring) to get the points.
 
 <img src="../assets/img/eurobonus-updates-apr-2024/royal-caribbean-1.webp" alt="Book a Royal Caribbean cruise and get 20.000 EuroBonus Points." class="noborder"/>
 
