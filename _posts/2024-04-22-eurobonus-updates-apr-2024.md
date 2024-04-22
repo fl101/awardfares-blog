@@ -5,7 +5,6 @@ category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-apr-2024/cover.webp
-hidden: true
 ---
 
 The EuroBonus program is buzzing this spring, and we're here to keep you in the loop with all the latest news. Every month, we summarize the hottest topics, so you can stay effortlessly informed.
