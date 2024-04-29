@@ -6,7 +6,7 @@ tags: [SAS, Star Alliance]
 author: Germán
 image: /assets/img/eurobonus-guide/cover.webp
 seo:
-  date_modified: 2024-04-08
+  date_modified: 2024-04-29
 ---
 
 This year marks a giant leap for Scandinavian Airlines, particularly for SAS EuroBonus members. The airline will be acquired, among others, by Air France-KLM, leaving Star Alliance and joining SkyTeam [starting September 1st, 2024](https://blog.awardfares.com/sas-transition-to-skyteam/). This means the game for frequent travelers will change very soon: award flights you can redeem using SAS EuroBonus points will be different forever.
@@ -92,6 +92,10 @@ If you have unused vouchers and are looking into flying with Star Alliance airli
 While the general timeframe of 330-359 days likely applies, specific release dates for EuroBonus members will depend on how SAS and SkyTeam airlines integrate their loyalty programs.
 
 We will keep monitoring the situation and updating our [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/) accordingly.
+
+### EuroBonus Status and Benefits
+
+From the moment SAS joins SkyTeam, EuroBonus **Silver** members will be recognized as **SkyTeam Elite** level, while **Gold** and **Diamond** members will be recognized as **Elite Plus**.
 
 ## How To Find Cheap EuroBonus Award Flights (Step-by-step)
 

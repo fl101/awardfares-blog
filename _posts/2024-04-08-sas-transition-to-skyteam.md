@@ -5,6 +5,8 @@ category: [News, EuroBonus]
 tags: [SAS, Star Alliance, SkyTeam]
 author: Germán
 image: /assets/img/sas-transition-to-skyteam/cover.webp
+seo:
+  date_modified: 2024-04-29
 ---
 
 The wait is over for SAS EuroBonus members. After months of rumors, [SAS confirmed today](https://www.flysas.com/en/eurobonus/skyteam/) they'll be moving from Star Alliance to SkyTeam starting **September 1st, 2024**. The shift will impact how you earn and redeem points, but also opens doors to a whole new network of airlines.
@@ -53,6 +55,10 @@ Another unclear thing is the possibility of mixed bookings Star Alliance + SkyTe
 In the meantime, this is a great opportunity to [explore using your points on Star Alliance airlines before the switch](https://blog.awardfares.com/eurobonus-star-alliance-awards/). Consider booking that dream trip you've been eyeing!
 
 <img src="../assets/img/sas-transition-to-skyteam/skyteam-airlines.webp" alt="SkyTeam Airlines that will be partners of SAS and EuroBonus" class="noborder" width="1500" height="261"/>
+
+## Status and Benefits
+
+From the moment SAS joins SkyTeam, EuroBonus members will enjoy benefits across most SkyTeam airlines. EuroBonus **Silver** members will be recognized as **SkyTeam Elite** level, while **Gold** and **Diamond** members will be recognized as **Elite Plus**.
 
 ## Frequently Asked Questions (FAQ)
 
