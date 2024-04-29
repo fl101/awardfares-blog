@@ -2,7 +2,7 @@
 layout: post
 title: "American Airlines Launches New Onboard Experience: Revamped Amenities, Bedding, and Dining"
 category: [News, AAdvantage]
-tags: [American]
+tags: [American Airlines]
 author: Germán
 image: /assets/img/american-new-onboard-experience/cover.webp
 ---
