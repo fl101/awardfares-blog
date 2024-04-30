@@ -5,8 +5,6 @@ category: [News, EuroBonus]
 tags: [SAS, Atlanta]
 author: Germán
 image: /assets/img/eb-atlanta-discount/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Heads up EuroBonus members. There are a number of ongoing promotions and offers by SAS that expire soon. From discounted tickets to Atlanta, to several extra points incentives, here's our quick summary.
