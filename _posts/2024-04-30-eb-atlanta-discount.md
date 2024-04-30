@@ -9,9 +9,11 @@ hidden: true
 sitemap: false
 ---
 
+Heads up EuroBonus members. There are a number of ongoing promotions and offers by SAS that expire soon. From discounted tickets to Atlanta, to several extra points incentives, here's our quick summary.
+
 ## 50% Discount on EuroBonus Award Trips to Atlanta
 
-SAS is banging hard on the new rout to Atlanta and is now offering a 50% points discount on bonus trips!
+SAS is banging hard on the new route to Atlanta and is now offering a 50% points discount on bonus trips!
 
 The offer applies to **round trips in SAS Go Bonus** (Economy). And as usual, children 2-11 years old get 50% of the point price, even on the already discounted price.
 
@@ -25,22 +27,22 @@ Here's an example of how the discount gets applied during the booking process:
 
 ### Find seats to Atlanta using AwardFares
 
-AwardFares is the fastest and easiest way to find available seats using EuroBonus points, as you can search across multiple dates at the same time, applying filters with just a few clicks.
+AwardFares is the fastest and easiest way to find available seats using EuroBonus points. You can search across multiple dates at the same time and apply filters with just a few clicks.
 
-Here's how to search for available seats on the route to Atlanta, to take advantage of the discount:
+Here's how to search for available seats on the route to Atlanta to take advantage of the discount:
 
 1. Go to [AwardFares](https://awardfares.com/search) and log-in.
 2. Set **EuroBonus** as the *Frequent Flyer Program*.
-3. Select the *Route*, for example, **Copenhagen (CPH) or Stockholm (ARN)** to **Atlanta (ATL)**
+3. Select the *Route*, for example, [**Copenhagen (CPH) or Stockholm (ARN)** to **Atlanta (ATL)**](https://awardfares.com/search?CPH,ARN.ATL.;c:economy;a:SK;z:sas).
 4. Under *Airline* set **SAS only**. This way you only get flights operated by SAS (instead of the whole Star Alliance).
 5. Tap on the *Cabin* pill and set **Economy**. The discount only applies to Economy tickets.
 6. Select a date or multiple dates using the Timeline View.
 
-That's it! You'll see the availability displayed in the Timeline
+That's it! You'll see the availability displayed in the Timeline:
 
 <img src="../assets/img/eb-atlanta-discount/timeline.webp" alt="50% point discount on flights to Atlanta with EuroBonus points (Timeline View)." class="noborder"/>
 
-And the full result list below. Tap anywhere on the flight to expand and see more details such as prices. Note that the discounted price will be shown on the SAS booking website during the booking (not on AwardFares).
+And also the full result list below. Tap anywhere on the flight to expand and see more details such as prices. Note that the discounted price will be shown on the SAS booking website during the booking (not on AwardFares).
 
 <img src="../assets/img/eb-atlanta-discount/results.webp" alt="50% point discount on flights to Atlanta with EuroBonus points (Results)." class="noborder"/>
 
@@ -82,7 +84,7 @@ Hertz offers a wide variety of rental cars covering a wide range of needs. SAS c
 
 SEB is still offering 5000 EuroBonus points as a welcome bonus to new customers applying for the SAS EuroBonus Mastercard. The offer is valid in Sweden and Norway. Previously the bonus was 3000 points, but the bank has increased it as they also raised the maintenance fees.
 
-<img src="../assets/img/eb-atlanta-discount/eurobonus-mastercard.webp" alt="Increased sign-up bonus for the SAS EuroBonus Mastercard. Get 5000 points." class="noborder"/>
+<img src="../assets/img/eb-atlanta-discount/eurobonus-mastercard.webp" alt="Increased sign-up bonus for the SAS EuroBonus Mastercard. Get 5000 points." class="noborder" style="max-width:600px;width:100%"/>
 
 ## Become a EuroBonus Pro
 

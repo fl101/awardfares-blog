@@ -13,8 +13,7 @@ The newly introduced anonymous search functionality lets users test out AwardFar
 
 The search is limited to one frequent flyer program and displays results as a list. To apply filters such as airlines, cabins, stops, or use the Map/Journey features, users still need to log-in.
 
-In addition, we added a 24h free trial period of our premium tiers, which is a great way to get familiar with all the features before committing. 
- 
+In addition, we added a 24h free trial period of our premium tiers, which is a great way to get familiar with all the features before committing.
 
 ## How to try AwardFares without an account
 
