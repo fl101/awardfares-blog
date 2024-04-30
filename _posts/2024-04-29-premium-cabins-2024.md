@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Premium Cabins That Will Be Launched in 2024"
+title: "Premium Cabins That Will Launch in 2024"
 category: [News]
 tags: [Lufthansa, American Airlines, Cathay Pacific, Air New Zealand, Emirates, Etihad, JAL]
 author: Germán
