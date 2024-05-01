@@ -30,7 +30,6 @@ Status matching allows you to leverage your existing elite status in one airline
 | Turkish Airlines Miles & Smiles | Star Alliance | [Check here](https://statusmatcher.com/company/turkish-airlines)                                   | Ongoing                                                       |
 | AF/KL Flying Blue               | SkyTeam       | [Check here](https://flyingblue.statusmatch.com/)                                                  | Ongoing                                                       |
 | Delta SkyMiles (Challenge)      | SkyTeam       | [Check here](https://www.delta.com/us/en/skymiles/medallion-program/status-match-challenge/#chart) | Ongoing                                                       |
-| Alaska Mileage Plan             | Oneworld      | [Check here](https://statusmatcher.com/company/alaska-airlines)                                    | Ongoing                                                       |
 
 Notes:
 
