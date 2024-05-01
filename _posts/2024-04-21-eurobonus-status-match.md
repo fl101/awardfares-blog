@@ -21,13 +21,28 @@ Status matching allows you to leverage your existing elite status in one airline
 * **Explore New Airlines**: Status matching opens doors to new travel options. This can be particularly useful if your travel needs change or SAS routes become less convenient. In this case, it's equally valid to status match to keep your current benefits on Star Alliance, but also to try new alliances, such as oneworld (with British Airways, Iberia, and Finnair).
 * **Boost Your Earning Potential**: With status in a new program, you can potentially earn more miles or points on flights with other airlines, given that most programs offer multipliers and accelerated point earnings on higher status levels (i.e., you get a head start!).
 
+## Programs Matching Status for EuroBonus Members
+
+| Program | Alliance | How to apply | Valid Until |
+|---------|----------|-------------|-------------|
+| United Mileage Plus | Star Alliance | [Check here](https://statusmatcher.com/report/105016) | Not matching EuroBonus members until SAS exits Star Alliance.|
+| Finnair Plus | Oneworld | [Check here](https://www.finnair.com/se-en/finnair-plus/match-your-tier-to-finnair-plus) | June 7, 2024 |
+| Turkish Airlines Miles & Smiles | Star Alliance | [Check here](https://statusmatcher.com/company/turkish-airlines) | Ongoing |
+| AF/KL Flying Blue | SkyTeam | [Check here](https://flyingblue.statusmatch.com/) | Ongoing |
+| Delta SkyMiles (Challenge) | SkyTeam | [Check here](https://statusmatcher.com/company/delta-air-lines) | Ongoing |
+| Alaska Mileage Plan | Oneworld | [Check here](https://statusmatcher.com/company/alaska-airlines) | Ongoing |
+
+Notes:
+
+* Finnair has recently launched a Liftime Gold and Diamond, although they only offer matching to Gold status.
+
 ## How to Status Match Your EuroBonus Status
 
 ### 1. Find a Status Match Offer
 
 Check the websites of airlines you're interested in, particularly those within your target alliance (Star Alliance, SkyTeam, etc.). Look for dedicated loyalty program pages or promotions sections.
 
-One tool we love is [**StatusMathcher.com**](https://statusmatcher.com/). It provides resources and explanations about status matching. It also serves as a community, sharing *field reports* from users about recent successful status matches with various travel programs. Think of it as a guide and information hub, not a direct service for status matching. It can't guarantee matches, but offers valuable insights and helps you navigate the process.
+One tool we love is [**StatusMatcher.com**](https://statusmatcher.com/). It provides resources and explanations about status matching. It also serves as a community, sharing *field reports* from users about recent successful status matches with various travel programs. Think of it as a guide and information hub, not a direct service for status matching. It can't guarantee matches, but offers valuable insights and helps you navigate the process.
 
 For EuroBonus members, we recommend looking into [United MileagePlus](https://statusmatcher.com/company/united-airlines): this program has a track record of consistently matching other airline status and welcoming other members, and it is a Star Alliance member. Other programs we recommend trying to match are [Lufthansa Miles & More](https://www.miles-and-more.com/), [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan), and [Avianca Lifemiles](https://www.lifemiles.com/).
 
