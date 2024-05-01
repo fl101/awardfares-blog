@@ -17,24 +17,24 @@ Status matching allows you to leverage your existing elite status in one airline
 
 ## Benefits of Status Matching
 
-* **Preserve Your Benefits**: Don't lose the perks you've earned! Matching your EuroBonus status ensures a smooth transition and continued access to valuable travel benefits.
-* **Explore New Airlines**: Status matching opens doors to new travel options. This can be particularly useful if your travel needs change or SAS routes become less convenient. In this case, it's equally valid to status match to keep your current benefits on Star Alliance, but also to try new alliances, such as oneworld (with British Airways, Iberia, and Finnair).
-* **Boost Your Earning Potential**: With status in a new program, you can potentially earn more miles or points on flights with other airlines, given that most programs offer multipliers and accelerated point earnings on higher status levels (i.e., you get a head start!).
+- **Preserve Your Benefits**: Don't lose the perks you've earned! Matching your EuroBonus status ensures a smooth transition and continued access to valuable travel benefits.
+- **Explore New Airlines**: Status matching opens doors to new travel options. This can be particularly useful if your travel needs change or SAS routes become less convenient. In this case, it's equally valid to status match to keep your current benefits on Star Alliance, but also to try new alliances, such as oneworld (with British Airways, Iberia, and Finnair).
+- **Boost Your Earning Potential**: With status in a new program, you can potentially earn more miles or points on flights with other airlines, given that most programs offer multipliers and accelerated point earnings on higher status levels (i.e., you get a head start!).
 
 ## Programs Matching Status for EuroBonus Members
 
-| Program | Alliance | How to apply | Valid Until |
-|---------|----------|-------------|-------------|
-| United Mileage Plus | Star Alliance | [Check here](https://statusmatcher.com/report/105016) | Not matching EuroBonus members until SAS exits Star Alliance.|
-| Finnair Plus | Oneworld | [Check here](https://www.finnair.com/se-en/finnair-plus/match-your-tier-to-finnair-plus) | June 7, 2024 |
-| Turkish Airlines Miles & Smiles | Star Alliance | [Check here](https://statusmatcher.com/company/turkish-airlines) | Ongoing |
-| AF/KL Flying Blue | SkyTeam | [Check here](https://flyingblue.statusmatch.com/) | Ongoing |
-| Delta SkyMiles (Challenge) | SkyTeam | [Check here](https://statusmatcher.com/company/delta-air-lines) | Ongoing |
-| Alaska Mileage Plan | Oneworld | [Check here](https://statusmatcher.com/company/alaska-airlines) | Ongoing |
+| Program                         | Alliance      | How to apply                                                                                       | Valid Until                                                   |
+| ------------------------------- | ------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| United Mileage Plus             | Star Alliance | [Check here](https://statusmatcher.com/report/105016)                                              | Not matching EuroBonus members until SAS exits Star Alliance. |
+| Finnair Plus                    | Oneworld      | [Check here](https://www.finnair.com/se-en/finnair-plus/match-your-tier-to-finnair-plus)           | June 7, 2024                                                  |
+| Turkish Airlines Miles & Smiles | Star Alliance | [Check here](https://statusmatcher.com/company/turkish-airlines)                                   | Ongoing                                                       |
+| AF/KL Flying Blue               | SkyTeam       | [Check here](https://flyingblue.statusmatch.com/)                                                  | Ongoing                                                       |
+| Delta SkyMiles (Challenge)      | SkyTeam       | [Check here](https://www.delta.com/us/en/skymiles/medallion-program/status-match-challenge/#chart) | Ongoing                                                       |
+| Alaska Mileage Plan             | Oneworld      | [Check here](https://statusmatcher.com/company/alaska-airlines)                                    | Ongoing                                                       |
 
 Notes:
 
-* Finnair has recently launched a Liftime Gold and Diamond, although they only offer matching to Gold status.
+- Finnair has recently launched a Liftime Gold and Diamond, although they only offer matching to Gold status.
 
 ## How to Status Match Your EuroBonus Status
 
@@ -42,7 +42,7 @@ Notes:
 
 Check the websites of airlines you're interested in, particularly those within your target alliance (Star Alliance, SkyTeam, etc.). Look for dedicated loyalty program pages or promotions sections.
 
-One tool we love is [**StatusMatcher.com**](https://statusmatcher.com/). It provides resources and explanations about status matching. It also serves as a community, sharing *field reports* from users about recent successful status matches with various travel programs. Think of it as a guide and information hub, not a direct service for status matching. It can't guarantee matches, but offers valuable insights and helps you navigate the process.
+One tool we love is [**StatusMatcher.com**](https://statusmatcher.com/). It provides resources and explanations about status matching. It also serves as a community, sharing _field reports_ from users about recent successful status matches with various travel programs. Think of it as a guide and information hub, not a direct service for status matching. It can't guarantee matches, but offers valuable insights and helps you navigate the process.
 
 For EuroBonus members, we recommend looking into [United MileagePlus](https://statusmatcher.com/company/united-airlines): this program has a track record of consistently matching other airline status and welcoming other members, and it is a Star Alliance member. Other programs we recommend trying to match are [Lufthansa Miles & More](https://www.miles-and-more.com/), [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan), and [Avianca Lifemiles](https://www.lifemiles.com/).
 
@@ -74,7 +74,7 @@ Here's an email template you can copy and paste:
 >
 > I am writing to inquire about the possibility of a status match to your [Target Airline] loyalty program. I am very interested in flying [Target Airline] more frequently in the future, and I believe my travel history with [Current Airline] demonstrates a commitment to frequent flying.
 >
-> As proof of my status with [Current Airline], I have attached a screenshot of my online account showing my current tier level [or a copy of your membership card]. 
+> As proof of my status with [Current Airline], I have attached a screenshot of my online account showing my current tier level [or a copy of your membership card].
 >
 > [Optional: Briefly mention any additional information that strengthens your request. This could be recent flight activity with your current airline, a planned upcoming trip with the target airline, or specific benefits of the target airline program that interest you.]
 >
@@ -98,12 +98,12 @@ The picture below shows an example of an official status matching website from F
 
 ## Additional Tips and Considerations
 
-* Be sure to read the terms and conditions of the status match offer carefully. This will outline the duration of the matched status, any requirements to retain it, and any limitations on benefits.
-* **Temporary Matches**: Some status matches might be temporary, lasting only for a specific period. Be sure to understand the terms and conditions before applying.
-* **Act quickly!** Many status match offers are limited-time promotions.
-* Don't be discouraged if your initial request isn't accepted.
-* You can always try contacting the airline directly or look for offers.
-* Focus on Long-Term Value: When choosing a program to match to, prioritize airlines that align with your future travel plans and offer benefits you value most.
+- Be sure to read the terms and conditions of the status match offer carefully. This will outline the duration of the matched status, any requirements to retain it, and any limitations on benefits.
+- **Temporary Matches**: Some status matches might be temporary, lasting only for a specific period. Be sure to understand the terms and conditions before applying.
+- **Act quickly!** Many status match offers are limited-time promotions.
+- Don't be discouraged if your initial request isn't accepted.
+- You can always try contacting the airline directly or look for offers.
+- Focus on Long-Term Value: When choosing a program to match to, prioritize airlines that align with your future travel plans and offer benefits you value most.
 
 ## Become a EuroBonus Pro
 
@@ -115,7 +115,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-* [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-* [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-* [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-* [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
+- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
+- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
+- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
