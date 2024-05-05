@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Cowtool Alternative With Superpowers (2023)"
+title: "The Cowtool Alternative With Superpowers"
 category: [Guide, Aeroplan]
 tags: [Air Canada, Cowtool]
 author: Germán
 image: /assets/img/awardfares-vs-cowtool/cover.webp
 seo:
-  date_modified: 2024-02-18
+  date_modified: 2024-05-05
 ---
 
 AwardFares lets you search flights to find available award seats in a quick way with modern user interface. In just a few clicks, you can search award availability across multiple frequent flyer programs, setup alerts, lookup seat maps and flight schedules.
@@ -82,9 +82,7 @@ While Cowtool is mainly targeted to Air Canada Aeroplan members, AwardFares cove
 
 AwardFares has been meant for mobile from day one. It doesn’t compromise the intuitive searches nor the beautiful user interface when going mobile, and you can even [install on your phone](https://blog.awardfares.com/awardfares-mobile-app/).
 
-<figure>
-<img src="/assets/img/awardfares-vs-cowtool/af-mobile.webp" alt="AwardFares Mobile App"/>
-</figure>
+<img src="/assets/img/awardfares-vs-cowtool/af-mobile.webp" alt="AwardFares Mobile App" style="max-width:300px;width:100%"/>
 
 Cowtool, on the other hand, doesn't offer a dedicated mobile version.
 
@@ -92,9 +90,7 @@ Cowtool, on the other hand, doesn't offer a dedicated mobile version.
 
 Customer support is at the core of AwardFares’ principles. That’s why some UI elements at hand aim at seeking help quickly. On the AwardFares site, the contact bubble button lets users quickly reach out and ask for help, regardless if they are on a desktop, tablet, or mobile. Users get access to a library of frequently asked questions and can post new ones immediately. Email and social media support channels are also available with high response rates.
 
-<figure>
-<img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" class="half" />
-</figure>
+<img src="/assets/img/awardfares-vs-expertflyer/6-awardfares-vs-expertflyer-mobile-help.webp" alt="AwardFares Help Button" style="max-width:300px;width:100%" />
 
 ### 6. Pricing
 
@@ -109,7 +105,6 @@ AwardFares Pricing Tiers:
 3. **Diamond** (USD 19.99): award search, award calendar, award map, journey planner, **real-time availability** on award seats, **unlimited seat alerts**, **unlimited custom searches per day**, max 30 searches at once, award availability count, search with stops, per-program availability, cabin annotations, seat maps, award release dates, and flight schedules tool.
 
 <img src="/assets/img/awardfares-vs-cowtool/af-pricing.webp" alt="AwardFares Pricing" />
-
 
 On the other hand, Cowtool has a "pay what you want" pricing model, where the default is $0. If you choose to pay for Cowtool, you will not be granted access to any tools, features, or betas, that you do not otherwise have access to. This is just to help support the time and cost involved in developing and running Cowtool. Nothing extra will be provided in exchange for any payment.
 
