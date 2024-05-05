@@ -1,21 +1,21 @@
 ---
 ---
 {
-  {% for post in site.posts %}
-  {% unless post.hidden %}
+  {%- for post in site.posts -%}
+  {%- unless post.hidden -%}
     "{{ post.url | slugify }}": {
       "id": "{{ post.url | slugify }}",
       "title": "{{ post.title | xml_escape }}",
       "tags": "{{ post.tags | join: ', ' }}",
       "date": "{% include date.html post=post %}",
-      "sortDate": "{{ post.date | date: '%Y-%m-%dT%H:%M:%S.%L%z' }}",
+      "sortDate": "{% include iso-date.html post=post %}",
       "author": "{{ post.author | xml_escape }}",
       "category": {{ post.category | jsonify }},
       "content": {{ post.content | strip_html | strip_newlines | truncate: 100 | jsonify }},
       "url": "{{ post.url | xml_escape }}",
       "image": "{{ post.image }}"
     }
-    {% unless forloop.last %},{% endunless %}
-  {% endunless %}
-  {% endfor %}
+    {%- unless forloop.last -%},{%- endunless -%}
+  {%- endunless -%}
+  {%- endfor -%}
 }

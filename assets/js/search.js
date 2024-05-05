@@ -16,7 +16,7 @@
         return decodeURIComponent(value.replace(/\+/g, "%20"));
       }
     }
-    return '';
+    return "";
   }
 
   function getSearchTerm() {
@@ -24,10 +24,8 @@
   }
 
   function setSearchBoxValue(searchBoxValue) {
-    document
-      .querySelectorAll(SEARCH_INPUT_SELECTOR)
-      .forEach((el) => el.setAttribute("value", searchBoxValue));
-    document.getElementById(SEARCH_TITLE_ID).innerText = 'Results for: ' + searchBoxValue;
+    document.querySelectorAll(SEARCH_INPUT_SELECTOR).forEach((el) => el.setAttribute("value", searchBoxValue));
+    document.getElementById(SEARCH_TITLE_ID).innerText = "Results for: " + searchBoxValue;
   }
 
   function showNoResultsMessage() {
@@ -40,7 +38,7 @@
   }
 
   function createPostListingHTML(postItem) {
-    const tags = postItem.category?.join ? postItem.category.join(', ') : postItem.category;
+    const tags = postItem.category?.join ? postItem.category.join(", ") : postItem.category;
     return `
       <div class="search-link">
         <div>
@@ -50,7 +48,7 @@
         </div>
         <div>
           <div><a href="${postItem.url}">${postItem.title}</a></div>
-          <div class="date">${postItem.date} ${tags ? `· ${tags}` : ''}</div>
+          <div class="date">${postItem.date} ${tags ? `· ${tags}` : ""}</div>
         </div>
       </div>
     `;
@@ -65,7 +63,7 @@
       }
       setSearchResultsHTML(postsListingHTML);
     } else {
-      setSearchResultsHTML('');
+      setSearchResultsHTML("");
       showNoResultsMessage();
     }
   }
@@ -74,11 +72,10 @@
   if (searchTerm) {
     setSearchBoxValue(searchTerm);
   } else {
-    setSearchResultsHTML('')
+    setSearchResultsHTML("");
   }
 
   function search(searchTerm) {
-
     var lunrIndex = lunr(function () {
       this.field("id");
       this.field("title", { boost: 10 });
@@ -90,7 +87,11 @@
       }
     });
 
-    var results = lunrIndex.search(searchTerm);
+    var results = lunrIndex.search(searchTerm).sort((a, b) => {
+      const firstPost = window.store[a.ref];
+      const secondPost = window.store[b.ref];
+      return new Date(secondPost.sortDate) - new Date(firstPost.sortDate);
+    });
     displaySearchResults(results, window.store);
   }
 

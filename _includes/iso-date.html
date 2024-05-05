@@ -1,0 +1,5 @@
+{% if include.post.seo.date_modified %}
+  {{- include.post.seo.date_modified | date: '%Y-%m-%dT%H:%M:%S.%L%z' -}}
+{% else %}
+  {{- include.post.date | date: '%Y-%m-%dT%H:%M:%S.%L%z' -}}
+{%- endif -%}
