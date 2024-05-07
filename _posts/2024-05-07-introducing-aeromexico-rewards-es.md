@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aeroméxico Rewards se una a AwardFares: Viaja en Clase Premier y el 787-9 Bar con Puntos"
+title: "Aeroméxico Rewards se une a AwardFares! Viaja en Clase Premier y el 787-9 Bar con Puntos"
 category: [News, Aeromexico Rewards]
 tags: [Features, Aeromexico]
 author: Germán
