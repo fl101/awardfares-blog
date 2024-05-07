@@ -6,7 +6,6 @@ tags: [Features, Aeromexico]
 author: Germán
 image: /assets/img/introducing-aeromexico/cover.webp
 lang: es
-hidden: true
 ---
 
 Estamos muy felices de anunciar que, desde hoy, es posible buscar vuelos Aeroméxico Rewards con AwardFares! Encontrar los mejores vuelos usando Puntos Premier acaba de volverse más fácil. AwardFares te permite buscar sin esfuerzo las opciones más convenientes para volar en Aeroméxico y otras aerolíneas de SkyTeam, y así obtener lo mejor de tus puntos.

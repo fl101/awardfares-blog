@@ -5,7 +5,6 @@ category: [News, Aeromexico Rewards]
 tags: [Features, Aeromexico]
 author: Germán
 image: /assets/img/introducing-aeromexico/cover.webp
-hidden: true
 ---
 
 We're thrilled to share that Aeromexico Rewards has now joined the lineup! Finding the best ways to use your points for Aeromexico flights just got easier. AwardFares lets you effortlessly search for the most rewarding redemption options on Aeromexico and explore award travel opportunities with other airlines in our comprehensive search engine.
