@@ -5,7 +5,7 @@ layout: null
 {%- for category in site.categories -%}
     {%- if category[0] == page.category -%}
   {%- for post in category[1] -%}
-    {%- unless post.lang == "zh_TW" -%}
+    {%- unless post.lang != nil -%}
     {%- unless post.hidden -%}
     ,{
       "title": {{ post.title | jsonify }},
