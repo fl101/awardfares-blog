@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How To Find AAdvantage Awards In 2024"
+title: "How To Find AAdvantage Award Flights In 2024"
 category: [AAdvantage]
 tags: [American Airlines]
 author: Germán
 image: /assets/img/aadvantage-guide/cover.webp
 seo:
-  date_modified: 2024-02-18
+  date_modified: 2024-05-09
 ---
 
 [AAdvantage](https://www.aa.com/i18n/aadvantage-program/aadvantage-program.jsp) is one of the world’s largest, most reputable frequent flyer programs. In April 2023, the AAdvantage Award Chart was simplified, reducing the number of award zones from 10 to just 4.
@@ -19,9 +19,9 @@ Let’s get started!
 
 - [What is AAdvantage?](#what-is-aadvantage)
 - [How to find AAdvantage Awards using AwardFares (Step-by-step)](#how-to-find-aadvantage-awards-using-awardfares-step-by-step)
-- [Why AwardFares is the easiest way to Find AAdvantage Award Fights?](#why-awardfares-is-the-easiest-way-to-find-aadvantage-award-fights)
+- [Why AwardFares is the easiest way to Find AAdvantage Award Flights?](#why-awardfares-is-the-easiest-way-to-find-aadvantage-award-flights)
 - [AAdvantage Award Chart (Updated)](#aadvantage-award-chart-updated)
-- [Also read](#also-read)
+- [Learn More](#learn-more)
 
 ## What is [AAdvantage](https://awardfares.com/search?..;z:aadvantage)?
 
@@ -75,7 +75,7 @@ If you know your travel dates, try adding them to the search field. You can also
 <img src="/assets/img/aadvantage-guide/select-date.webp" alt="Select the desired date in AwardFares." />
 </figure>
 
-Once selecter, AwardFares will start searching for available flights for that date, and will display them in a list below.
+Once selected, AwardFares will start searching for available flights for that date, and will display them in a list below.
 
 <figure>
 <img src="/assets/img/aadvantage-guide/list-view.webp" alt="Search results for award flights on AwardFares (List View)." />
@@ -111,7 +111,7 @@ That’s it! Pretty easy, huh? With only a few clicks, you can see AAdvantage’
 
 With our [premium features on Gold and Diamond](https://awardfares.com/pricing), you can also set up alerts to get notified when a certain route or flight gets opened, as well as check seat maps, flight schedules, and more.
 
-## Why AwardFares is the easiest way to Find AAdvantage Award Fights?
+## Why AwardFares is the easiest way to Find AAdvantage Award Flights?
 
 AwardFares is the world’s fastest search engine for award flights, and it works on multiple frequent flyer programs at once! It makes it super easy to find award flights in seconds, without having to do manual searches on American Airlines website.
 
@@ -202,7 +202,7 @@ Here is a summary of the number of miles required to book an award flight on som
   - Business: 17,500 miles one-way
   - First: 27,500 miles one-way
 
-## Also read
+## Learn More
 
 Check out this post with the [**Best AAdvantage Redemptions**](https://blog.awardfares.com/aadvantage-best-redemptions-2023/).
 
