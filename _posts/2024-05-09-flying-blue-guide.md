@@ -5,18 +5,16 @@ category: [Flying Blue]
 tags: [Air France, KLM, SkyTeam]
 author: Germán
 image: /assets/img/flying-blue-guide/cover.webp
-hidden: true
-sitemap: false
 ---
 
-Flying Blue, the loyalty program for Air France and KLM, unlocks a vast network of destinations across the globe. But with a tricky dynamic award chart and prices changing often, finding the best ways to use your miles can feel overwhelming. Fear not, traveler!
+**Flying Blue**, the loyalty program for Air France and KLM, unlocks a vast network of destinations across the globe. But with a tricky dynamic award chart and prices changing often, finding the best ways to use your miles can feel overwhelming. Fear not, traveler!
 
 In this guide, we show you how to maximize your Flying Blue miles with AwardFares, sharing our favorite insider tips on searching for and booking award flights that deliver the most value. Let's get started!
 
 ### In this post
 
 - [What is Flying Blue?](#what-is-flying-blue)
-- [How to Find the Best Flying Blue Award Flights (Step-by-step)](#how-to-find-the-best-flying-blue-award-flights-step-by-step)
+- [How to find the Best Flying Blue Award Flights (Step-by-step)](#how-to-find-the-best-flying-blue-award-flights-step-by-step)
 - [Note on Promo Rewards](#note-on-promo-rewards)
 - [Why is AwardFares the easiest way to Find Flying Blue Award Flights?](#why-is-awardfares-the-easiest-way-to-find-flying-blue-award-flights)
 - [Become a Flying Blue Pro](#become-a-flying-blue-pro)
@@ -26,7 +24,7 @@ In this guide, we show you how to maximize your Flying Blue miles with AwardFare
 
 Flying Blue is the loyalty program of Air France-KLM, one of the world's largest airline groups, including several other airline partners. Launched in June 2005 and born from the merger of Air France's and KLM's previous loyalty schemes, Flying Blue offers features like earning miles based on the amount spent on tickets, a wide range of redemption options, and periodic [**Promo Rewards** (or *Promo Awards*)](#note-on-promo-rewards). Members of Flying Blue can redeem their accumulated miles for flight tickets, upgrades, extra baggage allowance, and other services. The program features different membership tiers, starting from Explorer and moving up to Silver, Gold, Platinum, and Ultimate, each offering progressively more benefits, including priority boarding, lounge access, and increased mileage accrual.
 
-## How to Find the Best Flying Blue Award Flights (Step-by-step)
+## How to find the Best Flying Blue Award Flights (Step-by-step)
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup?utm_source=how-to-find-cheap-award-flights&utm_medium=blog&utm_content=AwardFares)
 
@@ -86,7 +84,7 @@ AwardFares will redirect you to Air France’s website to complete your booking 
 
 ## Note on Promo Rewards
 
-**Flying Blue Promo Rewards** are discounted award flights on Air France and KLM that Flying Blue releases every month. These discounted tickets can offer up to 50% off the regular miles cost. AwardFares will show you the already discounted prices for the Promo Rewards.
+[**Flying Blue Promo Rewards**](https://www.flyingblue.us/en/earn-spend/flights/promo-rewards) are discounted award flights on Air France and KLM that Flying Blue releases every month. These discounted tickets can offer up to 50% off the regular miles cost. AwardFares will show you the already discounted prices for the Promo Rewards.
 
 ## Why is AwardFares the easiest way to Find Flying Blue Award Flights?
 
