@@ -18,13 +18,13 @@ In this guide, we show you how to maximize your Flying Blue miles with AwardFare
 - [What is Flying Blue?](#what-is-flying-blue)
 - [How to Find the Best Flying Blue Award Flights (Step-by-step)](#how-to-find-the-best-flying-blue-award-flights-step-by-step)
 - [Note on Promo Rewards](#note-on-promo-rewards)
-- [Why AwardFares is the easiest way to Find Flying Blue Award Flights?](#why-awardfares-is-the-easiest-way-to-find-flying-blue-award-flights)
+- [Why is AwardFares the easiest way to Find Flying Blue Award Flights?](#why-is-awardfares-the-easiest-way-to-find-flying-blue-award-flights)
 - [Become a Flying Blue Pro](#become-a-flying-blue-pro)
 - [Learn More](#learn-more)
 
 ## What is Flying Blue?
 
-Flying Blue is the loyalty program of Air France-KLM, one of the world's largest airline groups, including several other airline partners. Launched in June 2005 and born from the merger of Air France's and KLM's previous loyalty schemes, Flying Blue offers features like earning miles based on the amount spent on tickets, a wide range of redemption options, and periodic **Promo Rewards** (or *Promo Awards*). Members of Flying Blue can redeem their accumulated miles for flight tickets, upgrades, extra baggage allowance, and other services. The program features different membership tiers, starting from Explorer and moving up to Silver, Gold, Platinum, and Ultimate, each offering progressively more benefits, including priority boarding, lounge access, and increased mileage accrual.
+Flying Blue is the loyalty program of Air France-KLM, one of the world's largest airline groups, including several other airline partners. Launched in June 2005 and born from the merger of Air France's and KLM's previous loyalty schemes, Flying Blue offers features like earning miles based on the amount spent on tickets, a wide range of redemption options, and periodic [**Promo Rewards** (or *Promo Awards*)](#note-on-promo-rewards). Members of Flying Blue can redeem their accumulated miles for flight tickets, upgrades, extra baggage allowance, and other services. The program features different membership tiers, starting from Explorer and moving up to Silver, Gold, Platinum, and Ultimate, each offering progressively more benefits, including priority boarding, lounge access, and increased mileage accrual.
 
 ## How to Find the Best Flying Blue Award Flights (Step-by-step)
 
@@ -36,37 +36,27 @@ Creating an account is optional, but it’s also free, and it gives you access t
 
 In the **Frequent Flyer Program** picker, select **Flying Blue**.
 
-<figure>
 <img src="/assets/img/flying-blue-guide/ffp.webp" alt="Select Flying Blue in AwardFares Frequent Flyer Program Picker." />
-</figure>
 
 ### 3. Add a Route(s)
 
 In the **From** and **To** fields, enter your departure and arrival airports. In the example below, we search for flights between [**Paris** (CDG) and **Montreal** (YUL)](https://awardfares.com/search?CDG.YUL.;z:flyingblue).
 
-<figure>
 <img src="/assets/img/flying-blue-guide/route.webp" alt="Select the origin and destination city in AwardFares."/>
-</figure>
 
 ### 4. Explore Travel Dates
 
 If you have a particular date in mind, add it by tapping on the Calendar field.
 
-<figure>
 <img src="/assets/img/flying-blue-guide/calendar.webp" alt="Select the desired date to find Flying Blue Award Flights in AwardFares." />
-</figure>
 
 Then, AwardFares will search for available flights on that day, showing the results in a list below.
 
-<figure>
 <img src="/assets/img/flying-blue-guide/list-view.webp" alt="Search results for award flights on AwardFares (List View)." />
-</figure>
 
 In addition, you can use the **Timeline View** to explore the availability for multiple days simultaneously if you don't have a set travel date. The bars show different classes in different colors.
 
-<figure>
 <img src="/assets/img/flying-blue-guide/timeline-view.webp" alt="Search results for award flights on AwardFares (Timeline View)." />
-</figure>
 
 ### 5. Sort by Price
 
@@ -96,11 +86,9 @@ AwardFares will redirect you to Air France’s website to complete your booking 
 
 ## Note on Promo Rewards
 
-**Flying Blue Promo Rewards** are discounted award flights on Air France and KLM that Flying Blue releases every month. These discounted tickets can offer up to 50% off the regular miles cost.
+**Flying Blue Promo Rewards** are discounted award flights on Air France and KLM that Flying Blue releases every month. These discounted tickets can offer up to 50% off the regular miles cost. AwardFares will show you the already discounted prices for the Promo Rewards.
 
-AwardFares will show you the 
-
-## Why AwardFares is the easiest way to Find Flying Blue Award Flights?
+## Why is AwardFares the easiest way to Find Flying Blue Award Flights?
 
 AwardFares is the world’s fastest search engine for award flights, and it works across different frequent flyer programs, routes, and dates at once. It makes it incredibly easy to find award flights in seconds, without having to do manual searches on Air France o KLM booking portal.
 
@@ -122,7 +110,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
+- [Sky's (Almost) The Limit: Conquering First Class With Flying Blue](https://blog.awardfares.com/flying-blue-skyteam-first-class/)
+- [Flying Blue Award Search Now Available](https://blog.awardfares.com/introducing-flying-blue/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+- [KLM Will Start Operating the Airbus A321neo in August 2024 (Awards Available)](https://blog.awardfares.com/klm-a321neo/)
