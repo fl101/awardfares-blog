@@ -11,7 +11,7 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <language>en</language>
     {% for post in site.posts limit:15 %}
-    {% unless post.lang == "zh_TW" %}
+    {% unless post.lang != nil %}
     {% unless post.hidden %}
     <item>
       <title>{{ post.title | xml_escape }}</title>

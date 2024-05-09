@@ -9,7 +9,7 @@ layout: default
     <a href="/">AwardFares Blog</a>
   </div>
 
-  {% assign latest = site.posts | where_exp:"item","item.hidden!=true" | first
+  {% assign latest = site.posts | where_exp:"item","item.hidden!=true" | where_exp:"item","item.lang==nil" | first
   %}
   <div class="latest-post">
     <div>
@@ -34,7 +34,7 @@ layout: default
   {% assign categories = site.categories %} {% assign promotedCategories =
   "News,Tools,Tutorial" | split: ',' %} {% for categoryKey in promotedCategories
   %} {% assign category = categories[categoryKey] %} {% assign posts = category
-  | where_exp:"item","item.hidden!=true" %} {% if posts.size > 2 %}
+  | where_exp:"item","item.hidden!=true" | where_exp:"item","item.lang==nil" %} {% if posts.size > 2 %}
   <div class="category">
     <h2>
       <a href="/categories/#{{ categoryKey }}">{{ categoryKey }}</a>
@@ -62,7 +62,7 @@ layout: default
   </div>
   {% endif %} {% endfor %} {% for category in categories reversed %} {% if
   promotedCategories contains category[0] %} {% continue %} {% endif %} {%
-  assign posts = category[1] | where_exp:"item","item.hidden!=true" %} {% if
+  assign posts = category[1] | where_exp:"item","item.hidden!=true" | where_exp:"item","item.lang==nil" %} {% if
   posts.size > 2 %}
   <div class="category">
     <h2>
@@ -96,7 +96,7 @@ layout: default
     <h2>Latest Posts</h2>
     {% endif %}
     <div class="category-posts">
-      {% for post in paginator.posts %} {% unless post.hidden %}
+      {% for post in paginator.posts %} {% unless post.hidden %} {% unless post.lang != nil %}
       <div>
         <a href="{{ post.url }}">
           <img
@@ -113,7 +113,7 @@ layout: default
           {{ post.excerpt | stripe_html | strip_newlines }}
         </div>
       </div>
-      {% endunless %} {% endfor %}
+      {% endunless %} {% endunless %} {% endfor %}
     </div>
   </div>
 
