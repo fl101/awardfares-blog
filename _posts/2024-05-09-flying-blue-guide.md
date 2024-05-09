@@ -98,7 +98,7 @@ Advantages of using AwardFares:
 2. **Easy to use**. Our interface is modern and simple, it makes it easy to find award availability and **understand the results**. You can enter your departure and arrival airports, your travel dates, and your class of service, and AwardFares will display a list of flights that are available to book using Flying Blue miles.
 3. **Use it on-the-go**. It works perfectly on the phone, letting you find new flights, plan journeys and set up alerts while you are on the road.
 4. **Real-time results**. AwardFares finds real-time availability, showing you the latest and most up-to-date results.
-5. **Alerts**. Couldn't find the seat you were looking for? Don't panic. Set up an alert and AwardFares will nofify you via email or push notification as soon as seats become avilable.
+5. **Alerts**. Couldn't find the seat you were looking for? Don't panic. Set up an alert and AwardFares will notify you via email or push notification as soon as seats become available.
 
 ## Become a Flying Blue Pro
 
@@ -110,7 +110,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-- [Sky's (Almost) The Limit: Conquering First Class With Flying Blue](https://blog.awardfares.com/flying-blue-skyteam-first-class/)
+- [Sky's (Almost) The Limit: Conquering First Class with Flying Blue](https://blog.awardfares.com/flying-blue-skyteam-first-class/)
 - [Flying Blue Award Search Now Available](https://blog.awardfares.com/introducing-flying-blue/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [KLM Will Start Operating the Airbus A321neo in August 2024 (Awards Available)](https://blog.awardfares.com/klm-a321neo/)
