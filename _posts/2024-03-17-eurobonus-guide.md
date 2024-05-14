@@ -187,7 +187,7 @@ You can also tap on the **Stops** header to display the shortest trips first (am
 
 AwardFares' quick sorting feature is very useful when trying to book premium cabins such as Business and First, and specially when the award charts use dynamic pricing. This might be your secret weapon to maximizing the value of your EuroBouns points if it shifts to a dynamic pricing scheme, like Flying Blue.
 
-#### 6. Book on the EuroBonus Star Alliance Portal
+#### 4. Book on the EuroBonus Star Alliance Portal
 
 Once you have identified the flights you want go to SAS website, [log-in and choose *Star Alliance Bonus Trips*](https://www.flysas.com/nl-en/eurobonus/star-alliance-award-trips/) to proceed with the booking. Remember that some of these itineraries are not bookable online for specific programs (e.g., mixed-cabin awards). In those situations, you will need to call SAS service center.
 

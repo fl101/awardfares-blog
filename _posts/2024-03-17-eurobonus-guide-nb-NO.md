@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "Guide til SAS EuroBonus Bonusreiser (Før og Etter SkyTeam)"
+title: "Guide Til å Bruke SAS EuroBonus Poeng (Før & Etter de blir medlem av SkyTeam)"
 category: [EuroBonus, Guide]
 tags: [SAS, Star Alliance]
 author: Germán
 image: /assets/img/eurobonus-guide/cover-no.webp
 lang: nb-NO
-hidden: true
-sitemap: false
 ---
 
-I dette året markerer et stort sprang for Scandinavian Airlines, spesielt for SAS EuroBonus-medlemmer. Flyselskapet vil bli kjøpt, blant annet, av Air France-KLM, forlater Star Alliance (planlagt for 2. kvartal 2024) og slutter seg til SkyTeam umiddelbart! Dette betyr at spillet for hyppige reisende vil endre seg veldig snart: prisflyvninger du kan innløse ved å bruke SAS EuroBonus-poeng vil være annerledes for alltid.
+Dette året markerer et stort steg for Scandinavian Airlines, spesielt for SAS EuroBonus-medlemmer. Flyselskapet vil bli kjøpt opp, av blant annet Air France-KLM, og forlate Star Alliance for så å bli med i SkyTeam fra 1. september 2024. Dette betyr at spillet for hyppige reisende vil endre seg veldig snart: award-flyvninger du kan innløse ved å bruke SAS EuroBonus-poeng vil være annerledes for alltid.
 
-**Hvordan forberede seg på overgangen?** Ikke bekymre deg – vi har dekket deg. Det er derfor vi forberedte dette innlegget som den ultimate guiden til å bruke SAS EuroBonus-poeng. Hensikten er å hjelpe deg med å finne de beste (gratis) flyvningene på SAS og Star Alliance før flyselskapet forlater og, til slutt, på SkyTeam-partnere når flyselskapet går inn i den nye alliansen og integrerer med disse partnerne.
+**Hvordan forbereder jeg meg til overgangen?** Ikke bekymre deg - vi har alltid ryggen din. Derfor har vi utarbeidet dette innlegget som den ultimate guiden for å bruke SAS EuroBonus-poeng. Hensikten er å hjelpe deg med å finne de beste (gratis) flyvningene på SAS og Star Alliance før flyselskapet forlater, og deretter på SkyTeam-partnere når flyselskapet går inn i det nye alliansen og innlemmer seg med disse partnerne.
 
 <div data-countdown="2024-03-31T22:59:00.000+02:00">
   TID TIL 2. KVARTAL 2024
@@ -20,144 +18,147 @@ I dette året markerer et stort sprang for Scandinavian Airlines, spesielt for S
 
 ### I Dette Innlegget
 
-- [SAS Overgang til SkyTeam (Våre Tanker)](#sas-overgang-til-skyteam-våre-tanker)
-- [Hvordan Finne Billige EuroBonus Prisflyvninger (Steg-for-steg)](#hvordan-finne-billige-eurobonus-prisflyvninger-steg-for-steg)
-- [Når du har identifisert flyvningene du ønsker (eller bygget en reiserute ved hjelp av vår Journey Planner), gå til EuroBonus-portalen på SAS' nettsted og fortsett med bookingen.](#når-du-har-identifisert-flyvningene-du-ønsker-eller-bygget-en-reiserute-ved-hjelp-av-vår-journey-planner-gå-til-eurobonus-portalen-på-sas-nettsted-og-fortsett-med-bookingen)
+- [SAS’ overgang til SkyTeam (våre tanker)](#sas-overgang-til-skyteam-våre-tanker)
+- [Slik finner du billige EuroBonus award-flyvninger (trinn for trinn)](#slik-finner-du-billige-eurobonus-award-flyvninger-trinn-for-trinn)
 - [Bli en EuroBonus Pro](#bli-en-eurobonus-pro)
 
-## SAS Overgang til SkyTeam (Våre Tanker)
+## SAS’ overgang til SkyTeam (våre tanker)
 
-Det har ennå ikke vært noen offisielle kunngjøringer om hvordan EuroBonus-programmet vil endre seg når oppkjøpet skjer. Selv om det er ett scenario der EuroBonus legges ned og Flying Blue blir SASs nye offisielle lojalitetsprogram, er vilkårene for at dette skal skje langt fra å være oppfylt. Hvis så, vil det ikke være på horisonten for 2024.
+SAS publiserte nylig ny informasjon om overgangen fra Star Alliance til SkyTeam. De har bekreftet at EuroBonus-programmet ikke vil bli nedlagt (iallfall ikke for nå), og at Flying Blue ikke vil bli SAS sitt nye offisielle lojalitetsprogram.
 
-I stedet, fra et teknisk ståsted, gir det mer mening at flyselskapet (eller flyselskapene) tar mer gradvise skritt til nye endringer blir implementert. Her er noen av våre tanker om forskjellige områder fra vårt ydmyke perspektiv som teknologer og erfaring som reisende.
+Les [alle detaljene om kunngjøringen i dette innlegget](2024-03-17-eurobonus-guide.md).
 
 ### EuroBonus Award Chart
 
-Pristabellene viser hvor mange poeng du trenger for en gratis flyvning. På SAS-flyvninger kan flyselskapet justere tallene (øke dem), noe som gjør flyvningene dyrere. Disse devalueringene er enkle å gjøre og skjer vanligvis på kort varsel (trår i kraft måneden etter eller så).
+Award-tabellene viser hvor mange poeng du trenger for en gratis flyvning. På SAS-flyvninger kan flyselskapet justere tallene (øke dem), slik at flyvninger koster mer. Disse nedvurderingene er enkle å gjøre og skjer vanligvis med kort varsel (effektive måneden etter eller så).
 
-Per i dag viser tabellen nedenfor hvor mange EuroBonus-poeng du ville trenge for en enveisflyvning med SAS og Widerøe, eksklusive skatter og avgifter.
+Per i dag viser tabellen nedenfor hvor mange EuroBonus-poeng du trenger for en enveis flyvning med SAS og Widerøe, før skatter og avgifter.
 
 <img src="../assets/img/eurobonus-guide/eb-award-chart-sas.webp" alt="EuroBonus Award Chart on SAS (2024)." />
 
-Star Alliance-delen av tabellen vil bli fjernet umiddelbart, ettersom innløsninger vil bli stoppet med en gang. En ny tabell for innløsninger på SkyTeam-partnere bør komme samtidig eller snart, avhengig av hvor raskt de implementerer innløsninger på disse partnerne.
+Vær oppmerksom på at Star Alliance-delen av tabellen kan bli fjernet 1. september, da innløsninger med dem vil stoppe. En ny tabell for innløsninger hos SkyTeam-partnere bør komme samtidig eller snart.
 
-Tabellen nedenfor viser hvor mange EuroBonus-poeng du ville trenge for en rundtur på Star Alliance-flyselskaper per i dag, eksklusive skatter og pålagte avgifter fra transportøren. Prisen i poeng avhenger av destinasjonen og reiseklassen.
+Tabellen nedenfor viser hvor mange EuroBonus-poeng du vil trenge for en tur-retur-flyvning med Star Alliance-flyselskaper per i dag, ekskludert skatter og avgifter. Prisen i poeng avhenger av destinasjonen og reiseklassen.
 
 <img src="../assets/img/eurobonus-guide/eb-award-chart-europe.webp" alt="EuroBonus Award Chart on Star Alliance (Ending in Q2, 2024)." />
 
-Du kan sjekke hele tabellen og [alle andre til/fra-kombinasjoner utover Europa her](https://www.flysas.com/en/eurobonus/points/fly-with-points/star-alliance-point-chart/).
+Du kan sjekke den fulle tabellen [og alle andre til/fra-kombinasjoner utenfor Europa her](https://www.flysas.com/en/eurobonus/points/fly-with-points/star-alliance-point-chart/).
 
-EuroBonus [pristabellen er basert på soner](https://blog.awardfares.com/demystifying-award-charts/), og dette aspektet vil sannsynligvis ikke endre seg i løpet av 2024. Mens de fleste programmer går over til dynamisk prissetting, pleier flyselskaper vanligvis å kunngjøre betydelige endringer som disse med 4-6 måneders varsel til sine medlemmer. Hovedsakelig for å unngå å rote til kvalifiseringsvinduene for Elite Status og for å ha mer tid til planlegging.
+EuroBonus award chart [er sonedelt](https://blog.awardfares.com/demystifying-award-charts/), og det er lite sannsynlig at denne delen endrer seg i løpet av 2024. Mens de fleste programmer går over til dynamisk prissetting, kunngjør flyselskaper vanligvis betydelige endringer som disse med 4-6 måneders forvarsel til medlemmene sine. Grunnen til dette er hovedsakelig for å unngå å forstyrre kvalifiseringsvinduer for status og for å ha mer tid til planlegging.
 
+[Flying Blue (Air France-KLM)](https://blog.awardfares.com/introducing-flying-blue/) tok nylig i bruk dynamisk prissetting, så det er sannsynlig at hvis EuroBonus beholdes som et eget program, vil det følge etter.
 
-[Flying Blue (Air France-KLM)](https://blog.awardfares.com/introducing-flying-blue/) har nylig adoptert dynamisk prissetting, så det er sannsynlig at hvis EuroBonus opprettholdes som et separat program, vil det følge etter.
+### Opptjening av EuroBonus-poeng
 
-### Tjene EuroBonus Poeng
+- **Hos SAS**: Ingen endringer på kort sikt.
 
-- **På SAS**: Ingen endringer på kort sikt.
-
-- **På Star Alliance Partnere**: Vær forberedt på å stoppe å akkumulere poeng for flyvninger på Star Alliance-flyselskaper så snart den nye avtalen med SkyTeam trer i kraft.
+- **Hos Star Alliance Partnere**: Vær forberedt på sannsynligvis å slutte å opptjene poeng for flyvninger med Star Alliance-flyselskaper så snart den nye avtalen med SkyTeam trer i kraft.
 
 <img src="../assets/img/eurobonus-guide/earn-sas-partners.webp" alt="Earning EuroBonus points on Star Alliance Flights will stop by Q2." />
 
 <img src="../assets/img/eurobonus-guide/earn-sas-partners-airlines.webp" alt="Earning EuroBonus points on Star Alliance Flights will stop by Q2." />
 
-- **På SkyTeam Partnere**: I et ideelt scenario, når SAS offisielt blir en del av SkyTeam, vil det være mulig å tjene poeng på partnerflyvninger med en gang. Vent litt, det kan være mer rett frem. Implementering av opptjening og innløsninger tar tid, måneder, og noen ganger til og med år.
+- **Hos SkyTeam Partnere**: I et ideelt scenario, når SAS offisielt blir en del av SkyTeam, er det mulig å opptjene poeng på partneres flyvninger umiddelbart. Men hold deg fast, det er sjeldent så enkelt! Implementering av opptjening av poeng, og innløsninger tar tid. Måneder og noen ganger, til og med år.
 
-Vi har allerede sett noe integrasjon mellom SAS og Delta når det gjelder booking av inntektsbilletter, så endringene kan skje raskere for viktige partnere som DL, Air France og KLM.
+Vi har allerede sett noe integrasjon mellom SAS og Delta ved bestilling av billetter med inntekt, slik at endringene kan skje tidligere for de store partnerne som Delta Air Lines, Air France og KLM.
 
-### EuroBonus Portal
+### EuroBonus Award Search Portal
 
-- **For SAS-flyvninger**: Sannsynligvis det samme i begynnelsen. Samme som vi allerede kjenner.
+- **SAS-bestillinger**: Sannsynligvis det samme i begynnelsen. Slik som vi allerede er vant med.
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sas.webp" alt="EuroBonus Search Portal for Award Flights on SAS (2024)." />
 
-- **På Star Alliance Partnere**: Disse vil bli slått av umiddelbart etter at SAS blir med i SkyTeam. Medlemmer vil ikke lenger kunne søke og innløse for flyvninger på Lufthansa, ANA, EVA Air, Thai Airways.
+- **Star Alliance-bestillinger**: Det vil være mulig å bestille award-flyvninger på Star Alliance-flyselskaper ved å bruke poengene dine til 31. august, selv for reiser etter den datoen. Ingen nye Star Alliance award-bestillinger vil være mulige etter 31. august. Du kan ombooke eksisterende Star Alliance-awards (inntil 24 timer før avreise) frem til 31. august, selv om flyet ditt går etter 1. september. Avbestillinger vil følge de samme reglene som i dag, inntil 24 timer før avreise.
 
 <img src="../assets/img/eurobonus-guide/eb-portal-sa.webp" alt="EuroBonus Search Portal for Award Flights on Star Alliance. Will disappear on Q2, 2024." />
 
-- **For Innløsninger på SkyTeam Partnere**: Ikke ved lanseringen, men vi håper at en portal vil dukke opp for SkyTeam-flyvninger i løpet av 2.-3. kvartal, i det minste for et utvalg av partnere.
+- **SkyTeam-bestillinger**: Du vil kunne bruke poengene dine til å bestille award-flyvninger på de fleste SkyTeam-flyselskaper fra 1. september og fremover. Reglene for ombooking og avbestilling av SkyTeam-awards reiser vil gjenspeile den eksisterende Star Alliance-policyen (24 timer før avreise). 
 
-### SAS Amex Companion Tickets
+### Amex 2-for-1-voucher / Companion Tickets
 
-For innbyggere i Norge og kortinnehavere av SAS American Express Elite-kortet, gjenstår ett spørsmål: hvordan påvirker overgangen 2-for-1 voucherene som også er gyldige på Star Alliance-flyvninger?
+For medlemmer i Norge og Sverige som har SAS Amex Elite, vil Amex 2-for-1-voucherne (companion tickets) fortsatt være gyldige, og du vil fortsatt kunne bruke voucherne til SAS Bonus-billetter. Du kan også bruke nye vouchere til Star Alliance Bonus-tur-bestillinger frem til 31. august 2024. Alle bonus bestillinger som er gjort ved hjelp av voucher vil forbli uendret og blir respektert.
 
-Formuleringen på American Express-nettstedet forblir uendret (inntil flere detaljer er kjent).
+Fra 1. september 2024 vil du kunne bruke Amex 2-for-1-voucherne dine på de fleste SkyTeam-flyselskaper.
+
+Teksten på American Express-nettstedet forblir uendret. 
 
 <img src="../assets/img/eurobonus-guide/amex-voucher.webp" alt="SAS Amex Elite 2 for 1 vouchers will stop working for Star Alliance. Will they work for SkyTeam?." />
 
-Det er tryggere å anta at vouchers bare vil være brukbare på SAS-flyvninger fra det øyeblikket det blir med i SkyTeam. Som vi sa tidligere, er det uklart om/når innløsninger på SkyTeam-partnere blir tilgjengelige og om vouchers vil være brukbare på disse eller ikke.
+Hvis du har ubrukte vouchere og vurderer å fly med Star Alliance-fly, kan dette være et godt tidspunkt å samle bestillinger. For eksempel kan det være et godt tidspunkt å prøve ut kabiner som Lufthansa First, ANA The Room, osv.
 
-Hvis du har ubrukte vouchers og ser på å fly med Star Alliance-flyselskaper, kan dette være et godt tidspunkt å konsolidere bookinger. For eksempel, kan det være en god anledning til å prøve kabiner som Lufthansa First, ANA The Room, osv.
+### Utgivelsesdatoer for award-reiser
 
-### Award Release Dates
+Mens den generelle tidsrammen på 330-359 dager sannsynligvis gjelder, vil spesifikke utgivelsesdatoer for EuroBonus-medlemmer avhenge av hvordan SAS og SkyTeam-flyselskaper integrerer lojalitetsprogrammene sine.
 
-Mens den generelle tidsrammen på 330-359 dager sannsynligvis gjelder, vil spesifikke utgivelsesdatoer for EuroBonus-medlemmer avhenge av hvordan SAS og SkyTeam-flyselskapene integrerer sine lojalitetsprogrammer.
+Vi vil fortsette å overvåke situasjonen og oppdatere vår [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/).
 
-Vi vil fortsette å overvåke situasjonen og oppdatere vår [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/) deretter.
+### EuroBonus-status og fordeler
 
-## Hvordan Finne Billige EuroBonus Prisflyvninger (Steg-for-steg)
+Fra det øyeblikket SAS blir med i SkyTeam, vil EuroBonus Silver-medlemmer bli anerkjent som SkyTeam Elite-nivå, mens Gold- og Diamond-medlemmer vil bli anerkjent som Elite Plus. 
 
-### Booking av SAS-flyvninger
+## Slik finner du billige EuroBonus award-flyvninger (trinn for trinn)
+
+### Bestille SAS-fly
 
 #### 1. Gå til [AwardFares](https://awardfares.com/signup)
 
-Å opprette en konto er valgfritt, men det er også gratis, og det gir deg tilgang til flere funksjoner. Sørg for å [registrere deg for en her](https://awardfares.com/signup).
+Det er valgfritt å opprette en konto, men det er også gratis, og det gir deg tilgang til flere funksjoner. [Sørg for å registrere deg her](https://awardfares.com/signup).
 
-#### 2. Velg **EuroBonus** som Frequent Flyer-program
+#### 2. Velg **EuroBonus** som ditt fordelsprogram
 
-Trykk på **Loyalty Program** og velg SAS EuroBonus
+Trykk på **Loyalty Program**-feltet og velg SAS EuroBonus
 
 <img src="../assets/img/eurobonus-guide/ffp-eb.webp" alt="Select EuroBonus as Frequent Flyer Program in AwardFares." />
 
-#### 3. Under *Airlines*, velg **SAS only**
+#### 3. Under *Airlines*, velg kun **SAS**
 
-Fra nå av vil du kun se tilgjengelige bonusseter operert av SAS i resultatlisten.
+Fra nå av vil du bare se tilgjengelige award-seter operert av SAS på resultatlisten.
 
 <img src="../assets/img/eurobonus-guide/airline-sas.webp" alt="Select SAS as under Airlines to show bonus trips on SAS only." />
 
 #### 4. Legg til en Rute
 
-I **Origin** og **Destination**-feltene, legg til en eller flere flyplasser for å søke etter flyvninger mellom disse stedene. AwardFares vil søke etter prisflyvninger uavhengig av antall stopp. Du kan bruke **Stops**-filteret for kun å søke etter direkte/non-stop-flyvninger.
+I **Origin** og **Destination**-feltene, legg til en eller flere flyplasser for å søke etter flyvninger mellom disse stedene. AwardFares vil søke etter award-flyvninger uavhengig av antall stopp. Du kan bruke **Stops**-filteret for å bare søke etter direkte/ikke direkte-flyvninger.
 
-I eksemplet nedenfor, søker vi etter flyvninger [mellom København og New York](https://awardfares.com/search?CPH.area:NYC.;a:SK;z:sas). Merk at vi bruker de metropolitiske områdekodene NYC for å få resultater til og fra hvilken som helst flyplass i New York (JFK, EWR, LGA).
+I eksempelet nedenfor søker vi etter flyvninger mellom [**København og New York**](https://awardfares.com/search?CPH.area:NYC.;a:SK;z:sas). Legg merke til at vi bruker metropolområdene NYC for å få resultater til og fra hvilken som helst flyplass i New York (JFK, EWR, LGA).
 
 <img src="../assets/img/eurobonus-guide/route-sas.webp" alt="Select EuroBonus as Frequent Flyer Program in AwardFares." />
 
 #### 4. Utforsk Datoer
 
-Hvis du har en spesifikk dato i tankene, legg den til ved å trykke på **Calendar**-feltet.
+Hvis du har en bestemt dato i tankene, legg den til ved å trykke på **Calendar**-feltet.
 
-Alternativt kan du bruke AwardFares **Timeline View** for å utforske setetilgjengeligheten på forskjellige datoer. Tidslinjevisningen viser hvor mange seter som er tilgjengelige for hver dag i uken/måneden. Stolpene er fargekodet, så det er enkelt å skille mellom kabin klasser (Økonomi, Business, Første). Du kan også utløse nye søk ved å trykke på oppdateringsikonet under hver dag.
+Alternativt kan du bruke AwardFares **Timeline View** for å utforske setetilgjengeligheten på forskjellige datoer. Timeline View viser hvor mange seter som er tilgjengelige for hver dag i uken/måneden. Stolpene er fargekodet, slik at det er enkelt å skille mellom kabinene (Økonomi, Business, Første klasse). Du kan også oppdatere søk ved å trykke på oppdateringsikonet under hver dag.
 
 <img src="../assets/img/eurobonus-guide/timeline-sas.webp" alt="Timeline View of EuroBonus award flights in AwardFares." />
 
 <img src="../assets/img/eurobonus-guide/results-sas.webp" alt="EuroBonus Results in AwardFares." />
 
-I tillegg kan du også trykke hvor som helst på flyvningen for å vise flere detaljer i en utvidet visning, som flytype, og til og med [få de nåværende setekartene](https://blog.awardfares.com/seatmaps-guide/) for å se hvilke seter som er ledige kontra opptatte!
+I tillegg kan du også trykke hvor som helst på flyvningen for å vise flere detaljer i en utvidet visning, for eksempel flytype, du kan til og med [få de nåværende setekartene](https://blog.awardfares.com/seatmaps-guide/) for å se hvilke seter som er ledig eller opptatt!
 
 <img src="../assets/img/eurobonus-guide/details.webp" alt="EuroBonus award flight details." />
 
-#### 5. Sorter etter Pris eller Stopp
+#### 5. Sorter etter pris eller stopp
 
-Uansett om du utforsker datoer ved bruk av Tidslinjevisningen eller har valgt en spesifikk dag, vil AwardFares vise deg de tilgjengelige setene (med sanntidsdata) innen sekunder i resultatlisten nedenfor.
+Enten du utforsker datoer ved hjelp av Timeline View eller har valgt en bestemt dag, vil AwardFares vise de tilgjengelige setene (med sanntidsdata) innen få sekunder i resultatlisten nedenfor.
 
-Du kan trykke på de forskjellige overskriftskolonnene for å sortere resultatene etter pris. Bruk **Eco**, **Prem**, **Biz**, og **First** klassetagene for å finne billige priser på tvers av flere datoer, reiseruter og flyselskaper.
+Du kan trykke på de forskjellige kolonnene for å sortere resultatene etter pris. Bruk **Eco**, **Prem**, **Biz**, og **First** klasse-merkene for å finne billige award-er over flere datoer, reiseruter og flyselskaper.
 
 <img src="../assets/img/eurobonus-guide/sort-by-price-sas.gif" alt="Sorting EuroBonus Award Flights by Price in AwardFares" />
 
-Du kan også trykke på **Stops**-overskriften for å vise de korteste turene først (blant lignende prisede flyvninger)
+Du kan også trykke på **Stops** for å vise de korteste turene først (blant flyvninger med lignende pris).
 
 #### 6. Bestill på SAS EuroBonus Portal
 
-Når du har identifisert flyvningene du ønsker (eller bygget en reiserute ved hjelp av vår [Journey Planner](https://blog.awardfares.com/journey-planner/)), gå til EuroBonus-portalen på SAS' nettsted og fortsett med bookingen.
+Når du har identifisert flyvningene du ønsker (eller bygget en reiserute ved hjelp av vår [Journey Planner](https://blog.awardfares.com/journey-planner/)), gå til EuroBonus-portalen på SAS-nettstedet og fortsett med bestillingen.
+
 -------
 
-### Booking av Star Alliance-flyvninger
+### Bestille Star Alliance-flyvninger
 
-#### 1. Under *Airlines*, velg **Star Alliance only**
+#### 1. Under *Airlines*, velg kun**Star Alliance**
 
-Fra nå av vil du kun se tilgjengelige bonusseter operert av Star Alliance-partnere i resultatlisten. Du vil også se SAS-resultater med mindre du eksplisitt ekskluderer det fra resultatene.
+Fra nå av vil du bare se tilgjengelige award-seter operert av Star Alliance-partnere på resultatlisten. Du vil også se SAS-resultater med mindre du eksplisitt utelukker det fra resultatene.
 
 <img src="../assets/img/eurobonus-guide/airline-sa.webp" alt="Select Star Alliance as under Airlines in AwardFares." />
 
@@ -165,37 +166,37 @@ Fra nå av vil du kun se tilgjengelige bonusseter operert av Star Alliance-partn
 
 Samme som ovenfor, bruk **Origin** og **Destination**-feltene for å legge til en eller flere flyplasser for å søke etter flyvninger mellom disse stedene.
 
-I eksemplet nedenfor, søker vi etter flyvninger [mellom Boston og München](https://awardfares.com/search?BOS.MUC.;a:A3,AC,AI,AV,BR,CA,CM,ET,LH,LO,LX,MS,NH,NZ,OS,OU,OZ,SA,SK,SN,SQ,TG,TK,TP,UA,ZH;z:sas).
+I eksempelet nedenfor søker vi etter flyvninger mellom [Boston og München](https://awardfares.com/search?BOS.MUC.;a:A3,AC,AI,AV,BR,CA,CM,ET,LH,LO,LX,MS,NH,NZ,OS,OU,OZ,SA,SK,SN,SQ,TG,TK,TP,UA,ZH;z:sas).
 
 <img src="../assets/img/eurobonus-guide/route-sa.webp" alt="Flights between Boston and Munich with SAS EuroBonus points in AwardFares." />
 
 #### 3. Utforsk og Sorter Resultater
 
-Enten du utforsker datoer ved bruk av Tidslinjevisningen eller har valgt en spesifikk dag, vil AwardFares vise deg de tilgjengelige setene (med sanntidsdata) innen sekunder i resultatlisten nedenfor.
+Enten du utforsker datoer ved hjelp av **Timeline View** eller har valgt en bestemt dag, vil AwardFares vise de tilgjengelige setene (med sanntidsdata) innen få sekunder i resultatlisten nedenfor.
 
 <img src="../assets/img/eurobonus-guide/results-sa.webp" alt="EuroBonus Award Flights Results in AwardFares" />
 
-Trykk på de forskjellige overskriftskolonnene klasser (**Eco**, **Prem**, **Biz**, og **First**) for å sortere resultatene etter pris.
+Trykk på de forskjellige hodekolonnene (**Eco**, **Prem**, **Biz** og **First**) for å sortere resultatene etter pris.
 
 <img src="../assets/img/eurobonus-guide/sort-sa.gif" alt="Sorting EuroBonus Award Flights by Price in AwardFares" />
 
-Du kan også trykke på **Stops**-overskriften for å vise de korteste turene først (blant lignende prisede flyvninger)
+Du kan også trykke på **Stops** for å vise de korteste turene først (blant flyvninger med lignende pris).
 
-**Billigste Prisflyvninger i Business & Første Klasse**
+**Billigste award-flyvninger i Business & First Class**
 
-AwardFares' hurtigsorteringsfunksjon er svært nyttig når du prøver å bestille premiumkabiner som Business og Første, spesielt når pristabellene bruker dynamisk prissetting. Dette kan være din hemmelige våpen for å maksimere verdien av dine EuroBonus-poeng hvis det skifter til et dynamisk prissettingssystem, som Flying Blue.
+AwardFares' raske sorteringsfunksjon er veldig nyttig når du prøver å bestille premiumkabiner som Business og First, og spesielt når award-tabellene bruker dynamisk prissetting. Dette kan være ditt hemmelige våpen for å maksimere verdien av EuroBouns-poengene dine hvis det går over til dynamisk prissetting, som Flying Blue.
 
-#### 6. Bestill på EuroBonus Star Alliance Portal
+#### 4. Bestill på EuroBonus Star Alliance Portal
 
-Når du har identifisert flyvningene du ønsker, gå til SAS' nettsted, [logg inn og velg Star Alliance Bonus Trips](https://www.flysas.com/nl-en/eurobonus/star-alliance-award-trips/) for å fortsette med bookingen. Husk at noen av disse reiserutene ikke er bookbare online for spesifikke programmer (f.eks. mixed-cabin awards). I disse situasjon ene, må du ringe SAS' kundeservice.
+Når du har identifisert flyvningene går du til SAS-nettstedet, [logger inn og velg Star Alliance Bonus Trips](https://www.flysas.com/nl-en/eurobonus/star-alliance-award-trips/) for å fortsette med bestillingen. Husk at noen av disse reiserutene ikke kan bestilles på nettet for spesifikke programmer (f.eks. mixed-cabin awards). I slike situasjoner må du ringe SAS-service-senter.
 
 ## Bli en EuroBonus Pro
 
-Du kan prøve [AwardFares gratis](https://awardfares.com/). Vi lanserer nye funksjoner og forbedringer jevnlig, så [registrer deg for vårt månedlige nyhetsbrev](https://awardfares.com/newsletter) for å holde deg oppdatert på de siste nyhetene, kunngjøringene og profftipsene.
+Du kan prøve [AwardFares gratis](https://awardfares.com/). Vi ruller ut nye funksjoner og forbedringer jevnlig, så [meld deg på vårt månedlige nyhetsbrev](https://awardfares.com/newsletter) for å holde deg oppdatert på de nyeste nyhetene, kunngjøringene og pro tipsene våre.
 
-Med våre [Gull- og Diamantnivåer](https://awardfares.com/pricing), kan du få tilgang til premiumfunksjoner som ubegrensede daglige søk, varsler, setekart, flyplaner og mer!
+Med våre [Gold- og Diamond-nivåer](https://awardfares.com/pricing) får du tilgang til premiumfunksjoner som ubegrenset daglig søk, varsler, setekart, flytider og mer!
 
-Våre guider har all den informasjonen du trenger for å bli en proff reisehacker og utforske verden med poeng. Her er noen relaterte innlegg du kanskje liker:
+Våre guider har all informasjonen du trenger for å være en proff reisehacker og utforske verden med bruk av poeng. Her er noen relaterte innlegg du kanskje vil like:
 
 - [Booking United Flights with EuroBonus Points No Longer an Option?](https://blog.awardfares.com/united-stops-working-with-eurobonus/)
 - [SAS Will Leave Star Alliance! Here’s What To Do Next](https://blog.awardfares.com/sas-acquisition/)
