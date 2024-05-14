@@ -16,7 +16,7 @@ In this guide, we show you how to maximize your Flying Blue miles with AwardFare
 - [What is Flying Blue?](#what-is-flying-blue)
 - [How to find the Best Flying Blue Award Flights (Step-by-step)](#how-to-find-the-best-flying-blue-award-flights-step-by-step)
 - [Note on Promo Rewards](#note-on-promo-rewards)
-- [Why is AwardFares the easiest way to Find Flying Blue Award Flights?](#why-is-awardfares-the-easiest-way-to-find-flying-blue-award-flights)
+- [Why is AwardFares the easiest way to find Flying Blue Award Flights?](#why-is-awardfares-the-easiest-way-to-find-flying-blue-award-flights)
 - [Become a Flying Blue Pro](#become-a-flying-blue-pro)
 - [Learn More](#learn-more)
 
@@ -86,7 +86,7 @@ AwardFares will redirect you to Air France’s website to complete your booking 
 
 [**Flying Blue Promo Rewards**](https://www.flyingblue.us/en/earn-spend/flights/promo-rewards) are discounted award flights on Air France and KLM that Flying Blue releases every month. These discounted tickets can offer up to 50% off the regular miles cost. AwardFares will show you the already discounted prices for the Promo Rewards.
 
-## Why is AwardFares the easiest way to Find Flying Blue Award Flights?
+## Why is AwardFares the easiest way to find Flying Blue Award Flights?
 
 AwardFares is the world’s fastest search engine for award flights, and it works across different frequent flyer programs, routes, and dates at once. It makes it incredibly easy to find award flights in seconds, without having to do manual searches on Air France o KLM booking portal.
 

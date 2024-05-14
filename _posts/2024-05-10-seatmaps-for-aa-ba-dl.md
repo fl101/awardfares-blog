@@ -5,7 +5,6 @@ category: [News, Features]
 tags: [American Airlines, Delta, British Airways]
 author: Germán
 image: /assets/img/seatmaps-for-aa-ba-dl/cover.webp
-hidden: true
 ---
 
 We're thrilled to announce a major update to AwardFares that makes finding the perfect seat on your award flight easier than ever before! Our improved [**Seat Maps**](https://awardfares.com/seats) feature now offers detailed seat availability for flights operated by:
