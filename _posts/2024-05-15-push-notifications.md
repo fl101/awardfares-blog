@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Push Notifications: How t"
+title: "Push Notifications for Alerts: Full Guide"
 category: [Guide]
 tags: []
 author: Germán
@@ -8,9 +8,7 @@ image: /assets/img/push-notifications/cover.webp
 hidden: true
 ---
 
-Push notifications are a handy feature that keeps you informed of important updates and opportunities directly from your favorite services. If you’re using AwardFares to stay updated on award travel deals and seat availability, enabling push notifications on both your desktop and mobile devices can greatly enhance your experience.
-
-This guide will walk you through the steps to ensure you never miss out on a great.
+If you're using AwardFares to stay updated on award travel deals and seat availability, enabling push notifications on both your desktop and mobile devices can greatly enhance your experience, letting you know as soon as your dream award seat becomes available. In this guide, we'll show you how to set them up step-by-step.
 
 ## How to Enable Push Notifications for Alerts
 
@@ -31,8 +29,6 @@ To do so, tap on the **Share** icon
 Then, select **Add to Home Screen**. You'll see the AwardFares app as a new icon in your library
 
 <img src="../assets/img/push-notifications/mobile-4.webp" alt="How to enable push notifications for award flights on mobile (AwardFares)." class="noborder" style="max-width:400px;width:100%"/>
-
-You'll see
 
 ## 2. Tap on the **Push Notifications** toggle
 
