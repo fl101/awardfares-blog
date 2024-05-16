@@ -5,7 +5,6 @@ category: [News, AAdvantage]
 tags: [American Airlines]
 author: Germán
 image: /assets/img/american-winter-schedule-2025/cover.webp
-hidden: true
 ---
 
 American Airlines just announced their biggest-ever winter schedule for the Caribbean and Latin America, offering more flights and destinations than any other U.S. carrier. ✈️
