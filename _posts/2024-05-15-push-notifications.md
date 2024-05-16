@@ -5,7 +5,6 @@ category: [Guide]
 tags: []
 author: Germán
 image: /assets/img/push-notifications/cover.webp
-hidden: true
 ---
 
 If you're using AwardFares to stay updated on award travel deals and seat availability, enabling push notifications on both your desktop and mobile devices can greatly enhance your experience, letting you know as soon as your dream award seat becomes available. In this guide, we'll show you how to set them up step-by-step.
