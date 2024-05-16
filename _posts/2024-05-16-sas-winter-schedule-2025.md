@@ -5,13 +5,11 @@ category: [News, SAS EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/sas-winter-schedule-2025/cover.webp
-hidden: true
-sitemap: false
 ---
 
 Grab your winter gear because SAS just dropped some exciting news, perfect for anyone itching to explore the remote northern frontiers! SAS has announced updates to its winter schedule, including new routes and increased frequencies to various destinations.
 
-<img src="../assets/img/sas-winter-schedule-2025/winter-schedule.webp" alt="SAS announced winter schedule updates for 2025." class="noborder"/>
+<img src="../assets/img/sas-winter-schedule-2025/winter-schedule.webp" alt="SAS announced winter schedule updates for 2025." class="noborder" style="max-width:400px;width:100%"/>
 
 ## SAS Winter Schedule for 2024/2025
 
