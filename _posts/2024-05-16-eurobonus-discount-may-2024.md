@@ -5,8 +5,6 @@ category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-discount-may-2024/cover.webp
-hidden: true
-sitemap: false
 ---
 
 SAS announced a [discounted offer for EuroBonus members](https://www.sas.se/special-offers/poangrabatt/): **20% discount on award flights to/from Sweden, Norway, Denmark, and Finland**. This promotion is applicable to flights on SAS Go Bonus, and SAS Plus Bonus.
