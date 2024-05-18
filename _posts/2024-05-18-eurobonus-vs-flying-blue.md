@@ -21,7 +21,7 @@ In this post, we aim to provide a detailed comparison between the two programs, 
 - **Airline Partners**: Part of Star Alliance until September 1st, 2024.
 - **Point Earning**: Members earn points based on the fare and the flight length.
 - **Point Redemption**: Points can be used for booking new flights, upgrading seats, or shopping in the EuroBonus shop.
-- **Unique Perks (compared to Flying Blue)**: Amex 2 for 1 vouchers, MasterCard Fly Premium Benefit, Free WI-FI onboard for Gold+ members, Family Pooling, Pay Cash Tickets with Points, Gold for Life, EuroBonus Pandion.
+- **Unique Perks (compared to Flying Blue)**: Amex 2 for 1 vouchers, MasterCard Fly Premium Benefit, Free WI-FI onboard for Gold+ members, pay cash tickets with points, Gold for Life, EuroBonus Pandion.
 
 ## Overview of Flying Blue
 
