@@ -46,9 +46,9 @@ In this post, we aim to provide a detailed comparison between the two programs, 
 | **Status Qualification**   | Based on flights taken and/or points earned               | Based on XP (Experience Points) earned from flights, which is based on amount spent          |
 | **Status Benefits**        | Priority check-in, extra baggage, lounge access, fast track | Priority services, extra baggage, lounge access, guaranteed seating |
 | **Family Account**         | Yes, pooling of points within family members               | Yes, pooling of miles with family and friends                |
-| **Co-branded Credit Cards**| Available in select countries                             | Available in multiple countries                              |
+| **Co-branded Credit Cards**| Available in Sweden, Norway, Denmark and Finland                             | Available in France, Netherlands, United States, Germany, Italy and Belgium                              |
 | **Partners**               | Airlines, hotels, car rental, retail, etc.                | Broad range of partners including airlines, hotels, car rental, retail, etc. |
-| **Special Programs**       | Youth tickets, EuroBonus Shop                             | Flying Blue Store, special promotions for members            |
+| **Special Programs**       | Youth tickets, EuroBonus Shop                             | Promo Rewards, Flying Blue Store, special promotions for members            |
 
 ## Which Program is Best?
 
