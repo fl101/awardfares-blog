@@ -8,29 +8,31 @@ image: /assets/img/eurobonus-vs-flying-blue/cover.webp
 hidden: true
 ---
 
-The recent announcement of Air France-KLM’s acquisition of SAS has raised many questions for current EuroBonus members. As the loyalty landscapes merge, many (including us at AwardFares) are re-evaluating whether to remain with EuroBonus or transition to Flying Blue.
+The recent announcement of [Air France-KLM’s acquisition of SAS](https://blog.awardfares.com/sas-acquisition/) has raised many questions for current EuroBonus members. As the loyalty landscapes merge, many (including us at AwardFares) are re-evaluating whether to remain with **EuroBonus** or transition to **Flying Blue**.
 
 In this post, we aim to provide a detailed comparison between the two programs, highlighting key differences and considerations that could influence your decision in this new era of airline alliances.
 
 ## Overview of EuroBonus: Understanding the New Context
 
-EuroBonus, traditionally the loyalty program of Scandinavian Airlines, now falls under a broader umbrella due to the Air France-KLM acquisition, and the transition to SkyTeam. This development could potentially expand EuroBonus’s horizons with different integrated services and benefits.
+[**EuroBonus**](https://www.sas.se/eurobonus/home/), traditionally the loyalty program of Scandinavian Airlines, now falls under a broader umbrella due to the Air France-KLM acquisition, and the transition to SkyTeam. This development could potentially expand EuroBonus’s horizons with different integrated services and benefits.
 
 **Key Features:**
 
 - **Airline Partners**: Part of Star Alliance until September 1st, 2024.
 - **Point Earning**: Members earn points based on the fare and the flight length.
 - **Point Redemption**: Points can be used for booking new flights, upgrading seats, or shopping in the EuroBonus shop.
+- **Unique Perks (compared to Flying Blue)**: Amex 2 for 1 vouchers, MasterCard Fly Premium Benefit, Free WI-FI onboard for Gold+ members, Family Pooling, Pay Cash Tickets with Points, Gold for Life, EuroBonus Pandion.
 
 ## Overview of Flying Blue
 
-Flying Blue serves as the official frequent flyer program for Air France, KLM, and several other subsidiary airlines. It is known for its flexibility in earning and spending miles and its range of elite status benefits. Flying Blue also collaborates with SkyTeam alliance members, broadening the scope for accumulation and redemption of miles.
+[**Flying Blue**](https://www.flyingblue.com/) serves as the official frequent flyer program for Air France, KLM, and several other subsidiary airlines. It is known for its flexibility in earning and spending miles and its range of elite status benefits. Flying Blue also collaborates with SkyTeam alliance members, broadening the scope for accumulation and redemption of miles.
 
 **Key Features:**
 
 - **Airline Partners**: Includes all SkyTeam members, offering a comprehensive network of global destinations.
 - **Mile Earning**: Miles are earned based on the amount spent on tickets rather than the distance flown.
 - **Mile Redemption**: Miles can be redeemed for flights, upgrades, hotel stays, car rentals, and even shopping.
+- **Unique Perks (compared to Eurobonus)**: Promo Rewards, Platinum For Life, Magazine Subscriptions, up to 8 Lounge Guests, upgrade vouchers on Ultimate.
 
 ## Key Differences Between EuroBonus and Flying Blue
 
@@ -40,8 +42,8 @@ Flying Blue serves as the official frequent flyer program for Air France, KLM, a
 | **Earning Points**         | Points earned based on fare and flight distance           | Miles earned based on amount spent and flight distance       |
 | **Redemption Options**     | Flights, upgrades, car rentals, hotels, shopping          | Flights, upgrades, car rentals, hotels, experiences          |
 | **Points Expiry**          | Points expire after 5 years                               | Miles expire if there is no account activity for 24 months   |
-| **Elite Status Levels**    | Silver, Gold, Diamond, Pandion                            | Silver, Gold, Platinum                                       |
-| **Status Qualification**   | Based on flights taken and/or points earned               | Based on XP (Experience Points) earned from flights          |
+| **Status Levels**    | Silver, Gold, Diamond, Pandion                            | Silver, Gold, Platinum, Ultimate                                   |
+| **Status Qualification**   | Based on flights taken and/or points earned               | Based on XP (Experience Points) earned from flights, which is based on amount spent          |
 | **Status Benefits**        | Priority check-in, extra baggage, lounge access, fast track | Priority services, extra baggage, lounge access, guaranteed seating |
 | **Family Account**         | Yes, pooling of points within family members               | Yes, pooling of miles with family and friends                |
 | **Co-branded Credit Cards**| Available in select countries                             | Available in multiple countries                              |
@@ -64,7 +66,7 @@ The point of this assesment is to compare the different types of award charts fo
 | **Medium-Haul**         | Flying Blue                | SAS EuroBonus              | SAS EuroBonus                |
 | **Long-Haul**           | SAS EuroBonus              | SAS EuroBonus              | SAS EuroBonus                |
 
-Some Thoughts:
+**Some Thoughts**
 
 For ultra-low fares (Basic Economy and Deals):
 
@@ -94,7 +96,7 @@ Now, let's compare both programs based on the members' home countries and their 
 | **North America (Home)**     | Best; extensive partner airlines, multiple credit card options | Limited; less advantageous due to fewer direct flights and partners |
 | **Asia (Home)**              | Good; strong partnerships with Asian airlines, good redemption options | Limited; fewer direct connections compared to Flying Blue |
 
-Key Points:
+**Key Points**
 
 - **Scandinavia as Home Country**: SAS EuroBonus undoubtedly wins here. It is tailored to the needs of Scandinavian travelers, offering extensive local benefits, credit card options, and promotions. Redemption options within Scandinavia and Europe are particularly valuable.
 - **Europe as Home Country**: Flying Blue generally offers greater flexibility and benefits for European members, with a wide range of airline and non-airline partners across the continent.
@@ -103,6 +105,8 @@ Key Points:
 
 ### Based on Status
 
+Both EuroBonus and Flying Blue offer several tiers for frequent flyers, with different progression and qualification requirements. Flying Blue emphasizes more on amount spent on the tickets, while EuroBonus is a combination of amount spent/(fare class) and distance flown. In both programs, moving into higher tiers not only gives members access to more benefits and perks, but also accelerates miles earnigs by adding a multiplier.
+
 **SAS EuroBonus**
 
 | Tier    | Benefits                                                                                                     | Earn Points Multiplier         |
@@ -110,8 +114,7 @@ Key Points:
 | Member  | Earn points on SAS flights                                                                                   | 1x                             |
 | Silver  | Lounge access on SAS flights, Priority check-in                                                              | 1.10x                          |
 | Gold (until August 2024)    | Lounge access on SAS & Star Alliance partners, Priority boarding, Extra baggage allowance               | 1.25x |
-| Diamond | Priority boarding, extra baggage allowance, complimentary upgrades, Lounge access on SAS & Star Alliance partners (until August 2024). 30% Discount on regular trips paid with points.
- | 1.25x |
+| Diamond | Priority boarding, extra baggage allowance, complimentary upgrades, Lounge access on SAS & Star Alliance partners (until August 2024). 30% Discount on regular trips paid with points. | 1.25x |
 
 <img src="../assets/img/eurobonus-vs-flying-blue/eb-tiers.webp" alt="SAS EuroBonus Status Tiers." class="noborder"/>
 
@@ -123,8 +126,7 @@ Key Points:
 | Explorer | Priority boarding & baggage allowance                               | 1.25x                 |
 | Silver   | Lounge access on Air France, KLM & SkyTeam partners, Priority boarding, Extra baggage allowance | 1.5x  |
 | Gold     | Priority boarding, extra baggage allowance, complimentary upgrades on short/medium haul flights | 1.8x  |
-| Platinum | Priority boarding, extra baggage allowance, complimentary upgrades on all flights. Stay Platinum for 10 years in a row by reaching the required threshold and qualify for Platinum for life.
- | 2x |
+| Platinum | Priority boarding, extra baggage allowance, complimentary upgrades on all flights. Stay Platinum for 10 years in a row by reaching the required threshold and qualify for Platinum for life. | 2x |
 | Ultimate | Dedicated Ultimate Assistant available 24/7. Complimentary access to Air France and KLM lounges for you and up to eight guests. Extra check-in baggage allowance on Air France, KLM, and SkyTeam flights. Ultimate and/or SkyPriority airport services for you and up to eight travel companions. Four one-cabin upgrade vouchers per membership year. One partner Flying Blue Platinum card | 2.25x  |
 
 <img src="../assets/img/eurobonus-vs-flying-blue/fb-tiers.webp" alt="Flying Blue Status Tiers." class="noborder"/>
