@@ -5,7 +5,6 @@ category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-may-2024/cover.webp
-hidden: true
 ---
 
 As spring winds down, the EuroBonus program keeps things interesting. As usual, we love catching you up on all the latest news and updates to help you maximize your points, especially during these turbulent times. Here is our monthly summary of the hottest EuroBonus topics!
@@ -47,7 +46,6 @@ SAS is offering deals for business travel too. Save on select destinations withi
 
 American Express is offering a limited-time referral bonus of up to 30,000 EuroBonus points for new SAS Amex Elite (also Amex Platinum) cardholders in Sweden and Norway. The promotion ends on May 31st.  Make sure to check the terms and conditions to see what the spending requirements are to qualify for the bonus points.
 
-
 <img src="../assets/img/eurobonus-updates-may-2024/amex-referral.webp" alt="Increased SAS Amex Referral Bonus ." class="noborder"/>
 
 ## Become a EuroBonus Pro
@@ -58,7 +56,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-* [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
-* [From Star Alliance to SkyTeam: The SAS Transition (Official Info)](https://blog.awardfares.com/sas-transition-to-skyteam/)
-* [Lufthansa Allegris Takes Flight on May 1st (Book with Points)](https://blog.awardfares.com/lufthansa-allegris-first-flight/)
-* [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
+- [Should You Match Your EuroBonus Status with a Different Airline? (Yes)](https://blog.awardfares.com/eurobonus-status-match/)
+- [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
+- [From Star Alliance to SkyTeam: The SAS Transition (Official Info)](https://blog.awardfares.com/sas-transition-to-skyteam/)
+- [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
