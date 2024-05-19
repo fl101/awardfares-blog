@@ -25,15 +25,13 @@ One thing to highlight is the possibility to combine the discount with the FlyPr
 
 ### 2. SAS Announces Winter Schedule Updates For The 2025 Season
 
-Grab your winter gear because SAS just dropped some exciting news, perfect for anyone itching to explore the remote northern frontiers! SAS has announced updates to its winter schedule, including new routes and increased frequencies to several destinations.
-
-Read more [in this post](https://blog.awardfares.com/sas-winter-schedule-2025/).
+SAS has announced updates to its winter schedule, including new routes and increased frequencies to several destinations. Get ready to explore the magic of the north! Read all the details [in this post](https://blog.awardfares.com/sas-winter-schedule-2025/).
 
 <img src="../assets/img/sas-winter-schedule-2025/cover.webp" style="max-width:400px;width:100%" alt="SAS Announces Winter Schedule Updates For The 2025 Season." class="noborder"/>
 
-### 3. Triple Bonus Points and 20% Discount on Hotels
+### 3. Triple Bonus Points and 20% Discount on Selected Hotels
 
-Earn 3x EuroBonus Points on hotel stays and receive at least 20% off selected hotels. Book between 14 and 28 May 2024, and travel no later than 28 November 2024.
+Score triple EuroBonus points and save at least 20% on your hotel stay! Book your stay between May 14th and 28th, 2024, and travel anytime up to November 28th, 2024.
 
 **Important:** make sure you [book through the SAS EuroBonus portal](https://www.hotelsbysas.com/lp/b/eurobonus?MDPCID=SAS-SE.DPS.SAS.SASxx-May3x.HOTEL) to get the points.
 
@@ -41,11 +39,16 @@ Earn 3x EuroBonus Points on hotel stays and receive at least 20% off selected ho
 
 ### 4. Business Trips at Promotional Prices
 
-Until 10, SAS is offering promotional prices on selected destinations within Scandinavia when paying with Travel Pass clip cards.
-
-In addition, the airline is running a Summer/Fall campaign on Business Trips to Atlanta: Get 15% until June 10th on all trips before October 31st.
+SAS is offering deals for business travel too. Save on select destinations within Scandinavia when you pay with your Travel Pass clip cards until May 10th. Plus, plan your summer or fall business trip to Atlanta and save 15% by booking before June 10th for travel departing anytime before October 31st.
 
 <img src="../assets/img/eurobonus-updates-may-2024/travel-pass.webp" alt="SAS Business Trips at Discounted Prices (May 2024)." class="noborder"/>
+
+### 5. Increased AMEX Referral Bonus
+
+American Express is offering a limited-time referral bonus of up to 30,000 EuroBonus points for new SAS Amex Elite (also Amex Platinum) cardholders in Sweden and Norway. The promotion ends on May 31st.  Make sure to check the terms and conditions to see what the spending requirements are to qualify for the bonus points.
+
+
+<img src="../assets/img/eurobonus-updates-may-2024/amex-referral.webp" alt="Increased SAS Amex Referral Bonus ." class="noborder"/>
 
 ## Become a EuroBonus Pro
 
