@@ -5,33 +5,32 @@ category: [EuroBonus, Flying Blue]
 tags: [SAS, Air France, KLM]
 author: Germán
 image: /assets/img/eurobonus-vs-flying-blue/cover.webp
-hidden: true
 ---
 
 The recent announcement of [Air France-KLM’s acquisition of SAS](https://blog.awardfares.com/sas-acquisition/) has raised many questions for current EuroBonus members. As the loyalty landscapes merge, many (including us at AwardFares) are re-evaluating whether to remain with **EuroBonus** or transition to **Flying Blue**.
 
-In this post, we aim to provide a detailed comparison between the two programs, highlighting key differences and considerations that could influence your decision in this new era of airline alliances.
+This post aims to provide a detailed comparison between the two programs, highlighting key differences and considerations that could influence your decision in this new era of airline alliances.
 
 ## Overview of EuroBonus: Understanding the New Context
 
-[**EuroBonus**](https://www.sas.se/eurobonus/home/), traditionally the loyalty program of Scandinavian Airlines, now falls under a broader umbrella due to the Air France-KLM acquisition, and the transition to SkyTeam. This development could potentially expand EuroBonus’s horizons with different integrated services and benefits.
+[**EuroBonus**](https://www.sas.se/eurobonus/home/), traditionally Scandinavian Airlines' loyalty program, now falls under a broader umbrella due to the Air France-KLM acquisition and the transition to SkyTeam. This development could expand EuroBonus's horizons with different integrated services and benefits.
 
 **Key Features:**
 
 - **Airline Partners**: Part of Star Alliance until September 1st, 2024.
 - **Point Earning**: Members earn points based on the fare and the flight length.
-- **Point Redemption**: Points can be used for booking new flights, upgrading seats, or shopping in the EuroBonus shop.
+- **Point Redemption**: Points can be used to book new flights, upgrade seats, or shop in the EuroBonus shop.
 - **Unique Perks (compared to Flying Blue)**: Amex 2 for 1 vouchers, MasterCard Fly Premium Benefit, Free WI-FI onboard for Gold+ members, pay cash tickets with points, Gold for Life, EuroBonus Pandion.
 
 ## Overview of Flying Blue
 
-[**Flying Blue**](https://www.flyingblue.com/) serves as the official frequent flyer program for Air France, KLM, and several other subsidiary airlines. It is known for its flexibility in earning and spending miles and its range of elite status benefits. Flying Blue also collaborates with SkyTeam alliance members, broadening the scope for accumulation and redemption of miles.
+[**Flying Blue**](https://www.flyingblue.com/) is the official frequent flyer program for Air France, KLM, and several other subsidiary airlines. It is known for its flexibility in earning and spending miles and its range of elite status benefits. Flying Blue also collaborates with SkyTeam alliance members, broadening the scope for accumulating and redeeming miles.
 
 **Key Features:**
 
 - **Airline Partners**: Includes all SkyTeam members, offering a comprehensive network of global destinations.
 - **Mile Earning**: Miles are earned based on the amount spent on tickets rather than the distance flown.
-- **Mile Redemption**: Miles can be redeemed for flights, upgrades, hotel stays, car rentals, and even shopping.
+- **Mile Redemption**: Miles can be redeemed for flights, upgrades, hotel stays, car rentals, and shopping.
 - **Unique Perks (compared to Eurobonus)**: Promo Rewards, Platinum For Life, Magazine Subscriptions, up to 8 Lounge Guests, upgrade vouchers on Ultimate.
 
 ## Key Differences Between EuroBonus and Flying Blue
@@ -46,19 +45,21 @@ In this post, we aim to provide a detailed comparison between the two programs, 
 | **Status Qualification**   | Based on flights taken and/or points earned               | Based on XP (Experience Points) earned from flights, which is based on amount spent          |
 | **Status Benefits**        | Priority check-in, extra baggage, lounge access, fast track | Priority services, extra baggage, lounge access, guaranteed seating |
 | **Family Account**         | Yes, pooling of points within family members               | Yes, pooling of miles with family and friends                |
-| **Co-branded Credit Cards**| Available in Sweden, Norway, Denmark and Finland                             | Available in France, Netherlands, United States, Germany, Italy and Belgium                              |
+| **Co-branded Credit Cards**| Available in Sweden, Norway, Denmark, and Finland                             | Available in France, Netherlands, United States, Germany, Italy, and Belgium                              |
 | **Partners**               | Airlines, hotels, car rental, retail, etc.                | Broad range of partners including airlines, hotels, car rental, retail, etc. |
 | **Special Programs**       | Youth tickets, EuroBonus Shop                             | Promo Rewards, Flying Blue Store, special promotions for members            |
 
 ## Which Program is Best?
 
-We get it, there's no answer set in stone. The most rewarding program (for you) will depend on a number of factors such as how often you fly, where, how much do you spend on those flights, and other opportunities for earning/redeeming miles and points. In this section, we will compare both programs from several angles to shed more light and hopefully help with the comparison.
+Finding the perfect travel rewards program can feel overwhelming, but don't worry! There's no one-size-fits-all answer, as the best program depends on your individual travel habits. Factors like how often you fly, where you go, and your spending habits all play a role.
+
+In this section, we'll break down both programs across several key areas to help you make an informed decision.
 
 ### Based on Money Spent and Distance Flown
 
-Below is a table that outlines which frequent flyer program might be more advantageous for accumulating points/miles based on the combination of money spent on airline tickets (from cheaper economy to more expensive premium or business class fares) and the distances flown (from short to long-haul flights).
+This table helps you choose the best program for earning points/miles, considering both how much you spend (economy vs. premium fares) and how far you fly (short vs. long-haul).
 
-The point of this assesment is to compare the different types of award charts for different type of travels: Flying Blue's chart is dynamic and centered on money spent on the ticket, while SAS EuroBonus considers both distance and fare class.
+The point of this assessment is to compare the different types of award charts for various types of travel: Flying Blue's chart is dynamic and centered on money spent on the ticket, while SAS EuroBonus considers both distance and fare class.
 
 |                         | **Ultra-low Fares**          | **Medium/Regular Fares**   | **Business Class/Premium Fares** |
 |-------------------------|----------------------------|----------------------------|------------------------------|
@@ -85,7 +86,7 @@ For Premium Fares
 
 ### Based on Home Country and Destinations
 
-Now, let's compare both programs based on the members' home countries and their travel destinations. In we consider various factors like the availability of co-branded credit cards, regional promotions, and the value of mile/point redemption in specific regions. This comparison aims to determine which program might offer more value depending on geographical preferences.
+Next, let's see how program benefits vary by your home country and travel plans. We'll consider factors like co-branded credit cards, regional promotions, and how valuable miles/points are for redemptions in specific areas. This will help you decide which program offers the most value for your travel preferences.
 
 | **Home Country/Destination** | **Flying Blue**                                         | **SAS EuroBonus**                                       |
 |------------------------------|---------------------------------------------------------|---------------------------------------------------------|
@@ -105,7 +106,7 @@ Now, let's compare both programs based on the members' home countries and their 
 
 ### Based on Status
 
-Both EuroBonus and Flying Blue offer several tiers for frequent flyers, with different progression and qualification requirements. Flying Blue emphasizes more on amount spent on the tickets, while EuroBonus is a combination of amount spent/(fare class) and distance flown. In both programs, moving into higher tiers not only gives members access to more benefits and perks, but also accelerates miles earnigs by adding a multiplier.
+EuroBonus and Flying Blue both reward frequent flyers with tiered memberships, offering a path to unlock valuable perks and accelerate your points/miles accumulation. Earning your way up the tiers can bring exciting benefits like priority boarding, lounge access, and even free flight upgrades. The key difference between the programs lies in how you qualify for these tiers. EuroBonus uses a combination of the amount you spend and the fare class you choose, while Flying Blue focuses primarily on the total amount spent on your tickets.
 
 **SAS EuroBonus**
 
@@ -130,6 +131,20 @@ Both EuroBonus and Flying Blue offer several tiers for frequent flyers, with dif
 | Ultimate | Dedicated Ultimate Assistant available 24/7. Complimentary access to Air France and KLM lounges for you and up to eight guests. Extra check-in baggage allowance on Air France, KLM, and SkyTeam flights. Ultimate and/or SkyPriority airport services for you and up to eight travel companions. Four one-cabin upgrade vouchers per membership year. One partner Flying Blue Platinum card | 2.25x  |
 
 <img src="../assets/img/eurobonus-vs-flying-blue/fb-tiers.webp" alt="Flying Blue Status Tiers." class="noborder"/>
+
+## What if SAS EuroBonus Gets Replaced by Flying Blue?
+
+As expected during major shifts, there are rumors and speculation that in the future, SAS EuroBonus might be ditched or shut down, with Flying Blue replacing it. There's usually very little point behind speculating, but here are some insights in case that happens, based on what has happened historically with other airline mergers or acquisitions.
+
+1. **Integration into Flying Blue**: Members of EuroBonus might have their accounts and points transferred to Flying Blue. This means a new set of rules for earning and redeeming points, and a different network of destinations and services.
+2. **Status Alignment**: The transition could involve mapping EuroBonus membership tiers to corresponding Flying Blue levels. This might affect how quickly members can earn status and the benefits associated with each tier.
+3. **Changes to Benefits and Perks**: This may mean new partnerships with hotels, car rentals, and other travel-related services. In addition, co-branded credit cards will be adjusted, for example, in countries with SAS co-branded cards.
+
+Historically, several notable mergers and acquisitions have led to the integration of airline loyalty programs:
+
+- **Delta Air Lines and Northwest Airlines**: After Delta acquired Northwest in 2008, Northwest’s WorldPerks program was absorbed into Delta’s SkyMiles program. The transition involved transferring WorldPerks member balances to SkyMiles and aligning benefits under the SkyMiles framework.
+- **United Airlines and Continental Airlines**: When United merged with Continental in 2010, Continental’s OnePass program was merged into United’s MileagePlus. Members of OnePass saw their accounts transitioned to MileagePlus, with efforts made to match tier statuses and balance points.
+- **American Airlines and US Airways**: After their merger in 2013, US Airways’ Dividend Miles program was eventually integrated into American’s AAdvantage program. This included a comprehensive transition plan for transferring miles and aligning elite status levels.
 
 ## Become a Pro Travel Hacker
 
