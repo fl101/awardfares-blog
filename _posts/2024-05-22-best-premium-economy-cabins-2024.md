@@ -46,6 +46,8 @@ Virgin Atlantic’s premium cabin, rebranded as Premium in 2018, offers a variet
 * **Available on**: Airbus A330, A330neo, A350, Boeing 787-9
 * **Book awards with**: [Virgin Atlantic Flying Club](https://awardfares.com/search?..;z:flyingclub), [Delta SkyMiles](https://awardfares.com/search?..;z:delta), [Air France-KLM Flying Blue](https://awardfares.com/search?..;z:flyingblue)
 
+<img src="../assets/img/best-premium-economy-2024/virgin.webp" alt="Book award flights on Virgin Altantic Premium Economy Class." class="noborder"/>
+
 ### 5. Emirates
 
 Emirates, a relative newcomer to the premium economy scene, has quickly made a significant impact. Introduced in May 2022, Emirates’ premium economy features luxurious seats with generous recline, a state-of-the-art entertainment system, and high-quality dining options. The airline has invested over $2 billion to refurbish its fleet, ensuring passengers have access to top-notch amenities.
@@ -53,9 +55,7 @@ Emirates, a relative newcomer to the premium economy scene, has quickly made a s
 * **Available on**: Airbus A380, Boeing 777-300ER (retrofitting in progress)
 * **Book awards with**: Emirates Skywards, [Alaska Airlines Mileage Plan](https://awardfares.com/search?..;z:alaska), Japan Airlines Mileage Bank
 
-<img src="../assets/img/best-premium-economy-2024/singapore.webp" alt="Book award flights on Singapore Airlines Premium Economy Class." class="noborder"/>
-
-<img src="../assets/img/best-premium-economy-2024/virgin.webp" alt="Book award flights on Virgin Altantic Premium Economy Class." class="noborder"/>
+<img src="../assets/img/best-premium-economy-2024/emirates.webp" alt="Book award flights on Virgin Altantic Premium Economy Class." class="noborder"/>
 
 ### 6. Singapore Airlines
 
