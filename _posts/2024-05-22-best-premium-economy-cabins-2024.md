@@ -8,7 +8,7 @@ image: /assets/img/best-premium-economy-2024/cover.webp
 hidden: true
 ---
 
-Premium economy cabins continue to grow in popularity, offering a delightful blend of comfort and affordability that sits neatly between economy and business class. In 2024, several airlines have gone above and beyond to elevate their premium economy offerings, ensuring passengers experience luxurious amenities and top-tier service. Here’s a reverse look at the best premium economy cabins available this year and how you can book them using points.
+Premium economy cabins continue to grow in popularity: cabins are becoming better every year, and prices are starting to become more attractive compared to Business and First Class. This year, several airlines launched or will launch new offerings, introducing new seats and elevating the premium economy experience. Here’s a look at our favorites, some of the picked from Skytraxx awards. Plus, we share some tips on how to book them using points or miles. Let's get started!
 
 ## Best Premium Economy Cabins in 2024
 
