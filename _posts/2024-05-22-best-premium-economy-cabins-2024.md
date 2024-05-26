@@ -5,10 +5,9 @@ category: [Guide]
 tags: [Premium Economy, EVA Air, Delta Air Lines, JAL Singapore Airlines, Virgin Atlantic]
 author: Germán
 image: /assets/img/best-premium-economy-2024/cover.webp
-hidden: true
 ---
 
-Premium economy cabins continue to grow in popularity: cabins are becoming better every year, and prices are starting to become more attractive compared to Business and First Class. This year, several airlines launched or will launch new offerings, introducing new seats and elevating the premium economy experience. Here’s a look at our favorites, some of the picked from Skytraxx awards. Plus, we share some tips on how to book them using points or miles. Let's get started!
+Premium economy cabins continue to grow in popularity: cabins are getting better every year, and prices are becoming more attractive than Business and First Class. This year, several airlines launched or will launch new offerings, introducing new seats and elevating the premium economy experience. Here's a look at our favorites, some of them picked from [Skytrax](https://skytraxratings.com/). Plus, we share some tips on how to book them using points or miles. Let's get started!
 
 ## Best Premium Economy Cabins in 2024
 
@@ -17,16 +16,16 @@ Premium economy cabins continue to grow in popularity: cabins are becoming bette
 EVA Air has long been a pioneer in the premium economy space, claiming the title of the world’s first premium economy class back in 1992. The airline has consistently enhanced its offering, and in 2023, it announced plans to introduce premium economy on its new 787-9s by mid-2024. The Taiwanese carrier is known for its spacious seats, excellent in-flight meals, and upgraded onboard amenities.
 
 * **Available on**: Boeing 777-300ER, 787-9, 787-10
-* **Book awards with**: EVA Air Infinity MileageLands, [United MileagePlus](https://awardfares.com/search?..;z:united), [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan), [SAS EuroBonus](https://awardfares.com/search?..;z:eurobonus), Singapore Airlines KrisFlyer
+* **Book awards with**: EVA Air Infinity MileageLands, [United MileagePlus](https://awardfares.com/search?..;z:united), [Air Canada Aeroplan](https://awardfares.com/search?..;z:aeroplan), Singapore Airlines KrisFlyer
 
 <img src="../assets/img/best-premium-economy-2024/eva.avif" alt="Book award flights on EVA Air Premium EConomy Class." class="noborder"/>
 
 ### 2. Japan Airlines
 
-Japan Airlines took premium economy to new heights in 2024 with the launch of its innovative new shells on the A350-1000. This state-of-the-art cabin prioritizes passenger comfort and features next-generation amenities. JAL Premium Economy has wider seats, with industry-leading legroom and impressive recline. The soft product offers curated multi-course meals with regionally-inspired options, and a thoughtful selection of amenities that keeps passengers refreshed throughout the flight. Passengers in JAL Premium Economy also enjoy exclusive perks like priority check-in, increased baggage allowance, and access to airport lounges on select routes.
+Japan Airlines took premium economy to new heights in 2024 with the launch of its innovative [new shells on the A350-1000 (our review here)](https://blog.awardfares.com/jal-a350-premium-economy-review/). This state-of-the-art cabin prioritizes passenger comfort and features next-generation amenities. JAL Premium Economy has wider seats, with industry-leading legroom and impressive recline. The soft product offers curated multi-course meals with regionally-inspired options, and a thoughtful selection of amenities that keeps passengers refreshed throughout the flight. Passengers in JAL Premium Economy also enjoy exclusive perks like priority check-in, increased baggage allowance, and access to airport lounges on select routes.
 
 * **Available on**: Airbus A350-1000
-* **Book awards with****: [American AAdvantage](https://awardfares.com/search?..;z:aadvantage), Qantas Frequent Flyer, British Airways Avios
+* **Book awards with**: [American AAdvantage](https://awardfares.com/search?..;z:aadvantage), Qantas Frequent Flyer, British Airways Avios
 
 <img src="../assets/img/best-premium-economy-2024/jal.webp" alt="Book award flights on JAL's A350-1000 Premium EConomy Class." class="noborder"/>
 
