@@ -90,7 +90,7 @@ Una vez que encuentres el vuelo que desees, haz clic en el botón *Reservar*.
 
 AwardFares te redireccionará al sitio web de Aeroméxico para completar tu reserva sin necesidad de volver a ingresar sus criterios de búsqueda, ya que se completará previamente.
 
-<img src="/assets/img/aeromexico-guide/af-website.webp" alt="AwardFares redirects you to Aeromexico website to book Aeromexico Rewards awards." />
+<img src="/assets/img/aeromexico-guide/am-website.webp" alt="AwardFares redirects you to Aeromexico website to book Aeromexico Rewards awards." />
 
 ## ¿Por qué AwardFares es la forma más fácil de encontrar vuelos premio de Aeroméxico Rewards?
 

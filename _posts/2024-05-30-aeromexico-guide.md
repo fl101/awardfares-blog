@@ -87,7 +87,7 @@ Once you find your desired flight, click the Book button.
 
 AwardFares will redirect you to Aeromexico's website to complete your booking without the need to re-enter your search criteria, as it will be pre-populated.
 
-<img src="/assets/img/aeromexico-guide/af-website.webp" alt="AwardFares redirects you to Aeromexico website to book Aeromexico Rewards awards." />
+<img src="/assets/img/aeromexico-guide/am-website.webp" alt="AwardFares redirects you to Aeromexico website to book Aeromexico Rewards awards." />
 
 ## Why is AwardFares the easiest way to find Aeromexico Rewards Award Flights?
 
