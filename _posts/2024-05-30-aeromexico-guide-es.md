@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finding the Best Aeromexico Rewards Flights and Sweet Spots"
+title: "Cómo Canjear Puntos Aeromexico Rewards y Encontrar Los Mejores Vuelos?"
 category: [Aeromexico Rewards]
 tags: [Aeromexico, SkyTeam]
 author: Germán
