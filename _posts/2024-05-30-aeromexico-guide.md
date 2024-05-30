@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Find Aeromexico Rewards Flights (+ Sweet Spots)"
+title: "Finding the Best Aeromexico Rewards Flights and Sweet Spots"
 category: [Aeromexico Rewards]
 tags: [Aeromexico, SkyTeam]
 author: Germán
@@ -35,7 +35,7 @@ hidden: true
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup?utm_source=aeromexico-guide&utm_medium=blog&utm_content=AwardFares)
 
-Creating an account is optional, but it’s also free, and it gives you access to more features. Make sure to sign up for one here.
+Creating an account is optional, but it’s also free, and it gives you access to more features. Make sure to [sign up here](https://awardfares.com/signup).
 
 ### 2. Select the Frequent Flyer Program
 
@@ -45,7 +45,7 @@ In the **Frequent Flyer Program** picker, select **Aeromexico Rewards**.
 
 ### 3. Add a Route(s)
 
-In the **From** and **To** fields, enter your departure and arrival airports. In the example below, we search for flights between [**Mexico City** (MEX) and **Amsterda,** (AMS)](https://awardfares.com/search?CDG.YUL.;z:flyingblue).
+In the **From** and **To** fields, enter your departure and arrival airports. In the example below, we search for flights between [**Mexico City** (MEX) and **Amsterdam** (AMS)](https://awardfares.com/search?MEX.AMS.;z:aeromexico).
 
 <img src="/assets/img/aeromexico-guide/route.webp" alt="Select the origin and destination city in AwardFares."/>
 
@@ -79,13 +79,13 @@ Plus, use the **Max Price** pill to set a maximum number of miles for the reward
 
 Try filtering out by cabin class (e.g., Business Class, First Class), number of stops (e.g., nonstop), number of passengers, aircraft type, or even flight number!
 
-### 6. Book with Air France or KLM
+### 6. Book with Aeromexico
 
 Once you find your desired flight, click the Book button.
 
 <img src="/assets/img/aeromexico-guide/book.webp" alt="AwardFares redirects you to Aeromexico website to book Aeromexico Rewards awards." />
 
-AwardFares will redirect you to Air France’s website to complete your booking without the need to re-enter your search criteria, as it will be pre-populated. Note that Flying Blue does not have a centralized booking portal, so you'll need to book through either Air France or KLM website.
+AwardFares will redirect you to Aeromexico's website to complete your booking without the need to re-enter your search criteria, as it will be pre-populated.
 
 <img src="/assets/img/aeromexico-guide/af-website.webp" alt="AwardFares redirects you to Aeromexico website to book Aeromexico Rewards awards." />
 
