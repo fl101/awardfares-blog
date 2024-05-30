@@ -5,10 +5,9 @@ category: [Aeromexico Rewards]
 tags: [Aeromexico, SkyTeam]
 author: Germán
 image: /assets/img/aeromexico-guide/cover.webp
-hidden: true
 ---
 
-**Aeromexico Rewards**, Aeromexico’s loyalty program, gives you access to a wide range of travel destinations. However, with the constantly changing award prices, figuring out how to get the most out of your points can be a bit tricky. This guide is your BFF for getting the most out of your Aeromexico Rewards points with AwardFares. We’ll share our top tips for finding and booking award flights to get the best value. Let’s get started!
+[**Aeromexico Rewards**](https://www.aeromexico.com/en-us/aeromexico-rewards), Aeromexico’s loyalty program, gives you access to a wide range of travel destinations. However, with the constantly changing award prices, figuring out how to get the most out of your points can be a bit tricky. This guide is your BFF for getting the most out of your Aeromexico Rewards points with AwardFares. We’ll share our top tips for finding and booking award flights to get the best value. Let’s get started!
 
 ### In this post
 
