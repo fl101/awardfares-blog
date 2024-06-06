@@ -11,6 +11,8 @@ Are you a SAS EuroBonus member with hard-earned status? (e.g., Silver, Gold, or 
 
 But there's a solution you might not be aware of: **status matching**. These turbulent times can be seen as an open door full of opportunities to try new things, including airlines, routes, and alliances. We recommend everyone familiarize themselves with this (low-effort) practice and take advantage of it, as it may open up a world full of benefits. In this guide, we look at the basics.
 
+**UPDATE JUNE 6:** Lufthansa is now [offering status match to SAS EuroBonus status holders. Read more here](https://lufthansa.statusmatch.com/).
+
 ## What is Status Matching?
 
 Status matching allows you to leverage your existing elite status in one airline loyalty program to obtain similar status in another program. This can be a great way to maintain perks like priority boarding, lounge access, and baggage allowances even as your preferred airline undergoes changes.
@@ -25,6 +27,7 @@ Status matching allows you to leverage your existing elite status in one airline
 
 | Program                         | Alliance      | How to apply                                                                                       | Valid Until                                                   |
 | ------------------------------- | ------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Lufthansa                       | Star Alliance | [Check here](https://lufthansa.statusmatch.com/) | Nov 30, 2024 | 
 | United Mileage Plus             | Star Alliance | [Check here](https://statusmatcher.com/report/105016)                                              | Not matching EuroBonus members until SAS exits Star Alliance. |
 | Finnair Plus                    | Oneworld      | [Check here](https://www.finnair.com/se-en/finnair-plus/match-your-tier-to-finnair-plus)           | June 7, 2024                                                  |
 | Turkish Airlines Miles & Smiles | Star Alliance | [Check here](https://statusmatcher.com/company/turkish-airlines)                                   | Ongoing                                                       |

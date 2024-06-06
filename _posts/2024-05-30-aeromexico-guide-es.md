@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Guía para Canjear Puntos Aeromexico Rewards y Encontrar Vuelos Baratos"
+title: "Guía para Canjear Puntos Aeroméxico Rewards y Encontrar Vuelos Baratos"
 category: [Aeromexico Rewards]
 tags: [Aeromexico, SkyTeam]
 author: Germán
 image: /assets/img/aeromexico-guide/cover-es.webp
 lang: es
-hidden: true
 ---
 
 [**Aeroméxico Rewards**](https://www.aeromexico.com/es-mx/aeromexico-rewards), el programa de lealtad de Aeroméxico, te brinda acceso a una amplia gama de destinos de viaje. Sin embargo, con los precios de los billetes premio en constante cambio, descubrir cómo aprovechar al máximo tus puntos es complicado. No te preocupes!
