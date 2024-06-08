@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZIPAIR Full-Flat Low-Cost "Business Class" Review: Tokyo to San Francisco'
+title: 'ZIPAIR Full-Flat Low-Cost Business Class Review: Tokyo to San Francisco'
 category: [Trip Report]
 tags: [Review, Business, ZIPAIR]
 author: Philip
