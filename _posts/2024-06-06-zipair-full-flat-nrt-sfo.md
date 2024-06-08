@@ -5,8 +5,6 @@ category: [Trip Report]
 tags: [Review, Business, ZIPAIR]
 author: Philip
 image: /assets/img/zipair-business-nrt-sfo/cover.webp
-hidden: true
-sitemap: false
 ---
 
 On a recent trip between Tokyo and the US west coast, I tried ZIPAIR for the first time. The airline is a low-cost carrier owned by Japan Airlines (JAL). However, what makes ZIPAIR extra interesting (compared to other LCCs) is that they offer premium seating options with full-flat "Business class" seats.
