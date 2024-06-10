@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Flying Blue Adds Oman Air: Book With Miles"
+title: "Oman Air Becomes a Flying Blue Partner: How To Book With Miles"
 category: [News, Flying Blue]
 tags: [Oman Air]
 author: Germán
 image: /assets/img/oman-air-flying-blue/cover.webp
-hidden: true
 ---
 
 Flying Blue [just announced an exciting new partnership with **Oman Air**](https://www.flyingblue.com/en/earn/partners/airline-oman-air), expanding your travel options and mileage potential.
@@ -14,15 +13,17 @@ Flying Blue [just announced an exciting new partnership with **Oman Air**](https
 
 ### In This Post
 
-- [Earn and Use Miles](#earn-and-use-miles)
+- [Earn and Redeem](#earn-and-redeem)
 - [Business Class Experience Like First Class](#business-class-experience-like-first-class)
-- [How to book award flights on Oman Air](#how-to-book-award-flights-on-oman-air)
+- [Book Oman Air Flights with Flying Blue](#book-oman-air-flights-with-flying-blue)
 - [Become a Flying Blue Pro](#become-a-flying-blue-pro)
 - [Read More](#read-more)
 
-## Earn and Use Miles
+## Earn and Redeem
 
-The new partnership enables you to earn Flying Blue Miles on all Oman Air flights, regardless of the cabin class. Whether you fly First Class, Business Class, or Economy, you’ll accumulate miles according to the table below. Additionally, you can redeem your Flying Blue Miles for award flights on Oman Air.
+Oman Air is not part of any airline alliance, but the new partnership enables you to earn Flying Blue Miles on all Oman Air flights, regardless of the cabin class. You’ll accumulate miles according to the table below.
+
+Additionally, you can redeem your Flying Blue Miles for award flights on Oman Air. Reward flights are already available. Follow our tutorial below to find the best reward seats using AwardFares!
 
 <img src="/assets/img/oman-air-flying-blue/earn.webp" alt="Earn Flying Blue miles with Oman Air." />
 
@@ -41,7 +42,7 @@ Oman Air's Business Class is known for including features that rival some airlin
 <img src="/assets/img/oman-air-flying-blue/biz4.webp" alt="Oman Air 787 Business Class." />
 </figure>
 
-## How to book award flights on Oman Air
+## Book Oman Air Flights with Flying Blue
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup?utm_source=oman-air-flying-blue&utm_medium=blog&utm_content=AwardFares)
 
@@ -89,7 +90,7 @@ Once you find your desired flight, click the Book button.
 
 AwardFares will redirect you to Air France’s website to complete your booking without the need to re-enter your search criteria, as it will be pre-populated. Note that Flying Blue does not have a centralized booking portal, so you'll need to book through either Air France or KLM website.
 
-<img src="../assets/img/oman-air-flying-blue/book.webp" alt="AwardFares redirects you to Air France website to book Flying Blue award flights." />
+<img src="../assets/img/oman-air-flying-blue/af-website.webp" alt="AwardFares redirects you to Air France website to book Flying Blue award flights." />
 
 ## Become a Flying Blue Pro
 
