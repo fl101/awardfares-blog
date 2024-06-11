@@ -5,7 +5,6 @@ category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-discount-june-2024/cover.webp
-hidden: true
 ---
 
 SAS just launched a [discounted offer for EuroBonus members](https://www.sas.se/special-offers/poangrabatt/): **25% discount on award flights to/from Paris, London, Amsterdam, Gdansk, Poznan, Brussels and Manchester**. This promotion is applicable to flights on SAS Go Bonus, and SAS Plus Bonus.
