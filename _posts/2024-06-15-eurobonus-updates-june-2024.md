@@ -22,6 +22,21 @@ Read more [in this post](https://blog.awardfares.com/sas-for-work).
 
 <img src="../assets/img/eurobonus-updates-june-2024/sas-for-work.webp" alt="SAS announces 'SAS for Work'." class="noborder"/>
 
+### 2. Discounts on flights to Europe with SAS (Book by June 17)
+
+SAS is running heavily discounted prices on revenue tickets, valid for bookings until June 17. Their well known *low price calendar* shows prices starting at 499 kr.
+
+This is a great opportunity not only to get cheap flights to interesting destinations, but also to accrue extra EuroBonus points or challenge for a higher status if you are running short during your qualification period.
+
+* **Travel Period**: July 15, 2024 - December 15, 2024.
+* **Book by**: June 17, 2024
+
+<div data-countdown="2024-06-17T22:59:00.000+02:00">
+  TIME LEFT TO BOOK
+</div>
+
+<img src="../assets/img/eurobonus-updates-june-2024/low-price-calendar-june.webp" alt="SAS low price calendar with discounts on SAS flights to Europe (June 2024)" class="noborder"/>
+
 ### 2. Get up to 30.000 EuroBonus Points with Amex Elite (By June 30th)
 
 American Express and SAS offer a new promotion with an increased welcome bonus when applying to the SAS Amex Elite (their highest tier) credit card. This time they offer **30.000 EuroBonus points** (both valid in Sweden and Norway). The points are enough for a return trip to Europe in SAS Go Bonus (taxes and fees are added).
@@ -47,11 +62,11 @@ Here are the conditions:
 
 American Express has now officially informed about the upcoming changes to the 2 for 1 benefit once SAS transitions from Star Alliance to SkyTeam.
 
-<img src="../assets/img/eurobonus-updates-june-2024/amex-2-for-1.webp" alt="Amex Elite 30k EuroBonus Points'." class="noborder"/>
-
 - **For booking bonus trips until 31 August 2024**: Until 31 August 2024, as a EuroBonus member you can still book bonus travel with airlines within the Star Alliance, even if the departure date is after 31 August 2024.
 - **For booking bonus trips from 1 September 2024**: As of September 1, 2024, as a EuroBonus member, you book all your new bonus trips with airlines within SkyTeam.
 Read more about [SAS' transition to SkyTeam here](https://blog.awardfares.com/sas-transition-to-skyteam/).
+
+<img src="../assets/img/eurobonus-updates-june-2024/amex-2-for-1.webp" alt="Amex Elite 30k EuroBonus Points'." class="noborder"/>
 
 ### 4. Enterprise & Alamo: Save up to 10% on Rental Cars, Get Free Extra Driver
 
@@ -75,3 +90,5 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
 - [From Star Alliance to SkyTeam: The SAS Transition (Official Info)](https://blog.awardfares.com/sas-transition-to-skyteam/)
 - [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
+
+<script src="/assets/js/countdown.js"></script>

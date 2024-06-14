@@ -5,7 +5,6 @@ category: [News, SAS EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/sas-for-work/cover.webp
-hidden: true
 ---
 
 Scandinavian Airlines System (SAS) is revamping its business travel program, SAS for Business, with a new name and a focus on making business trips smoother for both employees and companies. The program will now be known as **SAS for Work**, and it launches with a myriad of new benefits starting June 11th.
