@@ -8,11 +8,11 @@ image: /assets/img/eurobonus-updates-june-2024/cover.webp
 hidden: true
 ---
 
-- As spring winds down, the EuroBonus program keeps things interesting. As usual, we love catching you up on all the latest news and updates to help you maximize your points, especially during these turbulent times. Here is our monthly summary of the hottest EuroBonus topics!
+As summer kicks off, the EuroBonus program is still buzzing with updates to enhance your travel experience. We love to keep you informed about the latest developments and opportunities to make the most of your points. From new service transformations to enticing promotions, here’s a summary of what's happening this June.
 
 ## SAS EuroBonus Updates (June 2024)
 
-### 1. SAS Announces "SAS for Work"
+### 1. SAS Announces *SAS for Work*
 
 Beginning on June 11, *SAS for Business* will undergo a transformation and be rebranded as [**SAS for Work**](https://blog.awardfares.com/sas-for-work). This new service will introduce several enhancements aimed at improving the experience of business travel for both individual passengers and companies.
 
@@ -25,6 +25,8 @@ Read more [in this post](https://blog.awardfares.com/sas-for-work).
 ### 2. Get up to 30.000 EuroBonus Points with Amex Elite (By June 30th)
 
 American Express and SAS offer a new promotion with an increased welcome bonus when applying to the SAS Amex Elite (their highest tier) credit card. This time they offer **30.000 EuroBonus points** (both valid in Sweden and Norway). The points are enough for a return trip to Europe in SAS Go Bonus (taxes and fees are added).
+
+<img src="../assets/img/eurobonus-updates-june-2024/amex-elite-promo.webp" alt="Amex Elite 30k EuroBonus Points'." class="noborder"/>
 
 **Keep in mind**: The offer is only valid via links from SAS channels during June 2024.
 
@@ -40,8 +42,6 @@ Here are the conditions:
 - The points are transferred by November 30, 2024.
 - The card must be active when the bonus is distributed.
 - **Important**: If you cancel or downgrade the card within 12 months of being granted, your account will be debited with the value of your received welcome bonus. This prevents people from applying, getting the bonus, and canceling before the entire year.
-
-<img src="../assets/img/eurobonus-updates-june-2024/amex-elite-promo.webp" alt="Amex Elite 30k EuroBonus Points'." class="noborder"/>
 
 ### 3. Announcement on 2 for 1 Vouchers / Companion Tickets
 
