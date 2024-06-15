@@ -5,7 +5,6 @@ category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-june-2024/cover.webp
-hidden: true
 ---
 
 As summer kicks off, the EuroBonus program is still buzzing with updates to enhance your travel experience. We love to keep you informed about the latest developments and opportunities to make the most of your points. From new service transformations to enticing promotions, here’s a summary of what's happening this June.
