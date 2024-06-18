@@ -67,7 +67,13 @@ Read more about [SAS' transition to SkyTeam here](https://blog.awardfares.com/sa
 
 <img src="../assets/img/eurobonus-updates-june-2024/amex-2-for-1.webp" alt="Amex Elite 30k EuroBonus Points'." class="noborder"/>
 
-### 4. Enterprise & Alamo: Save up to 10% on Rental Cars, Get Free Extra Driver
+### 5. Lunar announces first debit card with SAS EuroBonus points
+
+Lunar and SAS have launched Scandinavia’s first debit card that allows users to earn EuroBonus points on everyday purchases without using credit. This partnership merges Lunar’s user-friendly banking app with SAS’ popular EuroBonus program, offering Scandinavians the ability to earn points on routine expenditures, from groceries to dining, both domestically and abroad. The card, available from June 18, 2024, can be ordered via Lunar’s app and offers significant incentives, including welcome points for new users.
+
+<img src="../assets/img/eurobonus-updates-june-2024/lunar.webp" alt="Lunar way'." class="noborder"/>
+
+### 6. Enterprise & Alamo: Save up to 10% on Rental Cars, Get Free Extra Driver
 
 Rent a car from over 9,500 destinations around the world and experience exceptional customer service with Enterprise Rent-A-Car, National Car Rental and Alamo Rent a Car. [**Book by August 14, 2024**](https://www.sas.se/boka/hyrbil/?ptid=125.16) and get up to 10% discount. You can also add an extra driver for free, in participating countries.
 
