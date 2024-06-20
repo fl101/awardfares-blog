@@ -60,7 +60,7 @@ Here's what to keep in mind:
 
 *AwardFares never asks for login credentials for your frequent flyer program.*
 
-### 1. Visit [AwardFares](https://awardfares.com/signup)
+### 1. Go to [AwardFares](https://awardfares.com/signup)
 
 Creating an account is optional, but registration is free and unlocks additional features. [Sign up here to get started.](https://awardfares.com/signup)
 
@@ -68,7 +68,7 @@ Creating an account is optional, but registration is free and unlocks additional
 
 Select **Etihad Guest** from the dropdown menu to search for your award flight.
 
-<img src="../assets/img/etihad-guest/ffp-etihad.webp" alt="Select Etihad Guest in AwardFares." class="noborder"/>
+<img src="../assets/img/introducing-etihad-guest/ffp-etihad.webp" alt="Select Etihad Guest in AwardFares." class="noborder"/>
 
 ### 3. Enter a Route
 
@@ -76,9 +76,9 @@ Add your origin and destination airports, and AwardFares will search for availab
 
 In this example, we search for flights [between Abu Dhabi (AUH) to London (LON)](https://awardfares.com/search?AUH.LHR.;z:etihad).
 
-<img src="../assets/img/etihad-guest/route.webp" alt="Select a route when searching a Etihad Guest in AwardFares." class="noborder"/>
+<img src="../assets/img/introducing-etihad-guest/route.webp" alt="Select a route when searching a Etihad Guest in AwardFares." class="noborder"/>
 
-### 4. Select Dates
+### 4. Explore Dates for your Flights
 
 Either input specific dates or use the Timeline View to explore availability over different periods. This view helps you easily compare the availability and class of service across various days.
 
