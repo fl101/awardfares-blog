@@ -5,6 +5,8 @@ category: [EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-status-match/cover.webp
+seo:
+    date_modified: 2024-06-20
 ---
 
 Are you a SAS EuroBonus member with hard-earned status? (e.g., Silver, Gold, or Diamond)? If so, how will the upcoming shift from Star Alliance to SkyTeam affect your travel benefits? If you keep traveling on Star Alliance after September 1st, you will lose benefits on some partner airlines, such as access to the Gold Track, Star Alliance Lounges, and more.
@@ -31,7 +33,6 @@ Status matching allows you to leverage your existing elite status in one airline
 | United Mileage Plus             | Star Alliance | [Check here](https://statusmatcher.com/report/105016)                                              | Not matching EuroBonus members until SAS exits Star Alliance. |
 | Finnair Plus                    | Oneworld      | [Check here](https://www.finnair.com/se-en/finnair-plus/match-your-tier-to-finnair-plus)           | June 7, 2024                                                  |
 | Turkish Airlines Miles & Smiles | Star Alliance | [Check here](https://statusmatcher.com/company/turkish-airlines)                                   | Ongoing                                                       |
-| AF/KL Flying Blue               | SkyTeam       | [Check here](https://flyingblue.statusmatch.com/)                                                  | Ongoing                                                       |
 | Delta SkyMiles (Challenge)      | SkyTeam       | [Check here](https://www.delta.com/us/en/skymiles/medallion-program/status-match-challenge/#chart) | Ongoing                                                       |
 
 Notes:
