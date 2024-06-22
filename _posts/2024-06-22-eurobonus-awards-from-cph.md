@@ -6,7 +6,6 @@ tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-awards-from-cph/cover.webp
 hidden: true
-sitemap: false
 ---
 
 Today we are kicking off a new series of posts highlighting different sweet spots using SAS EuroBonus points, and how to find them using AwardFares. This week is aimed at EuroBonus members based in Copenhagen!

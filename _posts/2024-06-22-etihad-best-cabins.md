@@ -12,7 +12,7 @@ Etihad Airways, the national airline of the United Arab Emirates, is renowned fo
 
 In this guide, we help you navigate the best cabins to book with your Etihad Guest miles, detailing different airplane types, popular routes, cost in miles, and even how to find availability using AwardFares.
 
-## Etihad Cabins: The Basics
+## Etihad Cabins in 2024: A Primer
 
 ### The Residence: A Class of Its Own
 
@@ -20,10 +20,10 @@ The Residence is the epitome of luxury in the skies, featuring a private three-r
 
 * **Aircraft**: Airbus A380
 * **Routes**:
-  * Abu Dhabi (AUH) to London (LHR)
-  * Abu Dhabi (AUH) to New York (JFK)
-  * Abu Dhabi (AUH) to Paris (CDG)
-* **Price Range**: 1,200,000 - 1,500,000 Miles (one-way)
+  * [Abu Dhabi (AUH) to London (LHR)](https://awardfares.com/search?AUH.LHR.;c:first;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to New York (JFK)](https://awardfares.com/search?AUH.JFK.;c:first;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to Paris (CDG)](https://awardfares.com/search?AUH.CDG.;c:first;a:EY;z:etihad)
+* **Price Range**: from 300,000 miles (one-way)
 
 <img src="../assets/img/etihad-cabins/a380-the-residence.avif" alt="Etihad A380 The Residence" class="noborder"/>
 
@@ -35,10 +35,10 @@ The First Apartments on the Airbus A380 offer unparalleled privacy and comfort, 
 
 * **Airplane Type**: Airbus A380
 * **Routes**:
-  * Abu Dhabi (AUH) to Sydney (SYD)
-  * Abu Dhabi (AUH) to London (LHR)
-  * Abu Dhabi (AUH) to New York (JFK)
-* Price Range: 200,000 - 250,000 Miles (one-way)
+  * [Abu Dhabi (AUH) to Sydney (SYD)](https://awardfares.com/search?AUH.SYD.;c:first;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to London (LHR)](https://awardfares.com/search?AUH.LHR.;c:first;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to New York (JFK)](https://awardfares.com/search?AUH.JFK.;c:first;a:EY;z:etihad)
+* Price Range: from 160,000 miles (one-way)
 
 <img src="../assets/img/etihad-cabins/etihad-first.webp" alt="Book Etihad First Class with Etihad Guest Miles" class="noborder"/>
 
@@ -46,14 +46,14 @@ The First Apartments on the Airbus A380 offer unparalleled privacy and comfort, 
 
 ### Business Studio (Business Class)
 
-Etihad’s Business Studio offers a sophisticated and stylish environment for business travelers. With a fully-flat bed, direct aisle access, and personal space, it’s an excellent choice for those looking to work or relax in comfort. The Business Studio is available on both the Airbus A380 and Boeing 787.
+Etihad’s Business Studio offers a sophisticated and stylish environment for business travelers. With a fully-flat bed, direct aisle access, and personal space, it’s an excellent choice for those looking to work or relax in comfort. The Business Studio is available on both the Airbus A380, Airbus A350 (variation), Boeing 787 (updated), Boeing 777 (updated).
 
-* **Aircraft**: Airbus A380, Boeing 787
+* **Aircraft**: Airbus A380, Airbus A350, Boeing 787, Boeing 777
 * **Routes**:
-  * Abu Dhabi (AUH) to Melbourne (MEL)
-  * Abu Dhabi (AUH) to Frankfurt (FRA)
-  * Abu Dhabi (AUH) to Tokyo (NRT)
-* **Price Range**: 80,000 - 120,000 Miles (one-way)
+  * [Abu Dhabi (AUH) to Melbourne (MEL)](https://awardfares.com/search?AUH.MEL.;c:business;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to Frankfurt (FRA)](https://awardfares.com/search?AUH.FRA.;c:business;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to Tokyo (NRT)](https://awardfares.com/search?AUH.NRT.;c:business;a:EY;z:etihad)
+* **Price Range**: from 80,000 miles (one-way)
 
 <figure>
 <img src="../assets/img/etihad-cabins/etihad-business-a350.webp" alt="Book Etihad Business Class with Etihad Guest Miles" class="noborder"/>
@@ -68,10 +68,10 @@ For travelers looking for a more comfortable economy experience, Etihad’s Econ
 
 * **Aircraft**: Airbus A350, Airbus A380, Boeing 787, Boeing 777
 * **Example Routes**:
-  * Abu Dhabi (AUH) to London (LHR)
-  * Abu Dhabi (AUH) to Bangkok (BKK)
-  * Abu Dhabi (AUH) to Cairo (CAI)
-* **Price Range**: 25,000 - 35,000 Miles (one-way)
+  * [Abu Dhabi (AUH) to Bangkok (BKK)](https://awardfares.com/search?AUH.BKK.;c:economy;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to Cairo (CAI)](https://awardfares.com/search?AUH.CAI.;c:economy;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to London (LHR)](https://awardfares.com/search?AUH.LHR.;c:economy;a:EY;z:etihad)
+* **Price Range**: from 20,000 miles (one-way)
 
 <img src="../assets/img/etihad-cabins/etihad-economy-space.webp" alt="Book Etihad Economy Space with Etihad Guest Miles" class="noborder"/>
 
@@ -83,10 +83,10 @@ Etihad’s Economy Standard provides a reliable and comfortable flying experienc
 
 * **Aircraft**: Airbus A350, Airbus A320, Airbus A380, Boeing 787, Boeing 777
 * **Example Routes**:
-  * Abu Dhabi (AUH) to Istanbul (IST)
-  * Abu Dhabi (AUH) to Mumbai (BOM)
-  * Abu Dhabi (AUH) to Athens (ATH)
-* **Price Range**: 20,000 - 30,000 Miles (one-way)
+  * [Abu Dhabi (AUH) to Istanbul (IST)](https://awardfares.com/search?AUH.IST.;c:economy;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to Mumbai (BOM)](https://awardfares.com/search?AUH.BOM.;c:economy;a:EY;z:etihad)
+  * [Abu Dhabi (AUH) to Athens (ATH)](https://awardfares.com/search?AUH.ATH.;c:economy;a:EY;z:etihad)
+* **Price Range**: from 20,000 miles (one-way)
 
 <img src="../assets/img/etihad-cabins/etihad-economy.avif" alt="Book Etihad Economy Class with Etihad Guest Miles" class="noborder"/>
 
@@ -102,10 +102,9 @@ GuestSeats are a hidden gem for Etihad Guest members. These exclusive seats offe
 
 [AwardFares Alerts](https://blog.awardfares.com/alerts/) can be of great advantage for finding GuestSeats. Simply search for a route, and use the *Max Price* filter to get notified when a seat is available at a lower price!
 
-Here's a taste of what you can expect:
+In February 2024, Etihad Guest reduced the price of GuestSeats even further after introducing changes to the program.
 
-* **Economy GuestSeat**: Perfect for budget-conscious travelers. Expect routes like Abu Dhabi (AUH) to Bangkok (BKK) starting around 20,000 miles (round trip).
-* **Business GuestSeat**: Take your comfort to the next level with lie-flat seats. Popular routes like AUH to London (LHR) can start around 45,000 miles (round trip).
+<img src="../assets/img/etihad-cabins/etihad-guestseats.webp" alt="Book Etihad GuestSeats in 2024" class="noborder"/>
 
 ### OpenSeats: Flexibility with a Price
 
@@ -113,6 +112,20 @@ OpenSeats offer more flexibility for booking flights with your miles, but the co
 
 * **Economy OpenSeat**: Prices can vary depending on the route and season. Expect a range of 25,000 to 70,000 miles (round trip) for routes like AUH to Frankfurt (FRA).
 * **Business OpenSeat**: Enjoy lie-flat comfort with fares ranging from 50,000 to 100,000 miles (round trip) on routes like AUH to New York (JFK).
+
+## How To Find Etihad Guest GuestSeats Awards with AwardFares
+
+1. Go to [AwardFares](https://awardfares.com/signup).
+2. Under *Frequent Flyer Program*, choose **Etihad Guest**.
+3. Tap on *Airline* and select **Etihad only**.
+4. Under *Departure* city, select an origin airport, e.g., **Abu Dhabi (AUH)**.
+5. Similarly, enter a *Destination*, e.g., **New York (JFK)**
+6. Choose a date, or use the Timeline view to explore flights for different dates.
+7. Tap on *Saver* and turn on the option *Display saver fares only*.
+
+That's it! AwardFares will show you the available seats/flights on the list below.
+
+<img src="../assets/img/etihad-cabins/etihad-guestseat-results-awardfares.webp" alt="Find the best Etihad GuestSeats awards with AwardFares." class="noborder"/>
 
 ## Become an Etihad Guest Pro
 
@@ -124,5 +137,5 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-- [Navigate Etihad Guest Like a Pro with AwardFares](https://blog.awardfares.com/introducing-etihad-guest/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
+* [Navigate Etihad Guest Like a Pro with AwardFares](https://blog.awardfares.com/introducing-etihad-guest/)
+* [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
