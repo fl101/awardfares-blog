@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Etihad Cabins Guide:"
+title: "From Economy to The Residence: Best Ways to Spend Etihad Guest Miles (Etihad Cabins Guide)"
 category: [Guide, Etihad Guest]
 tags: [Etihad]
 author: Germán
