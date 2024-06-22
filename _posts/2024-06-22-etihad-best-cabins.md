@@ -4,7 +4,7 @@ title: "From Economy to The Residence: Best Ways to Spend Etihad Guest Miles (Et
 category: [Guide, Etihad Guest]
 tags: [Etihad]
 author: Germán
-image: /assets/img/etihad-best-cabins/cover.webp
+image: /assets/img/etihad-cabins/cover.webp
 hidden: true
 ---
 
