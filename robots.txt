@@ -1,4 +1,3 @@
 User-agent: *
 Sitemap: https://blog.awardfares.com/sitemap.xml
 Disallow: /search/
-Disallow: /search
