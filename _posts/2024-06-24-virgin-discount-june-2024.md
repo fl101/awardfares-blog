@@ -10,6 +10,8 @@ hidden: true
 
 Virgin Atlantic is offering a whopping 40% discount on all award redemptions for travel in 2024. This offer applies to all routes, cabins, and classes, so you can save big on your dream vacation.
 
+<img src="../assets/img/virgin-discount-june-2024/virgin-atlantic-discount-june-24.webp" alt="Virgin Atlantic is offering 40% Off Reward Flights." class="noborder"/>
+
 ## What's The Deal?
 
 * **Discount**: 0% discount on reward flights and points upgrades on all Virgin-operated flights (including Virgin Atlantic and Virgin Red)
@@ -43,7 +45,7 @@ Virgin Atlantic is offering a whopping 40% discount on all award redemptions for
 
 That's it! AwardFares will show you the available seats/flights on the list below.
 
-<img src="../assets/img/virgin-discount-june-2024/virgin-discount.webp" alt="Easily search for Virgin Atlantic Discounted Rewards." class="noborder"/>
+<img src="../assets/img/virgin-discount-june-2024/virgin-results.webp" alt="Easily search for Virgin Atlantic Discounted Rewards." class="noborder"/>
 
 ## Top Virgin Atlantic Routes
 
