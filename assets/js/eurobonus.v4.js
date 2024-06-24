@@ -86,22 +86,23 @@
         continue;
       }
 
-      const date = safeDate(row[0]);
+      const date = safeDate(row[1]);
       if (!currentDate) {
         currentDate = date;
       }
       if (!date.isValid()) {
-        alert('Found invalid date: ' + row[0]);
+        alert('Found invalid date: ' + row[1]);
         continue;
       }
 
-      let description = row[1].split('\n').join('; ');
+      let description = row[0].split('\n').join('; ');
       const pointsType = row[3];
       let extraPoints = pointsType == 'Extra Points' ? safeNumber(row[2]) : 0;
       const basePoints = (pointsType == 'Status Points' || pointsType == 'Basic Points' || pointsType == 'Mastercard Status Points') ? safeNumber(row[2]) : 0;
       const isRefund = description.includes('Refund');
       const isStatus = description.includes('Status');
       const isTransfer = description.includes('Transfer');
+      const isClaim = description.includes('Reason: Claim');
 
       // Some old upgrade transactions report a positive number
       if (extraPoints > 0 && description.includes('Points used')) {
@@ -158,7 +159,7 @@
   
       // Update flypremium data
       let isFlyPremium = false;
-      if ((basePoints > 0 || extraPoints > 0) && !isRefund && !isStatus && !isTransfer) {
+      if ((basePoints > 0 || extraPoints > 0) && !isRefund && !isStatus && !isTransfer && !isClaim) {
         const monthsOffset = moment().startOf('month').diff(date.clone().startOf('month'), 'month');
         isFlyPremium = true;
         if (monthsOffset <= 24) {
