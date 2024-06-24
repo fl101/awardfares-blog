@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Virgin Atlantic 40% off all routes redemption"
+title: "Virgin Atlantic Offers 40% OFF On All Reward Routes"
 category: [News, Flying Club]
 tags: [Virgint Atlantic]
 author: Germán
 image: /assets/img/virgin-discount-june-2024/cover.webp
-hidden: true
 ---
 
 Virgin Atlantic is offering a whopping 40% discount on all award redemptions for travel in 2024. This offer applies to all routes, cabins, and classes, so you can save big on your dream vacation.
@@ -14,7 +13,7 @@ Virgin Atlantic is offering a whopping 40% discount on all award redemptions for
 
 ## What's The Deal?
 
-* **Discount**: 0% discount on reward flights and points upgrades on all Virgin-operated flights (including Virgin Atlantic and Virgin Red)
+* **Discount**: 40% discount on reward flights and points upgrades on all Virgin-operated flights (including Virgin Atlantic and Virgin Red)
 * Book between June 21st and June 24th, 2024
 * Travel through December 31st, 2024
 
@@ -71,9 +70,9 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+* [Introducing Virgin Atlantic Flying Club Awards](https://blog.awardfares.com/introducing-flying-club/)
+* [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
+* [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
+* [Best Premium Economy Cabins in 2024 (And How To Book Them With Points)](https://blog.awardfares.com/best-premium-economy-cabins-2024/)
 
 <script src="/assets/js/countdown.js"></script>
