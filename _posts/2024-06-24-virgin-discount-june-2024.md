@@ -33,7 +33,7 @@ Virgin Atlantic is offering a whopping 40% discount on all award redemptions for
 * Standard tier points will be awarded. Passengers are not entitled to earn Virgin Points.
 * Existing bookings changed within the promotional booking period will be eligible for this offer and any reduction in the points price will be credited back to the member’s account. Changes are subject to the usual change fees and any increase in taxes, fees, and carrier-imposed surcharges.
 
-## How To Find Etihad Guest GuestSeats Awards with AwardFares
+## How To Find FlyingClub Rewards with AwardFares
 
 1. Go to [AwardFares](https://awardfares.com/signup).
 2. Under *Frequent Flyer Program*, choose **Virgin Atlantic Flying Club**.
