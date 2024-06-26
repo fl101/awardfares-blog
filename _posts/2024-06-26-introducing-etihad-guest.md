@@ -5,7 +5,6 @@ category: [News, Etihad Guest]
 tags: [Features, Etihad]
 author: Germán
 image: /assets/img/introducing-etihad-guest/cover.webp
-hidden: true
 ---
 
 Etihad Guest, the renowned frequent flyer program of Etihad Airways, now integrates seamlessly with AwardFares, bringing you even more opportunities to maximize your travel rewards. What sets Etihad Guest apart is its flexible earning and redemption options, along with generous stopover programs in Abu Dhabi and frequent special promotions. Additionally, its innovative features like Milesbooster and Family Membership make it easier and faster to accumulate and redeem miles.
