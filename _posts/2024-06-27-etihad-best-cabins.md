@@ -5,7 +5,6 @@ category: [Guide, Etihad Guest]
 tags: [Etihad]
 author: Germán
 image: /assets/img/etihad-cabins/cover.webp
-hidden: true
 ---
 
 Etihad Airways, the national airline of the United Arab Emirates, is renowned for its luxurious travel experiences and world-class service. One of the most appealing aspects of flying with Etihad is the ability to use Etihad Guest Miles to book award flights in various cabins.
@@ -57,7 +56,7 @@ Etihad’s Business Studio offers a sophisticated and stylish environment for bu
 
 <figure>
 <img src="../assets/img/etihad-cabins/biz1.avif" alt="Book Etihad Business Class with Etihad Guest Miles" class="noborder"/>
-<img src="../assets/img/etihad-cabins/biz2.avif" alt="Book Etihad Business Class with Etihad Guest Miles" class="noborder"/>
+<img src="../assets/img/etihad-cabins/biz2.webp" alt="Book Etihad Business Class with Etihad Guest Miles" class="noborder"/>
 </figure>
 
 *Image source: Etihad*
