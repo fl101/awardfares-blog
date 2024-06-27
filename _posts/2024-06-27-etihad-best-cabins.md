@@ -56,11 +56,11 @@ Etihad’s Business Studio offers a sophisticated and stylish environment for bu
 * **Price Range**: from 80,000 miles (one-way)
 
 <figure>
-<img src="../assets/img/etihad-cabins/etihad-business-a350.webp" alt="Book Etihad Business Class with Etihad Guest Miles" class="noborder"/>
-<img src="../assets/img/etihad-cabins/etihad-business-a380.webp" alt="Book Etihad Business Class with Etihad Guest Miles" class="noborder"/>
+<img src="../assets/img/etihad-cabins/biz1.avif" alt="Book Etihad Business Class with Etihad Guest Miles" class="noborder"/>
+<img src="../assets/img/etihad-cabins/biz2.avif" alt="Book Etihad Business Class with Etihad Guest Miles" class="noborder"/>
 </figure>
 
-*Image source: [Business Traveller](https://www.businesstraveller.com/tried-and-tested/flight-review-etihad-a350-1000-business-class/), [The Australian](https://www.theaustralian.com.au/travel/review-etihad-airways-business-class/news-story/af0a6976b198806184310c9791ed4d14).*
+*Image source: Etihad*
 
 ### Economy Space: More Room to Relax
 
@@ -73,9 +73,9 @@ For travelers looking for a more comfortable economy experience, Etihad’s Econ
   * [Abu Dhabi (AUH) to London (LHR)](https://awardfares.com/search?AUH.LHR.;c:economy;a:EY;z:etihad)
 * **Price Range**: from 20,000 miles (one-way)
 
-<img src="../assets/img/etihad-cabins/etihad-economy-space.webp" alt="Book Etihad Economy Space with Etihad Guest Miles" class="noborder"/>
+<img src="../assets/img/etihad-cabins/economy-space.avif" alt="Book Etihad Economy Space with Etihad Guest Miles" class="noborder"/>
 
-*Image source: [Executive Traveller](https://www.executivetraveller.com/news/etihad-airways-a350-premium-economy-economy-space-seats)*
+*Image source: Etihad*
 
 ### Economy Standard
 
