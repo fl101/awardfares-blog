@@ -73,7 +73,7 @@ AwardFares is your best friend to quickly find the best available award flights 
 2. Select your favorite **Loyalty Program** (e.g, Alaska Mileage Pan).
 3. Select the airline **Airline** (e.g., Emirates).
 4. Add **Premium Economy** in the *Cabin* filter.
-5. Add the aircraft type under *Equipement* (e.g. Airbus A380-800)
+5. Add the aircraft type under *Equipment* (e.g. Airbus A380-800)
 6. Choose a desired route and date.
 7. Voilà! AwardFares will do its magic and show you the available flights in the list below, including details such as the prices per cabin, number of stops, total travel time, aircraft used, and more!
 
