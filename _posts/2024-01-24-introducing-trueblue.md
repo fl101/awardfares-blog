@@ -5,6 +5,8 @@ category: [News, TrueBlue]
 tags: [Features, JetBlue]
 author: Germán
 image: /assets/img/introducing-trueblue/cover.webp
+seo:
+    date_modified: 2024-06-29    
 ---
 
 We have some thrilling news to share that we believe will make your award travel planning even more exciting and efficient. After much anticipation and hard work, we are proud to announce the integration of **JetBlue TrueBlue** awards into AwardFares!
@@ -176,7 +178,7 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
+- [How To Book JetBlue Mint With Points](https://blog.awardfares.com/jetblue-mint-with-points/)
 - [Top Frequent Flyer Programs To Consider In 2024 (Our Picks)](https://blog.awardfares.com/frequent-flyer-programs-2024/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Never Miss a Deal Again: Score the Perfect Fare with New Price Alerts and Filters](https://blog.awardfares.com/price-alerts/)

@@ -8,14 +8,15 @@ image: /assets/img/jetblue-mint-with-points/cover.webp
 hidden: true
 ---
 
-JetBlue Mint, the carrier's domestic long-haul business class product continues to be a Delta One killer. Yes, TrueBlue (JetBlues owned frequent flyer program) is an obvious way to book Mint, but there are other ways too. Plus, it's not always clear what product you'll end up getting, as there are multiple flavors of Mint depending on the aircraft type.
+[**JetBlue Mint**](https://www.jetblue.com/flying-with-us/mint), the carrier's domestic long-haul business class product continues to be a Delta One killer. Yes, TrueBlue (JetBlues owned frequent flyer program) is an obvious way to book Mint, but there are other ways too. Plus, it's not always clear what product you'll end up getting, as there are multiple flavors of Mint depending on the aircraft type.
 
 In this post, we explore the latest status on JetBlue Mint, top current and upcoming routes, and how to book this cabin using points. Let's get started!
 
 ### In This Post
 - [What is JetBlue Mint?](#what-is-jetblue-mint)
 - [Top JetBlue Mint Routes](#top-jetblue-mint-routes)
-- [How To Search for JetBlue Mint Flights using AwardFares](#how-to-search-for-jetblue-mint-flights-using-awardfares)
+- [Find and Book JetBlue Mint Awards with TrueBlue Points](#find-and-book-jetblue-mint-awards-with-trueblue-points)
+- [Other ways to book JetBlue Mint with Points](#other-ways-to-book-jetblue-mint-with-points)
 - [Become a TrueBlue Pro](#become-a-trueblue-pro)
 - [Read More](#read-more)
 
@@ -76,47 +77,49 @@ JetBlue Mint is available on several top routes for domestic and international t
 
 **Domestic Routes**
 
-|                                      |                                        |
+| Route                                     |                                        |
 |--------------------------------------|--------------------------------------|
-| [New York (JFK) to Los Angeles (LAX)](https://awardfares.com/search?JFK.LAX.;c:business;z:jetblue)| Los Angeles (LAX) to Miami (MIA)         |
-| Boston (BOS) to San Francisco (SFO)| Los Angeles (LAX) to New York (JFK)      |
-| Boston (BOS) to Las Vegas (LAS)    | San Diego (SAN) to Boston (BOS)          |
-| New York (JFK) to San Juan (SJU)   | San Diego (SAN) to New York (JFK)        |
-| Boston (BOS) to Palm Springs (PSP) | San Francisco (SFO) to Boston (BOS)      |
-| Las Vegas (LAS) to Boston (BOS)     | San Francisco (SFO) to Fort Lauderdale (FLL)|
-| Las Vegas (LAS) to New York (JFK)   | San Francisco (SFO) to Miami (MIA)       |
-| Los Angeles (LAX) to Boston (BOS)   | San Francisco (SFO) to New York (JFK)    |
-| Los Angeles (LAX) to Fort Lauderdale (FLL)| Seattle (SEA) to Boston (BOS)     |
-| Seattle (SEA) to New York (JFK)     |                                         |
+| [New York (JFK) to Los Angeles (LAX)](https://awardfares.com/search?JFK.LAX.;c:business;z:jetblue)| [Los Angeles (LAX) to Miami (MIA)](https://awardfares.com/search?LAX.MIA.;c:business;z:jetblue)         |
+| [Boston (BOS) to San Francisco (SFO)](https://awardfares.com/search?BOS.SFO.;c:business;z:jetblue)| [Los Angeles (LAX) to New York (JFK)](https://awardfares.com/search?LAX.JFK.;c:business;z:jetblue)      |
+| [Boston (BOS) to Las Vegas (LAS)](https://awardfares.com/search?BOS.LAS.;c:business;z:jetblue)    | [San Diego (SAN) to Boston (BOS)](https://awardfares.com/search?SAN.BOS.;c:business;z:jetblue)          |
+| [New York (JFK) to San Juan (SJU)](https://awardfares.com/search?JFK.SJU.;c:business;z:jetblue)   | [San Diego (SAN) to New York (JFK)](https://awardfares.com/search?SAN.JFK.;c:business;z:jetblue)        |
+| [Boston (BOS) to Palm Springs (PSP)](https://awardfares.com/search?BOS.PSP.;c:business;z:jetblue) | [San Francisco (SFO) to Boston (BOS)](https://awardfares.com/search?SFO.BOS.;c:business;z:jetblue)      |
+| [Las Vegas (LAS) to Boston (BOS)](https://awardfares.com/search?LAS.BOS.;c:business;z:jetblue)     | [San Francisco (SFO) to Fort Lauderdale (FLL)](https://awardfares.com/search?SFO.FLL.;c:business;z:jetblue)|
+| [Las Vegas (LAS) to New York (JFK)](https://awardfares.com/search?LAS.JFK.;c:business;z:jetblue)   | [San Francisco (SFO) to Miami (MIA)](https://awardfares.com/search?SFO.MIA.;c:business;z:jetblue)       |
+| [Los Angeles (LAX) to Boston (BOS)](https://awardfares.com/search?LAX.BOS.;c:business;z:jetblue)   | [San Francisco (SFO) to New York (JFK)](https://awardfares.com/search?SFO.JFK.;c:business;z:jetblue)    |
+| [Los Angeles (LAX) to Fort Lauderdale (FLL)](https://awardfares.com/search?LAX.FLL.;c:business;z:jetblue)| [Seattle (SEA) to Boston (BOS)](https://awardfares.com/search?SEA.BOS.;c:business;z:jetblue)     |
+| [Seattle (SEA) to New York (JFK)](https://awardfares.com/search?SEA.JFK.;c:business;z:jetblue)     |                                         |
 
 **International Routes**
 
-|                                      |                                      |
+| Route                                      |                                      |
 |--------------------------------------|--------------------------------------|
-| Boston (BOS) to Bridgetown (BGI)      | Boston (BOS) to Granada (GND)         |
-| Boston (BOS) to Liberia (LIR)         | Boston (BOS) to Saint Thomas (STT)    |
-| Boston (BOS) to Saint Lucia (UVF)     | Boston (BOS) to Sint Maarten (SXM)    |
-| Los Angeles (LAX) to Liberia (LIR)    | New York (JFK) to Aruba (AUA)         |
-| New York (JFK) to Bridgetown (BGI)    | New York (JFK) to Granada (GND)       |
-| New York (JFK) to Liberia (LIR)       | New York (JFK) to London Heathrow (LHR)|
-| New York (JFK) to London-Gatwick (LGW)| New York (JFK) to Saint Thomas (STT)  |
-| New York (JFK) to Saint Lucia (UVF)   | New York (JFK) to Sint Maarten (SXM)  |
-| Newark (EWR) to Aruba (AUA)           | Newark (EWR) to Bridgetown (BGI)      |
-| Newark (EWR) to Liberia (LIR)         | Newark (EWR) to Saint Thomas (STT)    |
-| Newark (EWR) to Saint Lucia (UVF)     | Newark (EWR) to Sint Maarten (SXM)    |
+| [Boston (BOS) to Bridgetown (BGI)](https://awardfares.com/search?BOS.BGI.;c:business;z:jetblue)      | [Boston (BOS) to Granada (GND)](https://awardfares.com/search?BOS.BGI.;c:business;z:jetblue)         |
+| [Boston (BOS) to Liberia (LIR)](https://awardfares.com/search?BOS.LIR.;c:business;z:jetblue)         | [Boston (BOS) to Saint Thomas (STT)](https://awardfares.com/search?BOS.STT.;c:business;z:jetblue)    |
+| [Boston (BOS) to Saint Lucia (UVF)](https://awardfares.com/search?BOS.UVF.;c:business;z:jetblue)     | [Boston (BOS) to Sint Maarten (SXM)](https://awardfares.com/search?BOS.SXM.;c:business;z:jetblue)    |
+| [Los Angeles (LAX) to Liberia (LIR)](https://awardfares.com/search?LAX.LIR.;c:business;z:jetblue)    | [New York (JFK) to Aruba (AUA)](https://awardfares.com/search?JFK.AUA.;c:business;z:jetblue)         |
+| [New York (JFK) to Bridgetown (BGI)](https://awardfares.com/search?JFK.BGI.;c:business;z:jetblue)    | [New York (JFK) to Granada (GND)](https://awardfares.com/search?JFK.GND.;c:business;z:jetblue)       |
+| [New York (JFK) to Liberia (LIR)](https://awardfares.com/search?JFK.LIR.;c:business;z:jetblue)       | [New York (JFK) to London Heathrow (LHR)](https://awardfares.com/search?JFK.LHR.;c:business;z:jetblue)|
+| [New York (JFK) to London-Gatwick (LGW)](https://awardfares.com/search?JFK.LGW.;c:business;z:jetblue)| [New York (JFK) to Saint Thomas (STT)](https://awardfares.com/search?JFK.STT.;c:business;z:jetblue)  |
+| [New York (JFK) to Saint Lucia (UVF)](https://awardfares.com/search?JFK.UVF.;c:business;z:jetblue)   | [New York (JFK) to Sint Maarten (SXM)](https://awardfares.com/search?JFK.SXM.;c:business;z:jetblue)  |
+| [Newark (EWR) to Aruba (AUA)](https://awardfares.com/search?EWR.AUA.;c:business;z:jetblue)           | [Newark (EWR) to Bridgetown (BGI)](https://awardfares.com/search?EWR.BGI.;c:business;z:jetblue)      |
+| [Newark (EWR) to Liberia (LIR)](https://awardfares.com/search?EWR.LIR.;c:business;z:jetblue)         | [Newark (EWR) to Saint Thomas (STT)](https://awardfares.com/search?EWR.STT.;c:business;z:jetblue)    |
+| [Newark (EWR) to Saint Lucia (UVF)](https://awardfares.com/search?EWR.UVF.;c:business;z:jetblue)     | [Newark (EWR) to Sint Maarten (SXM)](https://awardfares.com/search?EWR.SXM.;c:business;z:jetblue)    |
 
 **Upcoming Routes (2024)**
 
 | Route                               | Starting Date            |
 |-------------------------------------|--------------------------|
-| New York (JFK) to Vancouver         | starting July 21, 2024   |
-| New York (JFK) to San Juan          | starting July 22, 2024   |
-| Boston and New York to Phoenix      | starting late October 2024|
-| Fort Lauderdale to Phoenix          | starting winter 2024     |
+| [New York (JFK) to Vancouver](https://awardfares.com/search?JFK.YVR.;c:business;z:jetblue)         | starting July 21, 2024   |
+| [New York (JFK) to San Juan](https://awardfares.com/search?JFK.SJU.;c:business;z:jetblue)          | starting July 22, 2024   |
+| [Boston and New York to Phoenix](https://awardfares.com/search?BOS,area:NYC.PHX.;a:B6;o:business;so:a;z:jetblue)      | starting late October 2024|
+| [Fort Lauderdale to Phoenix](https://awardfares.com/search?FLL.PHX.;a:B6;o:business;so:a;z:jetblue)          | starting winter 2024     |
 
-## How To Search for JetBlue Mint Flights using AwardFares
+## Find and Book JetBlue Mint Awards with TrueBlue Points
 
-AwardFares is your best ally to quickly find Mint awards using TrueBlue points. Simply follow these steps:
+AwardFares is your best ally to quickly find Mint awards using TrueBlue points. If you want to [read the full guide, check here](https://blog.awardfares.com/introducing-trueblue/).
+
+In short, simply follow these steps:
 
 1. Go to [AwardFares](https://awardfares.com/search).
 2. Under *Loyalty Program*, choose ***JetBlue TrueBlue***.
@@ -127,6 +130,10 @@ AwardFares is your best ally to quickly find Mint awards using TrueBlue points. 
 7. Voilà! AwardFares will do its magic and show you the available flights in the list below, including details such as the prices per cabin, number of stops, total travel time, aircraft used, and more!
 
 <img src="../assets/img/jetblue-mint-with-points/jetblue-mint-search.webp" alt="Search and book JetBlue Mint awards using TrueBlue points." class="noborder"/>
+
+## Other ways to book JetBlue Mint with Points
+
+In the past, you could redeem JetBlue flights with American AAdvantage and Emirates Skywards, but both have been discontinued. However, since 2023, it's now possible to book Qatar Airways Avios on JetBlue flights. While redemptions on don’t follow the standard Qatar Airways Privilege Club partner award chart, here's [a guide you can check](https://onemileatatime.com/insights/redeem-qatar-airways-avios-jetblue/) on how to do it.
 
 ## Become a TrueBlue Pro
 
@@ -139,4 +146,5 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [Introducing JetBlue TrueBlue Awards: Your Ticket to Affordable Adventures](https://blog.awardfares.com/introducing-trueblue/)
+- [Best Premium Economy Cabins in 2024 (And How To Book Them With Points)](https://blog.awardfares.com/best-premium-economy-cabins-2024/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
