@@ -46,7 +46,7 @@ Oman Air's Business Class is known for including features that rival some airlin
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup?utm_source=oman-air-flying-blue&utm_medium=blog&utm_content=AwardFares)
 
-Creating an account is optional, but it’s also free, and it gives you access to more features. Make sure to sign up for one here.
+Creating an account is optional, but it’s also free, and it gives you access to more features. Make sure to sign up for one.
 
 ### 2. Select the Frequent Flyer Program
 

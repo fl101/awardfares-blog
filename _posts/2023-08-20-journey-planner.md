@@ -6,7 +6,7 @@ tags: [Features, Journey Planner]
 author: Germán
 image: /assets/img/journey-planner/cover.webp
 seo:
-    date_modified: 2024-03-31
+    date_modified: 2024-06-29
 ---
 
 Booking flights with points or miles is fun, but finding the perfect trip to your desired destination can be tricky, especially when the journey involves multiple segments, or across different airlines.
@@ -182,7 +182,7 @@ You can [try AwardFares for free](https://awardfares.com/). We regularly roll ou
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
+- [How to Book Round-Trip Award Flights Like a Pro](https://blog.awardfares.com/round-trip-award-flights/)
 - [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [[Alerts](https://blog.awardfares.com/alerts/)]
-- [Demystifying Award Charts: All You Need To Know (2023)](https://blog.awardfares.com/demystifying-award-charts/)
-- [AwardFares vs. ExpertFlyer](https://blog.awardfares.com/awardfares-vs-expertflyer/)
+- [Alerts](https://blog.awardfares.com/alerts/)
+- [Demystifying Award Charts: All You Need To Know](https://blog.awardfares.com/demystifying-award-charts/)
