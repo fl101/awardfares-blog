@@ -5,10 +5,9 @@ category: [JetBlue TrueBlue]
 tags: [JetBlue Mint, JetBlue]
 author: Germán
 image: /assets/img/jetblue-mint-with-points/cover.webp
-hidden: true
 ---
 
-[**JetBlue Mint**](https://www.jetblue.com/flying-with-us/mint), the carrier's domestic long-haul business class product continues to be a Delta One killer. Yes, TrueBlue (JetBlues owned frequent flyer program) is an obvious way to book Mint, but there are other ways too. Plus, it's not always clear what product you'll end up getting, as there are multiple flavors of Mint depending on the aircraft type.
+[**JetBlue Mint**](https://www.jetblue.com/flying-with-us/mint), the carrier's long-haul business class product for both domestic and international flights continues to be a Delta One killer. Yes, TrueBlue (JetBlues owned frequent flyer program) is an obvious way to book Mint, but there are other ways too. Plus, it's not always clear what product you'll end up getting, as there are multiple flavors of Mint depending on the aircraft type.
 
 In this post, we explore the latest status on JetBlue Mint, top current and upcoming routes, and how to book this cabin using points. Let's get started!
 
