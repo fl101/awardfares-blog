@@ -76,34 +76,41 @@ JetBlue Mint is available on several top routes for domestic and international t
 
 **Domestic Routes**
 
-| Route                                     |                                        |
-|--------------------------------------|--------------------------------------|
-| [New York (JFK) to Los Angeles (LAX)](https://awardfares.com/search?JFK.LAX.;c:business;z:jetblue)| [Los Angeles (LAX) to Miami (MIA)](https://awardfares.com/search?LAX.MIA.;c:business;z:jetblue)         |
-| [Boston (BOS) to San Francisco (SFO)](https://awardfares.com/search?BOS.SFO.;c:business;z:jetblue)| [Los Angeles (LAX) to New York (JFK)](https://awardfares.com/search?LAX.JFK.;c:business;z:jetblue)      |
-| [Boston (BOS) to Las Vegas (LAS)](https://awardfares.com/search?BOS.LAS.;c:business;z:jetblue)    | [San Diego (SAN) to Boston (BOS)](https://awardfares.com/search?SAN.BOS.;c:business;z:jetblue)          |
-| [New York (JFK) to San Juan (SJU)](https://awardfares.com/search?JFK.SJU.;c:business;z:jetblue)   | [San Diego (SAN) to New York (JFK)](https://awardfares.com/search?SAN.JFK.;c:business;z:jetblue)        |
-| [Boston (BOS) to Palm Springs (PSP)](https://awardfares.com/search?BOS.PSP.;c:business;z:jetblue) | [San Francisco (SFO) to Boston (BOS)](https://awardfares.com/search?SFO.BOS.;c:business;z:jetblue)      |
-| [Las Vegas (LAS) to Boston (BOS)](https://awardfares.com/search?LAS.BOS.;c:business;z:jetblue)     | [San Francisco (SFO) to Fort Lauderdale (FLL)](https://awardfares.com/search?SFO.FLL.;c:business;z:jetblue)|
-| [Las Vegas (LAS) to New York (JFK)](https://awardfares.com/search?LAS.JFK.;c:business;z:jetblue)   | [San Francisco (SFO) to Miami (MIA)](https://awardfares.com/search?SFO.MIA.;c:business;z:jetblue)       |
-| [Los Angeles (LAX) to Boston (BOS)](https://awardfares.com/search?LAX.BOS.;c:business;z:jetblue)   | [San Francisco (SFO) to New York (JFK)](https://awardfares.com/search?SFO.JFK.;c:business;z:jetblue)    |
-| [Los Angeles (LAX) to Fort Lauderdale (FLL)](https://awardfares.com/search?LAX.FLL.;c:business;z:jetblue)| [Seattle (SEA) to Boston (BOS)](https://awardfares.com/search?SEA.BOS.;c:business;z:jetblue)     |
-| [Seattle (SEA) to New York (JFK)](https://awardfares.com/search?SEA.JFK.;c:business;z:jetblue)     |                                         |
+- [New York (JFK) to Los Angeles (LAX)](https://awardfares.com/search?JFK.LAX.;c:business;z:jetblue)
+- [Los Angeles (LAX) to Miami (MIA)](https://awardfares.com/search?LAX.MIA.;c:business;z:jetblue)
+- [Boston (BOS) to San Francisco (SFO)](https://awardfares.com/search?BOS.SFO.;c:business;z:jetblue)
+- [Los Angeles (LAX) to New York (JFK)](https://awardfares.com/search?LAX.JFK.;c:business;z:jetblue)
+- [Boston (BOS) to Las Vegas (LAS)](https://awardfares.com/search?BOS.LAS.;c:business;z:jetblue)
+- [San Diego (SAN) to Boston (BOS)](https://awardfares.com/search?SAN.BOS.;c:business;z:jetblue)
+- [New York (JFK) to San Juan (SJU)](https://awardfares.com/search?JFK.SJU.;c:business;z:jetblue)
+- [San Diego (SAN) to New York (JFK)](https://awardfares.com/search?SAN.JFK.;c:business;z:jetblue)
+- [Seattle (SEA) to Boston (BOS)](https://awardfares.com/search?SEA.BOS.;c:business;z:jetblue)
+- [Seattle (SEA) to New York (JFK)](https://awardfares.com/search?SEA.JFK.;c:business;z:jetblue)
+- Boston (BOS) to Palm Springs (PSP)
+- San Francisco (SFO) to Boston (BOS)
+- Las Vegas (LAS) to Boston (BOS)
+- San Francisco (SFO) to Fort Lauderdale (FLL)
+- Las Vegas (LAS) to New York (JFK)
+- San Francisco (SFO) to Miami (MIA)
+- Los Angeles (LAX) to Boston (BOS)
+- San Francisco (SFO) to New York (JFK)
+- Los Angeles (LAX) to Fort Lauderdale (FLL)
 
 **International Routes**
 
-| Route                                      |                                      |
-|--------------------------------------|--------------------------------------|
-| [Boston (BOS) to Bridgetown (BGI)](https://awardfares.com/search?BOS.BGI.;c:business;z:jetblue)      | [Boston (BOS) to Granada (GND)](https://awardfares.com/search?BOS.BGI.;c:business;z:jetblue)         |
-| [Boston (BOS) to Liberia (LIR)](https://awardfares.com/search?BOS.LIR.;c:business;z:jetblue)         | [Boston (BOS) to Saint Thomas (STT)](https://awardfares.com/search?BOS.STT.;c:business;z:jetblue)    |
-| [Boston (BOS) to Saint Lucia (UVF)](https://awardfares.com/search?BOS.UVF.;c:business;z:jetblue)     | [Boston (BOS) to Sint Maarten (SXM)](https://awardfares.com/search?BOS.SXM.;c:business;z:jetblue)    |
-| [Los Angeles (LAX) to Liberia (LIR)](https://awardfares.com/search?LAX.LIR.;c:business;z:jetblue)    | [New York (JFK) to Aruba (AUA)](https://awardfares.com/search?JFK.AUA.;c:business;z:jetblue)         |
-| [New York (JFK) to Bridgetown (BGI)](https://awardfares.com/search?JFK.BGI.;c:business;z:jetblue)    | [New York (JFK) to Granada (GND)](https://awardfares.com/search?JFK.GND.;c:business;z:jetblue)       |
-| [New York (JFK) to Liberia (LIR)](https://awardfares.com/search?JFK.LIR.;c:business;z:jetblue)       | [New York (JFK) to London Heathrow (LHR)](https://awardfares.com/search?JFK.LHR.;c:business;z:jetblue)|
-| [New York (JFK) to London-Gatwick (LGW)](https://awardfares.com/search?JFK.LGW.;c:business;z:jetblue)| [New York (JFK) to Saint Thomas (STT)](https://awardfares.com/search?JFK.STT.;c:business;z:jetblue)  |
-| [New York (JFK) to Saint Lucia (UVF)](https://awardfares.com/search?JFK.UVF.;c:business;z:jetblue)   | [New York (JFK) to Sint Maarten (SXM)](https://awardfares.com/search?JFK.SXM.;c:business;z:jetblue)  |
-| [Newark (EWR) to Aruba (AUA)](https://awardfares.com/search?EWR.AUA.;c:business;z:jetblue)           | [Newark (EWR) to Bridgetown (BGI)](https://awardfares.com/search?EWR.BGI.;c:business;z:jetblue)      |
-| [Newark (EWR) to Liberia (LIR)](https://awardfares.com/search?EWR.LIR.;c:business;z:jetblue)         | [Newark (EWR) to Saint Thomas (STT)](https://awardfares.com/search?EWR.STT.;c:business;z:jetblue)    |
-| [Newark (EWR) to Saint Lucia (UVF)](https://awardfares.com/search?EWR.UVF.;c:business;z:jetblue)     | [Newark (EWR) to Sint Maarten (SXM)](https://awardfares.com/search?EWR.SXM.;c:business;z:jetblue)    |
+| Route                            |                                  |
+|----------------------------------|----------------------------------|
+| Boston (BOS) to Bridgetown (BGI) | Boston (BOS) to Granada (GND)    |
+| Boston (BOS) to Liberia (LIR)    | Boston (BOS) to Saint Thomas (STT)|
+| Boston (BOS) to Saint Lucia (UVF)| Boston (BOS) to Sint Maarten (SXM)|
+| Los Angeles (LAX) to Liberia (LIR)| New York (JFK) to Aruba (AUA)   |
+| New York (JFK) to Bridgetown (BGI)| New York (JFK) to Granada (GND) |
+| New York (JFK) to Liberia (LIR)  | New York (JFK) to London Heathrow (LHR)|
+| New York (JFK) to London-Gatwick (LGW)| New York (JFK) to Saint Thomas (STT)|
+| New York (JFK) to Saint Lucia (UVF)| New York (JFK) to Sint Maarten (SXM)|
+| Newark (EWR) to Aruba (AUA)      | Newark (EWR) to Bridgetown (BGI) |
+| Newark (EWR) to Liberia (LIR)    | Newark (EWR) to Saint Thomas (STT)|
+| Newark (EWR) to Saint Lucia (UVF)| Newark (EWR) to Sint Maarten (SXM)|
 
 **Upcoming Routes (2024)**
 
