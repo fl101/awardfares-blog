@@ -10,8 +10,6 @@ hidden: true
 
 Today we are kicking off a new series of posts highlighting different sweet spots using SAS EuroBonus points, and how to find them using AwardFares. This week is aimed at EuroBonus members based in Copenhagen!
 
-There are a plethora of exciting long-haul routes from CPH, from bustling metropolises to exotic destinations. Here are our top 10 long-haul routes you could book right now, with plenty of availability as of today.
-
 ## Long-haul EuroBonus Awards from Copenhagen in 2024
 
 ### SAS Routes to Asia
@@ -20,7 +18,7 @@ SAS operates regular non-stop flights to Tokyo and Shanghai, and a seasonal rout
 
 <img src="../assets/img/eurobonus-awards-from-cph/sas-cph-to-asia.webp" alt="SAS Non-stop routes to Asia." />
 
-#### Tokyo (HND)
+#### [Tokyo (HND)](https://awardfares.com/search?CPH.HND.;a:SK;z:sas)
 
 * **Frequency**: 5x per week (Mon, Tue, Wed, Thur, and Sat)
 * **Aircraft**: Airbus A350
@@ -28,7 +26,7 @@ SAS operates regular non-stop flights to Tokyo and Shanghai, and a seasonal rout
 
 <img src="../assets/img/eurobonus-awards-from-cph/tokyo.webp" alt="Book SAS Non-stop route to Tokyo with SAS EuroBonus points." />
 
-#### Shanghai (PVG)
+#### [Shanghai (PVG)](https://awardfares.com/search?CPH.PVG.;a:SK;z:sas)
 
 * **Frequency**: 4x per week (Sun, Tue, Wed, Thur, and Fri)
 * **Aircraft**: Airbus A350
@@ -36,7 +34,7 @@ SAS operates regular non-stop flights to Tokyo and Shanghai, and a seasonal rout
 
 <img src="../assets/img/eurobonus-awards-from-cph/shanghai.webp" alt="Book SAS Non-stop route to Shanghai with SAS EuroBonus points." />
 
-#### Bangkok (BKK)
+#### [Bangkok (BKK)](https://awardfares.com/search?CPH.BKK.;a:SK;z:sas)
 
 *Begins October 27, 2024*
 
@@ -52,7 +50,7 @@ SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, 
 
 <img src="../assets/img/eurobonus-awards-from-cph/sas-cph-to-north-america.webp" alt="SAS Non-stop routes to North America." />
 
-#### Toronto (YYZ)
+#### [Toronto (YYZ)](https://awardfares.com/search?CPH.YYZ.;a:SK;z:sas)
 
 * **Frequency**: 4x per week (Sun, Mon, Wed, Fri)
 * **Aircraft**: Airbus A330 and Airbus A321neo
@@ -60,7 +58,7 @@ SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, 
 
 <img src="../assets/img/eurobonus-awards-from-cph/toronto.webp" alt="Book SAS Non-stop route to Toronto with SAS EuroBonus points." />
 
-#### Atlanta (ATL)
+#### [Atlanta (ATL)](https://awardfares.com/search?CPH.ATL.;a:SK;z:sas)
 
 * **Frequency**: Daily
 * **Aircraft**: Airbus A330 and Airbus A350
@@ -70,13 +68,13 @@ SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, 
 
 #### New York (JFK and EWR)
 
-**To JFK**
+[**To JFK**](https://awardfares.com/search?CPH.JFK.;a:SK;z:sas)
 
 * Frequency: Daily
 * Aircraft: Airbus A32x and Airbus A330
 * **Price**: One-way awards in SAS Go Bonus (Economy) for **30k points**, in SAS Plus (Premium Economy) for **40k points** and in SAS Business for **50k points**. Round-trip requires double the number of points.
 
-**To EWR**
+[**To EWR**](https://awardfares.com/search?CPH.EWR.;a:SK;z:sas)
 
 * Frequency: Daily
 * Aircraft: Airbus A330
@@ -84,7 +82,7 @@ SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, 
 
 <img src="../assets/img/eurobonus-awards-from-cph/newyork.webp" alt="Book SAS Non-stop route to New York with SAS EuroBonus points." />
 
-#### Boston (BOS)
+#### [Boston (BOS)](https://awardfares.com/search?CPH.BOS.;a:SK;z:sas)
 
 * **Frequency**: Daily
 * **Aircraft**: Airbus A350 and Airbus A321neo
@@ -92,7 +90,7 @@ SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, 
 
 <img src="../assets/img/eurobonus-awards-from-cph/boston.webp" alt="Book SAS Non-stop route to Boston with SAS EuroBonus points." />
 
-#### Los Angeles (LAX)
+#### [Los Angeles (LAX)](https://awardfares.com/search?CPH.LAX.;a:SK;z:sas)
 
 * **Frequency**: Daily
 * **Aircraft**: Airbus A330 and Airbus A350
@@ -100,7 +98,7 @@ SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, 
 
 <img src="../assets/img/eurobonus-awards-from-cph/los-angeles.webp" alt="Book SAS Non-stop route to Los Angeles with SAS EuroBonus points." />
 
-#### San Francisco (SFO)
+#### [San Francisco (SFO)](https://awardfares.com/search?CPH.SFO.;a:SK;z:sas)
 
 * **Frequency**: Daily
 * **Aircraft**: Airbus A330
@@ -108,7 +106,7 @@ SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, 
 
 <img src="../assets/img/eurobonus-awards-from-cph/sanfrancisco.webp" alt="Book SAS Non-stop route to San Francisco with SAS EuroBonus points." />
 
-#### Chicago (ORD)
+#### [Chicago (ORD)](https://awardfares.com/search?CPH.ORD.;a:SK;z:sas)
 
 * **Frequency**: 6x per week (Sun, Mon, Wed, Thur, Fri, Sun)
 * **Aircraft**: Airbus A330 and Airbus A321neo
@@ -116,7 +114,7 @@ SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, 
 
 <img src="../assets/img/eurobonus-awards-from-cph/chicago.webp" alt="Book SAS Non-stop route to Chicago with SAS EuroBonus points." />
 
-#### Washington, D.C. (IAD)
+#### [Washington, D.C. (IAD)](https://awardfares.com/search?CPH.IAD.;a:SK;z:sas)
 
 * **Frequency**: Daily
 * **Aircraft**: Airbus A330 and Airbus A321neo
@@ -124,7 +122,7 @@ SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, 
 
 <img src="../assets/img/eurobonus-awards-from-cph/washington.webp" alt="Book SAS Non-stop route to Toronto with SAS EuroBonus points." />
 
-#### Miami (MIA)
+#### [Miami (MIA)](https://awardfares.com/search?CPH.MIA.;a:SK;z:sas)
 
 *Begins October 28, 2024*
 
@@ -160,4 +158,4 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [Should You Match Your EuroBonus Status with a Different Airline? (Yes)](https://blog.awardfares.com/eurobonus-status-match/)
 - [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
 - [From Star Alliance to SkyTeam: The SAS Transition (Official Info)](https://blog.awardfares.com/sas-transition-to-skyteam/)
-- [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
+- [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
