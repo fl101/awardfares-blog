@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Non-stop SAS Routes From Copenhagen That You Can Book with EuroBonus (2024)"
+title: "Non-stop SAS Routes From Copenhagen That You Can Book with EuroBonus Points (2024)"
 category: [EuroBonus]
 tags: [SAS]
 author: Germán
@@ -16,7 +16,7 @@ There are a plethora of exciting long-haul routes from CPH, from bustling metrop
 
 ### SAS Routes to Asia
 
-SAS operates regular non-stop flights to Tokyo and Shaghai, and a seasonal route to Bangkok that will resume during Winter 2024.
+SAS operates regular non-stop flights to Tokyo and Shanghai, and a seasonal route to Bangkok that will resume during Winter 2024.
 
 <img src="../assets/img/eurobonus-awards-from-cph/sas-cph-to-asia.webp" alt="SAS Non-stop routes to Asia." />
 
@@ -47,6 +47,8 @@ SAS operates regular non-stop flights to Tokyo and Shaghai, and a seasonal route
 <img src="../assets/img/eurobonus-awards-from-cph/bangkok.webp" alt="Book SAS Non-stop route to Bangkok with SAS EuroBonus points." />
 
 ### SAS Routes to North America
+
+SAS operates regular non-stop flights to Toronto, New York, Boston, Washington, Atlanta, Los Angeles, San Francisco, Chicago, and a seasonal route to Miami that will resume during Winter 2024.
 
 <img src="../assets/img/eurobonus-awards-from-cph/sas-cph-to-north-america.webp" alt="SAS Non-stop routes to North America." />
 
@@ -140,8 +142,10 @@ To quickly find the best available flights on SAS, and the best ways to use your
 2. Select [**EuroBonus** under *Loyalty Program*](https://awardfares.com/search?..;z:sas).
 3. Select **SAS only** under *Airline*.
 4. Under *Origin*, write **Copenhagen (CPH)**
-5. Choose a specific destination (e.g., New York). Alternatively, you can use our [Broad Search feature](https://blog.awardfares.com/broad-search-guide/) to explore hot results and recent searches from other users.
+5. Choose a specific *Destination* (e.g., New York). Alternatively, you can use our [Broad Search feature](https://blog.awardfares.com/broad-search-guide/) to explore hot results and recent searches from other users.
 6. That's it. AwardFares will do its work and display available flights in the list below, including details such as the prices per cabin, number of stops, total travel time, aircraft used, and more!
+
+<img src="../assets/img/eurobonus-awards-from-cph/search-eurobonus-with-awardfares.webp" alt="Use AwardFares to search for SAS EuroBonus awards." />
 
 ## Become a EuroBonus Pro
 

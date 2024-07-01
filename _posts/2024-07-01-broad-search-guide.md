@@ -5,7 +5,6 @@ category: [Guide]
 tags: [Features]
 author: Germán
 image: /assets/img/broad-search-guide/cover.webp
-hidden: true
 ---
 
 If you lack inspiration for your next travel destination and wonder what other popular places our users consider burning their points at, don't worry; we've got you covered. AwardFares saves the results from recent searches across different users and lets you easily explore what's hot.
