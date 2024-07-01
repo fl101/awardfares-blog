@@ -10,9 +10,7 @@ hidden: true
 
 If you lack inspiration for your next travel destination and wonder what other popular places our users consider burning their points at, don't worry; we've got you covered. AwardFares saves the results from recent searches across different users and lets you easily explore what's hot.
 
-We call it **Broad Search**, and in this brief guide, we explain everything about it so you can use it to unlock new destinations.
-
-*Note: Remember that our searches are anonymous, and we never require your login credentials for the frequent flyer programs.*
+We call it **Broad Search**, and in this brief guide we explain everything about it, so you can use it to unlock new destinations.
 
 ## Understanding Broad Searches
 
@@ -44,11 +42,19 @@ Or Stockholm to Asia:
 
 ## Don't Forget To Hit Refresh!
 
-Remember that these are **saved results**, which means they might not be up-to-date. As soon as you are interested in a particular route or flight, trigger a new point-to-point search to get the real-time availability and confirm if it's available.
-
-To make it easier, when using Broad Search, AwardFares will display a yellow popup to clarify this.
+Remember that these are **saved results**, which means they might not be up-to-date. To make it easier, when using Broad Search, AwardFares will display a yellow popup to clarify this.
 
 <img src="../assets/img/broad-search-guide/broad-search-note.webp" alt="Broad award flight search using AwardFares, uses cached results." />
+
+As soon as you are interested in a particular route or flight, trigger a new point-to-point search to get the real-time availability and confirm if it's available. When tapping and expanding the details of a certain flight, you will also see a clear timestamp of when was that seat seen.
+
+<img src="../assets/img/broad-search-guide/cached-result.webp" alt="Broad award flight search using AwardFares, refreshing cached results." />
+
+For your convenience, a few seconds after expanding the detailed view, a new search will be triggered to show you the latest availability.
+
+<img src="../assets/img/broad-search-guide/searching.webp" alt="Broad award flight search using AwardFares." />
+
+Our **Gold** tier includes hourly refreshes, whereas **Diamond** members refresh in real-time and get up-to-the-minute availability.
 
 ### Valid Areas or Regions
 
