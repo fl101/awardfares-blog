@@ -5,7 +5,6 @@ category: [News]
 tags: [ITA Airways, Lufthansa]
 author: Germán
 image: /assets/img/lufthansa-ita-merger/cover.webp
-hidden: true
 ---
 
 This year is coming with plenty of solid news for the aviation world Lufthansa Group, the German aviation giant, has just received the green light from the European Commission to acquire a 41% stake in ITA Airways, Italy's national airline. This means we can expect exciting changes, another alliance shift, and a whole new level of travel possibilities.
