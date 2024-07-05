@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "SAS Reveals SkyTeam Award Charts, Point Prices, and Earnings on Air France-KLM"
+title: "SAS Reveals SkyTeam Award Chart, Point Prices, and Earnings on Air France-KLM"
 category: [News, SAS EuroBonus]
 tags: [SAS, SkyTeam, Air France, KLM]
 author: Germán
 image: /assets/img/sas-skyteam-award-chart/cover.webp
-hidden: true
 ---
 
 More new coming in from [SAS regarding the transition from Star Alliance to SkyTeam](https://blog.awardfares.com/sas-transition-to-skyteam)! The airline has revealed the new award charts with point prices when redeeming EuroBouns points on SkyTeam partners. Compared to the Star Alliance chart, there are some price increases and new fees, but also the exciting addition of Premium Economy. SAS also released more news on earning points with Air France and KLM after September 1st. Let's look at all the changes.
