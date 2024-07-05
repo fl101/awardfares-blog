@@ -5,12 +5,13 @@ category: [Guide]
 tags: [Features, Journey Planner]
 author: Germán
 image: /assets/img/round-trip-award-flights/cover.webp
-hidden: true
 ---
 
-When redeeming points or miles for free flights, it's common to search for one-way flights only. Most portals aren't straightforward or don't allow building round-trip award tickets. Plus, it's not clear if there are any benefits to it. But it's also a hassle to book two one-way flights, even if they are virtually for free.
+When redeeming points or miles for flights, it's common to think about round trips. Most frequent flyer programs prioritize round-trip bookings, and some (like ANA Mileage Club) even restrict one-way redemptions.
 
-However, booking round trips is possible! In this guide, we'll discuss some of the tradeoffs and benefits of booking these types of tickets, which programs support them, and how to build a perfect itinerary using AwardFares.
+However, AwardFares prioritizes flexibility by defaulting to one-way searches. This approach often uncovers more award availability, allowing you to find outbound and return flights independently. But we understand the need for round-trip planning, so we've created the Journey Planner to craft seamless multi-leg itineraries.
+
+In this guide, we'll explore the advantages and considerations of both one-way and round-trip award bookings, highlight programs that support each option, and demonstrate how to create your ideal itinerary using the AwardFares Journey Planner.
 
 ### In This Post
 - [One-way vs. Round-Trip: Which One is Better?](#one-way-vs-round-trip-which-one-is-better)
@@ -26,10 +27,18 @@ The most common scenario when you log in to a frequent flyer program is that the
 ### Benefits of Round-Trip Award Tickets
 
 - **Fewer Miles Required**: Several airlines and programs offer a reduced mileage rate for round-trip award bookings compared to the total price of two one-way awards (e.g., United MileagePlus, SAS EuroBonus, etc.)
-- **Reduced Fees**: Sometimes when issuing the tickets, some programs might waive or reduce certain fees (e.g., close-in booking fees, change fees) for round-trip bookings. This can drastically reduce the cost of your flight and travel plans, especially when there are hefty
+- **Reduced Fees**: Sometimes, when issuing the tickets, some programs might waive or reduce specific fees (e.g., close-in booking fees, change fees) for round-trip bookings. This can drastically reduce the cost of your flight and travel plans, especially when there are hefty
 - **Simplified Booking Process**: Booking a round-trip award flight is generally more straightforward than booking two separate one-way awards. You only need to search for availability once and make a single reservation.
 - **Guaranteed Return Flight**: When you book a round-trip award, you also guarantee your return flight is secured, both in availability and not subject to price increases or mileage devaluations.
 - **Stopover Options**: On round-trip award tickets, some airlines offer free stopovers where you can visit two different places for the price of one. That way, you might have a free layover in Seoul (South Korea) on your return from New York to Tokyo.
+
+### Cons of Booking Round-Trip Awards (Compared to two one-way tickets)
+
+- **Changes and Cancellations**: Round-trip tickets often have more stringent change and cancellation policies. If you need to adjust one leg of the journey, you might face higher fees or stricter rules than one-way tickets.
+- **Award Availability**: Finding award availability for outbound and return flights can be challenging. One-way tickets may offer more options and better availability for each leg separately.
+- **Limited Seat Inventory**: Airlines may have fewer seats available for round-trip awards than one-way awards.
+- **Missed Opportunities for Maximizing Value**: With two one-way tickets, you can choose different airlines for each leg, finding better deals or more comfortable flights.
+- **Complex Itineraries**: For complex itineraries involving multiple destinations, booking two one-way tickets can be simpler and more straightforward.
 
 ### Examples
 
@@ -125,7 +134,7 @@ In addition, you can create new trips, delete existing ones, unshare them, and m
 
 - AwardFares is perfect for [helping you build complex itineraries](https://blog.awardfares.com/journey-planner/), even beyond round-trips. Today, as the rules of each frequent flyer program are different, our tool does not account for the different discounts when showing the prices. This means that **you will always see the price as if booking one-way**. You can hit the *Book* button for the final calculation and perform the final simulation on the program's page.
 - You can use this tool to build round-trip itineraries even for programs that only allow one-way tickets.
-- Using the Journey Planner to plan for Stopovers or Round-The-World tickets (RTW) is also possible.
+- Using the Journey Planner to plan for Stopovers or Round-The-World tickets (RTW) is also possible. In this case, the booking link (*Book* button) won't take you to the airline's portal with the right information. In most cases you'd have to call the airline to book those itineraries.
 
 ## FAQ
 
@@ -148,7 +157,7 @@ The following table lists some airlines and programs for which it is more cost-e
 
 ### How do I book a round-trip award flight?
 
-If you have miles or points, you can book a round-trip award flight through the airline's frequent flyer program. For some of them, you must search for the individual one-way segments or awards, write them down, and then contact their customer service. Alternatively, [use our Journey Planner to craft your perfect itinerary](#how-to-plan-and-book-round-trip-awards-easily-step-by-step) and have them ready as notes before calling an agent.
+If you have miles or points, you can book a round-trip award flight through the airline's frequent flyer program. Alternatively, [use our Journey Planner to craft your perfect itinerary](#how-to-plan-and-book-round-trip-awards-easily-step-by-step) and have them ready as notes before calling an agent.
 
 ### Can I mix airlines on a round-trip award flight?
 
