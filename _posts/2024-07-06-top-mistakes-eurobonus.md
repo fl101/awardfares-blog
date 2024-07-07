@@ -55,8 +55,6 @@ EuroBonus has solid stopover rules: You can add an extended stay in a connecting
 
 **Pro Tip**: Use [AwardFares' Journey Planner to create complex itineraries](https://blog.awardfares.com/journey-planner/) and plan award trips to challenging destinations.
 
-<img src="../assets/img/top-mistakes-eurobonus/point-expiration.webp" alt="Check your EuroBonus points expiration dates." />
-
 ## 7. Not Utilizing Points Pooling
 
 EuroBonus has a fantastic feature that distinguishes it from other programs: Point Pooling. It allows you to pool points with family or friends, opening up more award opportunities, especially for premium cabins or more expensive bookings. Many EuroBonus members overlook this feature.
