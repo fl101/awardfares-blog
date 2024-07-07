@@ -5,7 +5,6 @@ category: [SAS EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/top-mistakes-eurobonus/cover.webp
-hidden: true
 ---
 
 Booking EuroBonus awards can be gratifying, but getting familiar with all the intricacies, fine print, tips, and tricks takes a while. After many years of experience, our team at AwardFares has learned from a few mistakes, from wasting points to higher costs and missed opportunities. In this post, we’ll summarize a few of them.
