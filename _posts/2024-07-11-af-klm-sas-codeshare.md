@@ -9,7 +9,7 @@ image: /assets/img/af-klm-sas-codeshare/cover.webp
 
 The Air France-KLM group is [taking advantage of the SAS acquisition](https://blog.awardfares.com/sas-acquisition/) as an opportunity to reshape European air travel, going full thrust on strengthening their offerings for travelers. Starting September 1, 2024, new codeshare and interline agreements will extend benefits across their European networks and loyalty programs.
 
-<img src="../assets/img/af-klm-sas-codeshare/afklsascodeshare.webp" alt="." />
+<img src="../assets/img/af-klm-sas-codeshare/afklsascodeshare.webp" alt="Air France-KLM and SAS sign new codeshare and interline agreements." />
 
 ## What Do These Agreements Mean for Travelers?
 
@@ -21,7 +21,7 @@ The Air France-KLM group is [taking advantage of the SAS acquisition](https://bl
 
 Air France and KLM operate up to 200 weekly flights between their hubs at Paris (CDG) and Amsterdam (AMS). SAS operates up to 44 weekly flights to Paris and 65 to Amsterdam from its hubs in Copenhagen, Oslo, and Stockholm.
 
-<img src="../assets/img/af-klm-sas-codeshare/sas-skyteam.webp" alt="." />
+<img src="../assets/img/af-klm-sas-codeshare/sas-skyteam.webp" alt="SAS will join SkyTeam on September 1st (Official Image)." />
 
 ## Become a Pro Travel Hacker
 
