@@ -5,14 +5,13 @@ category: [News]
 tags: [SAS, Air France, KLM]
 author: Germán
 image: /assets/img/af-klm-sas-codeshare/cover.webp
-hidden: true
 ---
 
 The Air France-KLM group is [taking advantage of the SAS acquisition](https://blog.awardfares.com/sas-acquisition/) as an opportunity to reshape European air travel, going full thrust on strengthening their offerings for travelers. Starting September 1, 2024, new codeshare and interline agreements will extend benefits across their European networks and loyalty programs.
 
 <img src="../assets/img/af-klm-sas-codeshare/afklsascodeshare.webp" alt="." />
 
-## What do these agreements mean for travelers?
+## What Do These Agreements Mean for Travelers?
 
 * **Expanding Destinations**: Air France and KLM customers will enjoy access to 33 Northern European destinations beyond SAS’s hubs in Copenhagen, Oslo, and Stockholm. Analogously, SAS flyers can explore 33 additional European destinations through Air France and KLM’s hubs at Paris-Charles de Gaulle and Amsterdam Schiphol. The airlines have plans to add intercontinental destinations to this agreement shortly.
 * **Extended Travel Options**: The interline agreement will cover the entire European network of Air France, KLM, and SAS, offering a better network and connections.
