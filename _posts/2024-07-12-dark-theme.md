@@ -5,7 +5,6 @@ category: [News]
 tags: [Features]
 author: Germán
 image: /assets/img/dark-theme/cover.webp
-hidden: true
 ---
 
 Our team at AwardFares is thrilled to launch a highly anticipated feature: **Dark Theme!** Now, you can go award hunting in the dark, making those late-night searches for the perfect flight redemption even more enjoyable (and a little easier on the eyes). Who knows, maybe you'll even find a red-eye flight  you don't completely dread!
@@ -14,10 +13,9 @@ Our team at AwardFares is thrilled to launch a highly anticipated feature: **Dar
 
 1. Go to [AwardFares](https://awardfares.com/).
 2. On the top bar, tap on the **Appearance** [☀/☾] icon.
+3. You'll find a toggle for **Dark Theme** - simply switch it on!
 
 <img src="../assets/img/dark-theme/appearance-icon.webp" alt="AwardFares Now Supports Dark Theme." />
-
-1. You'll find a toggle for **Dark Theme** - simply switch it on!
 
 <img src="../assets/img/dark-theme/dark-theme-search.webp" alt="AwardFares Now Supports Dark Theme." />
 
