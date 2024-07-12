@@ -4,7 +4,7 @@ title: "Dark Mode Activated: AwardFares’ Latest Theme Has Landed"
 category: [News]
 tags: [Features]
 author: Germán
-image: /assets/img/dark-theme/cover.webp
+image: /assets/img/dark-theme/cover2.webp
 ---
 
 Our team at AwardFares is thrilled to launch a highly anticipated feature: **Dark Theme!** Now, you can go award hunting in the dark, making those late-night searches for the perfect flight redemption even more enjoyable (and a little easier on the eyes). Who knows, maybe you'll even find a red-eye flight you don't completely dread!
