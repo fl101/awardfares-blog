@@ -8,7 +8,9 @@ image: /assets/img/round-the-world-award-flights/cover.webp
 hidden: true
 ---
 
-**Note**: There are only a handful of airlines and frequent flyer programs that allow a special Round-The-World (RTW) fare for award tickets (Cathay, Qantas, Aeroméxico, ANA, Lufthansa). However this guide serves beyond that purpose. Is aimed at planning and working out a full round-the-world itinerary, and check availability even if that means booking individual segments separately. AwardFares lets you find seats across multiple frequent flyer programs, which is perfect for using
+Looking to travel the world without spending a fortune? Round-the-World (RTW) award tickets are a solution that is often underutilized. Even though booking a single RTW fare isn’t always easy, we’ve got you covered with this handy guide. We’ll show you how to plan the perfect trip, whether it’s by piecing together individual award segments or grabbing one of those elusive RTW fares. You’ll learn all about RTW awards, get tips for planning, and discover how AwardFares can help you find and book the best flights across multiple programs. Let’s turn your travel dreams into reality!
+
+*Note: There are only a handful of airlines and frequent flyer programs that allow a special Round-The-World (RTW) fare for award tickets. However, this guide serves beyond that purpose. It is aimed at planning and working out a full round-the-world itinerary and checking availability, even if that means booking individual segments separately. AwardFares lets you find seats across multiple frequent flyer programs, which is perfect for taking advantage of miles sitting across different accounts, too.*
 
 ## In This Post
 
@@ -21,24 +23,24 @@ hidden: true
 
 ## What is a Round-The-World Award?
 
-A Round-The-World (RWT) award ticket is a special type of airline ticket that allows you to travel to multiple destinations around the world for a single price (in points or miles). Even though they are hard to score, these tickets can be great for maximizing the value of your points, given that most often the price is fixed.
+A Round-The-World (RTW) award ticket is a special type of airline ticket that allows you to travel to multiple destinations worldwide for a single price (in points or miles). Even though they are hard to score, these tickets can be great for maximizing the value of your points, given that the price is usually fixed.
 
-RTW awards are offered by airlines or frequent flyer programs within an alliance (oneworld, Star Alliance, SkyTeam). Each alliance has its own rules and regulations, but they typically allow you to visit a certain number of destinations (usually between 3 and 16) within a set timeframe (e.g., up to one year). You can also choose your own itinerary, as long as it follows the rules (e.g., starting and ending in the same country, traveling in one direction only, etc.).
+RTW awards are offered by airlines or frequent flyer programs within an alliance (oneworld, Star Alliance, SkyTeam). Each alliance has its own rules and restrictions. Still, they typically allow you to visit a certain number of destinations (usually between 3 and 16) within a set timeframe (e.g., up to one year). You can also choose your itinerary if it follows the rules (e.g., starting and ending in the same country, traveling in one direction only, etc.).
 
 ## Airlines/Programs with Round-The-World Awards
 
-In practice, just a handful of airlines and frequent flyer programs have implemented Round-The-World redemptions, some of them even with an online search.
+In practice, just a handful of airlines and frequent flyer programs have implemented Round-The-World redemptions, some even with an online search.
 
 - **Star Alliance**: The Star Alliance Round-The-World Award allows members of any Star Alliance frequent flyer program (e.g., United MileagePlus, Lufthansa Miles & More, Singapore Airlines KrisFlyer) to book RTW trips using their miles. The trip must include at least three stopovers and can be up to 16 segments.
 - **oneworld**: oneworld offers two types of RTW fares. The Oneworld Explorer is based on the number of continents visited, while the Global Explorer is based on the distance traveled. Frequent flyer programs like American Airlines AAdvantage, British Airways Executive Club, Cathay Pacific Asia Miles, and Qantas Frequent Flyer can be used.
 - **SkyTeam**: The [SkyTeam RTW program was closed recently](https://www.skyteam.com/en/round-the-world-planner/).
 - **Emirates**: Emirates Skywards does not have a formal RTW program, but it is possible to book a RTW trip using Skywards miles by combining flights with partner airlines like Qantas and JetBlue.
-- **ANA (All Nippon Airways)**: ANA Mileage Club has a special Round-the-World Award which must include at least three stopovers and cannot exceed 12 segments. It's bookable online.
+- **ANA (All Nippon Airways)**: ANA Mileage Club has a special Round-the-World Award, which must include at least three stopovers and cannot exceed 12 segments. It's bookable online.
 - **Aeroplan (Air Canada)**: Aeroplan offers a RTW award for 200,000 points in economy class and 300,000 points in business class. The itinerary can include up to 15 stopovers.
 
 ## How to Plan and Book Round-The-World Awards (Step-by-step)
 
-Good news! AwardFares comes with a simple and powerful tool called [**Journey Planner**](https://blog.awardfares.com/journey-planner/). It's perfect for building Round-The-World itineraries, as it lets you search for available seats in realtime, accurately estimate the cost of each leg, and find options even across frequent flyer programs in a fraction of the time compared to using the airlines' search engine.
+Good news! AwardFares has a simple and powerful tool called [**Journey Planner**](https://blog.awardfares.com/journey-planner/). It's perfect for building Round-The-World itineraries, as it lets you search for available seats in real time, accurately estimate the cost of each leg, and find options even across frequent flyer programs in a fraction of the time compared to using the airlines' search engine.
 
 ### 1. Go to [AwardFares](https://awardfares.com/signup?utm_source=round-the-world-award-flights&utm_medium=blog&utm_content=AwardFares)
 

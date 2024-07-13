@@ -13,7 +13,9 @@ However, AwardFares prioritizes flexibility by defaulting to one-way searches. T
 
 In this guide, we'll explore the advantages and considerations of both one-way and round-trip award bookings, highlight programs that support each option, and demonstrate how to create your ideal itinerary using the AwardFares Journey Planner.
 
-### In This Post
+## In This Post
+
+- [In This Post](#in-this-post)
 - [One-way vs. Round-Trip: Which One is Better?](#one-way-vs-round-trip-which-one-is-better)
 - [How to Plan and Book Round-Trip Awards Easily (Step-by-step)](#how-to-plan-and-book-round-trip-awards-easily-step-by-step)
 - [FAQ](#faq)
