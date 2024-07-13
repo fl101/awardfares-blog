@@ -200,3 +200,5 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [Journey Planner: Building Perfect Award Trips To Difficult Destinations](https://blog.awardfares.com/journey-planner/)
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
 - [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+- [Broad Searches: Full Guide](https://blog.awardfares.com/broad-search-guide/)
+- [Round-The-World Award Flights: The Ultimate Guide](https://blog.awardfares.com/round-the-world-award-flights/)
