@@ -161,7 +161,6 @@ Our guides have all the information you need to be a pro travel hacker and explo
   (function () {
     createStatsTable('first');
     createStatsTable('business');
-    createStatsTable('economy');
     async function createStatsTable(cabin, limit) {
       const host = /*window.location.hostname == 'localhost' ? 'http://localhost:3000' :*/ 'https://awardfares.com';
       const endpoint = `/api/stats/lufthansa-top-routes.json?cabin=${cabin}`;
@@ -172,7 +171,7 @@ Our guides have all the information you need to be a pro travel hacker and explo
         const data = await resp.json();
         const moreLink = `https://awardfares.com/search?..;c:${cabin};a:LH;z:eurobonus`;
         const rowLimit = 10;
-        const seatsPerIcon = data[0]?.total / rowLimit;
+        const seatsPerIcon = data[0]?.total < 20 ? 1 : data[0]?.total / rowLimit;
         const rows = data.slice(0, rowLimit).map(route => {
           const seatLimit = 10;
           const displayCount = route.total;
