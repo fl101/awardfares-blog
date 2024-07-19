@@ -5,7 +5,6 @@ category: [Guide]
 tags: [Features, Journey Planner]
 author: Germán
 image: /assets/img/round-the-world-award-flights/cover.webp
-hidden: true
 ---
 
 Looking to travel the world without spending a fortune? Round-the-World (RTW) award tickets are a solution that is often underutilized. Even though booking a single RTW fare isn’t always easy, we’ve got you covered with this handy guide. We’ll show you how to plan the perfect trip, whether it’s by piecing together individual award segments or grabbing one of those elusive RTW fares. You’ll learn all about RTW awards, get tips for planning, and discover how AwardFares can help you find and book the best flights across multiple programs. Let’s turn your travel dreams into reality!
