@@ -43,6 +43,8 @@ To keep your new EuroBonus status beyond March 31, 2025, you'll need to complete
 
 Starting September 1st, EuroBonus Silver members will get a new benefit: Priority Boarding! The benefit applies to flights operated by SAS and SkyTeam partners.
 
+In addition, they will replace the 25% extra status points for Gold and Diamon, with more bonus points: 25% for Silver, 50% for Gold, and 75% for Diamond.
+
 <img src="../assets/img/eurobonus-updates-july-2024/eb-silver.webp" alt="New benefits for SAS EuroBonus Silver starting September 1st." class="noborder"/> 
 
 ## 3. SAS Reveals SkyTeam Award Chart, Point Prices, and Earnings on Air France and KLM
