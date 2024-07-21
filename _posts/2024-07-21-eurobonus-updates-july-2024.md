@@ -5,7 +5,6 @@ category: [News, EuroBonus]
 tags: [SAS]
 author: Germán
 image: /assets/img/eurobonus-updates-july-2024/cover.webp
-hidden: true
 ---
 
 Summer of 2024 continues to heat up, and so does the EuroBonus program rolling out the news: from a special status match campaign to new benefits for Silver members and a revamped award chart with the inclusion of SkyTeam partners, there’s plenty to look forward to. There are also new ways to maximize your points through car rentals. In this post, we summarize them all!
@@ -76,11 +75,11 @@ Offer for you as a EuroBonus member. Earn 5,000 Extra Points in welcome bonus wi
 
 <img src="../assets/img/eurobonus-updates-july-2024/hedvig.webp" alt="Hedvig 5000 EuroBonus points." class="noborder"/> 
 
-## 7. City Breaks & Low Price Calendar
+## 7. City Breaks & Low Cost Calendar
 
-SAS keeps running heavily discounted prices on revenue tickets. With the help of the SAS low-cost calendar, you can find cheap flights to destinations all over the world. Remember that prices and available seats are updated every time a new search is made. This may mean that price differences between the cheap airline tickets may occur when you try to book.
+SAS keeps running heavily discounted prices on revenue tickets. With the help of the SAS [low-cost calendar](https://www.sas.se/lagpriskalender/?to=inrikes), you can find cheap flights to destinations all over the world. Remember that prices and available seats are updated every time a new search is made. This may mean that price differences between the cheap airline tickets may occur when you try to book.
 
-<img src="../assets/img/eurobonus-updates-july-2024/low-price-calendar-july.webp" alt="SAS Low Price Calendar, July 2024." class="noborder"/> 
+<img src="../assets/img/eurobonus-updates-july-2024/low-price-calendar-july.webp" alt="SAS Low Cost Calendar, July 2024." class="noborder"/> 
 
 ## Become a EuroBonus Pro
 
@@ -90,9 +89,10 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
+- [Top Mistakes When Booking EuroBonus Award Flights](https://blog.awardfares.com/top-mistakes-eurobonus/)
 - [Should You Match Your EuroBonus Status with a Different Airline? (Yes)](https://blog.awardfares.com/eurobonus-status-match/)
 - [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
 - [From Star Alliance to SkyTeam: The SAS Transition (Official Info)](https://blog.awardfares.com/sas-transition-to-skyteam/)
-- [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance (Megapost)](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
+- [Try These EuroBonus Award Flights Before SAS Leaves Star Alliance](https://blog.awardfares.com/eurobonus-star-alliance-awards/)
 
 <script src="/assets/js/countdown.js"></script>
