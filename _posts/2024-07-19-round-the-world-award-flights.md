@@ -31,7 +31,7 @@ RTW awards are offered by airlines or frequent flyer programs within an alliance
 In practice, just a handful of airlines and frequent flyer programs have implemented Round-The-World redemptions, some even with an online search.
 
 - **Star Alliance**: The Star Alliance Round-The-World Award allows members of any Star Alliance frequent flyer program (e.g., United MileagePlus, Lufthansa Miles & More, Singapore Airlines KrisFlyer) to book RTW trips using their miles. The trip must include at least three stopovers and can be up to 16 segments.
-- **oneworld**: oneworld offers two types of RTW fares. The Oneworld Explorer is based on the number of continents visited, while the Global Explorer is based on the distance traveled. Frequent flyer programs like American Airlines AAdvantage, British Airways Executive Club, Cathay Pacific Asia Miles, and Qantas Frequent Flyer can be used.
+- **oneworld**: oneworld offers two types of RTW fares. The Oneworld Explorer is based on the number of continents visited, while the Global Explorer is based on the distance traveled. Frequent flyer programs like American Airlines AAdvantage, British Airways Executive Club, [Cathay Pacific Asia Miles](https://flights.cathaypacific.com/en_HK/redeem-flights/flight-award-chart.html#tab-item_1708324200520), and Qantas Frequent Flyer can be used.
 - **SkyTeam**: The [SkyTeam RTW program was closed recently](https://www.skyteam.com/en/round-the-world-planner/).
 - **Emirates**: Emirates Skywards does not have a formal RTW program, but it is possible to book a RTW trip using Skywards miles by combining flights with partner airlines like Qantas and JetBlue.
 - **ANA (All Nippon Airways)**: ANA Mileage Club has a special Round-the-World Award, which must include at least three stopovers and cannot exceed 12 segments. It's bookable online.
@@ -126,7 +126,7 @@ Another handy feature is the option to copy the itinerary to the clipboard. This
 <img src="../assets/img/round-trip-award-flights/copy-to-clipboard.webp" alt="Building a round-trip award flight with AwardFares." />
 
 ```
-Route	Flight	Date	Depart	Arrive
+Route	Flight	Date	    Depart	Arrive
 JFK-HND	AA167	2024-07-11	11:15	14:30 (+1)
 HND-BKK	JL31	2024-07-26	10:55	15:25 
 BKK-DOH	QR837	2024-08-08	02:30	05:30 
