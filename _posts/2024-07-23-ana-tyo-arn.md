@@ -5,7 +5,6 @@ category: [News]
 tags: [ANA]
 author: Germán
 image: /assets/img/ana-tyo-arn/cover.webp
-hidden: true
 ---
 
 A while back, ANA announced that they were [launching three new direct flights from Europe to Tokyo](https://blog.awardfares.com/ana-new-routes-to-europe/) this winter: Stockholm, Istanbul and Milan to Tokyo. After several back-and-forths and dates postponed, tickets are now on sale, and the best part: **awards are available**. So far we've seen seats using SAS EuroBonus and United MileagePlus.
@@ -14,8 +13,7 @@ A while back, ANA announced that they were [launching three new direct flights f
 
 ## Stockholm Arlanda (ARN) to Tokyo Haneda (HND)
 
-Departures from Stockholm (ARN) will begin on January 31, 2025.
-Scheduled to operate 3 days a week on Tuesday, Friday, and Sunday.
+Departures from Stockholm (ARN) will begin on January 31, 2025. Scheduled to operate 3 days a week on Tuesday, Friday, and Sunday.
 
 | Departure Location | Departure Time | Flight Number | Arrival Time | Arrival Location |
 |--------------------|----------------|---------------|--------------|------------------|
@@ -30,8 +28,7 @@ Scheduled to operate 3 days a week on Tuesday, Friday, and Sunday.
 
 ## Istanbul (IST) to Tokyo Haneda (HND)
 
-Departures from Istanbul (IST) will begin on February 12, 2025.  
-Scheduled to operate 3 days a week on Monday, Wednesday, and Saturday.
+Departures from Istanbul (IST) will begin on February 12, 2025. Scheduled to operate 3 days a week on Monday, Wednesday, and Saturday.
 
 | Departure Location | Departure Time | Flight Number | Arrival Time | Arrival Location |
 |--------------------|----------------|---------------|--------------|------------------|
@@ -60,6 +57,19 @@ Scheduled to operate 3 days a week on Tuesday, Thursday, and Sunday.
 
 <img src="../assets/img/ana-tyo-arn/ana-hnd-mxp-2.webp" alt="Book ANA New Route to Milan with points (2024)." />
 
+## Find award flights on ANA using AwardFares
+
+1. Go to [AwardFares](https://awardfares.com/signup).
+2. Choose your favorite *Frequent Flyer Program* (e.g., **SAS EuroBonus**, **United MileagePlus**).
+3. Tap on *Airline* and select **ANA only**.
+4. Under *Departure* city, select an origin airport, e.g., **Tokyo (TYO)**.
+5. Similarly, enter a *Destination*, e.g., **Stockholm (ARN)**
+6. Choose a date, or use the Timeline view to explore flights for different dates.
+
+That's it! AwardFares will show you the available seats/flights on the list below.
+
+<img src="../assets/img/ana-tyo-arn/ana-howto.webp" alt="Book ANA flights with points in 2024." class="noborder"/>
+
 ## Want More Award Travel Intel?
 
 You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
@@ -70,7 +80,6 @@ With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can acces
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
-- [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+- [ANA 777 Liveries: How To Fly The Pokémon Jets And Other Spectacular Planes](https://blog.awardfares.com/ana-777-fleet/)
+- [Europe Calling: ANA Unveils New Flights to Milan, Stockholm, Istanbul](https://blog.awardfares.com/ana-new-routes-to-europe/)
+- [ANA Resumes Route Tokyo To Perth](https://blog.awardfares.com/ana-resumes-tokyo-perth/)
