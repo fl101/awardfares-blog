@@ -7,7 +7,7 @@ author: Germán
 image: /assets/img/ana-tyo-arn/cover.webp
 ---
 
-A while back, ANA announced that they were [launching three new direct flights from Europe to Tokyo](https://blog.awardfares.com/ana-new-routes-to-europe/) this winter: Stockholm, Istanbul and Milan to Tokyo. After several back-and-forths and dates postponed, tickets are now on sale, and the best part: **awards are available**. So far we've seen seats using SAS EuroBonus and United MileagePlus.
+A while back, ANA announced that they were [launching three new direct flights from Europe to Tokyo](https://blog.awardfares.com/ana-new-routes-to-europe/) this winter: Stockholm, Istanbul, and Milan to Tokyo. After several back-and-forths and postponed dates, tickets are now on sale, and the best part: **awards are available**. So far, we've seen seats using SAS EuroBonus and United MileagePlus.
 
 <img src="../assets/img/ana-tyo-arn/ana-new-european-routes-2024.avif" alt="ANA New Routes To Europe (2024)." />
 
