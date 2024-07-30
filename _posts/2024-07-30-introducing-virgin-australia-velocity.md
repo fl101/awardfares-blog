@@ -8,7 +8,7 @@ image: /assets/img/introducing-virgin-australia-velocity/cover.webp
 hidden: true
 ---
 
-Let's look at how AwardFares can be your swiss-army knife when searching for Velocity award flights!
+Ready to unlock the secrets of Virgin Australia Velocity and score incredible award flights? Whether you're a points pro or just getting started, AwardFares helps you find great redemptions in a matter of seconds. We'll break down the program's award chart and show you how to find sweet spots (it's easier than you think). Let's get ready to go Velocity award hunting!
 
 ### What's New?
 
