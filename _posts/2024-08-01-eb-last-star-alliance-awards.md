@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Template"
-category: [Guide]
-tags: []
+title: "One Month To Go! Last Chance To Book These Star Alliance Routes with EuroBonus"
+category: [SAS EuroBonus]
+tags: [Star Alliance]
 author: Germán
 image: /assets/img/folder/cover.webp
 hidden: true
+sitemap: false
 ---
 
 ## Want More Award Travel Intel?

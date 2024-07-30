@@ -16,7 +16,7 @@ Let's look at how AwardFares can be your swiss-army knife when searching for Vel
 - [Top Things You Need To Know About Virgin Australia Velocity in 2024](#top-things-you-need-to-know-about-virgin-australia-velocity-in-2024)
 - [Understanding Virgin Australia Velocity Award Chart](#understanding-virgin-australia-velocity-award-chart)
 - [Finding Virgin Australia Velocity Awards with AwardFares](#finding-virgin-australia-velocity-awards-with-awardfares)
-- [Top Virgin Australia Routes](#top-virgin-australia-routes)
+- [Top Virgin Australia Routes and Cabins](#top-virgin-australia-routes-and-cabins)
 - [Become a Velocity Pro](#become-a-velocity-pro)
 - [Learn More](#learn-more)
 
@@ -24,13 +24,13 @@ Let's look at how AwardFares can be your swiss-army knife when searching for Vel
 
 [**Virgin Australia Velocity**](https://www.velocityfrequentflyer.com/) is the frequent flyer program for Virgin Australia. It is a solid loyalty program for frequent flyers based in Australia, New Zealand, and others. Here's the rundown:
 
-* **Earning**: Collect Velocity Points on Virgin Australia flights and a bunch of partner airlines (including Singapore Airlines and United as of recently). Transferring points from partner rewards programs like Citi Rewards and American Express Membership Rewards can be a great way to boost your balance quickly.
-* **Redeeming**: Use your points for reward seats, upgrades, or even grab "Any Seat" award flights on Virgin Australia and many partners. For the best redemption value, consider premium cabin flights on Virgin Australia or partner airlines like Singapore Airlines and Etihad Airways.
-* **Partners**: Their network extends beyond Virgin Australia with over 70 program partners, offering opportunities to earn and redeem points across airlines and other travel options.
-* **Status**: Climb the tiers (Silver, Gold, Platinum) for perks like lounge access, priority boarding, and extra baggage allowance - similar to other frequent flyer programs.
-* **Family Pooling**: A unique benefit that allows families to combine points and status credits, making it easier to reach higher tiers.
+- **Earning**: Collect Velocity Points on Virgin Australia flights and a bunch of partner airlines (including Singapore Airlines and United as of recently). Transferring points from partner rewards programs like Citi Rewards and American Express Membership Rewards can be a great way to boost your balance quickly.
+- **Redeeming**: Use your points for reward seats, upgrades, or even grab "Any Seat" award flights on Virgin Australia and many partners. For the best redemption value, consider premium cabin flights on Virgin Australia or partner airlines like Singapore Airlines and Etihad Airways.
+- **Partners**: Their network extends beyond Virgin Australia with over 70 program partners, offering opportunities to earn and redeem points across airlines and other travel options.
+- **Status**: Climb the tiers (Silver, Gold, Platinum) for perks like lounge access, priority boarding, and extra baggage allowance - similar to other frequent flyer programs.
+- **Family Pooling**: A unique benefit that allows families to combine points and status credits, making it easier to reach higher tiers.
 
-<img src="../assets/img/introducing-virgin-australia-velocity/etihad-guest-business.avif" alt="How to find and book Etihad Guest Award Flights in 2024`" class="noborder"/>
+<img src="../assets/img/introducing-virgin-australia-velocity/va-737max.webp" alt="How to find and book Virgin Australia Velocity Award Flights." class="noborder"/>
 
 ## Top Things You Need To Know About Virgin Australia Velocity in 2024
 
@@ -40,7 +40,7 @@ Let's look at how AwardFares can be your swiss-army knife when searching for Vel
 
 ## Understanding Virgin Australia Velocity Award Chart
 
-Virgin Australia's Velocity Frequent Flyer program uses a **distance-based award chart** ([read more about award charts here](https://blog.awardfares.com/demystifying-award-charts/)). Each destination is classified into a specific zone, and the points required for a flight depend on the zones you are traveling between, and the different cabin classes (Economy, Premium Economy, Business, etc).
+Virgin Australia's Velocity Frequent Flyer program uses a **distance-based award chart** ([read more about award charts here](https://blog.awardfares.com/demystifying-award-charts/)). Each destination is classified into a specific zone, and the points required for a flight depend on the zones you are traveling between, and the different cabin classes (Economy, Premium Economy, Business, etc.).
 
 Here is a breakdown of the key zones:
 
@@ -117,11 +117,11 @@ AwardFares will redirect you to Etihad's website to complete your booking withou
 
 <img src="../assets/img/introducing-virgin-australia-velocity/va-website.webp" alt="Book Virgin Australia award flights with AwardFares." class="noborder"/>
 
-## Top Virgin Australia Routes
+## Top Virgin Australia Routes and Cabins
 
 Check out [this post](https://blog.awardfares.com/virgin-australia-top-routes) for our top picks on Virgin Australia.
 
-<img src="../assets/img/virgin-australia-top-routes/cover.webp" alt="Virgin Australia Top Routes." class="noborder"/>
+<img src="../assets/img/va-top-routes/cover.webp" alt="Virgin Australia Top Routes." class="noborder"/>
 
 ## Become a Velocity Pro
 
