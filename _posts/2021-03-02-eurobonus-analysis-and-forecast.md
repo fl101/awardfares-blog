@@ -58,7 +58,7 @@ Your current Fly Premium forecast: <b><span id="flypremiumForecast"></span> per 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
-<script src="/assets/js/eurobonus.v4.js"></script>
+<script src="/assets/js/eurobonus.v5.js"></script>
 
 <style>
   #dropzone {

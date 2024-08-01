@@ -86,16 +86,16 @@
         continue;
       }
 
-      const date = safeDate(row[1]);
+      const date = safeDate(row[0]);
       if (!currentDate) {
         currentDate = date;
       }
       if (!date.isValid()) {
-        alert('Found invalid date: ' + row[1]);
+        alert('Found invalid date: ' + row[0]);
         continue;
       }
 
-      let description = row[0].split('\n').join('; ');
+      let description = row[1].split('\n').join('; ');
       const pointsType = row[3];
       let extraPoints = pointsType == 'Extra Points' ? safeNumber(row[2]) : 0;
       const basePoints = (pointsType == 'Status Points' || pointsType == 'Basic Points' || pointsType == 'Mastercard Status Points') ? safeNumber(row[2]) : 0;
