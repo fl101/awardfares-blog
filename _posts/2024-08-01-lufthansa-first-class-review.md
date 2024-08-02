@@ -18,7 +18,7 @@ While Lufthansa recently started the rollout of their [Allegris product](/luftha
 - [Food And Drink Service](#food-and-drink-service)
 - [Amenity Kit](#amenity-kit)
 - [Airport And Lounge](#airport-and-lounge)
-- [IFE](#ife)
+- [IFE And Wi-Fi](#ife-and-wi-fi)
 - [Sleep](#sleep)
 - [Conclusion](#conclusion)
 - [Read More](#read-more)
@@ -27,7 +27,7 @@ While Lufthansa recently started the rollout of their [Allegris product](/luftha
 
 With SAS being my primary frequent flyer program and their upcoming exit from Star Alliance I wanted to take one last opportunity to enjoy the Lufthansa First Class experience. While it's always been tricky to find First Class seats, AwardFares will automatically search [all LH First routes](https://awardfares.com/search?..;c:first;a:LH;z:sas) so that you can easily get an overview of what's available. This availability is estimated based on other programs though so in the end it's the call to the booking agent that will determine if you can get the seat or not. In my case I was lucky and the two seats I saw were indeed available. With some help from the agent we also managed to find fitting connections in both Frankfurt and Munich to maximize the experience.
 
-## Seat & Cabin
+## Seat And Cabin
 
 While the seats are certainly showing their age a little, they're still massive and extremely comfortable. The A380 cabin is also much more spacious than both the 747 and A340 which I've tried before. The first class cabin is located on the upper deck and consists of 8 seats in a 1-2-1 configuration. The seats are very private and offer a lot of storage space, including a personal wardrobe. The seat can be adjusted in many ways and of course folds down fully for sleeping, the staff will also help you make the bed with a mattress pad and duvet. With the cabin being in the top front the noise from the engines is minimal, we were able to have a conversation without raising our voices even during take off.
 
@@ -44,7 +44,7 @@ A quirk of the front of the A380 is the two areas on either side of the front st
 <img src="/assets/img/lufthansa-first-review/toilet.webp" alt="Lufthansa toilet"/>
 </figure>
 
-## Food & Drink Service
+## Food And Drink Service
 
 Food and Drinks are always excellent with Lufthansa First Class and this time was no different. Sadly since the flight is one of the shortest ones with First Class there was relatively little time to enjoy the food, but the quality was certainly excellent.
 
@@ -54,7 +54,7 @@ The service starts with a pre-departure drink (Unlike in business class they're 
 
 On this particular flight the second serving was a light dinner instead of a breakfast, since the arrival time is around 8pm in Boston. As there was only 4 passengers in the cabin (Which seats 8) there was some leftover caviar from the first service which the crew was happy to serve us as a second course.
 
-## Lounge
+## Airport And Lounge
 
 If you have a First Class ticket on a flight departing the same day you're eligible to access the Lufthansa First Class Terminal as well as any of their First Class Lounges, even if your flight departs from another airport. We had an overnight layover, starting the day in Frankfurt, following up with a short stay in Munich and finally the First Class flight in the afternoon.
 
@@ -83,7 +83,7 @@ In Munich the First Class Lounge is a bit more traditional, with a buffet and a 
 
 The amenity kit is sadly one of the only bad parts of the Lufthansa First Class experience. In the past the kit has been a Rimowa as well as a very elegant Sinn leather box but now it's a very basic bag with a few L'Occitane products. The bag seems to be made of very cheap material and the products inside are nothing special. The only thing that stands out is the socks which are very comfortable. The pajamas is great as usual though and the slippers have a very thick and cushy sole making them extremely comfortable.
 
-## IFE & Wi-Fi
+## IFE And Wi-Fi
 
 The IFE is one of the few disappointments in Lufthansa's First Class cabin. It's clearly showing its age through the relatively small screen, which i exacerbated by the fact that the screen is quite far away from the seat, since the seat pitch is so large. The screen is also extremely slow and in today's world of snappy smartphones it certainly feels dated. The selection is not bad though with plenty of new and old movies to pick from. Sadly my favorite thing about the A380, the tail camera, wasn't working on this flight.
 
