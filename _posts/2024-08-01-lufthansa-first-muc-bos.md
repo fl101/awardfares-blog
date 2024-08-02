@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Lufthansa First Class Review: Munich to Boston"
+title: "Lufthansa A380 First Class Review: Munich to Boston"
 category: [Trip Report]
 tags: [Review, First, Lufthansa]
 author: Richard
-image: /assets/img/lufthansa-first-review/plane.webp
+image: /assets/img/lufthansa-first-review/cover.webp
 hidden: true
 ---
 
@@ -102,6 +102,7 @@ While they aren't the best in any individual category, they offer the best packa
 
 - [Lufthansa Allegris Takes Off on May 1](/lufthansa-allegris-first-flight)
 - [Essential Guide to Book Lufthansa Flights with SAS EuroBonus Points](/lufthansa-with-eurobonus-guide)
+- [Lufthansa's A350 Long-Haul Business Class (Avoid)](https://blog.awardfares.com/lufthansa-long-haul-business-a350/)
 
 <script type="application/ld+json">
 {
