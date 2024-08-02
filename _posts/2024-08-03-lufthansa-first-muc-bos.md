@@ -24,7 +24,7 @@ While Lufthansa recently started the rollout of their [Allegris product](/luftha
 
 ## How I Booked This Flight
 
-With SAS being my primary frequent flyer program and their upcoming exit from Star Alliance I wanted to take one last opportunity to enjoy the Lufthansa First Class experience. While it's always been tricky to find First Class seats, AwardFares will automatically search [all LH First routes](https://awardfares.com/search?..;c:first;a:LH;z:sas) so that you can easily get an overview of what's available. This availability is estimated based on other programs, though, so in the end, the call to the booking agent will determine if you can get the seat. In my case, I was lucky, and the two seats I saw were indeed available. With some help from the agent, we found fitting connections in both Frankfurt and Munich to maximize the experience.
+With SAS being my primary frequent flyer program and their upcoming exit from Star Alliance I wanted to take one last opportunity to enjoy the Lufthansa First Class experience. While it's always been tricky to find First Class seats, AwardFares will automatically search all [LH First routes](https://awardfares.com/search?..;c:first;a:LH;z:sas) so that you can easily get an overview of what's available. This availability is estimated based on other programs, though, so in the end, the call to the booking agent will determine if you can get the seat. In my case, I was lucky, and the two seats I saw were indeed available. With some help from the agent, we found fitting connections in both Frankfurt and Munich to maximize the experience.
 
 ## Seat And Cabin
 
@@ -49,7 +49,7 @@ Food and Drinks are always excellent with Lufthansa First Class and this time wa
 
 <img src="/assets/img/lufthansa-first-review/caviar.webp" alt="Lufthansa food"/>
 
-The service starts with a pre-departure drink (unlike in business class, where they're happy to open any drink they have on board, not just the champagne) and some macadamia nuts. Once in the air, the meal is a full five-course dinner consisting of an *amuse bouche*, caviar, starters, a main course, and dessert. The selection of main courses usually includes a meat, fish and vegetarian option which in my experience have all been excellent. The extensive wine list and the crew are always happy to help you find the perfect pairing.
+The service starts with a pre-departure drink (unlike in business class, where they're happy to open any drink they have on board, not just the champagne) and some macadamia nuts. Once in the air, the meal is a full five-course dinner consisting of an _amuse bouche_, caviar, starters, a main course, and dessert. The selection of main courses usually includes a meat, fish and vegetarian option which in my experience have all been excellent. The extensive wine list and the crew are always happy to help you find the perfect pairing.
 
 On this particular flight, the second serving was a light dinner instead of a breakfast since the arrival time was around 8 p.m. in Boston. As there were only four passengers in the cabin (which seats 8), there was some leftover caviar from the first service, which the crew was happy to serve us as a second course.
 
