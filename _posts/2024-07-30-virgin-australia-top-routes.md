@@ -18,7 +18,7 @@ Celebrating our [recent addition of Velocity to the AwardFares family](https://b
 
 One of the busiest routes, connecting two major cities in Australia.
 
-* **Price range (in miles)**: 7,800 - 15,500 Velocity Points (Eco-Biz) ￼
+* **Price range (in miles)**: 7,800 - 15,500 Velocity Points (Eco-Biz)
 * **Operating aircraft**: Boeing 737-800, Boeing 737 MAX 8
 
 <img src="../assets/img/va-top-routes/mel-syd-map.webp" alt="Melbourne to Sydney with Virgin Australia Velocity." class="noborder"/>
@@ -29,7 +29,7 @@ One of the busiest routes, connecting two major cities in Australia.
 
 A high-traffic route important for both business and leisure travelers.
 
-* **Price range (in miles)**: 7,800 - 15,500 Velocity Points ￼
+* **Price range (in miles)**: 7,800 - 15,500 Velocity Points
 * **Operating aircraft**: Boeing 737-800, Boeing 737 MAX 8
 
 <img src="../assets/img/va-top-routes/bne-syd-map.webp" alt="Brisbane to Sydney with Virgin Australia Velocity." class="noborder"/>
@@ -51,7 +51,7 @@ Another major domestic route linking significant urban centers.
 
 A long-haul domestic flight connecting the east and west coasts.
 
-* **Price range (in miles)**: 17,800 - 24,800 Velocity Points ￼
+* **Price range (in miles)**: 17,800 - 24,800 Velocity Points
 * **Operating aircraft**: Boeing 737-800, Boeing 737 MAX 8
 
 <img src="../assets/img/va-top-routes/syd-per-map.webp" alt="Sydney to Perth with Virgin Australia Velocity." class="noborder"/>
@@ -95,7 +95,7 @@ Popular for both tourism and business purposes.
 
 Connects Queensland with South Australia.
 
-* **Price range (in miles)**: 11,800 - 17,800 Velocity Points ￼
+* **Price range (in miles)**: 9,400 - 23,500 Velocity Points
 * **Operating aircraft**: Boeing 737-800
 
 <img src="../assets/img/va-top-routes/bne-adl-map.webp" alt="Brisbane to Adelaide with Virgin Australia Velocity." class="noborder"/>
@@ -106,7 +106,7 @@ Connects Queensland with South Australia.
 
 Important for tourism, especially to the Great Barrier Reef.
 
-* **Price range (in miles)**: 17,800 - 24,800 Velocity Points￼
+* **Price range (in miles)**: 17,800 - 24,800 Velocity Points
 * **Operating aircraft**: Boeing 737-800, Boeing 737 MAX 8
 
 <img src="../assets/img/va-top-routes/syd-cns-map.webp" alt="Sydney to Cairns with Virgin Australia Velocity." class="noborder"/>
@@ -117,7 +117,7 @@ Important for tourism, especially to the Great Barrier Reef.
 
 Frequently used route for tourists visiting Tasmania.
 
-* **Price range (in miles)**: 6,200 - 15,500 Velocity Points ￼
+* **Price range (in miles)**: 6,200 - 15,500 Velocity Points
 * **Operating aircraft**: Boeing 737-800
 
 <img src="../assets/img/va-top-routes/mel-hba-map.webp" alt="Melbourne to Hobart with Virgin Australia Velocity." class="noborder"/>
