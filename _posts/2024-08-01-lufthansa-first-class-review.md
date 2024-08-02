@@ -6,7 +6,6 @@ tags: [Review, Business, Lufthansa]
 author: Richard
 image: /assets/img/lufthansa-first-review/plane.webp
 hidden: true
-sitemap: false
 ---
 
 While Lufthansa recently started the rollout of their [Allegris product](/lufthansa-allegris-first-flight) it's far from done and in fact the first class cabin hasn't been updated yet. That being said the current Lufthansa First Class is still a great product and I was lucky enough to fly it from Munich to Boston.
@@ -16,8 +15,8 @@ While Lufthansa recently started the rollout of their [Allegris product](/luftha
 - [How I Booked This Flight](#how-i-booked-this-flight)
 - [Seat And Cabin](#seat-and-cabin)
 - [Food And Drink Service](#food-and-drink-service)
-- [Amenity Kit](#amenity-kit)
 - [Airport And Lounge](#airport-and-lounge)
+- [Amenity Kit](#amenity-kit)
 - [IFE And Wi-Fi](#ife-and-wi-fi)
 - [Sleep](#sleep)
 - [Conclusion](#conclusion)
