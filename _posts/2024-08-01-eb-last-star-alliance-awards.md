@@ -119,7 +119,7 @@ _Image from Thai website._
 - [Bangkok (BKK) to Sydney (SYD)](https://awardfares.com/search?BKK.SYD.;a:TG;z:sas): A popular route for those wanting to venture to Australia while enjoying Thai hospitality.
 - [Bangkok (BKK) to Tokyo (HND/NRT)](https://awardfares.com/search?BKK.area:TYO.;a:TG;z:sas): Connecting two of Asia's major cities, this route is popular among both tourists and business travelers.
 - [Bangkok (BKK) to Zurich (ZRH)](https://awardfares.com/search?BKK.ZRH.;a:TG;z:sas): Another popular European destination, this route connects Thailand directly with Switzerland.
-- [Bangkok (BKK) to Frankfurt (FRA)](https://awardfares.com/search?BKK.FRA.;a:TG;z:sas): This key European link is frequented by business travelers and tourists alike.
+- [Bangkok (BKK) to Frankfurt (FRA)](https://awardfares.com/search?BKK.FRA.;a:TG;z:sas): This key European link is heavily used by both business travelers and tourists.
 
 <img src="../assets/img/eurobonus-star-alliance-awards/thai-awards.webp" alt="Thai Airways award flights using SAS EuroBonus Points ." />
 
@@ -156,7 +156,7 @@ _Image from ANA's official website._
 - [Montreal (YUL) to Paris (CDG)](https://awardfares.com/search?YUL.area:CDG.;a:AC;z:sas): A classic transatlantic route, which might provide good award availability and also features the Dreamliner on certain flights.
 - [Calgary (YYC) to London (LHR)](https://awardfares.com/search?YYC.area:LHR.;a:AC;z:sas): This route allows passengers to experience long-haul service from Canada's mountainous West to the UK.
 
-**More Posts**:
+### More Posts
 
 - [Air Canada Business 737 MAX 8 YVR-SFO Trip Report](https://blog.awardfares.com/air-canada-business-yvr-sfo/)
 - [Air Canada Announces Route From Vancouver To Singapore](https://blog.awardfares.com/aircanada-singapore-route/)
