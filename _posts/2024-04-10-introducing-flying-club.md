@@ -11,6 +11,8 @@ We're glad to announce a major expansion to AwardFares' award search capabilitie
 
 This integration brings a world of new possibilities to our users who are Flying Club members or collect Virgin Points through partner programs and credit cards. Now, you can easily search AwardFares to find the best ways to redeem your points for flights on Virgin Atlantic, alongside award options from other airlines in our comprehensive search engine.
 
+**UPDATE AUGUST 1st, 2024**: *The program has been temporarily disabled.*
+
 ### What's New?
 
 - [Why Virgin Atlantic Flying Club?](#why-virgin-atlantic-flying-club)
