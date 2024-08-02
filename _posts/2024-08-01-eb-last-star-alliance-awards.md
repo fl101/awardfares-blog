@@ -8,16 +8,15 @@ image: /assets/img/eb-last-star-alliance-awards/cover.webp
 hidden: true
 ---
 
-
-As SAS prepares to leave Star Alliance and join SkyTeam, it’s time to take full advantage of the fantastic redemption opportunities within Star Alliance before they disappear. Star Alliance boasts an impressive lineup of airlines, each offering unique and luxurious cabin experiences that can be redeemed for great value. Here’s a curated list of the top 10 Star Alliance cabins and awards to redeem before SAS makes the switch.
-
-As SAS prepares to transition to SkyTeam, now is the perfect time to take advantage of the outstanding redemption opportunities within Star Alliance. These top 10 cabins and routes provide excellent value and unforgettable experiences, making them ideal choices for your miles. Don’t miss out on these fantastic opportunities to fly in luxury before SAS joins SkyTeam.
+With just **one month left before SAS joins SkyTeam**, it’s time to take full advantage of the fantastic redemption opportunities within Star Alliance before they disappear forever. There are still plenty of hidden gems, with an impressive lineup of airlines and unique cabin experiences that can be redeemed for great value. Here’s a curated list of some of our top Star Alliance cabins and routes that can be booked using SAS EuroBonus points. Yes, there's availability too, we checked using AwardFares ;). 
 
 <div data-countdown="2024-08-31T22:59:00.000+02:00">
   TIME UNTIL SAS JOINS SKYTEAM
 </div>
 
 ## 1. Lufthansa First Class
+
+<img src="../assets/img/eurobonus-star-alliance-awards/lufthansa-cabin.webp" alt="Book Lufthansa First Class using SAS EuroBonus Points (Allegris)." />
 
 ### Top Lufthansa First Class Seats (Available Now)
 
@@ -33,17 +32,25 @@ As SAS prepares to transition to SkyTeam, now is the perfect time to take advant
 
 **Known Issues**: Keep an eye on potential surcharges, which can sometimes be high. First-class availability is released just a few days before departure date.
 
-**More Posts**:
+<img src="../assets/img/eb-last-star-alliance-awards/eb-lh-map.webp" alt="Book Lufthansa First Class using SAS EuroBonus Points." />
+
+### Availability
+
+<img src="../assets/img/eb-last-star-alliance-awards/eb-lh-list.webp" alt="Book Lufthansa First Class using SAS EuroBonus Points." />
+
+### More Posts
 
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
 - [Lufthansa Allegris Takes Flight on May 1st (Book with Points)](https://blog.awardfares.com/lufthansa-allegris-first-flight/)
 - [Lufthansa's A350 Long-Haul Business Class (Avoid)](https://blog.awardfares.com/lufthansa-long-haul-business-a350/)
 
-<img src="../assets/img/eurobonus-star-alliance-awards/lufthansa-cabin.webp" alt="Book Lufthansa First Class using SAS EuroBonus Points (Allegris)." />
-
 ---
 
 ## 2. Turkish Airlines Business Class
+
+<img src="../assets/img/eurobonus-star-alliance-awards/turkish-cabin.webp" alt="Book Turkish Airlines Business Class using SAS EuroBonus Points." />
+
+_Image from Turkish Airlines website._
 
 ### Top Turkish Airlines Business Class Seats (Long-haul Routes)
 
@@ -57,17 +64,23 @@ As SAS prepares to transition to SkyTeam, now is the perfect time to take advant
 - [Istanbul (IST) to Tokyo (HND/NRT)](https://awardfares.com/search?IST.area:TYO.;a:TK;z:sas): Serving as a key link between Turkey and Japan, this route is frequented by many looking to traverse between Europe and the Far East.
 - [Istanbul (IST) to Cape Town (CPT)](https://awardfares.com/search?IST.CPTs.;a:TK;z:sas): A valuable connection for those keen on exploring the beauty of South Africa, leveraging Istanbul's position to connect Europe with the African continent.
 
-**More Posts**
+<img src="../assets/img/eb-last-star-alliance-awards/eb-tk-map.webp" alt="Book Turkish Airlines Business Class using SAS EuroBonus Points." />
+
+### Availability
+
+<img src="../assets/img/eb-last-star-alliance-awards/eb-tk-list.webp" alt="Book Turkish Airlines Business Class using SAS EuroBonus Points." />
+
+### More Posts
 
 - [Booking Turkish Airlines Flights With SAS EuroBonus Points (Guide)](https://blog.awardfares.com/turkish-with-eurobonus/)
 
-<img src="../assets/img/eurobonus-star-alliance-awards/turkish-cabin.webp" alt="Book Turkish Airlines Business Class using SAS EuroBonus Points." />
-
-_Image from Turkish Airlines website._
-
 ---
 
-## 3. EVA Air Royal Laurel Class
+## 3. EVA Air Royal Laurel Class (Business Class)
+
+<img src="../assets/img/eurobonus-star-alliance-awards/eva-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on EVA Air." />
+
+_Image from EVA Air official website._
 
 ### Suggested Routes
 
@@ -77,22 +90,28 @@ _Image from Turkish Airlines website._
 - [Taipei (TPE) to London (LHR)](https://awardfares.com/search?TPE.LHR.;a:BR;z:sas): A long-haul route linking Taiwan with Europe's major transit and travel hub.
 - [Taipei (TPE) to Vancouver (YVR)](https://awardfares.com/search?TPE.YVR.;a:BR;z:sas): This route provides a direct connection between Taiwan and Canada's Pacific coast.
 
-**More Posts**:
+<img src="../assets/img/eb-last-star-alliance-awards/eb-eva-map.webp" alt="Book EVA Air Business Class using SAS EuroBonus Points." />
+
+### Availability
+
+<img src="../assets/img/eb-last-star-alliance-awards/eb-eva-timeline.webp" alt="Book EVA Air Business Class using SAS EuroBonus Points." />
+
+<img src="../assets/img/eb-last-star-alliance-awards/eb-eva-list.webp" alt="Book EVA Air Business Class using SAS EuroBonus Points." />
+
+### More Posts
 
 - [Best EVA Air Award Flights In 2023](https://blog.awardfares.com/eva-air-best-redemptions-2023/)
 - [EVA Air Award Redemption Guide](https://blog.awardfares.com/eva-air-award-redemption/)
 - [5 Mistakes When Searching EVA Air Award Flights (And How To Fix Them)](https://blog.awardfares.com/eva-air-mistakes/)
 - [EVA Business 787-9 Dreamliner TPE-ICN Trip Report](https://blog.awardfares.com/eva-business-tpe-icn/)
 
-<img src="../assets/img/eurobonus-star-alliance-awards/eva-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on EVA Air." />
-
-_Image from EVA Air official website._
-
 ---
 
 ## 4. Thai Airways Business Class
 
-<img src="../assets/img/eurobonus-star-alliance-awards/thai-awards.webp" alt="Thai Airways award flights using SAS EuroBonus Points ." />
+<img src="../assets/img/eurobonus-star-alliance-awards/thai-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Thai Airways." />
+
+_Image from Thai website._
 
 ### Suggested Routes
 
@@ -102,13 +121,15 @@ _Image from EVA Air official website._
 - [Bangkok (BKK) to Zurich (ZRH)](https://awardfares.com/search?BKK.ZRH.;a:TG;z:sas): Another popular European destination, this route connects Thailand directly with Switzerland.
 - [Bangkok (BKK) to Frankfurt (FRA)](https://awardfares.com/search?BKK.FRA.;a:TG;z:sas): This key European link is frequented by business travelers and tourists alike.
 
-<img src="../assets/img/eurobonus-star-alliance-awards/thai-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Thai Airways." />
-
-_Image from Thai website._
+<img src="../assets/img/eurobonus-star-alliance-awards/thai-awards.webp" alt="Thai Airways award flights using SAS EuroBonus Points ." />
 
 ---
 
 ## 5. ANA Business Class
+
+<img src="../assets/img/eurobonus-star-alliance-awards/ana-cabin.avif" alt="Best Cabin using SAS EuroBonus Points on All Nippon Airlines (ANA)." />
+
+_Image from ANA's official website._
 
 ### Suggested Routes
 
@@ -118,14 +139,10 @@ _Image from Thai website._
 - [Tokyo (HND or NRT) to Los Angeles (LAX)](https://awardfares.com/search?area:TYO.LAX.;a:NH;z:sas): A popular transpacific route that links Japan with the US West Coast. Ideal for experiencing ANA's top cabins.
 - [Tokyo (HND) to Sydney (SYD)](https://awardfares.com/search?area:TYO.SYD.;a:NH;z:sas): One of ANA's significant routes to Oceania, offering a chance to experience their long-haul product on a diverse route.
 
-**More Posts**:
+### More Posts
 
 - [ANA 777 Liveries: How To Fly The Pokémon Jets And Other Spectacular Planes](https://blog.awardfares.com/ana-777-fleet/)
 - [ANA Resumes Route Tokyo To Perth](https://blog.awardfares.com/ana-resumes-tokyo-perth/)
-
-<img src="../assets/img/eurobonus-star-alliance-awards/ana-cabin.avif" alt="Best Cabin using SAS EuroBonus Points on All Nippon Airlines (ANA)." />
-
-_Image from ANA's official website._
 
 ---
 
