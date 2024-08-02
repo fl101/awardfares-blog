@@ -10,6 +10,33 @@ hidden: true
 
 While Lufthansa recently started the rollout of their [Allegris product](/lufthansa-allegris-first-flight), it's far from done, and in fact, the First Class cabin still needs to be updated. That being said, the current Lufthansa First Class is still a great product, and I was lucky enough to fly it from [Munich to Boston](https://awardfares.com/search?MUC.BOS.;c:first;a:LH).
 
+<table>
+<tr>
+  <td><b>Route</b></td>
+  <td>MUC-BOS</td>
+</tr>
+<tr>
+  <td><b>Flight</b></td>
+  <td>LH424</td>
+</tr>
+<tr>
+  <td><b>Cabin</b></td>
+  <td>First</td>
+</tr>
+<tr>
+  <td><b>Equipment</b></td>
+  <td>A380-800</td>
+</tr>
+<tr>
+  <td><b>Aircraft</b></td>
+  <td>D-AIMC</td>
+</tr>
+<tr>
+  <td><b>Flight Time</b></td>
+  <td>8h 44m</td>
+</tr>
+</table>
+
 ### In This Post
 
 - [How I Booked This Flight](#how-i-booked-this-flight)
