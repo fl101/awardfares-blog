@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One Month To Go! Last Chance To Book These Star Alliance Routes with EuroBonus"
+title: "Final Call: Only One Month Left to Book Star Alliance Routes with EuroBonus"
 category: [SAS EuroBonus]
 tags: [Star Alliance]
 author: Germán
@@ -8,13 +8,15 @@ image: /assets/img/eb-last-star-alliance-awards/cover.webp
 hidden: true
 ---
 
-With just **one month left before SAS joins SkyTeam**, it’s time to take full advantage of the fantastic redemption opportunities within Star Alliance before they disappear forever. There are still plenty of hidden gems, with an impressive lineup of airlines and unique cabin experiences that can be redeemed for great value. Here’s a curated list of some of our top Star Alliance cabins and routes that can be booked using SAS EuroBonus points. Yes, there's availability too, we checked using AwardFares ;). 
+With just **one month left before SAS joins SkyTeam**, it’s time to take full advantage of the fantastic redemption opportunities within Star Alliance before they disappear forever. There are still plenty of hidden gems, with an impressive lineup of airlines and unique cabin experiences that can be redeemed for great value. Here’s a curated list of some of our top Star Alliance cabins and routes that can be booked using SAS EuroBonus points. Yes, there's availability too, we checked using AwardFares ;).
 
 <div data-countdown="2024-08-31T22:59:00.000+02:00">
   TIME UNTIL SAS JOINS SKYTEAM
 </div>
 
 ## 1. Lufthansa First Class
+
+Lufthansa First Class is a fantastic product all around. From the separate terminal to the attendant fetching you when it's time to board, the limo to the flight, the whole experience is designed so that you, as a passenger, shouldn't have to think about the fact that you're flying. Flying is just a thing that happens around you while enjoying a great meal, a good selection of drinks, and a comfortable bed. We recently had a chance to [say goodbye to Lufthansa First Class on this A380 flight from Munich to Boston](https://blog.awardfares.com/lufthansa-first-muc-bos/).
 
 <img src="../assets/img/eurobonus-star-alliance-awards/lufthansa-cabin.webp" alt="Book Lufthansa First Class using SAS EuroBonus Points (Allegris)." />
 
@@ -48,6 +50,8 @@ With just **one month left before SAS joins SkyTeam**, it’s time to take full 
 
 ## 2. Turkish Airlines Business Class
 
+Turkish's Business Class has a spacious layout, fantastic onboard cuisine and in-flight service, which makes it an exceptional experience for long-haul journeys.
+
 <img src="../assets/img/eurobonus-star-alliance-awards/turkish-cabin.webp" alt="Book Turkish Airlines Business Class using SAS EuroBonus Points." />
 
 _Image from Turkish Airlines website._
@@ -77,6 +81,8 @@ _Image from Turkish Airlines website._
 ---
 
 ## 3. EVA Air Royal Laurel Class (Business Class)
+
+EVA Air's award-winning business class is known as Royal Laurel. We had the chance to try EVA's long-haul business class a couple of times and were really happy with how it turned out! A solid option to travel from Europe to Asia.
 
 <img src="../assets/img/eurobonus-star-alliance-awards/eva-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on EVA Air." />
 
@@ -109,6 +115,8 @@ _Image from EVA Air official website._
 
 ## 4. Thai Airways Business Class
 
+Both Thai's Royal First and Royal Silk Business Class offer a great experience, particularly on their A350 and A380.
+
 <img src="../assets/img/eurobonus-star-alliance-awards/thai-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Thai Airways." />
 
 _Image from Thai website._
@@ -123,9 +131,14 @@ _Image from Thai website._
 
 <img src="../assets/img/eurobonus-star-alliance-awards/thai-awards.webp" alt="Thai Airways award flights using SAS EuroBonus Points ." />
 
+### Availability
+
+<img src="../assets/img/eb-last-star-alliance-awards/eb-th-list.webp" alt="Book Thai Airways Business Class using SAS EuroBonus Points." />
 ---
 
 ## 5. ANA Business Class
+
+A fantastic opportunity to try to score ANA's new Business Class cabin on their 777-300ER called *'The Room'*.
 
 <img src="../assets/img/eurobonus-star-alliance-awards/ana-cabin.avif" alt="Best Cabin using SAS EuroBonus Points on All Nippon Airlines (ANA)." />
 
@@ -139,6 +152,11 @@ _Image from ANA's official website._
 - [Tokyo (HND or NRT) to Los Angeles (LAX)](https://awardfares.com/search?area:TYO.LAX.;a:NH;z:sas): A popular transpacific route that links Japan with the US West Coast. Ideal for experiencing ANA's top cabins.
 - [Tokyo (HND) to Sydney (SYD)](https://awardfares.com/search?area:TYO.SYD.;a:NH;z:sas): One of ANA's significant routes to Oceania, offering a chance to experience their long-haul product on a diverse route.
 
+<img src="../assets/img/eb-last-star-alliance-awards/eb-ana-map.webp" alt="Book ANA Business Class using SAS EuroBonus Points." />
+
+### Availability
+
+<img src="../assets/img/eb-last-star-alliance-awards/eb-ana-list.webp" alt="Book ANA Business Class using SAS EuroBonus Points." />
 ### More Posts
 
 - [ANA 777 Liveries: How To Fly The Pokémon Jets And Other Spectacular Planes](https://blog.awardfares.com/ana-777-fleet/)
@@ -148,6 +166,12 @@ _Image from ANA's official website._
 
 ## 6. Air Canada Signature Class (Business Class)
 
+Aim for Business Class on Air Canada's Boeing 787-9 or Boeing 777-300ER.
+
+<img src="../assets/img/eurobonus-star-alliance-awards/air-canada-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Air Canada." />
+
+_Image from Air Canada's official website._
+
 ### Suggested Routes
 
 - [Toronto (YYZ) to Tokyo (HND/NRT)](https://awardfares.com/search?YYZ.area:TYO.;a:AC;z:sas): Experience the airline's long-haul service on this trans-Pacific route.
@@ -156,18 +180,27 @@ _Image from ANA's official website._
 - [Montreal (YUL) to Paris (CDG)](https://awardfares.com/search?YUL.area:CDG.;a:AC;z:sas): A classic transatlantic route, which might provide good award availability and also features the Dreamliner on certain flights.
 - [Calgary (YYC) to London (LHR)](https://awardfares.com/search?YYC.area:LHR.;a:AC;z:sas): This route allows passengers to experience long-haul service from Canada's mountainous West to the UK.
 
+<img src="../assets/img/eb-last-star-alliance-awards/eb-ac-map.webp" alt="Book Air Canada using SAS EuroBonus Points." />
+
+### Availability
+
+<img src="../assets/img/eb-last-star-alliance-awards/eb-ac-list.webp" alt="Book Air Canada Business Class using SAS EuroBonus Points." />
+### More Posts
+
 ### More Posts
 
 - [Air Canada Business 737 MAX 8 YVR-SFO Trip Report](https://blog.awardfares.com/air-canada-business-yvr-sfo/)
 - [Air Canada Announces Route From Vancouver To Singapore](https://blog.awardfares.com/aircanada-singapore-route/)
 
-<img src="../assets/img/eurobonus-star-alliance-awards/air-canada-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Air Canada." />
-
-_Image from Air Canada's official website._
-
 ---
 
 ## 7. Swiss Business Class
+
+While their cabins aren't the best and can feel a bit crowded, SWISS still offers a solid option to travel on long-haul routes. Target flights operated by their Boeing 777-300ER or Airbus A330.
+
+<img src="../assets/img/eurobonus-star-alliance-awards/swiss-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on SWISS Airlines." />
+
+_Image from SWISS website._
 
 ### Suggested Routes
 
@@ -179,13 +212,20 @@ _Image from Air Canada's official website._
 
 **Known Issues with EuroBonus**: Swiss First Class is not bookable using SAS EuroBonus points. Swiss recently teased new Business and First Class cabins, but it's not clear if it will be possible to book them before SAS leaves Star Alliance.
 
-<img src="../assets/img/eurobonus-star-alliance-awards/swiss-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on SWISS Airlines." />
+<img src="../assets/img/eb-last-star-alliance-awards/eb-lx-map.webp" alt="Book SWISS using SAS EuroBonus Points." />
 
-_Image from SWISS website._
+### Availability
 
+<img src="../assets/img/eb-last-star-alliance-awards/eb-lx-list.webp" alt="Book SWISS Business Class using SAS EuroBonus Points." />
 ---
 
-## 8. Asiana Airlines Business Smartium Class
+## 8. Asiana Airlines Business Class (Smartium)
+
+Try to search for Business Class on their 777-200.
+
+<img src="../assets/img/eurobonus-star-alliance-awards/asiana-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Asiana Airlines." />
+
+_Image from [Flickr](https://www.flickr.com/photos/mattweibo/25109436108) (creative commons)._
 
 ### Suggested Routes
 
@@ -195,26 +235,30 @@ _Image from SWISS website._
 - [Seoul (ICN) to Sydney (SYD)](https://awardfares.com/search?ICN.SYD.;a:OZ;z:sas#): This connection bridges Korea and Australia, and can offer a comfortable long-haul experience.
 - [Seoul (ICN) to London (LHR)](https://awardfares.com/search?ICN.LHR.;a:OZ;z:sas#): A significant route to one of Europe's primary hubs, showcasing Asiana's premium cabins and services.
 
-<img src="../assets/img/eurobonus-star-alliance-awards/asiana-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Asiana Airlines." />
-
-_Image from [Flickr](https://www.flickr.com/photos/mattweibo/25109436108) (creative commons)._
+<img src="../assets/img/eb-last-star-alliance-awards/eb-asiana-map.webp" alt="Book Asiana using SAS EuroBonus Points." />
 
 ---
 
 ## 10. Avianca Business Class (787)
 
-### Suggested Routes
-
-- [Bogotá (BOG) to Madrid (MAD)](https://awardfares.com/search?BOG.MAD.;a:AV,OS;z:sas): A key transatlantic route connecting South America with Europe.
-- [Bogotá (BOG) to Miami (MIA)](https://awardfares.com/search?BOG.MIA.;a:AV,OS;z:sas): A popular route for travelers seeking to connect to the US from South America.
-- [Medellín (MDE) to New York (JFK)](https://awardfares.com/search?MDE.JFK.;a:AV,OS;z:sas): Serving as a direct link between Colombia's second-largest city and the US East Coast.
-- [Bogotá (BOG) to São Paulo (GRU)](https://awardfares.com/search?BOG.GRU.;a:AV,OS;z:sas): A major connection between two of South America's largest cities.
-- [San Salvador (SAL) to Los Angeles (LAX)](https://awardfares.com/search?SAL.LAX.;a:AV,OS;z:sas): An essential route linking Central America to the US West Coast.
+Avianca these days is offering a more *Low-Cost Business Class* service, similar to the one you get on [ZIPAIR (check our review here)](https://blog.awardfares.com/zipair-full-flat-nrt-sfo/). We wouldn't recommend it over other alternatives, and definitely isn't our go-to choice, but for certain routes, Avianca can offer great availability when there aren't other options. Bogota can be a cool hub also. Overall, it is a solid option within South America with great connections to the caribbean and the US.
 
 <img src="../assets/img/eurobonus-star-alliance-awards/avianca-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Avianca Airlines." />
 
 _Image from Avianca's official website._
 
+### Suggested Routes
+
+- [Bogotá (BOG) to Madrid (MAD)](https://awardfares.com/search?BOG.MAD.;a:AV,OS;z:sas): A key transatlantic route connecting South America with Europe.
+- [Bogotá (BOG) to Buenos Aires (EZE)](https://awardfares.com/search?BOG.EZE.;a:AV,OS;z:sas): A popular route for travelers seeking to connect to the US from South America.
+- [Medellín (MDE) to New York (JFK)](https://awardfares.com/search?MDE.JFK.;a:AV,OS;z:sas): Serving as a direct link between Colombia's second-largest city and the US East Coast.
+- [Bogotá (BOG) to São Paulo (GRU)](https://awardfares.com/search?BOG.GRU.;a:AV,OS;z:sas): A major connection between two of South America's largest cities.
+
+<img src="../assets/img/eb-last-star-alliance-awards/eb-av-map.webp" alt="Book Avianca using SAS EuroBonus Points." />
+
+### Availability
+
+<img src="../assets/img/eb-last-star-alliance-awards/eb-av-list.webp" alt="Book Avianca Business Class using SAS EuroBonus Points." />
 ## Upgrade For More
 
 Our [Gold and Diamond tiers](https://awardfares.com/pricing) offer access to premium features including unlimited daily searches, journey planner, alerts, seat maps, flight schedules, and more!

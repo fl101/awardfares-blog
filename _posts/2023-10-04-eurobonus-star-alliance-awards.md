@@ -566,7 +566,7 @@ Thai Airways, established in 1960, stands as the flag carrier of Thailand, symbo
 
 Thai Airways became one of the founding members of Star Alliance when the alliance was inaugurated in May 1997, marking its commitment to international cooperation and enhanced passenger experiences.
 
-**Best Cabins**: Thai Airways' Royal First Class and Royal Silk Business Class offer a luxurious experience, particularly on their Boeing 747 and A380 aircraft. Aim for these cabins on long-haul routes to maximize the value of your points and relish the world-renowned Thai service.
+**Best Cabins**: Thai Airways' Royal First Class and Royal Silk Business Class offer a luxurious experience, particularly on their A350 and A380. Aim for these cabins on long-haul routes to maximize the value of your points and relish the world-renowned Thai service.
 
 <img src="../assets/img/eurobonus-star-alliance-awards/thai-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Thai Airways." />
 
