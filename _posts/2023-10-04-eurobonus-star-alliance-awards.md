@@ -6,7 +6,7 @@ tags: [Star Alliance, SkyTeam]
 author: Germán
 image: /assets/img/eurobonus-star-alliance-awards/cover.webp
 seo:
-  date_modified: 2024-04-08
+  date_modified: 2024-08-03
 ---
 
 In light of the recent [announcent of SAS leaving Star Alliance](https://blog.awardfares.com/sas-acquisition/), we noticed an increase in traffic and EuroBonus searches at AwardFares. We are happy that our tool is helping you find your next dream award flight!
@@ -15,7 +15,7 @@ In this **megapost**, we are compiling every single airline part of Star Allianc
 
 In addition, we share all our tips, tricks, and comments from our experience as travelers. Make sure to check out the links to our detailed guides and resources under each section. Let's start!
 
-**UPDATE (APRIL 2024):** SAS confirmed it will transition to SkyTeam on **September 1st, 2024**. [Read all the details here](https://blog.awardfares.com/sas-transition-to-skyteam/).
+**UPDATE:** SAS confirmed it will exit Star Alliance and join SkyTeam on **September 1st, 2024**. [Read all the details here](https://blog.awardfares.com/sas-transition-to-skyteam/).
 
 ### Quick Navigation
 
@@ -191,7 +191,7 @@ Asiana Airlines, established in 1988, is one of South Korea's two major airlines
 
 Asiana Airlines further expanded its global footprint when it joined Star Alliance in July 2003.
 
-**Best Cabins**: Business Class on their 777-200. First Class on their A380s.
+**Best Cabins**: 
 
 <img src="../assets/img/eurobonus-star-alliance-awards/asiana-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Asiana Airlines." />
 
@@ -594,7 +594,7 @@ Turkish Airlines, established in 1933, is the national flag carrier of Turkey an
 
 Turkish Airlines became a member of Star Alliance in April 2008.
 
-**Best Cabins**: Target the Business Class on their Airbus A350 or their Boeing 777. Turkish's Business Class is known for its spacious layout, delectable onboard cuisine, and remarkable in-flight service, making it an exceptional experience for long-haul journeys
+**Best Cabins**: Target the Business Class on their Airbus A350 or their Boeing 777. Turkish's Business Class is known for its spacious layout, delectable onboard cuisine, and remarkable in-flight service, making it an exceptional experience for long-haul journeys.
 
 <img src="../assets/img/eurobonus-star-alliance-awards/turkish-cabin.webp" alt="Best Cabin using SAS EuroBonus Points on Turkish Airlines." />
 
@@ -650,3 +650,5 @@ Our guides have all the information you need to be a pro travel hacker and explo
 - [SAS Will Leave Star Alliance: Acquisition By Air France-KLM and others](https://blog.awardfares.com/sas-acquisition/)
 - [Guide To Using SAS EuroBonus Points (Before & After They Join SkyTeam)](https://blog.awardfares.com/eurobonus-guide/)
 - [Essential Guide To Book Lufthansa Flights With SAS EuroBonus Points](https://blog.awardfares.com/lufthansa-with-eurobonus-guide/)
+
+<script src="/assets/js/countdown.js"></script>

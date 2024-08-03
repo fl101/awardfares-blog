@@ -6,7 +6,7 @@ tags: [SAS, Lufthansa]
 author: Germán
 image: /assets/img/lufthansa-with-eurobonus-guide/cover.webp
 seo:
-  date_modified: 2024-03-15
+  date_modified: 2024-08-03
 ---
 
 Lufthansa is one of the world's leading carriers, with access to nearly 1,300 destinations worldwide, an extensive global network, and high-quality service. It is a very reliable alternative, especially when you are flying premium cabins such as Business and First Class. As a founding member of Star Alliance, it’s possible to book Lufthansa flights from other frequent flyer programs, such as SAS EuroBonus.
@@ -15,8 +15,11 @@ Historically, there have been many EuroBonus sweet spots on Lufthansa, including
 
 In this post, we cover why SAS EuroBonus is still a great program when redeeming award flights on Lufthansa, and a step-by-step guide to finding and booking Lufthansa flights with EuroBonus points using AwardFares.
 
-**UPDATE 15 MARCH 2024**
-SAS will be leaving Star Alliance and joining SkyTeam during Q2, 2024. Details of the transition haven't been disclosed yet, but this means that it will no longer be possible to book award flights on Star Alliance partners using SAS EuroBonus points. [Read more here](https://blog.awardfares.com/eurobonus-guide/).
+**UPDATE**: SAS will be [**leaving Star Alliance and joining SkyTeam on September 1st, 2024**](https://blog.awardfares.com/sas-transition-to-skyteam/). You will be able to use EuroBonus points to redeem on Lufthansa Group until August 31st, 2024.
+
+<div data-countdown="2024-08-31T22:59:00.000+02:00">
+  TIME UNTIL SAS JOINS SKYTEAM
+</div>
 
 ### In This Post
 
@@ -256,3 +259,5 @@ Our guides have all the information you need to be a pro travel hacker and explo
   }]    
 }
 </script>
+
+<script src="/assets/js/countdown.js"></script>

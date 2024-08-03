@@ -5,6 +5,8 @@ category: [EuroBonus]
 tags: [Turkish Airlines]
 author: Germán
 image: /assets/img/turkish-with-eurobonus/cover.webp
+seo:
+  date_modified: 2024-08-03
 ---
 
 Turkish Airlines, the flag carrier of Turkey and a member of the Star Alliance network, has steadily risen in the ranks to become one of the world's leading airlines, renowned for its expansive route network and impeccable service. With its main hub in Istanbul, this airline bridges the gap between the East and the West, making it a favored choice for travelers from around the globe.
@@ -12,6 +14,12 @@ Turkish Airlines, the flag carrier of Turkey and a member of the Star Alliance n
 For those holding SAS EuroBonus points, the good news is that these can be golden tickets to book award flights on Turkish Airlines at great rates, offering a fantastic opportunity to experience the airline's premium service while journeying to a multitude of destinations.
 
 In this blog post, we'll guide you through the process of maximizing your EuroBonus points and securing your next trip with Turkish Airlines.
+
+**UPDATE**: SAS will be [**leaving Star Alliance and joining SkyTeam on September 1st, 2024**](https://blog.awardfares.com/sas-transition-to-skyteam/). You will be able to use EuroBonus points to redeem on Lufthansa Group until August 31st, 2024.
+
+<div data-countdown="2024-08-31T22:59:00.000+02:00">
+  TIME UNTIL SAS JOINS SKYTEAM
+</div>
 
 ### In this post
 
@@ -216,3 +224,5 @@ Make sure to also check these posts out
     }
   })();
 </script>
+
+<script src="/assets/js/countdown.js"></script>
