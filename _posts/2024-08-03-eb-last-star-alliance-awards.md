@@ -5,10 +5,9 @@ category: [SAS EuroBonus]
 tags: [Star Alliance]
 author: Germán
 image: /assets/img/eb-last-star-alliance-awards/cover.webp
-hidden: true
 ---
 
-With just **one month left before SAS joins SkyTeam**, it’s time to take full advantage of the fantastic redemption opportunities within Star Alliance before they disappear forever. There are still plenty of hidden gems, with an impressive lineup of airlines and unique cabin experiences that can be redeemed for great value. Here’s a curated list of some of our top Star Alliance cabins and routes that can be booked using SAS EuroBonus points. Yes, there's availability too, we checked using AwardFares ;).
+With just **one month left before SAS joins SkyTeam**, it's time to take full advantage of the fantastic redemption opportunities within Star Alliance before they disappear forever. There are still plenty of hidden gems, with an impressive lineup of airlines and unique cabin experiences that can be redeemed for great value. Here's a curated list of some of our top Star Alliance cabins and routes that can be booked using SAS EuroBonus points. Yes, there's availability, too; we checked using AwardFares ;).
 
 <div data-countdown="2024-08-31T22:59:00.000+02:00">
   TIME UNTIL SAS JOINS SKYTEAM
@@ -131,9 +130,6 @@ _Image from Thai website._
 
 <img src="../assets/img/eurobonus-star-alliance-awards/thai-awards.webp" alt="Thai Airways award flights using SAS EuroBonus Points ." />
 
-### Availability
-
-<img src="../assets/img/eb-last-star-alliance-awards/eb-th-list.webp" alt="Book Thai Airways Business Class using SAS EuroBonus Points." />
 ---
 
 ## 5. ANA Business Class
@@ -157,6 +153,7 @@ _Image from ANA's official website._
 ### Availability
 
 <img src="../assets/img/eb-last-star-alliance-awards/eb-ana-list.webp" alt="Book ANA Business Class using SAS EuroBonus Points." />
+
 ### More Posts
 
 - [ANA 777 Liveries: How To Fly The Pokémon Jets And Other Spectacular Planes](https://blog.awardfares.com/ana-777-fleet/)
@@ -185,7 +182,6 @@ _Image from Air Canada's official website._
 ### Availability
 
 <img src="../assets/img/eb-last-star-alliance-awards/eb-ac-list.webp" alt="Book Air Canada Business Class using SAS EuroBonus Points." />
-### More Posts
 
 ### More Posts
 
