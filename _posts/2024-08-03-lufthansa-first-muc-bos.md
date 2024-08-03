@@ -107,7 +107,9 @@ The First Class Lounge in Munich is a bit more traditional, with buffet and a la
 
 ## Amenity Kit
 
-The amenity kit is sadly one of the only bad parts of the Lufthansa First Class experience. In the past, the kit was a Rimowa and an elegant Sinn leather box, but now it's a very basic bag with a few L'Occitane products. The bag is made of very cheap material and the products inside are nothing special. The only thing that stands out is the very comfortable socks. The pajamas are great, though, and the slippers have a very thick and cushy sole, making them highly comfortable.
+<img src="/assets/img/lufthansa-first-review/amenity-kit.webp" alt="Lufthansa lounge terrace"/>
+
+The amenity kit is sadly one of the only bad parts of the Lufthansa First Class experience. In the past, the kit was a Rimowa and an elegant Sinn leather box, but now it's a very basic bag with Augustinus Bader face cream and body cream, as well as the basics such as toothbrush, comb, and a tiny shoe horn. The bag is however made of very cheap material and does not at all feel like a first class product, the women's bag at least looks somewhat useable as a handbag but the men's bag looks like the cheapest toiletry bag from WallMart. The only thing that stands out is the very comfortable socks. The pajamas are great, though, and the slippers have a very thick and cushy sole, making them highly comfortable.
 
 ## IFE And Wi-Fi
 
