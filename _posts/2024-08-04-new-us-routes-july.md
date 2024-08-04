@@ -1,12 +1,24 @@
 ---
 layout: post
-title: "New Routes from American, Alaska, Delta, JetBlue, and more!"
+title: "New Routes from American, Alaska, Delta, JetBlue, and Aeromexico (Awards Available)"
 category: [News, Routes]
 tags: [American, Alaska, Delta, JetBlue]
 author: Germán
 image: /assets/img/new-us-routes-july/cover.webp
 hidden: true
 ---
+
+July has been very busy for the aviation industry, with several announcements from both airlines and manufacturers. In this post, we look at the latest routes announced by top airlines including American Airlines, Alaska Airlines, Delta Air Lines, JetBlue, Aeromexico, and Avianca. Good news is that for almost all of them, there are award seats available, meaning you could book those new flights right away using points or miles. Let's dive in!
+
+### Navigate
+
+- [American Airlines](#american-airlines)
+- [Alaska Airlines](#alaska-airlines)
+- [Delta Air Lines](#delta-air-lines)
+- [JetBlue](#jetblue)
+- [Aeromexico](#aeromexico)
+- [Avianca](#avianca)
+- [Read More](#read-more)
 
 ## American Airlines
 
@@ -102,7 +114,7 @@ Starting October 27, 2024, as a winter seasonal. As with the previous flight, ve
 
 ### 3. [Portland, Maine (PWM) to Orlando (MCO)](https://awardfares.com/search?PWM.MCO.;a:B6;x:0;z:jetblue)
 
-Starting Oct. 28, 2024, as a winter seasonal.
+Starting Oct. 28, 2024, as a winter seasonal. Awards start at 6.2k miles one-way, only available in Economy Class.
 
 <img src="../assets/img/new-us-routes-july/pwm-mco-timeline.webp" alt="Portland, Maine to Orlando with JetBlue (AwardFares)." />
 
@@ -112,17 +124,23 @@ Starting Oct. 28, 2024, as a winter seasonal.
 
 Book using [Aeromexico Rewards](https://awardfares.com/programs/aeromexico-rewards), [FlyingBlue](https://awardfares.com/programs/air-france-klm-flying-blue), or [Delta SkyMiles](https://awardfares.com/programs/delta-skymiles).
 
-### 1. Denver, Colorado (DEN) to Monterey, California (MRY)
+### 1. [Newark (EWR) to Mexico City (MEX)](https://awardfares.com/search?EWR.MEX.;a:AM;x:0;z:aeromexico)
 
-Starts Dec 21, 2024.
+Starts October 2024. This highly-demanded route has wide open availability. Runs daily operated by a 737 MAX 8. Prices start a 18k points one-way in Economy and 36k one-way in Business Class (Aeromexico Rewards).
 
-### 2. Atlanta (ATL) to Manzanillo (ZLO)
+<img src="../assets/img/new-us-routes-july/ewr-mex-timeline.webp" alt="Newark to Mexico City with Aeromexico (AwardFares)." />
 
-Starts November 2024.
+<img src="../assets/img/new-us-routes-july/ewr-mex.webp" alt="Newark to Mexico City with Aeromexico (AwardFares)." />
 
-### 3. Newark (EWR) to Mexico City (MEX)
+### 2. [Atlanta (ATL) to Manzanillo (ZLO)](https://awardfares.com/search?ATL.ZLO.;a:AM;x:0;z:aeromexico)
 
-Starts October 2024.
+Starts November 2024. Very few seats available using Aeromexico Rewards. Flight runs once a week. Prices start a 19k points one-way in Economy Class.
+
+<img src="../assets/img/new-us-routes-july/pwm-mco.webp" alt="Atlanta to Manzanillo with Aeromexico (AwardFares)." />
+
+### 3. [Denver, Colorado (DEN) to Monterey, California (MRY)](https://awardfares.com/search?DEN.MRY.;a:AM;x:0;z:aeromexico)
+
+Starts Dec 21, 2024. No award seats available yet.
 
 ## Avianca
 
@@ -132,17 +150,13 @@ Book using [**Aeroplan**](https://awardfares.com/programs/air-canada-aeroplan), 
 
 Starts late October 2024. No award seats available yet.
 
-## Become a Pro Travel Hacker
-
-You can [try AwardFares for free](https://awardfares.com/). We are rolling out new features and improvements regularly, so [sign up for our monthly newsletter](https://awardfares.com/newsletter) to stay on top of the latest news, announcements, and pro tips.
-
-With our [Gold and Diamond tiers](https://awardfares.com/pricing), you can access premium features such as unlimited daily searches, alerts, seat maps, flight schedules, and more!
-
 ## Read More
+
+You can [try AwardFares for free](https://awardfares.com/). Upgrade to [Gold or Diamond](https://awardfares.com/pricing) to access premium features, including unlimited daily searches, alerts, seat maps, flight schedules, journey planner, and more.
 
 Our guides have all the information you need to be a pro travel hacker and explore the world on points. Here are some related posts you might enjoy:
 
 - [How To Find Cheap Award Flights And Identify Good Redemptions (Step-by-step)](https://blog.awardfares.com/how-to-find-cheap-award-flights/)
-- [Seat Maps: Getting The Perfect Seat Even Before Booking](https://blog.awardfares.com/seatmaps-guide/)
-- [Demystifying Award Charts: All You Need To Know (2024)](https://blog.awardfares.com/demystifying-award-charts/)
-- [Ultimate Guide to Award Release Dates](https://blog.awardfares.com/ultimate-guide-to-award-release-dates/)
+- [How To Find Flying Blue Award Flights (+ Sweet Spots)](https://blog.awardfares.com/flying-blue-guide/)
+- [What To Do With 100k Delta SkyMiles? Guide To Finding SkyMiles Sweet Spots](https://blog.awardfares.com/100k-skymiles/)
+- [How To Book JetBlue Mint With Points](https://blog.awardfares.com/jetblue-mint-with-points/)
