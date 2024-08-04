@@ -5,7 +5,6 @@ category: [News, Routes]
 tags: [American, Alaska, Delta, JetBlue]
 author: Germán
 image: /assets/img/new-us-routes-july/cover.webp
-hidden: true
 ---
 
 July has been very busy for the aviation industry, with several announcements from both airlines and manufacturers. In this post, we look at the latest routes announced by top airlines including American Airlines, Alaska Airlines, Delta Air Lines, JetBlue, Aeromexico, and Avianca. Good news is that for almost all of them, there are award seats available, meaning you could book those new flights right away using points or miles. Let's dive in!
@@ -76,7 +75,7 @@ From December 3, 2024 to February 12, 2025. Plenty of award seats and options av
 
 Book using [**Delta SkyMiles**](https://awardfares.com/programs/delta-skymiles), [**FlyingBlue**](https://awardfares.com/programs/air-france-klm-flying-blue) or [**SAS EuroBonus**](https://awardfares.com/programs/sas-eurobonus) (from September 1).
 
-### 1. Detroit (DTW) to Nassau, Bahamas (NAS)
+### 1. [Detroit (DTW) to Nassau, Bahamas (NAS)](https://awardfares.com/search?DTW.NAS.;a:DL;x:0;z:delta)
 
 Starting December 21, 2024. Seats available, but flight runs once a week, so make sure to book right away! Awards start at 23k miles one-way (Economy).
 
@@ -84,7 +83,7 @@ Starting December 21, 2024. Seats available, but flight runs once a week, so mak
 
 <img src="../assets/img/new-us-routes-july/dtw-nas.webp" alt="Detroit to Nassau with Delta Air Lines (AwardFares)." />
 
-### 2. Detroit (DTW) to Tulum, Mexico (TQO)
+### 2. [Detroit (DTW) to Tulum, Mexico (TQO)](https://awardfares.com/search?DTW.TQO.;a:DL;x:0;z:delta)
 
 Starting January 11, 2025. Decent availability but flight runs weekly, so they will go away soon. Awards start at 18k one-way (Economy), and there are seats in Business Class available.
 
@@ -136,8 +135,8 @@ Starts October 2024. This highly-demanded route has wide open availability. Runs
 
 Starts November 2024. Very few seats available using Aeromexico Rewards. Flight runs once a week. Prices start a 19k points one-way in Economy Class.
 
-<img src="../assets/img/new-us-routes-july/pwm-mco.webp" alt="Atlanta to Manzanillo with Aeromexico (AwardFares)." />
-
+<img src="../assets/img/new-us-routes-july/atl-zlo.webp" alt="Atlanta to Manzanillo with Aeromexico (AwardFares)." />
+bo
 ### 3. [Denver, Colorado (DEN) to Monterey, California (MRY)](https://awardfares.com/search?DEN.MRY.;a:AM;x:0;z:aeromexico)
 
 Starts Dec 21, 2024. No award seats available yet.
@@ -146,7 +145,7 @@ Starts Dec 21, 2024. No award seats available yet.
 
 Book using [**Aeroplan**](https://awardfares.com/programs/air-canada-aeroplan), United [**MileagePlus**](https://awardfares.com/programs/united-mileageplus), or LifeMiles.
 
-### Bogota (BOG) to Chicago (ORD)
+### [Bogota (BOG) to Chicago (ORD)](https://awardfares.com/search?BOG.ORD.;a:AV)
 
 Starts late October 2024. No award seats available yet.
 
