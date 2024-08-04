@@ -107,9 +107,9 @@ Starting October 26, 2024, as a winter seasonal. **Very few** seats left on each
 
 Starting October 27, 2024, as a winter seasonal. As with the previous flight, very limited availability. (1-5 seats per flight). Prices start at 6.6k points one-way (Economy).
 
-<img src="../assets/img/new-us-routes-july/pvd-rws-timeline.webp" alt="Providence to Fort Meyers with JetBlue (AwardFares)." />
+<img src="../assets/img/new-us-routes-july/pvd-rsw-timeline.webp" alt="Providence to Fort Meyers with JetBlue (AwardFares)." />
 
-<img src="../assets/img/new-us-routes-july/pvd-rws.webp" alt="Providence to Fort Meyers with JetBlue (AwardFares)." />
+<img src="../assets/img/new-us-routes-july/pvd-rsw.webp" alt="Providence to Fort Meyers with JetBlue (AwardFares)." />
 
 ### 3. [Portland, Maine (PWM) to Orlando (MCO)](https://awardfares.com/search?PWM.MCO.;a:B6;x:0;z:jetblue)
 
@@ -136,7 +136,7 @@ Starts October 2024. This highly-demanded route has wide open availability. Runs
 Starts November 2024. Very few seats available using Aeromexico Rewards. Flight runs once a week. Prices start a 19k points one-way in Economy Class.
 
 <img src="../assets/img/new-us-routes-july/atl-zlo.webp" alt="Atlanta to Manzanillo with Aeromexico (AwardFares)." />
-bo
+
 ### 3. [Denver, Colorado (DEN) to Monterey, California (MRY)](https://awardfares.com/search?DEN.MRY.;a:AM;x:0;z:aeromexico)
 
 Starts Dec 21, 2024. No award seats available yet.
