@@ -5,7 +5,6 @@ category: [Trip Report]
 tags: [Review, First, Lufthansa]
 author: Richard
 image: /assets/img/lufthansa-first-review/cover.webp
-hidden: true
 ---
 
 While Lufthansa recently started the rollout of their [Allegris product](/lufthansa-allegris-first-flight), it's far from done, and in fact, the First Class cabin still needs to be updated. That being said, the current Lufthansa First Class is still a great product, and I was lucky enough to fly it from [Munich to Boston](https://awardfares.com/search?MUC.BOS.;c:first;a:LH).
