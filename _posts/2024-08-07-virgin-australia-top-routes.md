@@ -5,7 +5,6 @@ category: [Virgin Australia Velocity]
 tags: [Virgin Australia]
 author: Germán
 image: /assets/img/va-top-routes/cover.webp
-hidden: true
 ---
 
 Celebrating our [recent addition of Velocity to the AwardFares family](https://blog.awardfares.com/introducing-virgin-australia-velocity/), in this blog post, we’ll highlight the top Virgin Australia routes that offer exceptional value for your points. These routes cover key destinations across Australia, no matter if you’re planning a quick business trip or a leisure adventure. Let's start!
