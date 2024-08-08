@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "Find United MileagePlus Epic Travel Deals with United Airlines"
+title: "A Week of Discounted United MileagePlus Awards"
 category: [MileagePlus]
 tags: [United]
 author: Germán
 image: /assets/img/united-mileageplus-epic-deals/cover.webp
-hidden: true
 seo:
   date_modified: 2024-08-08
 ---
 
-This week, [United Airlines is rolling out epic deals on award travel](https://www.united.com/en-us/spacwod-hongkong) with a different mystery destination each day. These deals offer significant savings, but they are available [**for one day only**](https://www.united.com/en-us/spacwod-hongkong).
+This week, [United Airlines is rolling out discounted awards](https://www.united.com/en-us/spacwod-hongkong) with a different mystery destination each day. These deals offer significant savings, but they are available [**for one day only**](https://www.united.com/en-us/spacwod-hongkong).
 
 <img src="../assets/img/united-mileageplus-epic-deals/taiwan.webp" alt="Book United MileagePlus Discounted Awards." class="noborder"/>
 
